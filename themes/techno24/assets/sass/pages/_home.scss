@@ -1,3 +1,15 @@
+.hero-home{
+  background: url("../images/tech24-hero-home.jpg") no-repeat center center;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+
+.secondary-shadow {
+  box-shadow: 20px -20px $primary-color
+}
+
 @include media-breakpoint-down(xs) {
   .home-cover {
     .cover-image {
@@ -47,4 +59,7 @@
     }
   }
 
+}
+.nav-link {
+  font-size: 1.3rem!important;
 }

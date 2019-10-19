@@ -75,4 +75,5 @@
   'RainLab\\Translate\\Components\\LocalePicker' => 'plugins/rainlab/translate/components/LocalePicker.php',
   'RainLab\\Translate\\Components\\AlternateHrefLangElements' => 'plugins/rainlab/translate/components/AlternateHrefLangElements.php',
   'RainLab\\Blog\\Models\\Settings' => 'plugins/rainlab/blog/models/Settings.php',
+  'rainlab\\translate\\Controllers\\locales' => 'plugins/rainlab/translate/controllers/locales.php',
 );

@@ -26,6 +26,11 @@ ol, li {
   color: #1A0DAB !important;
 }
 
+.text-secondary{
+  color:$secondary-color!important;
+}
+
+
 .disabled {
   pointer-events: none!important;
   cursor: default;

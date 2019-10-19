@@ -1,43 +1,85 @@
-/*********************
-  Typography
-**********************/
-
-.light-300 {
-  font-weight: 300;
+//
+// Typography
+// --------------------------------------------------
+body {
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight:400;
 }
 
-.light-300-italic {
-  font-weight: 300;
-  font-style: italic;
+// Headings
+// -------------------------
+h1 {
+  line-height: 1em;
+  font: 3.125em 'Big Shoulders Display', cursive;
+  font-weight:700;
+  margin: 0.25em 0;
+}
+h2 {
+
+  line-height: 1em;
+  font: 2.5em 'Big Shoulders Display', cursive;
+  font-weight:700;
+  margin: 0.25em 0 0.5em 0;
 }
 
-.normal-400 {
-  font-weight: 400;
+h3 {
+
+  line-height: 1em;
+  font: 1.875em 'Big Shoulders Display', cursive;
+  font-weight:500;
+  margin: 1.5em 0 0.5em 0;
+}
+h4 {
+
+  line-height: 1em;
+  font: 1.5em 'Big Shoulders Display', cursive;
+  font-weight:500;
+  margin-bottom: 0.5em;
 }
 
-.normal-400-italic {
-  font-weight: 400;
-  font-style: italic;
+h5 {
+  line-height: 1em;
+  font: 1.25em 'Big Shoulders Display', cursive;
+  font-weight:500;
+  margin-bottom: 0.5em;
+}
+h6 {
+  line-height: 1em;
+  font: 1.125em 'Big Shoulders Display', cursive;
+  font-weight:500;
+  margin-bottom: 0.5em;
 }
 
-.bold-700 {
-  font-weight: 700;
+// Body text
+// -------------------------
+p {
+  font: 400 15px/15px 'Big Shoulders Display', cursive;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  margin-bottom: 1.125em;
 }
 
-.bold-700-italic {
-  font-weight: 700;
-  font-style: italic;
+// Emphasis & misc
+// -------------------------
+small,
+.small {
+  font-size: 83%;     // ~15px
+  line-height: 2.067; // ~31px
+  font-weight:300;
 }
+strong {
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight:700;
+}
+.heavy {
+  font-weight:700;
+}
+// Lists
+// --------------------------------------------------
 
-.x-small {
-  font-size: 0.688rem;
-  line-height: 12px;
-}
 
-.xx-small {
-  font-size: 0.625rem;
-  line-height: 11px;
-}
+// MISC
+// ----
 
 /* Responsive Headings */
 

@@ -1,27 +1,37 @@
 description = "Default Layout"
+
+[localePicker language]
+forceUrl = 0
 ==
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>AlexCorp Theme - {{ this.page.title }}</title>
-    <meta name="description" content="{{ this.page.description }}">
+    <title>Techno24 - {{ this.page.title|_ }}</title>
+    <meta name="description" content="{{ this.page.description|_ }}">
     <meta name="title" content="{{ this.page.title }}">
-    <meta name="author" content="AlexCorp">
+    <meta name="author" content="Techno24.net">
+    <meta name="robots" content="index,follow">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ this.page.og_image }}" />
+    <meta property="og:title" content="Techno24 - {{ this.page.title }}" />
+    <meta property="og:url" content="{{ this.page.url }}" />
+    <meta property="og:site_name" content="Techno24" />
+    <meta property="og:description" content="{{ this.page.settings.meta_description }}" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <link rel="icon" type="image/jpg" href="{{ 'assets/images/favicon.jpg'|theme }}"/>
+    <link rel="icon" type="image/jpg" href="{{ 'assets/images/favicon.png'|theme }}"/>
     <link href="{{ 'assets/images/apple-touch-icon.png'|theme }}" rel="apple-touch-icon">
     <link href="{{ 'assets/images/apple-touch-icon-precomposed.png'|theme }}" rel="apple-touch-icon-precomposed">
     <link href="{{ [
     'assets/css/theme.css',
-    'assets/vendor/animate.css/animate.min.css',
     ]|theme }}" rel="stylesheet">
     {% styles %}
 </head>
 <body>
 
 <header>
-    {% partial 'header' %}
+    {% partial 'navbar' %}
 </header>
 
 
@@ -43,7 +53,6 @@ description = "Default Layout"
 'assets/vendor/tether/dist/js/tether.min.js',
 'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
 ]|theme }}"></script>
-
 {% framework extras %}
 {% scripts %}
 </body>
