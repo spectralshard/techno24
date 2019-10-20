@@ -1,0 +1,21 @@
+{% if partners %}
+<div class="partner-slider slider"
+     style="background-color: {{ __SELF__.property('backgroundColor') }};padding: 30px 0;">
+    {% for partner in partners %}
+        {% if partner.url %}
+            {% if 'https' in partner.url %}
+                {% set url = partner.url %}
+            {% elseif 'http' in partner.url %}
+                {% set url = partner.url|replace({'http://': '', 'https://': ''}) %}
+            {% else %}
+                {% set url = 'https://' ~ partner.url %}
+            {% endif %}
+        {% endif %}
+        <div class="slide">
+            {% if partner.url %}<a href="{{ url }}" target="_blank">{% endif %}
+            <img src="{{ partner.image.thumb(auto,100) }}" alt="{{ partner.name }}">
+            {% if partner.url %}</a>{% endif %}
+        </div>
+    {% endfor %}
+</div>
+{% endif %}

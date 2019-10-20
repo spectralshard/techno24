@@ -1,22 +1,85 @@
 description = "Footer"
 ==
-<section id="footer">
+<section id="footer" class="py-5">
     <div class="container">
     <div class="row">
-        <div class="col-12 text-center text-white">
-            <p style="display: inline-block">
-                {{'Follow me on: '|_ }}
-            </p>&nbsp;&nbsp;&nbsp;
-            <a href="https://www.facebook.com/Etfy-Design-920616611347167/" class="text-white" target="_blank">
-                <i class="fa fa-facebook-square fa-lg" aria-hidden="true"></i>
-            </a>&nbsp;&nbsp;&nbsp;
-            <a href="https://etfy.deviantart.com" class="text-white" target="_blank">
-            <i class="fa fa-deviantart fa-lg" aria-hidden="true"></i>
-            </a>
+        <div class="col-sm-6 col-lg-3 text-white d-none d-sm-block mx-auto">
+            <h5 class="h5-responsive">
+                {{ 'NAVIGATION'|_ }}
+            </h5>
+            <p>
+                Accueil<br />
+                Office365<br />
+                Hébergement<br />
+                Nouvelles<br />
+                Nous Joindre<br />
+                English
+            </p>
         </div>
-        <div class="col-12 text-center text-white">
-            <p>{{'All rights reserved'|_ }} &copy; {{ "now"|date("Y") }}</p>
+        <div class="col-xs-12 col-sm-6 col-lg-3 text-white mx-auto">
+            <h5 class="h5-responsive">
+                {{ 'CONTACT'|_ }}
+            </h5>
+            <p>
+                MONTRÉAL : <a href="tel:15146386924" style="color:white!important;">514 638-6924</a><br/>
+                PARTOUT AILLEURS : <a href="tel:1866998121" style="color:white!important;">1 866 998-121</a>
+            </p>
+            <h5 class="h5-responsive">
+                {{ 'FACTURATION'|_ }}
+            </h5>
+            <p>
+                <a href="mailto:facturation@techno24.net" style="color:white!important;">facturation@techno24.net</a>
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-lg-3 text-white mx-auto">
+            <h5 class="h5-responsive">
+                {{ 'SUPPORT'|_ }}
+            </h5>
+            <p>
+                <a href="mailto:support@techno24.net" style="color:white!important;">support@techno24.net</a>
+            <br />
+                SKYPE : <a href="skype:techno24.net?call" style="color:white!important;">techno24.net</a>
+            </p>
+            <h5 class="h5-responsive">
+                {{ 'INFORMATION'|_ }}
+            </h5>
+            <p>
+                <a href="mailto:facturation@techno24.net" style="color:white!important;">info@techno24.net</a>
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-lg-3 mx-auto d-none d-sm-block">
+            <h5 class="h5-responsive text-white">
+                {{ 'RÉSEAUX SOCIAUX'|_ }}
+            </h5>
+            <a href="https://www.facebook.com/techno24" target="_blank">
+                <i class="fab fa-facebook text-secondary" style="padding-right: 3px; font-size:18px;"></i>
+            </a>
+            <a href="https://twitter.com/techno24net" target="_blank">
+				<span class="fa-stack" style="vertical-align: top; font-size:10px;margin-top:2px;">
+				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
+				  <i class="fab fa-twitter fa-stack-1x" style="color:#4A4A4A;"></i>
+				</span>
+            </a>
+            <a href="https://www.linkedin.com/company/techno24-net-lt-e/" target="_blank">
+					<span class="fa-stack" style="vertical-align: top; font-size:10px; margin-top:2px;">
+				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
+				  <i class="fab fa-linkedin-in fa-stack-1x" style="color:#4A4A4A;"></i>
+				</span>
+            </a>
+            <img class="d-block pt-5" src="{{'assets/images/creditcard-logo.png'|theme}}">
         </div>
     </div>
+    </div>
+</section>
+<section class="secondary-color">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center py-2 text-white">
+
+                    © Techno24.net - {{'Tous droits réservés'|_ }} {{ "now"|date("Y") }}
+                    | {{'Hébergement 5 étoiles'|_ }}
+
+            </div>
+        </div>
     </div>
 </section>
