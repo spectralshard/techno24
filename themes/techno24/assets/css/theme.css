@@ -11086,6 +11086,59 @@ Colors
 
 /*** SideNav ***/
 /*** Forms ***/
+.btn-secondary {
+  background-color: #F39000 !important;
+  border-color: #F39000;
+}
+
+.btn-secondary:hover {
+  background-color: #ff6d00 !important;
+  border-color: #ff6d00;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  background-color: #fff;
+  border: 1px solid #6DBBE9;
+}
+
+a .page-link {
+  color: #000000 !important;
+}
+
+.page-link a:hover {
+  color: #fff !important;
+}
+
+.page-link:hover {
+  color: #fff !important;
+  background-color: #6DBBE9;
+  border: 1px solid #6DBBE9;
+}
+
+.active-li {
+  color: #fff !important;
+  background-color: #6DBBE9;
+  border: 1px solid #6DBBE9;
+}
+
+.social {
+  padding-inline-start: 0px;
+}
+
+.social li {
+  display: inline;
+}
+
+.fb-share-button {
+  position: relative;
+  top: -6px;
+}
+
 .hero-home {
   background: url("../images/tech24-hero-home.jpg") no-repeat center center;
   -webkit-background-size: 100% 100%;
@@ -11200,6 +11253,13 @@ ol, li {
 
 a {
   outline: 0;
+  color: #F39000;
+  text-decoration: none !important;
+}
+
+a:hover {
+  outline: 0;
+  color: #ff6d00;
   text-decoration: none !important;
 }
 
@@ -11284,6 +11344,7 @@ a {
 
 .nav-link {
   color: #4A4A4A;
+  text-transform: uppercase;
 }
 
 .nav-link:hover {

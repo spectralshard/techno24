@@ -92,4 +92,11 @@
   'Pkurg\\CardSlider\\Components\\CardSlider' => 'plugins/pkurg/cardslider/components/CardSlider.php',
   'Pkurg\\CardSlider\\Components\\SmallCardSlider' => 'plugins/pkurg/cardslider/components/SmallCardSlider.php',
   'vaslv\\carousel\\Plugin' => 'plugins/vaslv/carousel/Plugin.php',
+  'RainLab\\Blog\\FormWidgets\\BlogMarkdown' => 'plugins/rainlab/blog/formwidgets/BlogMarkdown.php',
+  'RainLab\\Blog\\FormWidgets\\MLBlogMarkdown' => 'plugins/rainlab/blog/formwidgets/MLBlogMarkdown.php',
+  'rainlab\\blog\\Controllers\\categories' => 'plugins/rainlab/blog/controllers/categories.php',
+  'rainlab\\translate\\Controllers\\messages' => 'plugins/rainlab/translate/controllers/messages.php',
+  'RainLab\\Translate\\Models\\MessageImport' => 'plugins/rainlab/translate/models/MessageImport.php',
+  'RainLab\\Translate\\Models\\MessageExport' => 'plugins/rainlab/translate/models/MessageExport.php',
+  'JanVince\\SmallContactForm\\Models\\Settings' => 'plugins/janvince/smallcontactform/models/Settings.php',
 );

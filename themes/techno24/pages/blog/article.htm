@@ -5,7 +5,7 @@ is_hidden = 0
 
 [blogPost article]
 slug = "{{ :slug }}"
-categoryPage = "about"
+categoryPage = "blog/categories"
 
 ==
 <?php
@@ -17,32 +17,37 @@ function onEnd()
 }
 ?>
 ==
+<section class="primary-color py-4 mb-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                    <h1 class="h1-responsive text-white text-center">{{ post.title }}</h1>
+                    <h6 class="my-0 white-text text-center">
+                        {{'Publié le'|_}} {{ article.date | strftime('%d %h %Y') }}
+                        {% if post.categories.count %}
+                        {% endif %}
+                        |
+                        {% for category in post.categories %}
+                        <a href="{{category.url}}" style="color:#FFFFFF;">{{ category.name }}</a>{% if not loop.last %}, {% endif %}
+                        {% endfor %}</p>
+                    </h6>
+            </div>
+        </div>
+    </div>
+</section>
 <section id="blog">
     <div class="container">
         <div class="row">
-        <div class="col-12">
-            {% for category in post.categories %}
-            <h6 class="h6-responsive text-center" style="color: #5a5a5a"><em>{{ category.name }}</em></h6>
-            {% if not loop.last %}, {% endif %}
-            {% endfor %}
-            <h1 class="h1-responsive text-primary text-underline text-center">{{ post.title }}</h1>
+            <div class="col-12">
+                {% if post %}
+                    {% component 'article' %}
+                {% else %}
+                <h2>Sujet introuvable</h2>
+                {% endif %}
             </div>
-
-                    <div class="col-12">
-                    {% if post %}
-                        {% partial 'share' %}
-                        {% component 'article' %}
-
-                    {% else %}
-                        <h2>Sujet introuvable</h2>
-                    {% endif %}
-                    </div>
+            <div class="col-12 my-4 pt-3 border-top">
+                {% partial 'share' %}
+            </div>
         </div>
     </div>
-                <div class="col-12 text-center mt-5">
-                    <a href="{{ 'blog/blogList'|page }}" role="button" class="btn btn-dark">
-                        {{ 'View all my projects'|_ }}
-                    </a>
-                </div>
-
 </section>

@@ -61,6 +61,12 @@ ol, li {
 
 a {
   outline: 0;
+  color: $secondary-color;
+  text-decoration: none!important;
+}
+a:hover {
+  outline: 0;
+  color: #ff6d00;
   text-decoration: none!important;
 }
 
@@ -156,6 +162,7 @@ a {
 
 .nav-link {
    color: #4A4A4A;
+  text-transform: uppercase;
  }
 .nav-link:hover {
   color: $secondary-color;

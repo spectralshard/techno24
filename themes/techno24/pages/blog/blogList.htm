@@ -1,4 +1,4 @@
-title = "Portfolio"
+title = "Nouvelles"
 url = "/blogue/:page?"
 layout = "default"
 meta_title = ""
@@ -6,7 +6,7 @@ is_hidden = 0
 
 [blogPosts blogs]
 pageNumber = "{{ :page }}"
-postsPerPage = 999
+postsPerPage = 20
 noPostsMessage = "No posts found"
 sortOrder = "published_at desc"
 categoryPage = "blog/categories"
@@ -17,15 +17,15 @@ slug = "{{ :slug }}"
 displayEmpty = 0
 categoryPage = "blog/categories"
 ==
-<section>
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                <h1 class="h1-responsive text-center text-primary text-underline">Portfolio</h1>
-                </div>
+<section class="primary-color py-4 mb-4">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="h1-responsive text-center text-white">
+                    <strong>{{'Nos nouvelles'|_}}</strong>
+                </h1>
             </div>
-
-                {% component 'blogs' %}
-
         </div>
-    </section>
+    </div>
+</section>
+{% component 'blogs' %}
