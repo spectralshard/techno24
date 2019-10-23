@@ -2,6 +2,21 @@ description = "Default Layout"
 
 [localePicker]
 forceUrl = 0
+
+[partner mypartner]
+backgroundColor = "#DFE6EA"
+==
+<?php
+
+use RainLab\Translate\Classes\Translator;
+function onInit()
+{
+    $translator = Translator::instance();
+    $lang = $translator->getLocale();
+$this['lang'] = $translator->getLocale();
+$this['site_url'] = asset('');
+}
+?>
 ==
 <!DOCTYPE html>
 <html>
@@ -41,6 +56,15 @@ forceUrl = 0
 </main>
 
 <footer>
+    <section style="background-color:#DFE6EA;">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    {% component 'mypartner' %}
+                </div>
+            </div>
+        </div>
+    </section>
     {% partial 'footer' %}
 </footer>
 

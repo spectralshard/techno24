@@ -1,0 +1,39 @@
+{{ __SELF__.settings.text_top_form|raw}}
+
+<form id="simpleContactForm" data-request="{{ __SELF__ }}::onFormSubmit">
+    <div id="simple_contact_flash_message"></div>
+    <div class="form-group">
+        <label for="name" class="bold">{{__SELF__.properties.nameLabel|_}} <span class="text-danger">*</span></label>
+        <input type="text" id="name" name="name" class="form-control" required >
+    </div>
+    <div class="form-group">
+        <label for="email" class="bold">{{__SELF__.properties.emailLabel|_}}<span class="text-danger">*</span></label>
+        <input type="email" id="email" name="email" class="form-control" required >
+    </div>
+    {% if(__SELF__.properties.phoneEnabled) %}
+        <div class="form-group">
+            <label for="phone" class="bold">{{__SELF__.properties.phoneLabel|_}}<span class="text-danger">*</span></label>
+            <input type="text" id="phone" name="phone" class="form-control" required>
+        </div>
+    {% endif %}
+    <div class="form-group">
+        <label for="subject" class="bold">{{__SELF__.properties.subjectLabel|_}}<span class="text-danger">*</span></label>
+        <input type="text" id="subject" name="subject" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="message" class="bold">{{__SELF__.properties.messageLabel|_}}<span class="text-danger">*</span></label>
+        <textarea id="message" name="message" class="form-control" required></textarea>
+    </div>
+    <!-- Injecting reCaptcha if enabled -->
+    {% if(__SELF__.settings.recaptcha_enabled) %}
+        <div class="form-group">
+            <label for="message"></label>
+            <div class="g-recaptcha" data-sitekey="{{__SELF__.settings.recaptcha_site_key}}"></div>
+        </div>
+    {% endif %}
+    <!-- End reCaptcha -->
+    <button id="simpleContactSubmitButton"
+            type="submit" class="btn btn-secondary float-right">
+        {{__SELF__.properties.buttonText|_}}
+    </button>
+</form>
