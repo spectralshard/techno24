@@ -1,0 +1,54 @@
+title = "Hébergement Web"
+url = "/hosting"
+layout = "default"
+is_hidden = 0
+
+==
+<section id="hosting" class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary">
+                    {{ 'Services d’hébergement sur mesure'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/produits/p-intro-hosting' %}
+    </div>
+</section>
+<section id="forfait" class="primary-color my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive">
+                    {{ 'Forfaits d’hébergement Web'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/produits/p-forfaits-hosting' %}
+    </div>
+</section>
+<section id="msazure" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary">
+                    {{ 'Autres solutions pour votre entreprise'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/produits/p-forfait-other' %}
+    </div>
+</section>
+<section id="entreprise" class="primary-color mt-4 mb-0 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive">
+                    {{ 'Technologies disponible sur nos serveurs'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/produits/p-techno' %}
+    </div>
+</section>
