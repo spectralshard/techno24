@@ -6,6 +6,17 @@ is_hidden = 0
 [testimonials myTestimonials]
 backgroundColor = "#FFFFFF"
 textColor = "#F39000"
+
+[portfolio produit_home]
+category = 4
+itemsPerPage = 3
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = "blog/article"
+itemPage = "blog/article"
+tagListPage = "blog/article"
 ==
 <div class="jumbotron hero-home">
     <div class="container">
@@ -52,15 +63,13 @@ textColor = "#F39000"
     <div class="container">
         <div class="row">
             <div class="col text-center">
-                <h2 class="h2-responsive">
+                <h2 class="h2-responsive text-white">
                     {{ 'Services pour votre entreprise'|_ }}
                 </h2>
             </div>
         </div>
         <div class="row">
-            <div class="col">
-                Comp placeholder here :-)
-            </div>
+            {% component 'produit_home' %}
         </div>
     </div>
 </section>

@@ -3,6 +3,27 @@ url = "/hosting"
 layout = "default"
 is_hidden = 0
 
+[portfolio produit]
+category = 3
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = "blog/article"
+itemPage = "blog/article"
+tagListPage = "blog/article"
+
+[portfolio produit_serviceweb]
+category = 2
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = "blog/article"
+itemPage = "blog/article"
+tagListPage = "blog/article"
 ==
 <section id="hosting" class="my-4">
     <div class="container">
@@ -25,10 +46,12 @@ is_hidden = 0
                 </h2>
             </div>
         </div>
-        {% partial '/produits/p-forfaits-hosting' %}
+        <div class="row">
+        {% component 'produit' %}
+        </div>
     </div>
 </section>
-<section id="msazure" class="my-4 py-5">
+<section id="solutions" class="my-4 py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -37,10 +60,12 @@ is_hidden = 0
                 </h2>
             </div>
         </div>
-        {% partial '/produits/p-forfait-other' %}
+        <div class="row">
+        {% component 'produit_serviceweb' %}
+    </div>
     </div>
 </section>
-<section id="entreprise" class="primary-color mt-4 mb-0 py-5">
+<section id="technologie" class="primary-color mt-4 mb-0 py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">

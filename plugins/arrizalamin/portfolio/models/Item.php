@@ -14,9 +14,9 @@ class Item extends Model
     public $table = 'arrizalamin_portfolio_items';
 
     /**
-     * @var array Translatable fields
+     * @var array Translatable fields - ###Added slug for translation
      */
-    public $translatable = ['title', 'description'];
+    public $translatable = ['title', 'description','slug'];
 
     /**
      * @var array Relations

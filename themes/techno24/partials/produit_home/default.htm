@@ -1,0 +1,36 @@
+{% for item in __SELF__.portfolio %}
+<div class="col-xs-12 col-md-2 col-sm-3 col-lg-4 my-3">
+    <div class="card text-center">
+        <div class="card-header secondary-color">
+            <h4 class="h4-responsive text-white mb-0">
+                {{ item.title }}
+            </h4>
+        </div>
+        <div class="card-header primary-color">
+            <h5 class="h5-responsive text-white mb-0">
+               <span class="label label-primary">{{ item.slug }}</span>
+            </h5>
+        </div>
+        <div class="card-body">
+            {% if item.images|length > 0 %}
+            <div>
+                {% set image = item.images.first %}
+                <a href="{{ item.pageUrl }}">
+                    <img src="{{ image.path }}" class="img-responsive" alt="{{ image.title }}">
+                </a>
+            </div>
+            {% endif %}
+            {% if item.description %}
+            <p>
+                {{ item.description|raw }}
+            </p>
+            {% endif %}
+        </div>
+        <div class="card-body">
+            <a class="btn btn-secondary" href="{{ item.video_url }}">
+                Voir les autres offres
+            </a>
+        </div>
+    </div>
+</div>
+{% endfor %}

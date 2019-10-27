@@ -6,9 +6,9 @@ return [
         'description' => 'A plugin that allows you to show off your past projects.',
     ],
     'navigation' => [
-        'label' => 'Portfolio',
+        'label' => 'Services',
         'sideMenu' => [
-            'items' => 'Items',
+            'items' => 'Produits',
             'categories' => 'Categories',
             'tags' => 'Tags'
         ]
@@ -162,7 +162,7 @@ return [
         'item' => [
             'title' => 'Title',
             'category' => 'Category',
-            'slug' => 'Slug',
+            'slug' => 'Price',
             'tags' => 'Tags',
             'description' => 'Description',
             'images' => 'Images',
