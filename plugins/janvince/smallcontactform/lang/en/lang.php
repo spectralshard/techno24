@@ -15,7 +15,7 @@ return [
   ],
 
   'navigation' => [
-    'main_label' => 'Contact form',
+    'main_label' => 'Orders',
     'messages' => 'Messages',
   ],
 

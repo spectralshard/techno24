@@ -10,7 +10,7 @@
         'email' => 'Email',
         'status' => 'Status',
         'date' => 'Date',
-        'mainmenu' => 'Messages',
+        'mainmenu' => 'Contact Us',
         'submenu' => 'Inbox',
         'permission' => 'Simple Contact',
         'permission_messages' => 'Messages',

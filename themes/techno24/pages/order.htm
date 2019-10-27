@@ -1,5 +1,5 @@
-title = "Contact"
-url = "/contact"
+title = "Commande"
+url = "/order"
 layout = "default"
 is_hidden = 0
 
@@ -7,14 +7,7 @@ is_hidden = 0
 backgroundColor = "#FFFFFF"
 textColor = "#F39000"
 
-[simpleContact mysimplecontact]
-nameTitle = "Nom de l'entreprise"
-emailTitle = "Courriel"
-phoneTitle = "Téléphone"
-subjectTitle = "Sujet de votre courriel"
-messageTitle = "Commentaire"
-buttonText = "Envoyer"
-displayPhone = 1
+[contactForm]
 ==
 <div class="jumbotron hero-home">
     <div class="container">
@@ -22,7 +15,7 @@ displayPhone = 1
             <div class="col-sm-6 col-xs-12 my-5">
                 <h1 class="display-4 white-text my-5" style="text-shadow: 2px 2px #333333;">
                     <strong>
-                        {{ 'Vous avez des questions sur nos services?'|_ }}
+                        {{ 'Commander un service Web personnalisé'|_ }}
                     </strong></h1>
             </div>
         </div>
@@ -32,17 +25,20 @@ displayPhone = 1
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-lg-8 pb-3">
-                {% component 'mysimplecontact' %}
+                <h4 class="h4-responsive text-secondary">
+                    {{ 'Information à propos de vous et de vos besoins'|_ }}
+                </h4>
+                {% component 'contactForm' %}
             </div>
             <div class="col-xs-12 col-sm-6 col-lg-4 pb-3">
                 <div class="card float-right primary-color">
                     <div class="card-body white-text">
                         {% partial 'info-entreprise' %}
                     </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 </section>
 <section class="my-5">
     <div class="container">

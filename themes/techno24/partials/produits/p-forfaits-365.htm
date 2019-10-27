@@ -1,5 +1,17 @@
+[portfolio]
+category = 1
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = "office365"
+itemPage = "office365"
+tagListPage = "office365"
+==
 <div class="row">
     <div class="col">
+        {% component 'portfolio' %}
         Comp placeholder here :-)
     </div>
 </div>
