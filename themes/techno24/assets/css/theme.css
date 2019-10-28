@@ -11139,6 +11139,10 @@ a .page-link {
   top: -6px;
 }
 
+.text-uppercase {
+  text-transform: uppercase;
+}
+
 .hero-home {
   background: url("../images/tech24-hero-home.jpg") no-repeat center center;
   -webkit-background-size: 100% 100%;

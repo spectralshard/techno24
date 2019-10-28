@@ -1,4 +1,4 @@
-title = "Home"
+title = "Accueil"
 url = "/"
 layout = "default"
 is_hidden = 0
@@ -22,8 +22,10 @@ tagListPage = "blog/article"
     <div class="container">
         <div class="row">
             <div class="col-sm-6 col-xs-12 my-5">
-        <h1 class="display-4 white-text" style="text-shadow: 2px 2px #333333;"><strong>LA FAÇON LA PLUS SIMPLE DE CONNECTER
-            L'HUMAIN ET LA TECHNOLOGIE.</strong></h1>
+        <h1 class="display-4 white-text my-5" style="text-shadow: 2px 2px #333333;">
+            <strong>
+                {{ 'LA FAÇON LA PLUS SIMPLE DE CONNECTER L\'HUMAIN ET LA TECHNOLOGIE.'|_ }}
+            </strong></h1>
             </div>
         </div>
     </div>
@@ -33,7 +35,7 @@ tagListPage = "blog/article"
         <div class="row">
             <div class="col text-center">
                 <h2 class="h2-responsive">
-                    {{ 'Qui est derrière Techno24!'|_ }}
+                    {{ 'Qui est derrière Techno24?'|_ }}
                 </h2>
             </div>
         </div>
@@ -47,14 +49,7 @@ tagListPage = "blog/article"
                 </div>
             <div class="col"></div>
                 <div class="col-xs-12 col-sm-5">
-                    <p>Spécialiste des solutions numériques, Techno24 offre des services d’hébergement bien pensés et
-                        très fiables. Au-delà des réseaux à la fine pointe de la technologie, nous offrons un soutien
-                        personnalisé et attentionné par téléphone et par courriel.</p>
-
-                    <p>Nos techniciens s’appliquent à bien cerner vos besoins en hébergement Web afin d’y répondre adéquatement.
-                        Tout au long du processus de mise en place de nos services, vous serez accompagné par notre équipe d’experts.</p>
-
-                     <p><strong class="text-secondary">C’est ça, le service 5 étoiles de Techno24!</strong></p>
+                    {% content '/home/c-about' %}
                 </div>
         </div>
     </div>

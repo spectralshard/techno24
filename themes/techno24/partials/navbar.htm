@@ -13,7 +13,7 @@ description = "Navigation bar"
 	</button>
 	<div class="collapse navbar-collapse">
 		<ul class="navbar-nav ml-auto">
-			<li class="nav-item active">
+			<li class="nav-item">
 				<a class="nav-link nav-link" href="{{ 'home'|page }}">
 					<strong>{{'ACCUEIL'|_}}</strong></a>
 			</li>
@@ -25,7 +25,7 @@ description = "Navigation bar"
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'office365'|page }}#office">Office365</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#msazure">Microsoft Azure</a>
-					<a class="dropdown-item" href="{{ 'office365'|page }}#entreprise">Logiciel d'entreprise</a>
+					<a class="dropdown-item" href="{{ 'office365'|page }}#entreprise">{{'Logiciel d\'entreprise'|_}}</a>
 				</div>
 			</li>
 			<li class="nav-item dropdown">
@@ -34,19 +34,19 @@ description = "Navigation bar"
 					<strong>{{'HÉBERGEMENT'|_}}</strong>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-					<a class="dropdown-item" href="{{ 'hosting'|page }}">Hébergement Web</a>
-					<a class="dropdown-item" href="{{ 'hosting'|page }}#solutions">Autres solutions</a>
-					<a class="dropdown-item" href="{{ 'hosting'|page }}#technologie">Technologies disponible</a>
+					<a class="dropdown-item" href="{{ 'hosting'|page }}">{{'Hébergement Web'|_}}</a>
+					<a class="dropdown-item" href="{{ 'hosting'|page }}#solutions">{{'Autres solutions'|_}}</a>
+					<a class="dropdown-item" href="{{ 'hosting'|page }}#technologie">{{'Technologies disponible'|_}}</a>
 			</li>
-			<li class="nav-item active">
+			<li class="nav-item">
 				<a class="nav-link" href="{{ 'blog/blogList'|page }}">
 					<strong>{{'NOUVELLES'|_}}</strong></a>
 			</li>
-			<li class="nav-item active">
+			<li class="nav-item">
 				<a class="nav-link" href="{{ 'contact'|page }}">
 					<strong>{{'Nous joindre'|_}}</strong></a>
 			</li>
-			<li class="nav-item active">
+			<li class="nav-item">
 				{% if lang == 'fr' %}
 				<a href="#"
 				   class="nav-link"
