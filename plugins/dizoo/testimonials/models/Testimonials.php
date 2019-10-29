@@ -32,4 +32,10 @@ class Testimonials extends Model
         'name' => 'required',
         'quote' => 'required'
     ];
+
+    /**
+     * Extented for translation
+     */
+    public $implement = ['RainLab.Translate.Behaviors.TranslatableModel'];
+    public $translatable = ['name','quote'];
 }
