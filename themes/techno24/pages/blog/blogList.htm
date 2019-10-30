@@ -1,7 +1,7 @@
 title = "Nouvelles"
 url = "/blogue/:page?"
 layout = "default"
-meta_title = ""
+meta_title = "Nouvelles"
 is_hidden = 0
 
 [blogPosts blogs]
@@ -16,6 +16,10 @@ postPage = "blog/article"
 slug = "{{ :slug }}"
 displayEmpty = 0
 categoryPage = "blog/categories"
+
+[viewBag]
+localeTitle[en] = "News"
+localeMeta_title[en] = "News"
 ==
 <section class="primary-color py-4 mb-4">
     <div class="container">

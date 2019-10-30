@@ -23,16 +23,16 @@ $this['site_url'] = asset('');
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Techno24 - {{ this.page.title|_ }}</title>
+    <title>{{ this.page.title|_ }} | Techno24</title>
     <meta name="description" content="{{ this.page.description|_ }}">
     <meta name="title" content="{{ this.page.title }}">
     <meta name="author" content="Techno24.net">
     <meta name="robots" content="index,follow">
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="website, web hosting" />
     <meta property="og:image" content="{{ this.page.og_image }}" />
     <meta property="og:title" content="Techno24 - {{ this.page.title }}" />
     <meta property="og:url" content="{{ this.page.url }}" />
-    <meta property="og:site_name" content="Techno24" />
+    <meta property="og:site_name" content="Techno24.net" />
     <meta property="og:description" content="{{ this.page.settings.meta_description }}" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="icon" type="image/jpg" href="{{ 'assets/images/favicon.png'|theme }}"/>
@@ -42,6 +42,7 @@ $this['site_url'] = asset('');
     'assets/css/theme.css',
     ]|theme }}" rel="stylesheet">
     {% styles %}
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
 </head>
 <body>
 {% partial 'facebook-module' %}

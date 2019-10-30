@@ -109,4 +109,8 @@
   'zainab\\simplecontact\\Controllers\\simplecontact' => 'plugins/zainab/simplecontact/controllers/simplecontact.php',
   'Zainab\\SimpleContact\\Models\\Settings' => 'plugins/zainab/simplecontact/models/Settings.php',
   'Zainab\\SimpleContact\\Components\\SimpleContact' => 'plugins/zainab/simplecontact/components/SimpleContact.php',
+  'JanVince\\SmallContactForm\\ReportWidgets\\NewMessage' => 'plugins/janvince/smallcontactform/reportwidgets/NewMessage.php',
+  'JanVince\\SmallContactForm\\Controllers\\Messages' => 'plugins/janvince/smallcontactform/controllers/Messages.php',
+  'system\\Controllers\\mailtemplates' => 'modules/system/controllers/mailtemplates.php',
+  'system\\Controllers\\eventlogs' => 'modules/system/controllers/eventlogs.php',
 );
