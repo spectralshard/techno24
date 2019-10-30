@@ -7,7 +7,7 @@
                     <div class="col-sm-12 col-md-5 col-lg-3">
                         <a href="{{ post.url }}">
                         {% if post.featured_images.count %}
-                            <img class="img-fluid"
+                            <img class="img-fluid wow tada"
                                  data-src="{{ post.featured_images.0.filename.thumb(1200, 800, {'mode':'crop'}) }}"
                                  src="{{ post.featured_images.0.path }}"
                                  alt="{{ post.featured_images.0.description }}"/>
@@ -16,10 +16,10 @@
                     </div>
                     <div class="col">
                         <a href="{{ post.url }}">
-                            <h3 class="h3-responsive my-0">
+                            <h3 class="h3-responsive my-0 wow fadeInUp">
                             {{ post.title }}
                         </h3></a>
-                        <h6 class="my-0">
+                        <h6 class="my-0 wow fadeInUp">
                             {{'Publié le'|_}} {{ article.date | strftime('%d %h %Y') }}
                             {% if post.categories.count %}
                             {% endif %}
@@ -28,10 +28,10 @@
                             <a href="{{category.url}}">{{ category.name }}</a>{% if not loop.last %}, {% endif %}
                             {% endfor %}</p>
                         </h6>
-                        <p>
+                        <p class="wow fadeInUp">
                             {{ post.summary }}
                         </p>
-                        <a class="btn btn-secondary float-right" href="{{ post.url }}" role="button">
+                        <a class="btn btn-secondary float-right wow fadeInUp" href="{{ post.url }}" role="button">
                             {{'Lire l\'article'|_ }}
                         </a>
                     </div>
