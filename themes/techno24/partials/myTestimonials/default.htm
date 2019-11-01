@@ -15,7 +15,8 @@
             <div{% if loop.first %} class="active"{% endif %}>
             {% if testimonial.image %}
             <div>
-                <img src="{{ testimonial.image.thumb(300,300,{'mode':'auto'}) }}" alt="{{ testimonial.name }}">
+                <img src="{{ testimonial.image.thumb(300,300,{'mode':'auto'}) }}" alt="{{ testimonial.name }}"
+                     style="width: 280px;background-color:#FFFFFF;">
             </div>
             {% endif %}
             <p style="color:#000000;" class="mt-3">{{ testimonial.quote }}</p>
