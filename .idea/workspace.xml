@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/images/dafault-share-img.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/plugins/dizoo/partners/assets/js/start-slider.js" afterPath="$PROJECT_DIR$/plugins/dizoo/partners/assets/js/start-slider.js" />
-      <change beforePath="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.js" afterPath="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.js" />
-      <change beforePath="$PROJECT_DIR$/plugins/zainab/simplecontact/models/Settings.php" afterPath="$PROJECT_DIR$/plugins/zainab/simplecontact/models/Settings.php" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/images/techno24-logo.png" afterPath="$PROJECT_DIR$/themes/techno24/assets/images/techno24-logo.png" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/images/tech24-hero-home.jpg" afterPath="$PROJECT_DIR$/themes/techno24/assets/images/tech24-hero-home.jpg" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/contact.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/contact.htm" />
       <change beforePath="$PROJECT_DIR$/themes/techno24/pages/home.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/hosting.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/hosting.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/myTestimonials/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/myTestimonials/default.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/produit/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/produit/default.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/produit_home/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/produit_home/default.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/order.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/order.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,63 +20,28 @@
       <file leaf-file-name="home.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="34" column="86" lean-forward="false" selection-start-line="34" selection-start-column="86" selection-end-line="34" selection-end-column="88" />
+            <state relative-caret-position="558">
+              <caret line="43" column="22" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="43" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm">
+      <file leaf-file-name="order.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/order.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+            <state relative-caret-position="330">
+              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Settings.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/models/Settings.php">
+      <file leaf-file-name="contact.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/contact.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-              <folding>
-                <element signature="e#46#56#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flashMessage.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <marker date="1572638415403" expanded="true" signature="1680:1715" ph="[...]" />
-                <marker date="1572638415403" expanded="true" signature="2579:2816" ph="[...]" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="501">
+              <caret line="41" column="22" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="41" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -190,8 +138,6 @@
         <option value="$PROJECT_DIR$/themes/techno24/partials/footer.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/produits/p-intro-office365.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/contact.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/order.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/js/techno24.js" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/mypartner/default.htm" />
@@ -214,8 +160,10 @@
         <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
         <option value="$PROJECT_DIR$/plugins/zainab/simplecontact/models/SimpleContact.php" />
         <option value="$PROJECT_DIR$/plugins/zainab/simplecontact/models/Settings.php" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/contact.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/order.htm" />
       </list>
     </option>
   </component>
@@ -297,7 +245,7 @@
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -305,46 +253,6 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="article" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="blogs" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mysimplecontact" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="myTestimonials" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="produit" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -353,14 +261,6 @@
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="produit_home" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="produit_serviceweb" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -385,16 +285,16 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/techno24/partials" />
+      <recent name="$PROJECT_DIR$/themes/techno24/partials/blogs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes/techno24/content/produits" />
       <recent name="$PROJECT_DIR$/themes/techno24/content/home" />
       <recent name="$PROJECT_DIR$/themes/techno24/partials" />
       <recent name="$PROJECT_DIR$/themes/techno24/pages" />
       <recent name="$PROJECT_DIR$/themes/techno24/pages/blog" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/techno24/partials" />
-      <recent name="$PROJECT_DIR$/themes/techno24/partials/blogs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -430,7 +330,7 @@
       <workItem from="1571363184712" duration="31431000" />
       <workItem from="1571677717981" duration="44511000" />
       <workItem from="1572299940168" duration="7407000" />
-      <workItem from="1572520932472" duration="9021000" />
+      <workItem from="1572520932472" duration="11395000" />
     </task>
     <task id="LOCAL-00001" summary="Init Techno24 sources to git">
       <created>1571018953989</created>
@@ -544,11 +444,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572458801964</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fix a brunch of bugs">
+      <created>1572639847629</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1572639847629</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99702000" />
+    <option name="totallyTimeSpent" value="102076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -642,7 +549,8 @@
     <MESSAGE value="Apply SEO to the Web Site" />
     <MESSAGE value="Apply respondsive class to layouts" />
     <MESSAGE value="Apply basic animation to the web page ;) magic!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apply basic animation to the web page ;) magic!!" />
+    <MESSAGE value="Fix a brunch of bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix a brunch of bugs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -727,20 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/contact.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="44" column="12" lean-forward="false" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/order.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -893,14 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/hosting.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="64" column="60" lean-forward="false" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/pages/office365.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="652">
@@ -965,41 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="34" column="86" lean-forward="false" selection-start-line="34" selection-start-column="86" selection-end-line="34" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <marker date="1572638415403" expanded="true" signature="1680:1715" ph="[...]" />
-            <marker date="1572638415403" expanded="true" signature="2579:2816" ph="[...]" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/lang/en/lang.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -1023,8 +874,67 @@
         <state relative-caret-position="510">
           <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
           <folding>
-            <element signature="e#46#56#0#PHP" expanded="true" />
+            <element signature="e#46#56#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <marker date="1572638415403" expanded="true" signature="1680:1715" ph="[...]" />
+            <marker date="1572638415403" expanded="true" signature="2579:2816" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/hosting.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="64" column="60" lean-forward="false" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="43" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/contact.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/order.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
