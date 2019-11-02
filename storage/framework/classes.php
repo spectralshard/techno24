@@ -113,4 +113,10 @@
   'JanVince\\SmallContactForm\\Controllers\\Messages' => 'plugins/janvince/smallcontactform/controllers/Messages.php',
   'system\\Controllers\\mailtemplates' => 'modules/system/controllers/mailtemplates.php',
   'system\\Controllers\\eventlogs' => 'modules/system/controllers/eventlogs.php',
+  'romanov\\clearcachewidget\\Plugin' => 'plugins/romanov/clearcachewidget/Plugin.php',
+  'janvince\\smallextensions\\Plugin' => 'plugins/janvince/smallextensions/Plugin.php',
+  'JanVince\\SmallExtensions\\Models\\Settings' => 'plugins/janvince/smallextensions/models/Settings.php',
+  'JanVince\\SmallExtensions\\Models\\BlogFields' => 'plugins/janvince/smallextensions/models/BlogFields.php',
+  'backend\\Controllers\\users' => 'modules/backend/controllers/users.php',
+  'JanVince\\SmallExtensions\\Models\\AdminFields' => 'plugins/janvince/smallextensions/models/AdminFields.php',
 );
