@@ -20,7 +20,7 @@
                             {{ post.title }}
                         </h3></a>
                         <h6 class="my-0 wow fadeInUp">
-                            {{'Publié le'|_}} {{ article.date | strftime('%d %h %Y') }} |
+                            {{'Publié le'|_}} {{ post.published_at | strftime('%d %h %Y') }} |
                             {{'Par'|_}} {{ post.user.first_name }} {{ post.user.last_name }}
                             {% if post.categories.count %}
                             {% endif %}

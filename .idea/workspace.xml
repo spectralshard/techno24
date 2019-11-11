@@ -2,188 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/LICENCE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/Plugin.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/assets/css/blog-video.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/assets/js/blog-video.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/assets/less/blog-video.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/composer.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/partials/popup.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/LICENCE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/Plugin.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/assets/css/rainlab.blog-preview.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/assets/images/blog-icon.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/assets/js/post-form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/assets/less/rainlab.blog-preview.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/classes/TagProcessor.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/Categories.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/Post.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/Posts.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/RssFeed.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/categories/default.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/categories/items.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/post/default.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/posts/default.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/components/rssfeed/default.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/Categories.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/Posts.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/_list_toolbar.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/_reorder_toolbar.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/config_form.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/config_list.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/config_reorder.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/create.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/index.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/reorder.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/categories/update.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/_list_toolbar.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/_post_toolbar.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/config_filter.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/config_form.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/config_import_export.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/config_list.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/create.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/export.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/import.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/index.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/controllers/posts/update.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/formwidgets/BlogMarkdown.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/formwidgets/MLBlogMarkdown.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/bg/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/cs/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/de/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/en/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/fa/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/fr/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/hu/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/it/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/ja/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/nb-no/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/nl/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/pl/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/pt-br/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/ru/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/lang/tr/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/Category.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/Post.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/PostExport.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/PostImport.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/category/columns.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/category/fields.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/post/columns.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/post/fields.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/postexport/columns.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/postimport/columns.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/models/postimport/fields.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/updates/categories_add_nested_fields.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/updates/create_categories_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/updates/create_posts_table.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/updates/seed_all_tables.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/updates/update_timestamp_nullable.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/plugins/rainlab/blog/updates/version.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/updates/version.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/autoload.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/ClassLoader.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/autoload_classmap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/autoload_namespaces.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/autoload_psr4.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/autoload_real.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installed.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/phpunit.xml.dist" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/AglInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/AimeosInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/AsgardInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/BaseInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/BonefishInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/CakePHPInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ChefInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ClanCatsFrameworkInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/CodeIgniterInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/Concrete5Installer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/CraftInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/CroogoInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/DecibelInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/DokuWikiInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/DolibarrInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ElggInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ExpressionEngineInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/FuelInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/GravInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/HuradInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ImageCMSInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/Installer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/KirbyInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/KodiCMSInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/KohanaInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/LaravelInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/LithiumInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MODULEWorkInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MODXEvoInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MagentoInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MakoInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MauticInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MediaWikiInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/OctoberInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/OxidInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/PPIInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/PhiftyInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/PhpBBInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/PimcoreInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/PiwikInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/Plugin.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/PrestashopInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/PuppetInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/RadPHPInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/RedaxoInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/RoundcubeInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/SMFInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ShopwareInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/SilverStripeInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/Symfony1Installer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/TYPO3CmsInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/TYPO3FlowInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/TheliaInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/TuskInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/WolfCMSInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/WordPressInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ZendInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/Composer/Installers/ZikulaInstaller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/src/bootstrap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/AsgardInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/CakePHPInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/CraftInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/DokuWikiInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/GravInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/MediaWikiInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/OctoberInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/PimcoreInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/PiwikInstallerTest.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/Composer/Installers/Test/TestCase.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/rainlab/blogvideo/vendor/composer/installers/tests/bootstrap.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
       <change beforePath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -194,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="315">
+              <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1573312658893" expanded="true" signature="2099:2138" ph="[...]" />
@@ -208,21 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            <state relative-caret-position="90">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cms.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/cms.php">
+      <file leaf-file-name="article.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-562">
-              <caret line="212" column="31" lean-forward="false" selection-start-line="212" selection-start-column="27" selection-end-line="212" selection-end-column="31" />
+            <state relative-caret-position="375">
+              <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -270,6 +96,7 @@
       <find>bootstrap.min.js.map</find>
       <find>https://static.doubleclick.net/instream/ad_status.js</find>
       <find>https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-1/c0.0.180.180a/12933067_10153940249065225_1691175007034975767_n.jpg?_nc_cat=109&amp;_nc_oc=AQkjcWR4T5IAJ9J04gfjXsfQorDJaHZtVa4I_2ED5Q-RFFqVENux8LCvjiB3x1pM-zs&amp;_nc_ht=scontent-sea1-1.xx&amp;oh=2a97ef2fa220248a9527b1eff823fe28&amp;oe=5E642FC6</find>
+      <find>checkEditor</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/themes/</dir>
@@ -277,7 +104,6 @@
       <dir>$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss</dir>
       <dir>$PROJECT_DIR$/themes/techno24/assets/vendor</dir>
       <dir>$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist</dir>
-      <dir>$PROJECT_DIR$/plugins/rainlab/blog</dir>
       <dir>$PROJECT_DIR$/themes/techno24/assets/css</dir>
       <dir>$PROJECT_DIR$/plugins/arrizalamin</dir>
       <dir>$PROJECT_DIR$/plugins/janvince/smallcontactform</dir>
@@ -285,6 +111,7 @@
       <dir>$PROJECT_DIR$/themes/techno24/assets/sass</dir>
       <dir>$PROJECT_DIR$/themes/techno24</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/plugins/rainlab/blog</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -348,14 +175,14 @@
         <option value="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/contact.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/order.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
         <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.js" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/404.html" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/404.htm" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
         <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
       </list>
     </option>
   </component>
@@ -388,6 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,7 +226,28 @@
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="rainlab" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="rainlab" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="rainlab" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="classes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -410,12 +259,49 @@
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="article" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blogs" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -480,7 +366,8 @@
       <workItem from="1573058695372" duration="450000" />
       <workItem from="1573074163010" duration="428000" />
       <workItem from="1573310261566" duration="2998000" />
-      <workItem from="1573332336080" duration="1093000" />
+      <workItem from="1573332336080" duration="1145000" />
+      <workItem from="1573495989550" duration="671000" />
     </task>
     <task id="LOCAL-00001" summary="Init Techno24 sources to git">
       <created>1571018953989</created>
@@ -629,11 +516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573310714424</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add plugin for video in blog; refactor css and layout">
+      <created>1573399362323</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1573399362324</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110480000" />
+    <option name="totallyTimeSpent" value="111203000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -647,24 +541,24 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21794872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22039072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -731,27 +625,14 @@
     <MESSAGE value="Add author for the blog posts" />
     <MESSAGE value="Update testimotial speed; add 404 page" />
     <MESSAGE value="Add redirect, clear and speedy plugin - refactor codes layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add redirect, clear and speedy plugin - refactor codes layout" />
+    <MESSAGE value="Add plugin for video in blog; refactor css and layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add plugin for video in blog; refactor css and layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/testimonials/models/Testimonials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="44" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="39" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/models/simplecontact/columns.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/models/SimpleContact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -866,24 +747,10 @@
     <entry file="file://$PROJECT_DIR$/plugins/janvince/smallextensions/lang/en/lang.php" />
     <entry file="file://$PROJECT_DIR$/plugins/janvince/smallextensions/models/settings/fields.yaml" />
     <entry file="file://$PROJECT_DIR$/plugins/janvince/smallextensions/models/BlogFields.php" />
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/article/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="77" lean-forward="false" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/categories.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="88" lean-forward="false" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
         </state>
       </provider>
     </entry>
@@ -906,13 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="11" selection-end-column="161" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="22" column="88" lean-forward="false" selection-start-line="22" selection-start-column="88" selection-end-line="23" selection-end-column="92" />
         </state>
       </provider>
     </entry>
@@ -1019,27 +879,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/cms.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-562">
+        <state relative-caret-position="3180">
           <caret line="212" column="31" lean-forward="false" selection-start-line="212" selection-start-column="27" selection-end-line="212" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/components/post/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="315">
+          <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1573312658893" expanded="true" signature="2099:2138" ph="[...]" />
             <marker date="1573312658893" expanded="true" signature="2774:3019" ph="[...]" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/components/posts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/article/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
