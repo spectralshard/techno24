@@ -150,4 +150,7 @@
   'Vdlp\\Redirect\\Classes\\PageHandler' => 'plugins/vdlp/redirect/classes/PageHandler.php',
   'rainlab\\blogvideo\\Plugin' => 'plugins/rainlab/blogvideo/Plugin.php',
   'RainLab\\Blog\\Controllers\\Posts' => 'plugins/rainlab/blog/controllers/Posts.php',
+  'mohsin\\txt\\Plugin' => 'plugins/mohsin/txt/Plugin.php',
+  'Mohsin\\Txt\\Models\\Agent' => 'plugins/mohsin/txt/models/Agent.php',
+  'Mohsin\\Txt\\Models\\Setting' => 'plugins/mohsin/txt/models/Setting.php',
 );

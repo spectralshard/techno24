@@ -1,15 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
+    <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="Fix blog not showing published date">
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/Plugin.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/agents.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/Agents.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/Humans.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/Robots.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/Settings.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/Txt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/_list_toolbar.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/config_form.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/config_import_export.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/config_list.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/create.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/export.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/import.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/index.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/preview.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/agents/update.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/humans/_list_toolbar.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/humans/config_form.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/humans/config_list.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/humans/create.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/humans/index.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/humans/preview.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/humans/update.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/robots/_list_toolbar.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/robots/config_form.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/robots/config_list.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/robots/create.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/robots/index.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/robots/preview.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/robots/update.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/controllers/settings/index.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/Widget.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/screenshots/screenshot-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/screenshots/screenshot-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/assets/css/hasmany.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/assets/js/hasmany.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/assets/js/jquery-binding.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/assets/js/sortable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/partials/_add.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/partials/_input.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/partials/_item.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/partials/_list.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/partials/_popup.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/formwidgets/hasmany/widget/partials/_widget.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/lang/cs/lang.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/lang/en/lang.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/lang/lv/lang.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/lang/pl/lang.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/lang/tr/lang.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/lang/zh-cn/lang.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/Agent.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/AgentExport.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/AgentImport.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/Directive.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/Human.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/Information.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/Robot.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/Setting.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/agent/columns.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/agent/fields.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/agentexport/columns.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/agentimport/columns.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/directive/fields.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/human/columns.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/human/fields.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/information/fields.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/robot/columns.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/robot/fields.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/models/setting/fields.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/routes.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/create_agents_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/create_directives_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/create_humans_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/create_information_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/create_robots_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/drop_timestamps.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/refactor_settings_human_fields.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/seed_agents_table.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/updates/version.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/autoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/ClassLoader.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/autoload_classmap.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/autoload_namespaces.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/autoload_psr4.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/autoload_real.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/autoload_static.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/mohsin/txt/vendor/composer/installed.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/footer.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/footer.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/header.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/header.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/info-entreprise.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/info-entreprise.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +117,7 @@
       <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="705">
               <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,18 +131,28 @@
       <file leaf-file-name="default.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="240">
+              <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
+      <file leaf-file-name="footer.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/footer.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
+            <state relative-caret-position="570">
+              <caret line="38" column="68" lean-forward="false" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info-entreprise.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/info-entreprise.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="73" lean-forward="false" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -132,7 +236,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/plugins/arrizalamin/portfolio/models/Item.php" />
         <option value="$PROJECT_DIR$/plugins/arrizalamin/portfolio/lang/en/lang.php" />
         <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.htm" />
@@ -144,13 +247,11 @@
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-bitdefender.en.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.en.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/info-entreprise.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-technologie.en.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/mycontact/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss" />
         <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/models/Testimonials.php" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/article/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/footer.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/produits/p-intro-office365.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss" />
@@ -183,6 +284,9 @@
         <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/info-entreprise.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/footer.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/header.htm" />
       </list>
     </option>
   </component>
@@ -215,7 +319,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,27 +334,6 @@
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="rainlab" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="rainlab" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="rainlab" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="classes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -259,21 +341,6 @@
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -302,6 +369,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -367,7 +435,9 @@
       <workItem from="1573074163010" duration="428000" />
       <workItem from="1573310261566" duration="2998000" />
       <workItem from="1573332336080" duration="1145000" />
-      <workItem from="1573495989550" duration="671000" />
+      <workItem from="1573495989550" duration="1377000" />
+      <workItem from="1573566032738" duration="364000" />
+      <workItem from="1573594170365" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="Init Techno24 sources to git">
       <created>1571018953989</created>
@@ -523,11 +593,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573399362324</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Fix blog not showing published date">
+      <created>1573496909828</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1573496909828</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111203000" />
+    <option name="totallyTimeSpent" value="112408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -541,24 +618,24 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22039072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22527473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -626,34 +703,14 @@
     <MESSAGE value="Update testimotial speed; add 404 page" />
     <MESSAGE value="Add redirect, clear and speedy plugin - refactor codes layout" />
     <MESSAGE value="Add plugin for video in blog; refactor css and layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add plugin for video in blog; refactor css and layout" />
+    <MESSAGE value="Fix blog not showing published date" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix blog not showing published date" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/models/SimpleContact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/lang/en/lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/models/settings/fields.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/zainab/simplecontact/models/Settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -871,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -886,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3180">
           <caret line="212" column="31" lean-forward="false" selection-start-line="212" selection-start-column="27" selection-end-line="212" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,13 +949,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="705">
           <caret line="47" column="66" lean-forward="false" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -914,7 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,7 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,14 +982,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/info-entreprise.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="73" lean-forward="false" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="68" lean-forward="false" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="240">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding />
         </state>
       </provider>
