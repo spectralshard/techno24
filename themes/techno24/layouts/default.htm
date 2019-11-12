@@ -20,18 +20,14 @@ $this['site_url'] = asset('');
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4576616-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
         gtag('config', 'UA-4576616-1');
     </script>
-    <style>
-        @import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display:300,400,500,700&display=swap');
-    </style>
+    <style>@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display:300,400,500,700&display=swap');</style>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ this.page.title|_ }} | Techno24</title>
@@ -52,7 +48,7 @@ $this['site_url'] = asset('');
     <link href="{{ 'assets/images/apple-touch-icon.png'|theme }}" rel="apple-touch-icon">
     <link href="{{ 'assets/images/apple-touch-icon-precomposed.png'|theme }}" rel="apple-touch-icon-precomposed">
     <link href="{{ [
-    'assets/css/theme.css',
+    'assets/css/theme.min.css',
     ]|theme }}" rel="stylesheet">
     {% styles %}
 </head>
@@ -62,12 +58,9 @@ $this['site_url'] = asset('');
     {% partial 'header' %}
     {% partial 'navbar' %}
 </header>
-
-
 <main id="page">
     {% page %}
 </main>
-
 <footer>
     <section style="background-color:#DFE6EA;">
         <div class="container">
@@ -80,17 +73,15 @@ $this['site_url'] = asset('');
     </section>
     {% partial 'footer' %}
 </footer>
-
 {% flash %}
 <span id="flash" data-type="{{ type }}" data-message="{{ message }}"></span>
 {% endflash %}
-
 <script src="{{ [
 'assets/vendor/jquery/jquery-3.2.1.min.js',
-'assets/vendor/popper/popper.js',
+'assets/vendor/popper/popper.min.js',
 'assets/vendor/tether/dist/js/tether.min.js',
 'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
-'assets/vendor/wow/dist/wow.js',
+'assets/vendor/wow/dist/wow.min.js',
 'assets/js/techno24.js',
 ]|theme }}"></script>
 {% framework extras %}

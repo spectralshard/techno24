@@ -23,7 +23,7 @@ function onEnd()
             <div class="col-12">
                     <h1 class="h1-responsive text-white text-center">{{ post.title }}</h1>
                     <h6 class="my-0 white-text text-center">
-                        {{'Publié le'|_}} {{ article.date | strftime('%d %h %Y') }}  |
+                        {{'Publié le'|_}} {{ post.published_at | strftime('%d %h %Y') }} |
                         {{'Par'|_}} {{ post.user.first_name }} {{ post.user.last_name }}
                         {% if post.categories.count %}
                         {% endif %}

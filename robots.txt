@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+#
+Disallow: 
+
+#
+# Sitemaps
+Sitemap: https://techno24.net/sitemap.xml
