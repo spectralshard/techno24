@@ -1,6 +1,7 @@
 title = "Catégories"
 url = "/blogue/categorie/:slug/:page?"
 layout = "default"
+meta_description = "Dans le blogue de Techno24, vous retrouvez des trucs et astuces pour mieux gérer votre site Web hébergé sur nos serveurs cloud."
 is_hidden = 0
 
 [blogPosts blogs]
@@ -16,6 +17,9 @@ postPage = "blog/article"
 slug = "{{ :slug }}"
 displayEmpty = 0
 categoryPage = "blog/categories"
+
+[viewBag]
+localeMeta_description[en] = "In the blog of Techno24, you will find tips and tricks to better manage your website hosted on our cloud servers."
 ==
 <?php
 function onEnd()

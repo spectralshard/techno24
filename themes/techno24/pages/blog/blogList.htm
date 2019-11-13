@@ -2,7 +2,13 @@ title = "Nouvelles"
 url = "/blogue/:page?"
 layout = "default"
 meta_title = "Nouvelles"
+meta_description = "Dans le blogue de Techno24, vous retrouvez des trucs et astuces pour mieux gérer votre site Web hébergé sur nos serveurs cloud."
 is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "News"
+localeMeta_title[en] = "News"
+localeMeta_description[en] = "In the blog of Techno24, you will find tips and tricks to better manage your website hosted on our cloud servers."
 
 [blogPosts blogs]
 pageNumber = "{{ :page }}"
@@ -16,10 +22,6 @@ postPage = "blog/article"
 slug = "{{ :slug }}"
 displayEmpty = 0
 categoryPage = "blog/categories"
-
-[viewBag]
-localeTitle[en] = "News"
-localeMeta_title[en] = "News"
 ==
 <section class="primary-color py-4 mb-4">
     <div class="container">
