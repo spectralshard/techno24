@@ -16,10 +16,10 @@
                     </div>
                     <div class="col">
                         <a href="{{ post.url }}">
-                            <h3 class="h3-responsive my-0 wow fadeInUp">
+                            <h2 class="h2-responsive mt-0 wow fadeInUp">
                             {{ post.title }}
-                        </h3></a>
-                        <h6 class="my-0 wow fadeInUp">
+                        </h2></a>
+                        <p class="my-0 wow fadeInUp mb-2" style="color:#aeaeae;">
                             {{'Publié le'|_}} {{ post.published_at | strftime('%d %h %Y') }} |
                             {{'Par'|_}} {{ post.user.first_name }} {{ post.user.last_name }}
                             {% if post.categories.count %}
@@ -27,8 +27,8 @@
                             |
                             {% for category in post.categories %}
                             <a href="{{category.url}}">{{ category.name }}</a>{% if not loop.last %}, {% endif %}
-                            {% endfor %}</p>
-                        </h6>
+                            {% endfor %}
+                        </p>
                         <p class="wow fadeInUp">
                             {{ post.summary }}
                         </p>
