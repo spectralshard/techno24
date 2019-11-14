@@ -19,8 +19,8 @@ class Partner extends ComponentBase {
         $partners = $this->getPartners();
         if($partners->isNotEmpty()) {
             $this->page['partners'] = $partners;
-            $this->addCss('/plugins/dizoo/partners/assets/css/partners.css');
-            $this->addJs('/plugins/dizoo/partners/assets/js/slick-1.6.0.js');
+            $this->addCss('/plugins/dizoo/partners/assets/css/partners.min.css');
+            $this->addJs('/plugins/dizoo/partners/assets/js/slick.min.js');
             $this->addJs('/plugins/dizoo/partners/assets/js/start-slider.js');
         }
     }
