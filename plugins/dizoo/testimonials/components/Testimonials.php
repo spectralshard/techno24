@@ -19,8 +19,8 @@ class Testimonials extends ComponentBase {
         $testimonials = $this->getTestimonials();
         if($testimonials->isNotEmpty()) {
             $this->page['testimonials'] = $testimonials;
-            $this->addCss('/plugins/dizoo/testimonials/assets/css/testimonial-slider.css');
-            $this->addJs('/plugins/dizoo/testimonials/assets/js/testimonial-slider.js');
+            $this->addCss('/plugins/dizoo/testimonials/assets/css/testimonial-slider.min.css');
+            $this->addJs('/plugins/dizoo/testimonials/assets/js/testimonial-slider.min.js');
         } else {
             $this->page['testimonials'] = false;
         }
