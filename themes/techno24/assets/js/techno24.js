@@ -18,3 +18,4 @@ new WOW().init();
         } );
     };
 } )();
+function ml_webform_success_1608414(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-1608414 .row-success").show(),r(".ml-subscribe-form-1608414 .row-form").hide()}
