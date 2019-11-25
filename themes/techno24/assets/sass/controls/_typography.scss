@@ -2,7 +2,7 @@
 // Typography
 // --------------------------------------------------
 body {
-  font-family: 'Big Shoulders Display', cursive;
+  font-family: 'Big Shoulders Display', sans-serif;
   font-weight:400;
 }
 
@@ -10,14 +10,14 @@ body {
 // -------------------------
 h1 {
   line-height: 1em;
-  font: 3.125em 'Big Shoulders Display', cursive;
+  font: 3.125em 'Big Shoulders Display', sans-serif;
   font-weight:700;
   margin: 0.25em 0;
 }
 h2 {
 
   line-height: 1em;
-  font: 2.5em 'Big Shoulders Display', cursive;
+  font: 2.5em 'Big Shoulders Display', sans-serif;
   font-weight:700;
   margin: 0.25em 0 0.5em 0;
 }
@@ -25,27 +25,27 @@ h2 {
 h3 {
 
   line-height: 1em;
-  font: 1.875em 'Big Shoulders Display', cursive;
+  font: 1.875em 'Big Shoulders Display', sans-serif;
   font-weight:500;
   margin: 1.5em 0 0.5em 0;
 }
 h4 {
 
   line-height: 1em;
-  font: 1.5em 'Big Shoulders Display', cursive;
+  font: 1.5em 'Big Shoulders Display', sans-serif;
   font-weight:500;
   margin-bottom: 0.5em;
 }
 
 h5 {
   line-height: 1em;
-  font: 1.25em 'Big Shoulders Display', cursive;
+  font: 1.25em 'Big Shoulders Display', sans-serif;
   font-weight:500;
   margin-bottom: 0.5em;
 }
 h6 {
   line-height: 1em;
-  font: 1.125em 'Big Shoulders Display', cursive;
+  font: 1.125em 'Big Shoulders Display', sans-serif;
   font-weight:500;
   margin-bottom: 0.5em;
 }
@@ -53,7 +53,7 @@ h6 {
 // Body text
 // -------------------------
 p {
-  font: 400 15px/15px 'Big Shoulders Display', cursive;
+  font: 400 15px/15px 'Big Shoulders Display', sans-serif;
   font-size: 1.2em;
   line-height: 1.4em;
   margin-bottom: 1.125em;
@@ -68,7 +68,7 @@ small,
   font-weight:400;
 }
 strong {
-  font-family: 'Big Shoulders Display', cursive;
+  font-family: 'Big Shoulders Display', sans-serif;
   font-weight:700;
 }
 .heavy {
