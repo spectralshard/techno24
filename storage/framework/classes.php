@@ -172,4 +172,10 @@
   'Arcane\\Seo\\Classes\\Minifier' => 'plugins/arcane/seo/classes/Minifier.php',
   'Arcane\\Seo\\Classes\\Helper' => 'plugins/arcane/seo/classes/Helper.php',
   'Arcane\\Seo\\Classes\\Schema' => 'plugins/arcane/seo/classes/Schema.php',
+  'panakour\\backup\\Plugin' => 'plugins/panakour/backup/Plugin.php',
+  'Panakour\\Backup\\Models\\Settings' => 'plugins/panakour/backup/models/Settings.php',
+  'PanaKour\\Backup\\DropboxServiceProvider' => 'plugins/panakour/backup/DropboxServiceProvider.php',
+  'panakour\\backup\\Controllers\\backups' => 'plugins/panakour/backup/controllers/backups.php',
+  'PanaKour\\Backup\\Repository' => 'plugins/panakour/backup/Repository.php',
+  'PanaKour\\Backup\\Dropbox' => 'plugins/panakour/backup/Dropbox.php',
 );
