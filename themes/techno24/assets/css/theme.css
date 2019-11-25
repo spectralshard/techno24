@@ -11155,6 +11155,11 @@ a .page-link {
   box-shadow: 20px -20px #6DBBE9;
 }
 
+p img {
+  max-width: 100%;
+  height: auto;
+}
+
 @media (max-width: 575.98px) {
   .home-cover .cover-image {
     height: 200px;
@@ -12141,6 +12146,17 @@ strong {
 
 .heavy {
   font-weight: 700;
+}
+
+ul {
+  list-style: circle;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+ol {
+  padding-left: 30px;
+  padding-bottom: 30px;
 }
 
 /* Responsive Headings */

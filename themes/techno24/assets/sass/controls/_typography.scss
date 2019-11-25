@@ -76,7 +76,13 @@ strong {
 }
 // Lists
 // --------------------------------------------------
-
+ul {
+  list-style: circle;
+  padding-left: 30px;
+}
+ol {
+  padding-left: 30px;
+}
 
 // MISC
 // ----
