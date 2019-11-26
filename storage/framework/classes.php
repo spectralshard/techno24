@@ -178,4 +178,6 @@
   'panakour\\backup\\Controllers\\backups' => 'plugins/panakour/backup/controllers/backups.php',
   'PanaKour\\Backup\\Repository' => 'plugins/panakour/backup/Repository.php',
   'PanaKour\\Backup\\Dropbox' => 'plugins/panakour/backup/Dropbox.php',
+  'anandpatel\\wysiwygeditors\\Plugin' => 'plugins/anandpatel/wysiwygeditors/Plugin.php',
+  'AnandPatel\\WysiwygEditors\\Models\\Settings' => 'plugins/anandpatel/wysiwygeditors/models/Settings.php',
 );

@@ -79,11 +79,15 @@ strong {
 ul {
   list-style: circle;
   padding-left: 30px;
+  padding-bottom: 16px;
 }
 ol {
   padding-left: 30px;
+  padding-bottom: 16px;
 }
-
+li {
+  font-size: 1.2em;
+}
 // MISC
 // ----
 
