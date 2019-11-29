@@ -2,454 +2,475 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/LICENCE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/Plugin.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/Editor.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/adapters/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/build-config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/ckeditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/contents.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/es-ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/nb-no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/zh-tw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es-ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb-no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-tw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/about/dialogs/about.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/clipboard/dialogs/paste.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/colordialog/dialogs/colordialog.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/colordialog/dialogs/colordialog.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/dialog/dialogDefinition.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/div/dialogs/div.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/find/dialogs/find.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/flash/dialogs/flash.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/flash/images/placeholder.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/checkbox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/hiddenfield.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/radio.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/select.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/textarea.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/textfield.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/images/hiddenfield.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/icons_hidpi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/iframe/dialogs/iframe.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/iframe/images/placeholder.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/image/dialogs/image.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/image/images/noimage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/dialogs/anchor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/dialogs/link.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/images/anchor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/images/hidpi/anchor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/liststyle/dialogs/liststyle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/hidpi/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/icon-rtl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediaaudio/icons/ocmediaaudio.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediaaudio/plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmedialink/icons/ocmedialink.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmedialink/plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediamanager/icons/ocmediamanager.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediamanager/images/noimage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediamanager/plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediavideo/icons/ocmediavideo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediavideo/plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/dialogs/link.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/icons/ocpagelink.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/plugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/pagebreak/images/pagebreak.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/pastefromword/filter/default.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/preview/preview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/scayt/dialogs/options.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_address.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_blockquote.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_div.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_p.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_pre.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/dialogs/smiley.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angel_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angel_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angry_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angry_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/broken_heart.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/broken_heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/confused_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/confused_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/cry_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/cry_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/devil_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/devil_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/embaressed_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/embarrassed_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/embarrassed_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/envelope.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/envelope.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/heart.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/kiss.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/kiss.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/lightbulb.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/lightbulb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/omg_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/omg_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/regular_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/regular_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/sad_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/sad_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/shades_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/shades_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/teeth_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/teeth_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_down.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_down.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_up.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_up.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/tongue_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/tongue_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/tounge_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/wink_smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/wink_smile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/af.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/eu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/gl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/km.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/nb-no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/pt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/si.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sq.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/th.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/tt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/uk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/vi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-tw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/zh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/table/dialogs/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/dialogs/templates.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/dialogs/templates.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/default.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/images/template1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/images/template2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/images/template3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/wsc.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/wsc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/wsc_ie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_ie.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_ie7.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_ie8.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_iequirks.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_gecko.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_ie.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_ie7.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_ie8.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_iequirks.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/icons_hidpi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/lock-open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/lock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/refresh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/lock-open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/lock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/refresh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/spinner.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/styles.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/jquery.tinymce.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/es-ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/nb-no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/pt-br.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/zh-tw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/advlist/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/anchor/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/autolink/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/autoresize/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/autosave/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/bbcode/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/charmap/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/code/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/codesample/css/prism.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/codesample/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/colorpicker/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/contextmenu/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/directionality/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-cool.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-cry.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-frown.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-smile.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-wink.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-yell.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/example/dialog.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/example/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/example_dependency/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/fullpage/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/fullscreen/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/hr/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/image/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/imagetools/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/importcss/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/insertdatetime/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/layer/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/legacyoutput/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/link/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/lists/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/media/moxieplayer.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/media/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/nonbreaking/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/noneditable/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/ocmediamanager/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/pagebreak/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/paste/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/preview/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/print/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/save/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/searchreplace/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/spellchecker/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/tabfocus/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/table/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/template/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/textcolor/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/textpattern/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/visualblocks/css/visualblocks.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/visualblocks/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/visualchars/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/wordcount/plugin.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/content.inline.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/content.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/anchor.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/object.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/trans.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/skin.ie7.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/skin.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/atomic.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-atomic.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-browser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-prod.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/browser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/prod.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/dent/depend.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/compile/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/compile/theme.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/inline/theme.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/inline/theme.raw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/demo/css/demo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/demo/html/demo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/demo/js/tinymce/inlite/Demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/Theme.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Arr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Bookmark.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Unlink.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Uuid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Actions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Convert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/ElementMatcher.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Layout.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Matcher.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Measure.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/PredicateId.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SelectionMatcher.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SkinLoader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/UrlType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Conversions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Picker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Buttons.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Forms.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Panel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Toolbar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/alien/ArrTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/alien/UuidTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/core/ConvertTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/core/MatcherTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/core/UrlTypeTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/ThemeTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/alien/BookmarkTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/alien/UnlinkTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/ActionsTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/ElementMatcher.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/LayoutTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/MeasureTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/PredicateIdTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/SelectionMatcherTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/file/ConversionsTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/file/SelectionMatcher.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/theme.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/modern/theme.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/tinymce.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/partials/_ckeditor.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/partials/_tinymce.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/cs/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/en/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/fr/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/hu/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/pt-br/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/ru/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/tr/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/zh-cn/lang.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/models/Settings.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/models/settings/fields.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/updates/version.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/bootstrap.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_spinners.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_toasts.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_deprecate.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_overflow.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_stretched-link.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/vendor/_rfs.scss" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
       <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" />
       <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css.map" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css.map" />
       <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.babelrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.eslintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.gitattributes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.github/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.hound.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.houndignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.scss-lint.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/CNAME" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/CODE_OF_CONDUCT.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/Gemfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/Gemfile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/.htmllintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/build-plugins.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/change-version.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/gcp-key.json.enc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/generate-sri.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/lint-vars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/postcss.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/rollup.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/sauce_browsers.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/saucelabs-unit-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/ship.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/vnu-jar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/workbox.config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/build/workbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-grid.css" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-grid.css.map" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-reboot.css" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-grid.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-grid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-reboot.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-reboot.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-reboot.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.bundle.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/alert.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/button.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/carousel.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/collapse.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/dropdown.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/index.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/modal.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/popover.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/scrollspy.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/tab.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/tooltip.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/dist/util.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/src/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/karma-bundle.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/karma.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/unit/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/alert.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/button.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/carousel.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/collapse.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/dropdown.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/modal.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/popover.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/scrollspy.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/tab.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/js/tests/visual/tooltip.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/nuget/MyGet.ps1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/nuget/bootstrap.nuspec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/nuget/bootstrap.sass.nuspec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/package.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/sache.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_alert.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_alert.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_badge.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_badge.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_breadcrumb.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_breadcrumb.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_button-group.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_button-group.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_buttons.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_buttons.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_card.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_card.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_carousel.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_carousel.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_close.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_close.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_code.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_code.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_custom-forms.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_custom-forms.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_dropdown.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_dropdown.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_forms.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_forms.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_functions.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_functions.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_grid.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_grid.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_images.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_images.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_input-group.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_input-group.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_jumbotron.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_jumbotron.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_list-group.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_list-group.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_media.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_media.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_mixins.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_mixins.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_modal.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_modal.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_nav.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_nav.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_navbar.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_navbar.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_pagination.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_pagination.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_popover.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_popover.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_print.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_print.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_progress.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_progress.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_reboot.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_reboot.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_root.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_root.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_tables.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_tables.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_tooltip.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_tooltip.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_transitions.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_transitions.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_type.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_type.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_utilities.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_utilities.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_variables.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/bootstrap-grid.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/bootstrap-grid.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/bootstrap-reboot.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/bootstrap-reboot.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/bootstrap.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/bootstrap.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_alert.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_alert.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_background-variant.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_badge.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_badge.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_border-radius.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_box-shadow.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_box-shadow.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_breakpoints.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_breakpoints.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_buttons.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_caret.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_caret.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_clearfix.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_float.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_float.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_forms.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_forms.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_gradients.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_grid-framework.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_grid.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_grid.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_hover.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_hover.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_image.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_image.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_list-group.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_lists.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_lists.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_nav-divider.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_pagination.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_reset-text.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_resize.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_resize.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_screen-reader.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_screen-reader.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_size.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_size.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_table-row.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_text-emphasis.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_text-hide.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_text-hide.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_text-truncate.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_text-truncate.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_transition.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_transition.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_visibility.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/mixins/_visibility.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_align.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_align.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_background.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_background.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_borders.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_borders.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_clearfix.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_clearfix.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_display.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_display.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_embed.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_embed.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_flex.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_flex.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_float.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_float.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_position.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_position.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_screenreaders.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_screenreaders.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_shadows.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_shadows.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_sizing.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_sizing.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_spacing.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_spacing.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_text.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_text.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_visibility.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/utilities/_visibility.scss" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/breakpoints.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/browser-bugs.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/browser-features.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/colors.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/examples.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/grays.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/nav.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/theme-colors.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_data/translations.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/ads.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/bugify.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/callout-danger-async-methods.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/callout-info-mediaqueries-breakpoints.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/callout-warning-color-assistive-technologies.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/callout.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/docs-navbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/docs-sidebar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/example.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/favicons.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/bootstrap.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/download.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/github.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/import.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/lightning.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/menu.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/slack.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/icons/twitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/scripts.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/skippy.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_includes/social.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_layouts/default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_layouts/docs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_layouts/examples.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_layouts/home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_layouts/redirect.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/_layouts/simple.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/about/brand.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/about/license.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/about/overview.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/about/translations.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/brand/bootstrap-outline.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/brand/bootstrap-punchout.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/brand/bootstrap-social-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/brand/bootstrap-social.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/brand/bootstrap-solid.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/css/docs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/css/docs.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/css/docs.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/css/docs.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/bootstrap-stack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/bootstrap-themes.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/android-chrome-192x192.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/android-chrome-512x512.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/browserconfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/mstile-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/mstile-150x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/mstile-310x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/mstile-310x310.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/mstile-70x70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/img/favicons/safari-pinned-tab.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/docs.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/src/application.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/src/ie-emulation-modes-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/src/pwa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/src/search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/vendor/anchor.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/vendor/clipboard.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/vendor/holder.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/vendor/jquery-slim.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/js/vendor/popper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_ads.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_algolia.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_anchor.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_brand.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_browser-bugs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_callouts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_clipboard-js.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_colors.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_component-examples.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_content.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_examples.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_masthead.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_sidebar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_skiplink.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_syntax.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/assets/scss/docs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/browser-bugs.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/alerts.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/badge.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/breadcrumb.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/button-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/buttons.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/card.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/carousel.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/collapse.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/dropdowns.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/forms.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/input-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/jumbotron.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/list-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/modal.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/navbar.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/navs.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/pagination.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/popovers.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/progress.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/scrollspy.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/components/tooltips.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/content/code.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/content/figures.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/content/images.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/content/reboot.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/content/tables.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/content/typography.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/.stylelintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/album/album.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/album/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/blog/blog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/blog/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/carousel/carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/carousel/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/checkout/form-validation.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/checkout/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/cover/cover.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/cover/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/dashboard/dashboard.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/dashboard/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/floating-labels/floating-labels.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/floating-labels/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/grid/grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/grid/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/jumbotron/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/jumbotron/jumbotron.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/navbar-bottom/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/navbar-fixed/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/navbar-fixed/navbar-top-fixed.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/navbar-static/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/navbar-static/navbar-top.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/navbars/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/navbars/navbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/offcanvas/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/offcanvas/offcanvas.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/offcanvas/offcanvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/pricing/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/pricing/pricing.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/product/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/product/product.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/album.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/blog.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/carousel.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/checkout.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/cover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/dashboard.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/floating-labels.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/grid.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/jumbotron.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/navbar-bottom.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/navbar-fixed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/navbar-static.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/navbars.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/offcanvas.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/pricing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/product.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/sign-in.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/starter-template.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/sticky-footer-navbar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/screenshots/sticky-footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/sign-in/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/sign-in/signin.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/starter-template/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/starter-template/starter-template.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/sticky-footer-navbar/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/sticky-footer/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/sticky-footer/sticky-footer.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/tooltip-viewport/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/extend/approach.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/extend/icons.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/extend/index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/accessibility.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/best-practices.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/browsers-devices.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/build-tools.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/contents.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/download.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/introduction.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/javascript.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/theming.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/getting-started/webpack.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/layout/grid.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/layout/media-object.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/layout/overview.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/layout/utilities-for-layout.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/migration.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/borders.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/clearfix.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/close-icon.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/colors.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/display.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/embed.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/flex.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/float.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/image-replacement.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/position.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/screenreaders.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/shadows.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/sizing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/spacing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/text.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/vertical-align.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/docs/4.1/utilities/visibility.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/site/sw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/layouts/secondary.htm" afterPath="$PROJECT_DIR$/themes/techno24/layouts/secondary.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -459,48 +480,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_typography.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="12150" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13814" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -623,12 +603,12 @@
         <option value="$PROJECT_DIR$/themes/techno24/partials/article/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/share.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/layouts/secondary.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/video.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss" />
+        <option value="$PROJECT_DIR$/themes/techno24/layouts/secondary.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
       </list>
     </option>
@@ -662,7 +642,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -700,7 +679,7 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -708,60 +687,19 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="theme.css" type="620a8d5e:NestingTreeNode" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controls" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -847,7 +785,9 @@
       <workItem from="1574691029128" duration="1339000" />
       <workItem from="1574709323968" duration="721000" />
       <workItem from="1574719492449" duration="1759000" />
-      <workItem from="1574730238540" duration="948000" />
+      <workItem from="1574730238540" duration="990000" />
+      <workItem from="1574800807506" duration="7000" />
+      <workItem from="1574998396206" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="Init Techno24 sources to git">
       <created>1571018953989</created>
@@ -1129,11 +1069,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574721324709</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Update editor for the blog">
+      <created>1574732733625</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1574732733625</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143432000" />
+    <option name="totallyTimeSpent" value="144018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1147,12 +1094,11 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2796093" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1165,6 +1111,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1212,7 +1159,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Apply SEO to the Web Site" />
     <MESSAGE value="Apply respondsive class to layouts" />
     <MESSAGE value="Apply basic animation to the web page ;) magic!!" />
     <MESSAGE value="Fix a brunch of bugs" />
@@ -1237,7 +1183,8 @@
     <MESSAGE value="Upload css for article" />
     <MESSAGE value="Update Share codes" />
     <MESSAGE value="New page (video) + chnage fallback font for sans-serif" />
-    <option name="LAST_COMMIT_MESSAGE" value="New page (video) + chnage fallback font for sans-serif" />
+    <MESSAGE value="Update editor for the blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update editor for the blog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1447,24 +1394,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="84" lean-forward="false" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/secondary.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1493,7 +1426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="37" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1501,7 +1433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1509,7 +1440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1517,7 +1447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1525,7 +1454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1533,7 +1461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1110">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1541,7 +1468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1549,7 +1475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-63">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1557,7 +1482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1565,7 +1489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-767">
           <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1573,10 +1496,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="123" column="28" lean-forward="true" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/secondary.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="86" column="24" lean-forward="false" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
           <folding>
-            <marker date="1571779241714" expanded="true" signature="4854:5090" ph="..." />
-            <marker date="1571779241714" expanded="true" signature="4905:5066" ph="..." />
+            <marker date="1574998506252" expanded="true" signature="2274:2313" ph="[...]" />
+            <marker date="1574998506252" expanded="true" signature="2949:3189" ph="[...]" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="79" column="11" lean-forward="false" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+          <folding>
+            <marker date="1574998506244" expanded="true" signature="2416:2455" ph="[...]" />
+            <marker date="1574998506244" expanded="true" signature="3091:3331" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="0" column="228374" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="235852" />
+          <folding>
+            <element signature="e#27090#27345#2" expanded="true" />
+            <element signature="e#27978#28152#1" expanded="true" />
+            <element signature="e#28194#28449#1" expanded="true" />
+            <element signature="e#30923#31237#2" expanded="true" />
+            <element signature="e#31882#32056#1" expanded="true" />
+            <element signature="e#32098#32412#1" expanded="true" />
+            <element signature="e#62442#62650#2" expanded="true" />
+            <element signature="e#62890#63047#2" expanded="true" />
+            <element signature="e#63476#63632#2" expanded="true" />
+            <element signature="e#64850#65024#1" expanded="true" />
+            <element signature="e#78032#78285#2" expanded="true" />
+            <element signature="e#79228#79487#2" expanded="true" />
+            <element signature="e#109641#109837#2" expanded="true" />
+            <element signature="e#109886#110083#2" expanded="true" />
+            <element signature="e#194523#194772#2" expanded="true" />
+            <element signature="e#196104#196353#2" expanded="true" />
+            <element signature="e#205581#206330#2" expanded="true" />
+            <element signature="e#206394#207183#2" expanded="true" />
+            <element signature="e#207249#207738#2" expanded="true" />
+            <element signature="e#207804#208521#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15079" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1590,47 +1576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state relative-caret-position="0">
           <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="873">
-          <caret line="0" column="217402" lean-forward="false" selection-start-line="0" selection-start-column="217402" selection-end-line="0" selection-end-column="217402" />
-          <folding>
-            <element signature="e#57875#58075#2" expanded="true" />
-            <element signature="e#58293#58442#2" expanded="true" />
-            <element signature="e#58975#59121#2" expanded="true" />
-            <element signature="e#59444#59610#1" expanded="true" />
-            <element signature="e#70723#70966#2" expanded="true" />
-            <element signature="e#71909#72158#2" expanded="true" />
-            <element signature="e#98992#99182#2" expanded="true" />
-            <element signature="e#99231#99421#2" expanded="true" />
-            <element signature="e#176073#176322#2" expanded="true" />
-            <element signature="e#177654#177903#2" expanded="true" />
-            <element signature="e#187131#187880#2" expanded="true" />
-            <element signature="e#187944#188733#2" expanded="true" />
-            <element signature="e#188799#189288#2" expanded="true" />
-            <element signature="e#189354#190071#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="12150" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13814" selection-end-column="0" />
           <folding />
         </state>
       </provider>
