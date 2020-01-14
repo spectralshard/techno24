@@ -3,8 +3,110 @@
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change beforePath="$PROJECT_DIR$/config/cms.php" afterPath="$PROJECT_DIR$/config/cms.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/assets/css/october.css" afterPath="$PROJECT_DIR$/modules/backend/assets/css/october.css" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/assets/js/october.treeview.js" afterPath="$PROJECT_DIR$/modules/backend/assets/js/october.treeview.js" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/assets/less/controls/scrollbar.less" afterPath="$PROJECT_DIR$/modules/backend/assets/less/controls/scrollbar.less" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/behaviors/RelationController.php" afterPath="$PROJECT_DIR$/modules/backend/behaviors/RelationController.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/classes/Controller.php" afterPath="$PROJECT_DIR$/modules/backend/classes/Controller.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/models/brandsetting/custom.less" afterPath="$PROJECT_DIR$/modules/backend/models/brandsetting/custom.less" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/Form.php" afterPath="$PROJECT_DIR$/modules/backend/widgets/Form.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/Table.php" afterPath="$PROJECT_DIR$/modules/backend/widgets/Table.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/form/assets/js/october.form.js" afterPath="$PROJECT_DIR$/modules/backend/widgets/form/assets/js/october.form.js" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/form/partials/_form_tabs.htm" afterPath="$PROJECT_DIR$/modules/backend/widgets/form/partials/_form_tabs.htm" />
+      <change beforePath="$PROJECT_DIR$/modules/cms/classes/Controller.php" afterPath="$PROJECT_DIR$/modules/cms/classes/Controller.php" />
+      <change beforePath="$PROJECT_DIR$/modules/cms/helpers/File.php" afterPath="$PROJECT_DIR$/modules/cms/helpers/File.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/ServiceProvider.php" afterPath="$PROJECT_DIR$/modules/system/ServiceProvider.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/js/eventlogs/exception-beautifier.js" afterPath="$PROJECT_DIR$/modules/system/assets/js/eventlogs/exception-beautifier.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/js/list.rowlink.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/js/list.rowlink.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/js/select.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/js/select.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/form.base.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/form.base.less" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/form.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/form.less" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/list.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/list.less" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/list.rowlink.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/list.rowlink.less" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/popup.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/popup.less" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/storm-min.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/storm-min.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/storm.css" afterPath="$PROJECT_DIR$/modules/system/assets/ui/storm.css" />
+      <change beforePath="$PROJECT_DIR$/modules/system/classes/CombineAssets.php" afterPath="$PROJECT_DIR$/modules/system/classes/CombineAssets.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/classes/PluginManager.php" afterPath="$PROJECT_DIR$/modules/system/classes/PluginManager.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/classes/UpdateManager.php" afterPath="$PROJECT_DIR$/modules/system/classes/UpdateManager.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/lang/sk/lang.php" afterPath="$PROJECT_DIR$/modules/system/lang/sk/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/models/eventlog/fields.yaml" afterPath="$PROJECT_DIR$/modules/system/models/eventlog/fields.yaml" />
+      <change beforePath="$PROJECT_DIR$/plugins/october/demo/components/todo/default.htm" afterPath="$PROJECT_DIR$/plugins/october/demo/components/todo/default.htm" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/Plugin.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/Plugin.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/README.md" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/README.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableCmsObject.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableCmsObject.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableModel.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableModel.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatablePage.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatablePage.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/classes/TranslatableBehavior.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/classes/TranslatableBehavior.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/lang/en/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/lang/en/lang.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/lang/fr/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/lang/fr/lang.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/models/Message.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/models/Message.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageExport.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageExport.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageImport.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageImport.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/tests/unit/behaviors/TranslatableModelTest.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/tests/unit/behaviors/TranslatableModelTest.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/updates/builder_table_update_rainlab_translate_locales.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/updates/builder_table_update_rainlab_translate_locales.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/updates/version.yaml" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/autoload.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/autoload.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_real.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_static.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installed.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/composer.json" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/composer.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/Installer.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/Installer.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleValidationWithAnd.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleValidationWithAnd.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/phpunit.xml.dist" />
+      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/ParsedownExtra.php" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/ParsedownExtra.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/composer.json" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/phpunit.xml.dist" />
+      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/test/ParsedownExtraTest.php" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/test/ParsedownExtraTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown/Parsedown.php" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown/Parsedown.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/composer.json" afterPath="$PROJECT_DIR$/vendor/league/flysystem/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/AbstractFtpAdapter.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/AbstractFtpAdapter.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/Ftp.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/Ftp.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Exception.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Exception.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/FilesystemNotFoundException.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/FilesystemNotFoundException.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/NotSupportedException.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/NotSupportedException.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/RootViolationException.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/RootViolationException.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Util.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Util.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/mtdowling/cron-expression/composer.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/cron-expression/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/composer.json" afterPath="$PROJECT_DIR$/vendor/october/rain/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Database/Builder.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Database/Builder.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Database/README.md" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Database/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/README.md" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/helpers.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/helpers.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Translation/Translator.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Translation/Translator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/composer.json" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" afterPath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/composer.json" afterPath="$PROJECT_DIR$/vendor/twig/twig/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/advanced.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/advanced.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/api.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/api.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/currency_name.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/currency_name.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/index.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/index.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/templates.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/templates.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/tests/sameas.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/tests/sameas.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/drupal_test.sh" afterPath="$PROJECT_DIR$/vendor/twig/twig/drupal_test.sh" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/TokenParser/SpacelessTokenParser.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/TokenParser/SpacelessTokenParser.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +117,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="c-intro-hosting.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.htm">
+      <file leaf-file-name="slick-1.6.0.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick-1.6.0.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Partner.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="81" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c-intro-hosting.en.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.en.htm">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            <state relative-caret-position="207">
+              <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="6" />
+              <folding>
+                <marker date="1573765691421" expanded="true" signature="0:1807" ph="&lt;IfModule mod_rewrite.c&gt;" />
+                <marker date="1573765691421" expanded="true" signature="1873:3656" ph="&lt;IfModule mod_expires.c&gt;" />
+                <marker date="1573765691421" expanded="true" signature="3751:4904" ph="&lt;IfModule mod_deflate.c&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cms.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/cms.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="46" column="50" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slick.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,10 +186,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>default-link-color</find>
-      <find>theme-color</find>
-      <find>text-secondary</find>
-      <find>p</find>
       <find>se</find>
       <find>footer</find>
       <find>#007bff</find>
@@ -78,6 +212,10 @@
       <find>vertical-align: bottom;</find>
       <find>social</find>
       <find>backup dest</find>
+      <find>ol</find>
+      <find>html_content</find>
+      <find>editor</find>
+      <find>ol{30</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/themes/</dir>
@@ -90,10 +228,10 @@
       <dir>$PROJECT_DIR$/plugins</dir>
       <dir>$PROJECT_DIR$/themes/techno24/assets/sass</dir>
       <dir>$PROJECT_DIR$</dir>
-      <dir>$PROJECT_DIR$/plugins/rainlab/blog</dir>
       <dir>$PROJECT_DIR$/themes/techno24</dir>
       <dir>$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss</dir>
       <dir>$PROJECT_DIR$/plugins/panakour/backup</dir>
+      <dir>$PROJECT_DIR$/plugins/rainlab/blog</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -114,12 +252,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/techno24/partials/produits/p-bitdefender.htm" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick-1.6.0.js" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/partners/assets/js/start-slider.js" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/myTestimonials/default.htm" />
-        <option value="$PROJECT_DIR$/plugins/zainab/simplecontact/models/SimpleContact.php" />
-        <option value="$PROJECT_DIR$/plugins/zainab/simplecontact/models/Settings.php" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm" />
         <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.js" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/404.html" />
@@ -137,12 +269,8 @@
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-bitdefender.en.htm" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/_fonts.scss" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_variables.scss" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
         <option value="$PROJECT_DIR$/plugins/dizoo/partners/assets/css/partners.min.css" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php" />
         <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/css/testimonial-slider.min.css" />
         <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.min.js" />
         <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/components/Testimonials.php" />
@@ -158,13 +286,23 @@
         <option value="$PROJECT_DIR$/themes/techno24/partials/produit_home/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/produit/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/share.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/layouts/secondary.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.en.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/article/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/share.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/video.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss" />
+        <option value="$PROJECT_DIR$/themes/techno24/layouts/secondary.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
+        <option value="$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/config/cms.php" />
       </list>
     </option>
   </component>
@@ -197,7 +335,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,61 +345,19 @@
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="produits" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,17 +369,17 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/techno24/assets/css" />
-      <recent name="$PROJECT_DIR$/themes/techno24/partials" />
-      <recent name="$PROJECT_DIR$/themes/techno24/partials/blogs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes/techno24/layouts" />
       <recent name="$PROJECT_DIR$/themes/techno24/content/produits" />
       <recent name="$PROJECT_DIR$/themes/techno24/content/home" />
       <recent name="$PROJECT_DIR$/themes/techno24/partials" />
       <recent name="$PROJECT_DIR$/themes/techno24/pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/techno24/assets/css" />
+      <recent name="$PROJECT_DIR$/themes/techno24/partials" />
+      <recent name="$PROJECT_DIR$/themes/techno24/partials/blogs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -342,7 +437,19 @@
       <workItem from="1574267196360" duration="21000" />
       <workItem from="1574276140074" duration="773000" />
       <workItem from="1574289256364" duration="166000" />
-      <workItem from="1574363488743" duration="358000" />
+      <workItem from="1574363488743" duration="589000" />
+      <workItem from="1574610076981" duration="16000" />
+      <workItem from="1574628215884" duration="8000" />
+      <workItem from="1574691029128" duration="1339000" />
+      <workItem from="1574709323968" duration="721000" />
+      <workItem from="1574719492449" duration="1759000" />
+      <workItem from="1574730238540" duration="990000" />
+      <workItem from="1574800807506" duration="7000" />
+      <workItem from="1574998396206" duration="612000" />
+      <workItem from="1575303272327" duration="390000" />
+      <workItem from="1576614572967" duration="342000" />
+      <workItem from="1576705494807" duration="1004000" />
+      <workItem from="1579017453524" duration="1028000" />
     </task>
     <task id="LOCAL-00001" summary="Init Techno24 sources to git">
       <created>1571018953989</created>
@@ -596,11 +703,60 @@
       <option name="project" value="LOCAL" />
       <updated>1574289360146</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Upload missing files">
+      <created>1574363927044</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1574363927044</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Upload css for article">
+      <created>1574692441953</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1574692441953</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Update Share codes">
+      <created>1574710030347</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1574710030347</updated>
+    </task>
+    <task id="LOCAL-00040" summary="New page (video) + chnage fallback font for sans-serif">
+      <created>1574721324709</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1574721324709</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Update editor for the blog">
+      <created>1574732733625</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1574732733625</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Update to bootstrap 4.4">
+      <created>1574999182353</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1574999182353</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Update CMS ands plugins">
+      <created>1576615053198</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1576615053198</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138410000" />
+    <option name="totallyTimeSpent" value="146857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -614,24 +770,24 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26129428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3003663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -679,13 +835,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Finish the products componant + iamges" />
-    <MESSAGE value="Finish translate fields" />
-    <MESSAGE value="Fix menu" />
-    <MESSAGE value="Extended Plugin for translation" />
-    <MESSAGE value="Apply SEO to the Web Site" />
-    <MESSAGE value="Apply respondsive class to layouts" />
-    <MESSAGE value="Apply basic animation to the web page ;) magic!!" />
     <MESSAGE value="Fix a brunch of bugs" />
     <MESSAGE value="Add author for the blog posts" />
     <MESSAGE value="Update testimotial speed; add 404 page" />
@@ -704,181 +853,20 @@
     <MESSAGE value="Text update (client)" />
     <MESSAGE value="Missing closing tags" />
     <MESSAGE value="Add text - request client" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add text - request client" />
+    <MESSAGE value="Upload missing files" />
+    <MESSAGE value="Upload css for article" />
+    <MESSAGE value="Update Share codes" />
+    <MESSAGE value="New page (video) + chnage fallback font for sans-serif" />
+    <MESSAGE value="Update editor for the blog" />
+    <MESSAGE value="Update to bootstrap 4.4" />
+    <MESSAGE value="Update CMS ands plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CMS ands plugins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-bitdefender.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/hosting.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_utilities.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_type.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1035">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/bootstrap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/font-awesome/css/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65505">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/font-awesome/css/all.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4542">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produits/p-forfaits-365.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produits/p-intro-hosting.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="75" column="19" lean-forward="false" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/css/partners.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/css/partners.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1311" lean-forward="false" selection-start-line="0" selection-start-column="1311" selection-end-line="0" selection-end-column="1311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/testimonials/assets/css/testimonial-slider.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7571" lean-forward="false" selection-start-line="0" selection-start-column="7571" selection-end-line="0" selection-end-column="7571" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/testimonials/assets/css/testimonial-slider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1785" lean-forward="false" selection-start-line="0" selection-start-column="1785" selection-end-line="0" selection-end-column="1785" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/contact.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/order.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/testimonials/components/Testimonials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -907,20 +895,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="58" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/dist/js/bootstrap.min.js" />
     <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/blogList.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -970,35 +945,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="11134" column="1" lean-forward="true" selection-start-line="11134" selection-start-column="1" selection-end-line="11134" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="922">
-          <caret line="5" column="113850" lean-forward="false" selection-start-line="5" selection-start-column="113850" selection-end-line="5" selection-end-column="113850" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/share.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1033,32 +980,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/secondary.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="93" column="7" lean-forward="false" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="44" column="3" lean-forward="false" selection-start-line="44" selection-start-column="3" selection-end-line="47" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.en.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="55" lean-forward="false" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/article/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_controls.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/facebook-module.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/share.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1066,6 +1033,199 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/order.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/404.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/video.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/controllers/Posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1110">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/post/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/post/fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/Settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-767">
+          <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/Plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="123" column="28" lean-forward="true" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/secondary.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="86" column="24" lean-forward="false" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="79" column="11" lean-forward="false" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="0" column="228374" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="235852" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15079" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick-1.6.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <marker date="1573765691421" expanded="true" signature="0:1807" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1573765691421" expanded="true" signature="1873:3656" ph="&lt;IfModule mod_expires.c&gt;" />
+            <marker date="1573765691421" expanded="true" signature="3751:4904" ph="&lt;IfModule mod_deflate.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="46" column="50" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
           <folding />
         </state>
       </provider>

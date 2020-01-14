@@ -1,0 +1,105 @@
+1579018646a:1:{s:11:"contact.htm";a:14:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:2406:"title = "Contact - Hébergement site web"
+url = "/contact"
+layout = "default"
+meta_title = "Contact - Hébergement site web"
+meta_description = "Vous avez des questions sur nos services? Contactez-nous et il nous fera plaisir de vous aider! Montréal et la Rive-Sud: 514-638-6924, Partout ailleurs: 1-866-998-1221, Informations: info@techno24.net"
+is_hidden = 0
+
+[testimonials myTestimonials]
+backgroundColor = "#FFFFFF"
+textColor = "#F39000"
+
+[simpleContact mysimplecontact]
+nameTitle = "Nom de l'entreprise"
+emailTitle = "Courriel"
+phoneTitle = "Téléphone"
+subjectTitle = "Sujet de votre courriel"
+messageTitle = "Commentaire"
+buttonText = "Envoyer"
+displayPhone = 1
+
+[viewBag]
+localeTitle[en] = "Contact - Website Hosting"
+localeUrl[en] = "/contact-website-hosting"
+localeMeta_title[en] = "Contact - Website Hosting"
+localeMeta_description[en] = "Do you have questions about our services? Contact us and we will be happy to help you! Montreal and the South Shore: 514-638-6924, Anywhere Elsewhere: 1-866-998-1221, Information: info@techno24.net"
+==
+<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row my-0 my-sm-4 my-lg-5">
+            <div class="col-sm-12 col-lg-6 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Vous avez des questions sur nos services?'|_ }}
+                    </strong></h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-8 pb-5">
+                {% component 'mysimplecontact' %}
+            </div>
+            <div class="col pb-3">
+                <div class="card primary-color">
+                    <div class="card-body white-text">
+                        {% partial 'info-entreprise' %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="my-5">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="h2-responsive text-center">
+                    {{ 'Témoignages clients'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% component 'myTestimonials' %}
+    </div>
+</section>";s:5:"mtime";i:1573762196;s:6:"markup";s:1326:"<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row my-0 my-sm-4 my-lg-5">
+            <div class="col-sm-12 col-lg-6 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Vous avez des questions sur nos services?'|_ }}
+                    </strong></h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-8 pb-5">
+                {% component 'mysimplecontact' %}
+            </div>
+            <div class="col pb-3">
+                <div class="card primary-color">
+                    <div class="card-body white-text">
+                        {% partial 'info-entreprise' %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="my-5">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="h2-responsive text-center">
+                    {{ 'Témoignages clients'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% component 'myTestimonials' %}
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:31:"Contact - Hébergement site web";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:10:"meta_title";s:31:"Contact - Hébergement site web";s:16:"meta_description";s:201:"Vous avez des questions sur nos services? Contactez-nous et il nous fera plaisir de vous aider! Montréal et la Rive-Sud: 514-638-6924, Partout ailleurs: 1-866-998-1221, Informations: info@techno24.net";s:9:"is_hidden";s:1:"0";s:27:"testimonials myTestimonials";a:2:{s:15:"backgroundColor";s:7:"#FFFFFF";s:9:"textColor";s:7:"#F39000";}s:29:"simpleContact mysimplecontact";a:7:{s:9:"nameTitle";s:19:"Nom de l'entreprise";s:10:"emailTitle";s:8:"Courriel";s:10:"phoneTitle";s:11:"Téléphone";s:12:"subjectTitle";s:23:"Sujet de votre courriel";s:12:"messageTitle";s:11:"Commentaire";s:10:"buttonText";s:7:"Envoyer";s:12:"displayPhone";s:1:"1";}s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:25:"Contact - Website Hosting";}s:9:"localeUrl";a:1:{s:2:"en";s:24:"/contact-website-hosting";}s:16:"localeMeta_title";a:1:{s:2:"en";s:25:"Contact - Website Hosting";}s:22:"localeMeta_description";a:1:{s:2:"en";s:197:"Do you have questions about our services? Contact us and we will be happy to help you! Montreal and the South Shore: 514-638-6924, Anywhere Elsewhere: 1-866-998-1221, Information: info@techno24.net";}}}}

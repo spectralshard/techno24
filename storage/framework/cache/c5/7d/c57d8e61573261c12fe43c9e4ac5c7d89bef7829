@@ -1,0 +1,80 @@
+1579018646a:1:{s:7:"404.htm";a:12:{s:8:"fileName";s:7:"404.htm";s:7:"content";s:1398:"title = "404"
+url = "/404"
+layout = "default"
+meta_title = "404"
+meta_description = ""
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "404"
+localeUrl[en] = "/404"
+localeMeta_title[en] = "404"
+localeMeta_description[en] = ""
+==
+<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-6 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>{{ 'Oops! La page demandé est introuvable!'|_ }}</strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="intro my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="wow flipInX" style="font-size:10rem;">
+                    404
+                </h2>
+                <p class="wow flipInX">
+                    {{ 'Cette page n\'existe plus, vous pouvez retourner à la page d\'accueil!'|_ }}
+                </p>
+                <a class="btn btn-secondary wow fadeInUp"
+                   href="{{ 'home'|page }}" role="button">
+                    {{'Retourné à la page d\'accueil'|_ }}
+                </a>
+            </div>
+        </div>
+        <div class="row my-5 pb-4">
+            <div class="col">
+
+            </div>
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1573596935;s:6:"markup";s:1175:"<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-6 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>{{ 'Oops! La page demandé est introuvable!'|_ }}</strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="intro my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="wow flipInX" style="font-size:10rem;">
+                    404
+                </h2>
+                <p class="wow flipInX">
+                    {{ 'Cette page n\'existe plus, vous pouvez retourner à la page d\'accueil!'|_ }}
+                </p>
+                <a class="btn btn-secondary wow fadeInUp"
+                   href="{{ 'home'|page }}" role="button">
+                    {{'Retourné à la page d\'accueil'|_ }}
+                </a>
+            </div>
+        </div>
+        <div class="row my-5 pb-4">
+            <div class="col">
+
+            </div>
+        </div>
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:3:"404";s:3:"url";s:4:"/404";s:6:"layout";s:7:"default";s:10:"meta_title";s:3:"404";s:16:"meta_description";s:0:"";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:3:"404";}s:9:"localeUrl";a:1:{s:2:"en";s:4:"/404";}s:16:"localeMeta_title";a:1:{s:2:"en";s:3:"404";}s:22:"localeMeta_description";a:1:{s:2:"en";s:0:"";}}}}
