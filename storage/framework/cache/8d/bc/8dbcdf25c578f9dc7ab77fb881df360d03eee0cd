@@ -1,0 +1,82 @@
+1579018646a:1:{s:9:"video.htm";a:12:{s:8:"fileName";s:9:"video.htm";s:7:"content";s:1937:"title = "Qui est derrière Techno24?"
+url = "/qui-est-derriere-techno24"
+layout = "default"
+meta_title = "Qui est derrière Techno24?"
+meta_description = "Spécialiste des solutions numériques, Techno24 offre des services d’hébergement bien pensés et très fiables. Nos serveurs basé à Montréal au Québec, Canada."
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "Who's behind Techno24? "
+localeUrl[en] = "/whos-behind-techno24"
+localeMeta_title[en] = "Who's behind Techno24?"
+localeMeta_description[en] = "Techno24 specializes in digital solutions, offering well-planned and super reliable hosting services. Our servers based in Montreal, Quebec, Canada."
+==
+<section class="primary-color py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center py-2">
+                <h1 class="h1-responsive wow flipInX white-text">
+                    {{ 'Qui est derrière Techno24?'|_ }}
+                </h1>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="my-5 py-3">
+    <div class="container my-5">
+        <div class="row pb-4">
+            <div class="col-xs-12 col-sm-8 mx-auto">
+                <div class="embed-responsive-16by9 secondary-shadow wow fadeInLeft">
+                    <div class="youtube" data-embed="tYsiEpaKR6k">
+                        <div class="play-button"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto">
+                {% content '/home/c-about' %}
+            </div>
+            <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto text-center pt-5">
+                <a class="btn btn-secondary wow fadeInUp "
+                   href="{{ 'home'|page }}" role="button">
+                    {{'Retourné à la page d\'accueil'|_ }}
+                </a>
+            </div>
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1574720774;s:6:"markup";s:1273:"<section class="primary-color py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center py-2">
+                <h1 class="h1-responsive wow flipInX white-text">
+                    {{ 'Qui est derrière Techno24?'|_ }}
+                </h1>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="my-5 py-3">
+    <div class="container my-5">
+        <div class="row pb-4">
+            <div class="col-xs-12 col-sm-8 mx-auto">
+                <div class="embed-responsive-16by9 secondary-shadow wow fadeInLeft">
+                    <div class="youtube" data-embed="tYsiEpaKR6k">
+                        <div class="play-button"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto">
+                {% content '/home/c-about' %}
+            </div>
+            <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto text-center pt-5">
+                <a class="btn btn-secondary wow fadeInUp "
+                   href="{{ 'home'|page }}" role="button">
+                    {{'Retourné à la page d\'accueil'|_ }}
+                </a>
+            </div>
+        </div>
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:27:"Qui est derrière Techno24?";s:3:"url";s:26:"/qui-est-derriere-techno24";s:6:"layout";s:7:"default";s:10:"meta_title";s:27:"Qui est derrière Techno24?";s:16:"meta_description";s:167:"Spécialiste des solutions numériques, Techno24 offre des services d’hébergement bien pensés et très fiables. Nos serveurs basé à Montréal au Québec, Canada.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:23:"Who's behind Techno24? ";}s:9:"localeUrl";a:1:{s:2:"en";s:21:"/whos-behind-techno24";}s:16:"localeMeta_title";a:1:{s:2:"en";s:22:"Who's behind Techno24?";}s:22:"localeMeta_description";a:1:{s:2:"en";s:148:"Techno24 specializes in digital solutions, offering well-planned and super reliable hosting services. Our servers based in Montreal, Quebec, Canada.";}}}}

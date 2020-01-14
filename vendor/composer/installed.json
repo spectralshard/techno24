@@ -650,33 +650,32 @@
     },
     {
         "name": "egulias/email-validator",
-        "version": "2.1.11",
-        "version_normalized": "2.1.11.0",
+        "version": "2.1.13",
+        "version_normalized": "2.1.13.0",
         "source": {
             "type": "git",
             "url": "https://github.com/egulias/EmailValidator.git",
-            "reference": "92dd169c32f6f55ba570c309d83f5209cefb5e23"
+            "reference": "834593d5900615639208417760ba6a17299e2497"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/92dd169c32f6f55ba570c309d83f5209cefb5e23",
-            "reference": "92dd169c32f6f55ba570c309d83f5209cefb5e23",
+            "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/834593d5900615639208417760ba6a17299e2497",
+            "reference": "834593d5900615639208417760ba6a17299e2497",
             "shasum": ""
         },
         "require": {
             "doctrine/lexer": "^1.0.1",
-            "php": ">= 5.5"
+            "php": ">=5.5"
         },
         "require-dev": {
-            "dominicsayers/isemail": "dev-master",
-            "phpunit/phpunit": "^4.8.35||^5.7||^6.0",
-            "satooshi/php-coveralls": "^1.0.1",
-            "symfony/phpunit-bridge": "^4.4@dev"
+            "dominicsayers/isemail": "^3.0.7",
+            "phpunit/phpunit": "^4.8.36|^7.5.15",
+            "satooshi/php-coveralls": "^1.0.1"
         },
         "suggest": {
             "ext-intl": "PHP Internationalization Libraries are required to use the SpoofChecking validation"
         },
-        "time": "2019-08-13T17:33:27+00:00",
+        "time": "2019-12-30T08:14:25+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -710,17 +709,17 @@
     },
     {
         "name": "erusev/parsedown",
-        "version": "1.7.3",
-        "version_normalized": "1.7.3.0",
+        "version": "1.7.4",
+        "version_normalized": "1.7.4.0",
         "source": {
             "type": "git",
             "url": "https://github.com/erusev/parsedown.git",
-            "reference": "6d893938171a817f4e9bc9e86f2da1e370b7bcd7"
+            "reference": "cb17b6477dfff935958ba01325f2e8a2bfa6dab3"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/erusev/parsedown/zipball/6d893938171a817f4e9bc9e86f2da1e370b7bcd7",
-            "reference": "6d893938171a817f4e9bc9e86f2da1e370b7bcd7",
+            "url": "https://api.github.com/repos/erusev/parsedown/zipball/cb17b6477dfff935958ba01325f2e8a2bfa6dab3",
+            "reference": "cb17b6477dfff935958ba01325f2e8a2bfa6dab3",
             "shasum": ""
         },
         "require": {
@@ -730,7 +729,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4.8.35"
         },
-        "time": "2019-03-17T18:48:37+00:00",
+        "time": "2019-12-30T22:54:17+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -758,23 +757,26 @@
     },
     {
         "name": "erusev/parsedown-extra",
-        "version": "0.7.1",
-        "version_normalized": "0.7.1.0",
+        "version": "0.8.1",
+        "version_normalized": "0.8.1.0",
         "source": {
             "type": "git",
             "url": "https://github.com/erusev/parsedown-extra.git",
-            "reference": "0db5cce7354e4b76f155d092ab5eb3981c21258c"
+            "reference": "91ac3ff98f0cea243bdccc688df43810f044dcef"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/0db5cce7354e4b76f155d092ab5eb3981c21258c",
-            "reference": "0db5cce7354e4b76f155d092ab5eb3981c21258c",
+            "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/91ac3ff98f0cea243bdccc688df43810f044dcef",
+            "reference": "91ac3ff98f0cea243bdccc688df43810f044dcef",
             "shasum": ""
         },
         "require": {
-            "erusev/parsedown": "~1.4"
+            "erusev/parsedown": "^1.7.4"
         },
-        "time": "2015-11-01T10:19:22+00:00",
+        "require-dev": {
+            "phpunit/phpunit": "^4.8.35"
+        },
+        "time": "2019-12-30T23:20:37+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1405,17 +1407,17 @@
     },
     {
         "name": "league/flysystem",
-        "version": "1.0.61",
-        "version_normalized": "1.0.61.0",
+        "version": "1.0.63",
+        "version_normalized": "1.0.63.0",
         "source": {
             "type": "git",
             "url": "https://github.com/thephpleague/flysystem.git",
-            "reference": "4fb13c01784a6c9f165a351e996871488ca2d8c9"
+            "reference": "8132daec326565036bc8e8d1876f77ec183a7bd6"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/4fb13c01784a6c9f165a351e996871488ca2d8c9",
-            "reference": "4fb13c01784a6c9f165a351e996871488ca2d8c9",
+            "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/8132daec326565036bc8e8d1876f77ec183a7bd6",
+            "reference": "8132daec326565036bc8e8d1876f77ec183a7bd6",
             "shasum": ""
         },
         "require": {
@@ -1445,7 +1447,7 @@
             "spatie/flysystem-dropbox": "Allows you to use Dropbox storage",
             "srmklive/flysystem-dropbox-v2": "Allows you to use Dropbox storage for PHP 5 applications"
         },
-        "time": "2019-12-08T21:46:50+00:00",
+        "time": "2020-01-04T16:30:31+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1550,17 +1552,17 @@
     },
     {
         "name": "monolog/monolog",
-        "version": "1.25.2",
-        "version_normalized": "1.25.2.0",
+        "version": "1.25.3",
+        "version_normalized": "1.25.3.0",
         "source": {
             "type": "git",
             "url": "https://github.com/Seldaek/monolog.git",
-            "reference": "d5e2fb341cb44f7e2ab639d12a1e5901091ec287"
+            "reference": "fa82921994db851a8becaf3787a9e73c5976b6f1"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/d5e2fb341cb44f7e2ab639d12a1e5901091ec287",
-            "reference": "d5e2fb341cb44f7e2ab639d12a1e5901091ec287",
+            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/fa82921994db851a8becaf3787a9e73c5976b6f1",
+            "reference": "fa82921994db851a8becaf3787a9e73c5976b6f1",
             "shasum": ""
         },
         "require": {
@@ -1596,7 +1598,7 @@
             "ruflin/elastica": "Allow sending log messages to an Elastic Search server",
             "sentry/sentry": "Allow sending log messages to a Sentry server"
         },
-        "time": "2019-11-13T10:00:05+00:00",
+        "time": "2019-12-20T14:15:16+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1630,17 +1632,17 @@
     },
     {
         "name": "mtdowling/cron-expression",
-        "version": "v1.2.1",
-        "version_normalized": "1.2.1.0",
+        "version": "v1.2.3",
+        "version_normalized": "1.2.3.0",
         "source": {
             "type": "git",
             "url": "https://github.com/mtdowling/cron-expression.git",
-            "reference": "9504fa9ea681b586028adaaa0877db4aecf32bad"
+            "reference": "9be552eebcc1ceec9776378f7dcc085246cacca6"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/mtdowling/cron-expression/zipball/9504fa9ea681b586028adaaa0877db4aecf32bad",
-            "reference": "9504fa9ea681b586028adaaa0877db4aecf32bad",
+            "url": "https://api.github.com/repos/mtdowling/cron-expression/zipball/9be552eebcc1ceec9776378f7dcc085246cacca6",
+            "reference": "9be552eebcc1ceec9776378f7dcc085246cacca6",
             "shasum": ""
         },
         "require": {
@@ -1649,7 +1651,7 @@
         "require-dev": {
             "phpunit/phpunit": "~4.0|~5.0"
         },
-        "time": "2017-01-23T04:29:33+00:00",
+        "time": "2019-12-28T04:23:06+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1793,17 +1795,17 @@
     },
     {
         "name": "october/backend",
-        "version": "v1.0.460",
-        "version_normalized": "1.0.460.0",
+        "version": "v1.0.464",
+        "version_normalized": "1.0.464.0",
         "source": {
             "type": "git",
             "url": "https://github.com/octoberrain/backend.git",
-            "reference": "14e3ff4c992316c0337266f7f606fc0db32fab09"
+            "reference": "85493d5de3d0eaf93c87c835b1c869af0d239dc6"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/octoberrain/backend/zipball/14e3ff4c992316c0337266f7f606fc0db32fab09",
-            "reference": "14e3ff4c992316c0337266f7f606fc0db32fab09",
+            "url": "https://api.github.com/repos/octoberrain/backend/zipball/85493d5de3d0eaf93c87c835b1c869af0d239dc6",
+            "reference": "85493d5de3d0eaf93c87c835b1c869af0d239dc6",
             "shasum": ""
         },
         "require": {
@@ -1811,7 +1813,7 @@
             "october/rain": "~1.0",
             "php": ">=7.0"
         },
-        "time": "2019-12-07T00:37:06+00:00",
+        "time": "2020-01-03T10:17:50+00:00",
         "type": "october-module",
         "extra": {
             "branch-alias": {
@@ -1854,17 +1856,17 @@
     },
     {
         "name": "october/cms",
-        "version": "v1.0.460",
-        "version_normalized": "1.0.460.0",
+        "version": "v1.0.464",
+        "version_normalized": "1.0.464.0",
         "source": {
             "type": "git",
             "url": "https://github.com/octoberrain/cms.git",
-            "reference": "f371fd5aa472c6f4e432747bc47217452fd51694"
+            "reference": "c7cbf4420fc372cc0c253382def9d5c99930e725"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/octoberrain/cms/zipball/f371fd5aa472c6f4e432747bc47217452fd51694",
-            "reference": "f371fd5aa472c6f4e432747bc47217452fd51694",
+            "url": "https://api.github.com/repos/octoberrain/cms/zipball/c7cbf4420fc372cc0c253382def9d5c99930e725",
+            "reference": "c7cbf4420fc372cc0c253382def9d5c99930e725",
             "shasum": ""
         },
         "require": {
@@ -1872,7 +1874,7 @@
             "october/rain": "~1.0",
             "php": ">=7.0"
         },
-        "time": "2019-11-25T05:59:00+00:00",
+        "time": "2019-12-19T06:42:25+00:00",
         "type": "october-module",
         "extra": {
             "branch-alias": {
@@ -1915,17 +1917,17 @@
     },
     {
         "name": "october/rain",
-        "version": "v1.0.461",
-        "version_normalized": "1.0.461.0",
+        "version": "v1.0.464",
+        "version_normalized": "1.0.464.0",
         "source": {
             "type": "git",
             "url": "https://github.com/octobercms/library.git",
-            "reference": "dfd85ebb48922c2abe49b5834c30d9d3e6ef15b5"
+            "reference": "2ab9df65e1d6bb2a67d21e766a6aa05490ab27e0"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/octobercms/library/zipball/dfd85ebb48922c2abe49b5834c30d9d3e6ef15b5",
-            "reference": "dfd85ebb48922c2abe49b5834c30d9d3e6ef15b5",
+            "url": "https://api.github.com/repos/octobercms/library/zipball/2ab9df65e1d6bb2a67d21e766a6aa05490ab27e0",
+            "reference": "2ab9df65e1d6bb2a67d21e766a6aa05490ab27e0",
             "shasum": ""
         },
         "require": {
@@ -1937,7 +1939,6 @@
             "leafo/scssphp": "~0.6",
             "league/csv": "~8.0",
             "linkorb/jsmin-php": "~1.0",
-            "oyejorge/less.php": "~1.7",
             "php": ">=7.0",
             "symfony/yaml": "~3.2",
             "twig/twig": "~2.0"
@@ -1977,7 +1978,7 @@
             "symfony/css-selector": "~3.1",
             "symfony/dom-crawler": "~3.1"
         },
-        "time": "2019-12-10T08:12:15+00:00",
+        "time": "2020-01-07T20:12:35+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1988,10 +1989,14 @@
         "autoload": {
             "files": [
                 "src/Support/helpers.php",
-                "src/Html/helpers.php"
+                "src/Html/helpers.php",
+                "src/Parse/Assetic/Less/lessc.inc.php"
             ],
             "psr-4": {
                 "October\\Rain\\": "src/"
+            },
+            "psr-0": {
+                "Less": "src/Parse/Assetic/Less/lib/"
             }
         },
         "notification-url": "https://packagist.org/downloads/",
@@ -2018,17 +2023,17 @@
     },
     {
         "name": "october/system",
-        "version": "v1.0.460",
-        "version_normalized": "1.0.460.0",
+        "version": "v1.0.464",
+        "version_normalized": "1.0.464.0",
         "source": {
             "type": "git",
             "url": "https://github.com/octoberrain/system.git",
-            "reference": "f5ab953546f78227cd227d2535fbf01562263b27"
+            "reference": "fd055298543dbc7263796dcf6d87db9823d0f21b"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/octoberrain/system/zipball/f5ab953546f78227cd227d2535fbf01562263b27",
-            "reference": "f5ab953546f78227cd227d2535fbf01562263b27",
+            "url": "https://api.github.com/repos/octoberrain/system/zipball/fd055298543dbc7263796dcf6d87db9823d0f21b",
+            "reference": "fd055298543dbc7263796dcf6d87db9823d0f21b",
             "shasum": ""
         },
         "require": {
@@ -2036,7 +2041,7 @@
             "october/rain": "~1.0",
             "php": ">=7.0"
         },
-        "time": "2019-12-05T08:44:04+00:00",
+        "time": "2020-01-06T20:04:25+00:00",
         "type": "october-module",
         "extra": {
             "branch-alias": {
@@ -2075,70 +2080,6 @@
             "october",
             "october cms",
             "system"
-        ]
-    },
-    {
-        "name": "oyejorge/less.php",
-        "version": "v1.7.0.14",
-        "version_normalized": "1.7.0.14",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/oyejorge/less.php.git",
-            "reference": "42925c5a01a07d67ca7e82dfc8fb31814d557bc9"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/oyejorge/less.php/zipball/42925c5a01a07d67ca7e82dfc8fb31814d557bc9",
-            "reference": "42925c5a01a07d67ca7e82dfc8fb31814d557bc9",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.3"
-        },
-        "require-dev": {
-            "phpunit/phpunit": "~4.8.24"
-        },
-        "time": "2017-03-28T22:19:25+00:00",
-        "bin": [
-            "bin/lessc"
-        ],
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-0": {
-                "Less": "lib/"
-            },
-            "classmap": [
-                "lessc.inc.php"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "Apache-2.0"
-        ],
-        "authors": [
-            {
-                "name": "Matt Agar",
-                "homepage": "https://github.com/agar"
-            },
-            {
-                "name": "Martin Jantošovič",
-                "homepage": "https://github.com/Mordred"
-            },
-            {
-                "name": "Josh Schmidt",
-                "homepage": "https://github.com/oyejorge"
-            }
-        ],
-        "description": "PHP port of the Javascript version of LESS http://lesscss.org (Originally maintained by Josh Schmidt)",
-        "homepage": "http://lessphp.gpeasy.com",
-        "keywords": [
-            "css",
-            "less",
-            "less.js",
-            "lesscss",
-            "php",
-            "stylesheet"
         ]
     },
     {
@@ -2416,23 +2357,23 @@
     },
     {
         "name": "ramsey/uuid",
-        "version": "3.9.1",
-        "version_normalized": "3.9.1.0",
+        "version": "3.9.2",
+        "version_normalized": "3.9.2.0",
         "source": {
             "type": "git",
             "url": "https://github.com/ramsey/uuid.git",
-            "reference": "5ac2740e0c8c599d2bbe7f113a939f2b5b216c67"
+            "reference": "7779489a47d443f845271badbdcedfe4df8e06fb"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/ramsey/uuid/zipball/5ac2740e0c8c599d2bbe7f113a939f2b5b216c67",
-            "reference": "5ac2740e0c8c599d2bbe7f113a939f2b5b216c67",
+            "url": "https://api.github.com/repos/ramsey/uuid/zipball/7779489a47d443f845271badbdcedfe4df8e06fb",
+            "reference": "7779489a47d443f845271badbdcedfe4df8e06fb",
             "shasum": ""
         },
         "require": {
             "ext-json": "*",
             "paragonie/random_compat": "^1 | ^2 | 9.99.99",
-            "php": "^5.4 | ^7",
+            "php": "^5.4 | ^7 | ^8",
             "symfony/polyfill-ctype": "^1.8"
         },
         "replace": {
@@ -2442,13 +2383,13 @@
             "codeception/aspect-mock": "^1 | ^2",
             "doctrine/annotations": "^1.2",
             "goaop/framework": "1.0.0-alpha.2 | ^1 | ^2.1",
-            "jakub-onderka/php-parallel-lint": "^0.9.0",
-            "mockery/mockery": "^0.9.9",
+            "jakub-onderka/php-parallel-lint": "^1",
+            "mockery/mockery": "^0.9.11 | ^1",
             "moontoast/math": "^1.1",
             "paragonie/random-lib": "^2",
             "php-mock/php-mock-phpunit": "^0.3 | ^1.1",
             "phpunit/phpunit": "^4.8 | ^5.4 | ^6.5",
-            "squizlabs/php_codesniffer": "^2.3"
+            "squizlabs/php_codesniffer": "^3.5"
         },
         "suggest": {
             "ext-ctype": "Provides support for PHP Ctype functions",
@@ -2460,7 +2401,7 @@
             "ramsey/uuid-console": "A console application for generating UUIDs with ramsey/uuid",
             "ramsey/uuid-doctrine": "Allows the use of Ramsey\\Uuid\\Uuid as Doctrine field type."
         },
-        "time": "2019-12-01T04:55:27+00:00",
+        "time": "2019-12-17T08:18:51+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -3880,17 +3821,17 @@
     },
     {
         "name": "twig/twig",
-        "version": "v2.12.2",
-        "version_normalized": "2.12.2.0",
+        "version": "v2.12.3",
+        "version_normalized": "2.12.3.0",
         "source": {
             "type": "git",
             "url": "https://github.com/twigphp/Twig.git",
-            "reference": "d761fd1f1c6b867ae09a7d8119a6d95d06dc44ed"
+            "reference": "97b6311585cae66a26833b14b33785f5797f7d39"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/twigphp/Twig/zipball/d761fd1f1c6b867ae09a7d8119a6d95d06dc44ed",
-            "reference": "d761fd1f1c6b867ae09a7d8119a6d95d06dc44ed",
+            "url": "https://api.github.com/repos/twigphp/Twig/zipball/97b6311585cae66a26833b14b33785f5797f7d39",
+            "reference": "97b6311585cae66a26833b14b33785f5797f7d39",
             "shasum": ""
         },
         "require": {
@@ -3900,10 +3841,9 @@
         },
         "require-dev": {
             "psr/container": "^1.0",
-            "symfony/debug": "^3.4|^4.2",
-            "symfony/phpunit-bridge": "^4.4@dev|^5.0"
+            "symfony/phpunit-bridge": "^4.4|^5.0"
         },
-        "time": "2019-11-11T16:52:09+00:00",
+        "time": "2019-12-28T07:12:03+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -3932,7 +3872,6 @@
             },
             {
                 "name": "Twig Team",
-                "homepage": "https://twig.symfony.com/contributors",
                 "role": "Contributors"
             },
             {
