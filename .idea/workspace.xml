@@ -2,111 +2,689 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
       <change beforePath="$PROJECT_DIR$/config/cms.php" afterPath="$PROJECT_DIR$/config/cms.php" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/assets/css/october.css" afterPath="$PROJECT_DIR$/modules/backend/assets/css/october.css" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/assets/js/october.treeview.js" afterPath="$PROJECT_DIR$/modules/backend/assets/js/october.treeview.js" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/assets/less/controls/scrollbar.less" afterPath="$PROJECT_DIR$/modules/backend/assets/less/controls/scrollbar.less" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/behaviors/RelationController.php" afterPath="$PROJECT_DIR$/modules/backend/behaviors/RelationController.php" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/classes/Controller.php" afterPath="$PROJECT_DIR$/modules/backend/classes/Controller.php" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/models/brandsetting/custom.less" afterPath="$PROJECT_DIR$/modules/backend/models/brandsetting/custom.less" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/Form.php" afterPath="$PROJECT_DIR$/modules/backend/widgets/Form.php" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/Table.php" afterPath="$PROJECT_DIR$/modules/backend/widgets/Table.php" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/form/assets/js/october.form.js" afterPath="$PROJECT_DIR$/modules/backend/widgets/form/assets/js/october.form.js" />
-      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/form/partials/_form_tabs.htm" afterPath="$PROJECT_DIR$/modules/backend/widgets/form/partials/_form_tabs.htm" />
-      <change beforePath="$PROJECT_DIR$/modules/cms/classes/Controller.php" afterPath="$PROJECT_DIR$/modules/cms/classes/Controller.php" />
-      <change beforePath="$PROJECT_DIR$/modules/cms/helpers/File.php" afterPath="$PROJECT_DIR$/modules/cms/helpers/File.php" />
-      <change beforePath="$PROJECT_DIR$/modules/system/ServiceProvider.php" afterPath="$PROJECT_DIR$/modules/system/ServiceProvider.php" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/js/eventlogs/exception-beautifier.js" afterPath="$PROJECT_DIR$/modules/system/assets/js/eventlogs/exception-beautifier.js" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/js/list.rowlink.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/js/list.rowlink.js" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/js/select.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/js/select.js" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/form.base.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/form.base.less" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/form.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/form.less" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/list.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/list.less" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/list.rowlink.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/list.rowlink.less" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/popup.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/popup.less" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/storm-min.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/storm-min.js" />
-      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/storm.css" afterPath="$PROJECT_DIR$/modules/system/assets/ui/storm.css" />
-      <change beforePath="$PROJECT_DIR$/modules/system/classes/CombineAssets.php" afterPath="$PROJECT_DIR$/modules/system/classes/CombineAssets.php" />
-      <change beforePath="$PROJECT_DIR$/modules/system/classes/PluginManager.php" afterPath="$PROJECT_DIR$/modules/system/classes/PluginManager.php" />
-      <change beforePath="$PROJECT_DIR$/modules/system/classes/UpdateManager.php" afterPath="$PROJECT_DIR$/modules/system/classes/UpdateManager.php" />
-      <change beforePath="$PROJECT_DIR$/modules/system/lang/sk/lang.php" afterPath="$PROJECT_DIR$/modules/system/lang/sk/lang.php" />
-      <change beforePath="$PROJECT_DIR$/modules/system/models/eventlog/fields.yaml" afterPath="$PROJECT_DIR$/modules/system/models/eventlog/fields.yaml" />
-      <change beforePath="$PROJECT_DIR$/plugins/october/demo/components/todo/default.htm" afterPath="$PROJECT_DIR$/plugins/october/demo/components/todo/default.htm" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/Plugin.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/Plugin.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/LICENCE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/Plugin.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/Editor.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/adapters/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/build-config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/ckeditor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/contents.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/es-ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/nb-no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/lang/zh-tw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es-ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb-no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-tw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/about/dialogs/about.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/colordialog/dialogs/colordialog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/colordialog/dialogs/colordialog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/div/dialogs/div.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/find/dialogs/find.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/flash/dialogs/flash.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/flash/images/placeholder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/checkbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/form.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/hiddenfield.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/radio.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/select.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/textarea.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/dialogs/textfield.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/forms/images/hiddenfield.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/icons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/icons_hidpi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/iframe/dialogs/iframe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/iframe/images/placeholder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/image/dialogs/image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/image/images/noimage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/dialogs/anchor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/dialogs/link.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/images/anchor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/link/images/hidpi/anchor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/liststyle/dialogs/liststyle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/hidpi/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/icon-rtl.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/magicline/images/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediaaudio/icons/ocmediaaudio.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediaaudio/plugin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmedialink/icons/ocmedialink.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmedialink/plugin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediamanager/icons/ocmediamanager.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediamanager/images/noimage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediamanager/plugin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediavideo/icons/ocmediavideo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocmediavideo/plugin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/dialogs/link.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/icons/ocpagelink.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/ocpagelink/plugin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/pagebreak/images/pagebreak.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/pastefromword/filter/default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/preview/preview.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/scayt/dialogs/options.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_address.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_blockquote.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_div.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_h6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_p.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/showblocks/images/block_pre.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/dialogs/smiley.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angel_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angel_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angry_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/angry_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/broken_heart.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/broken_heart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/confused_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/confused_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/cry_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/cry_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/devil_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/devil_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/embaressed_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/embarrassed_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/embarrassed_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/envelope.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/envelope.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/heart.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/heart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/kiss.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/kiss.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/lightbulb.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/lightbulb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/omg_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/omg_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/regular_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/regular_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/sad_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/sad_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/shades_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/shades_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/teeth_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/teeth_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_down.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_down.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_up.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/thumbs_up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/tongue_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/tongue_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/tounge_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/wink_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/smiley/images/wink_smile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/af.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/eu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ko.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/nb-no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/tt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-tw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/lang/zh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/table/dialogs/table.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/dialogs/templates.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/dialogs/templates.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/images/template1.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/images/template2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/templates/templates/images/template3.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/dialog_iequirks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_gecko.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/editor_iequirks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/icons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/icons_hidpi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/lock-open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/lock.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/hidpi/refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/lock-open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/lock.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/skins/moono/images/spinner.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/ckeditor/styles.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/jquery.tinymce.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/es-ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/nb-no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/langs/zh-tw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/advlist/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/anchor/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/autolink/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/autoresize/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/autosave/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/bbcode/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/charmap/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/code/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/codesample/css/prism.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/codesample/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/colorpicker/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/contextmenu/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/directionality/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-cool.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-cry.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-embarassed.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-frown.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-innocent.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-kiss.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-laughing.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-sealed.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-surprised.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-undecided.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-wink.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/img/smiley-yell.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/emoticons/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/example/dialog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/example/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/example_dependency/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/fullpage/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/fullscreen/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/hr/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/image/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/imagetools/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/importcss/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/insertdatetime/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/layer/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/legacyoutput/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/link/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/lists/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/media/moxieplayer.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/media/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/nonbreaking/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/noneditable/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/ocmediamanager/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/pagebreak/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/paste/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/preview/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/print/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/save/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/searchreplace/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/spellchecker/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/tabfocus/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/table/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/template/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/textcolor/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/textpattern/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/visualblocks/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/visualchars/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/plugins/wordcount/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/content.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/fonts/tinymce.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/object.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/skin.ie7.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/skins/lightgray/skin.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/atomic.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-atomic.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-demo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/bootstrap-prod.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/demo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/bolt/prod.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/config/dent/depend.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/compile/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/compile/theme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/inline/theme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/scratch/inline/theme.raw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/demo/css/demo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/demo/html/demo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/demo/js/tinymce/inlite/Demo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/Theme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Arr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Bookmark.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Unlink.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Uuid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Actions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Convert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/ElementMatcher.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Layout.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Matcher.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Measure.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/PredicateId.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SelectionMatcher.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SkinLoader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/UrlType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Conversions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Picker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Buttons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Forms.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Panel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Toolbar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/alien/ArrTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/alien/UuidTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/core/ConvertTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/core/MatcherTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/atomic/core/UrlTypeTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/ThemeTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/alien/BookmarkTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/alien/UnlinkTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/ActionsTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/ElementMatcher.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/LayoutTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/MeasureTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/PredicateIdTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/core/SelectionMatcherTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/file/ConversionsTest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/src/test/js/browser/file/SelectionMatcher.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/inlite/theme.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/themes/modern/theme.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/assets/tinymce/tinymce.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/partials/_ckeditor.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/formwidgets/editor/partials/_tinymce.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/cs/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/en/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/fr/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/hu/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/pt-br/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/ru/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/tr/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/lang/zh-cn/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/models/Settings.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/models/settings/fields.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/anandpatel/wysiwygeditors/updates/version.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/Plugin.php" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/Plugin.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/README.md" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/README.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/components/SmallContactForm.php" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/components/SmallContactForm.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/components/smallcontactform/default.htm" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/components/smallcontactform/default.htm" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/updates/version.yaml" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/vendor/autoload.php" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/vendor/autoload.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/vendor/composer/autoload_real.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/janvince/smallcontactform/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/plugins/janvince/smallcontactform/vendor/composer/autoload_static.php" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/README.md" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/README.md" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableCmsObject.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableCmsObject.php" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableModel.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatableModel.php" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatablePage.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/behaviors/TranslatablePage.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/classes/TranslatableBehavior.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/classes/TranslatableBehavior.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/lang/en/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/lang/en/lang.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/lang/fr/lang.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/lang/fr/lang.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/models/Message.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/models/Message.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageExport.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageExport.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageImport.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/models/MessageImport.php" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/tests/unit/behaviors/TranslatableModelTest.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/tests/unit/behaviors/TranslatableModelTest.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/updates/builder_table_update_rainlab_translate_locales.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/updates/builder_table_update_rainlab_translate_locales.php" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/updates/version.yaml" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/autoload.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/autoload.php" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_real.php" />
       <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/autoload_static.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installed.json" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/composer.json" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/composer.json" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/Installer.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/Installer.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" />
-      <change beforePath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" afterPath="$PROJECT_DIR$/plugins/rainlab/translate/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/Plugin.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/Plugin.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/tests/PluginTest.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/tests/PluginTest.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/updates/version.yaml" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/autoload.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/autoload.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/autoload_real.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/autoload_static.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installed.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/composer.json" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/composer.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/Installer.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/Installer.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-ctype/composer.json" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-ctype/composer.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-mbstring/Mbstring.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-mbstring/Mbstring.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-mbstring/bootstrap.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-mbstring/bootstrap.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-mbstring/composer.json" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/polyfill-mbstring/composer.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/translation/Resources/schemas/xliff-core-1.2-strict.xsd" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/symfony/translation/Resources/schemas/xliff-core-1.2-strict.xsd" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/CHANGELOG" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/CHANGELOG" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/README.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/README.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/composer.json" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/composer.json" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/advanced.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/advanced.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/api.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/api.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/coding_standards.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/coding_standards.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/deprecated.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/deprecated.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/abs.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/abs.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/batch.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/batch.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/capitalize.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/capitalize.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/convert_encoding.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/convert_encoding.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/date.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/date.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/date_modify.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/date_modify.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/default.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/default.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/escape.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/escape.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/first.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/first.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/format.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/format.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/index.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/index.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/join.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/join.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/json_encode.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/json_encode.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/keys.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/keys.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/last.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/last.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/length.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/length.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/lower.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/lower.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/merge.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/merge.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/nl2br.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/nl2br.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/number_format.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/number_format.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/raw.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/raw.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/replace.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/replace.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/reverse.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/reverse.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/round.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/round.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/slice.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/slice.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/sort.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/sort.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/spaceless.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/spaceless.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/split.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/split.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/striptags.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/striptags.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/title.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/title.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/trim.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/trim.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/upper.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/upper.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/url_encode.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/filters/url_encode.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/attribute.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/attribute.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/block.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/block.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/constant.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/constant.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/cycle.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/cycle.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/date.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/date.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/dump.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/dump.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/include.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/include.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/index.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/index.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/max.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/max.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/min.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/min.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/parent.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/parent.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/random.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/random.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/range.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/range.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/source.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/source.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/template_from_string.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/functions/template_from_string.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/internals.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/internals.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/intro.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/intro.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/recipes.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/recipes.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/autoescape.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/autoescape.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/deprecated.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/deprecated.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/do.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/do.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/embed.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/embed.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/extends.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/extends.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/filter.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/filter.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/flush.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/flush.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/for.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/for.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/from.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/from.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/if.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/if.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/import.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/import.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/include.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/include.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/index.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/index.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/macro.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/macro.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/sandbox.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/sandbox.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/set.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/set.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/spaceless.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/spaceless.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/use.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/use.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/verbatim.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/verbatim.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/with.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tags/with.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/templates.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/templates.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/constant.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/constant.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/defined.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/defined.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/divisibleby.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/divisibleby.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/empty.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/empty.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/even.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/even.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/iterable.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/iterable.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/null.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/null.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/odd.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/odd.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/sameas.rst" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/doc/tests/sameas.rst" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Cache/FilesystemCache.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Cache/FilesystemCache.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Environment.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Environment.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Error/Error.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Error/Error.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Error/LoaderError.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Error/LoaderError.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/ExpressionParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/ExpressionParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/CoreExtension.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/CoreExtension.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/DebugExtension.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/DebugExtension.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/EscaperExtension.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/EscaperExtension.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/SandboxExtension.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/SandboxExtension.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/StagingExtension.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/StagingExtension.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/StringLoaderExtension.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Extension/StringLoaderExtension.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/ExtensionSet.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/ExtensionSet.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Lexer.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Lexer.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Loader/FilesystemLoader.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Loader/FilesystemLoader.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/BlockNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/BlockNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/CheckToStringNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/CheckToStringNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/CallExpression.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/CallExpression.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/GetAttrExpression.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/GetAttrExpression.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/MethodCallExpression.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/MethodCallExpression.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/NameExpression.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/NameExpression.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/NullCoalesceExpression.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/NullCoalesceExpression.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/Test/DefinedTest.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Expression/Test/DefinedTest.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/ImportNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/ImportNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/IncludeNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/IncludeNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/MacroNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/MacroNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/ModuleNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/ModuleNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Node.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/Node.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/SandboxedPrintNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/SandboxedPrintNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/SetNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/SetNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/SpacelessNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/SpacelessNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/WithNode.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Node/WithNode.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeTraverser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeTraverser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/NodeVisitorInterface.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/NodeVisitorInterface.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Parser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Parser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Profiler/Profile.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Profiler/Profile.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedFilterError.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedFilterError.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedFunctionError.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedFunctionError.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedMethodError.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedMethodError.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedPropertyError.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedPropertyError.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedTagError.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityNotAllowedTagError.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityPolicyInterface.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Sandbox/SecurityPolicyInterface.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Template.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Template.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TemplateWrapper.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TemplateWrapper.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Test/IntegrationTestCase.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Test/IntegrationTestCase.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Test/NodeTestCase.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Test/NodeTestCase.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Token.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/Token.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/AbstractTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/AbstractTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/ExtendsTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/ExtendsTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/FilterTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/FilterTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/ForTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/ForTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/FromTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/FromTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/ImportTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/ImportTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/MacroTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/MacroTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/SpacelessTokenParser.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenParser/SpacelessTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenStream.php" afterPath="$PROJECT_DIR$/plugins/vojtasvoboda/twigextensions/vendor/twig/twig/src/TokenStream.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/08/20/facebook-module.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/08/20/facebook-module.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/2c/13/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/2c/13/default.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/50/8e/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/50/8e/default.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/60/0a/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/60/0a/default.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/89/6d/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/89/6d/default.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/c3/26/footer.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/c3/26/footer.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/d9/b5/home.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/d9/b5/home.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/fb/43/header.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/fb/43/header.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/fb/ed/navbar.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/fb/ed/navbar.htm.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/6233c3171d93bbda0265f6daa98c13d3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/80f1f59c17e536e4b438752e0883bbd1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/9420c889330c08acfd4388d939773ca6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/disabled.json" afterPath="$PROJECT_DIR$/storage/cms/disabled.json" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c0/c07a89367a04aa0434221c633c09ddd09385f05f1087cbf3ae06dd9dc99886d8.php" afterPath="$PROJECT_DIR$/storage/cms/twig/c0/c07a89367a04aa0434221c633c09ddd09385f05f1087cbf3ae06dd9dc99886d8.php" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" afterPath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/0a/98/0a9822de12be4cd4fd24a71e1da24de9df28956d" afterPath="$PROJECT_DIR$/storage/framework/cache/0a/98/0a9822de12be4cd4fd24a71e1da24de9df28956d" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleValidationWithAnd.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleValidationWithAnd.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/phpunit.xml.dist" />
-      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/ParsedownExtra.php" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/ParsedownExtra.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/composer.json" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/phpunit.xml.dist" />
-      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/test/ParsedownExtraTest.php" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown-extra/test/ParsedownExtraTest.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/erusev/parsedown/Parsedown.php" afterPath="$PROJECT_DIR$/vendor/erusev/parsedown/Parsedown.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/composer.json" afterPath="$PROJECT_DIR$/vendor/league/flysystem/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/AbstractFtpAdapter.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/AbstractFtpAdapter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/Ftp.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/Ftp.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Exception.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Exception.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/FilesystemNotFoundException.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/FilesystemNotFoundException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/NotSupportedException.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/NotSupportedException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/RootViolationException.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/RootViolationException.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Util.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Util.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/mtdowling/cron-expression/composer.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/cron-expression/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/october/rain/composer.json" afterPath="$PROJECT_DIR$/vendor/october/rain/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Database/Builder.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Database/Builder.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Database/README.md" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Database/README.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/README.md" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/README.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Support/helpers.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Support/helpers.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Translation/Translator.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Translation/Translator.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/composer.json" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" afterPath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/composer.json" afterPath="$PROJECT_DIR$/vendor/twig/twig/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/advanced.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/advanced.rst" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/api.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/api.rst" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/currency_name.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/currency_name.rst" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/index.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/index.rst" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/templates.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/templates.rst" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/tests/sameas.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/tests/sameas.rst" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/drupal_test.sh" afterPath="$PROJECT_DIR$/vendor/twig/twig/drupal_test.sh" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/TokenParser/SpacelessTokenParser.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/TokenParser/SpacelessTokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" afterPath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/23/37/2337845e765c1bac2dc0390d80535271f03bbb78" afterPath="$PROJECT_DIR$/storage/framework/cache/23/37/2337845e765c1bac2dc0390d80535271f03bbb78" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" afterPath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2c/06/2c06cadbca11cd270e0ee5b65d05d115308921cb" afterPath="$PROJECT_DIR$/storage/framework/cache/2c/06/2c06cadbca11cd270e0ee5b65d05d115308921cb" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" afterPath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" afterPath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" afterPath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" afterPath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" afterPath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/76/a1/76a1197253c66e5c58a88a69fee23519aa6eb7be" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/7c/46/7c46e59c4c5b3288acf5899f4a486dce409e1873" afterPath="$PROJECT_DIR$/storage/framework/cache/7c/46/7c46e59c4c5b3288acf5899f4a486dce409e1873" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/89/34/893431b7b82a5413f6314e5f2bdfdf9bd083f9ba" afterPath="$PROJECT_DIR$/storage/framework/cache/89/34/893431b7b82a5413f6314e5f2bdfdf9bd083f9ba" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/45/8c454812356b6e1c1d6e86bd81e2ccac99c0e13e" afterPath="$PROJECT_DIR$/storage/framework/cache/8c/45/8c454812356b6e1c1d6e86bd81e2ccac99c0e13e" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/e2/8ce2df2b9afc375e91f61cc576690bf80035452e" afterPath="$PROJECT_DIR$/storage/framework/cache/8c/e2/8ce2df2b9afc375e91f61cc576690bf80035452e" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/bc/8dbcdf25c578f9dc7ab77fb881df360d03eee0cd" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/bc/8dbcdf25c578f9dc7ab77fb881df360d03eee0cd" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterPath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterPath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/aa/23/aa23c3a60e11bab9a276b19e897997bce67cf6e1" afterPath="$PROJECT_DIR$/storage/framework/cache/aa/23/aa23c3a60e11bab9a276b19e897997bce67cf6e1" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b7/4d/b74d7547fa866c21dac0e098cfc8f5c9804cccb7" afterPath="$PROJECT_DIR$/storage/framework/cache/b7/4d/b74d7547fa866c21dac0e098cfc8f5c9804cccb7" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c1/41/c1418ad3d765eed2f26f97611bd4af5edc135878" afterPath="$PROJECT_DIR$/storage/framework/cache/c1/41/c1418ad3d765eed2f26f97611bd4af5edc135878" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c5/7d/c57d8e61573261c12fe43c9e4ac5c7d89bef7829" afterPath="$PROJECT_DIR$/storage/framework/cache/c5/7d/c57d8e61573261c12fe43c9e4ac5c7d89bef7829" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ce/33/ce3359e17f1d4b366a048b816816bfc36e9f606b" afterPath="$PROJECT_DIR$/storage/framework/cache/ce/33/ce3359e17f1d4b366a048b816816bfc36e9f606b" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" afterPath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/e0/d2/e0d2b1a9a928ad21932d6f3059aad6e736dbdb4f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/e3/05/e305dbb24f74536639b421c3d6b05ec5591fd919" afterPath="$PROJECT_DIR$/storage/framework/cache/e3/05/e305dbb24f74536639b421c3d6b05ec5591fd919" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" afterPath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/fc/2c/fc2cc22badbdfa41edc31b6e899492b25e2474dc" afterPath="$PROJECT_DIR$/storage/framework/cache/fc/2c/fc2cc22badbdfa41edc31b6e899492b25e2474dc" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/3O9Z6P7IRd2mT5ztc2kIsOvOziVO41l488acqICO" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -117,57 +695,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="slick-1.6.0.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick-1.6.0.js">
+      <file leaf-file-name="promotion-agents-voyages-2020.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Partner.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="81" />
+            <state relative-caret-position="315">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
+      <file leaf-file-name="navbar.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/navbar.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="6" />
-              <folding>
-                <marker date="1573765691421" expanded="true" signature="0:1807" ph="&lt;IfModule mod_rewrite.c&gt;" />
-                <marker date="1573765691421" expanded="true" signature="1873:3656" ph="&lt;IfModule mod_expires.c&gt;" />
-                <marker date="1573765691421" expanded="true" signature="3751:4904" ph="&lt;IfModule mod_deflate.c&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cms.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/cms.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="46" column="50" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slick.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -252,9 +794,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/techno24/partials/mysimplecontact/flashMessage.htm" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.js" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/404.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/header.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/office365.htm" />
@@ -303,6 +842,9 @@
         <option value="$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/config/cms.php" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/promotion-agent-voyage-2020.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
       </list>
     </option>
   </component>
@@ -313,7 +855,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -335,6 +877,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,19 +889,25 @@
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -449,7 +999,9 @@
       <workItem from="1575303272327" duration="390000" />
       <workItem from="1576614572967" duration="342000" />
       <workItem from="1576705494807" duration="1004000" />
-      <workItem from="1579017453524" duration="1028000" />
+      <workItem from="1579017453524" duration="1261000" />
+      <workItem from="1580417818357" duration="917000" />
+      <workItem from="1581018599761" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="Init Techno24 sources to git">
       <created>1571018953989</created>
@@ -752,11 +1304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576615053198</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Update CMS and plugins to last version">
+      <created>1579020532102</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1579020532102</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146857000" />
+    <option name="totallyTimeSpent" value="148780000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -770,17 +1329,17 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3003663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -835,7 +1394,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Fix a brunch of bugs" />
     <MESSAGE value="Add author for the blog posts" />
     <MESSAGE value="Update testimotial speed; add 404 page" />
     <MESSAGE value="Add redirect, clear and speedy plugin - refactor codes layout" />
@@ -860,27 +1418,14 @@
     <MESSAGE value="Update editor for the blog" />
     <MESSAGE value="Update to bootstrap 4.4" />
     <MESSAGE value="Update CMS ands plugins" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update CMS ands plugins" />
+    <MESSAGE value="Update CMS and plugins to last version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CMS and plugins to last version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/components/categories/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/components/post/default.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -956,13 +1501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/navbar.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="76" lean-forward="false" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -1043,13 +1581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/404.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1061,13 +1592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/video.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1176,29 +1700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick.min.js">
+    <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick-1.6.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="81" />
-          <folding />
+        <state relative-caret-position="-1350">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1214,18 +1719,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1350">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick-1.6.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/cms.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="46" column="50" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+        <state relative-caret-position="649">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/contact.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/404.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/video.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/navbar.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
           <folding />
         </state>
       </provider>
