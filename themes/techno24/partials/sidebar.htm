@@ -1,0 +1,26 @@
+<div class="row d-flex justify-content-end">
+    <div class=" col-xs-12 col-sm-11 mb-4 px-0 text-center">
+        <small class="text-muted">-{{'Publicité'|_}}-</small>
+        {% if lang == 'fr' %}
+        <div class="">
+            <a href="{{ 'order'|page }}" target="_blank">
+                <img class="mx-auto d-block border border-dark"
+                     src="{{ '/sidebar/pub-maison-antivirus-300x.jpg'|media }}"
+                     data-holder-rendered="true">
+            </a>
+        </div>
+        {% else %}
+        <div class="">
+            <a href="{{ 'order'|page }}" target="_blank">
+                <img class="mx-auto d-block border border-dark"
+                     src="{{ '/sidebar/pub-maison-antivirus-300x-en.jpg'|media }}"
+                     data-holder-rendered="true">
+            </a>
+        </div>
+        {% endif %}
+    </div>
+    <div class=" col-xs-12 col-sm-11 primary-color rounded pt-2 pb-4 mb-4">
+        {% partial 'subscribe' %}
+    </div>
+
+</div>
