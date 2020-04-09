@@ -3,3 +3,6 @@ description: ''
 author: 'A Foisy'
 homepage: alexcorp.ca
 code: ''
+form: theme_fields.yaml
+require:
+    - RainLab.Blog

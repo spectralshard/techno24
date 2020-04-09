@@ -14,6 +14,8 @@ function onEnd()
     if ($this->post)
     $this->page->title = $this->post->title;
     $this['image_url'] = $this->post->featured_images[0]->path;
+    $this->page->meta_title = $this->post->title;
+    $this->page->meta_description = $this->post->summary;
 }
 ?>
 ==
