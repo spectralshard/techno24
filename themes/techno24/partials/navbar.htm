@@ -19,10 +19,11 @@ description = "Navigation bar"
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="#" role="button"
 				   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					<strong>OFFICE365</strong>
+					<strong>{{'PRODUITS'|_}}</strong>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'office365'|page }}#office">Office365</a>
+					<a class="dropdown-item" href="{{ 'bitdefender'|page }}">BitDefender</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#msazure">Microsoft Azure</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#entreprise">{{'Logiciel d\'entreprise'|_}}</a>
 				</div>
@@ -63,14 +64,14 @@ description = "Navigation bar"
 				   class="nav-link"
 				   data-request="onSwitchLocale"
 				   data-request-data="locale: 'en'" title="English">
-					<strong>ENGLISH</strong>
+					<strong>EN</strong>
 				</a>
 				{% else %}
 				<a href="#"
 				   class="nav-link"
 				   data-request="onSwitchLocale"
 				   data-request-data="locale: 'fr'" title="Français">
-					<strong>FRANÇAIS</strong>
+					<strong>FR</strong>
 				</a>
 				{% endif %}
 			</li>

@@ -38,12 +38,16 @@ $this['site_url'] = asset('');
     <meta property="og:title" content="{{ this.page.meta_title }} | Techno24" />
     <meta property="og:url" content="{{ ''|page }}" />
     {% if image_url %}
+    <meta property="og:image:secure_url" content="{{ image_url }}" />
     <meta property="og:image" content="{{ image_url }}" />
     <meta name="twitter:image" content="{{ image_url }}">
     {% else %}
+    <meta property="og:image:secure_url" content="{{'assets/images/default-share-img.jpg'|theme}}" />
     <meta property="og:image" content="{{'assets/images/default-share-img.jpg'|theme}}" />
     <meta name="twitter:image" content="{{'assets/images/default-share-img.jpg'|theme}}">
     {% endif %}
+    <meta property="og:image:height" content="1200">
+    <meta property="og:image:width" content="800">
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ this.page.settings.meta_description }}" />
     <meta property="og:locale" content="fr_CA">
