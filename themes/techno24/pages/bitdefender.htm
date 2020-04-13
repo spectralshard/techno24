@@ -10,6 +10,16 @@ localeTitle[en] = "Bitdefender, security solutions for your business"
 localeMeta_title[en] = "Bitdefender, security solutions for your business"
 localeMeta_description[en] = "Protégez votre entreprise des cybermenaces sophistiquées à l’aide de Bitdefender, une plateforme unique de prévention, détection, réponse et renforcement."
 
+[portfolio produit_bitdefender]
+category = 5
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = "blog/article"
+itemPage = "blog/article"
+tagListPage = "blog/article"
 ==
 <?php
 function onEnd()
@@ -30,7 +40,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/bitdefender.jpg');
         {% partial '/bitdefender/intro' %}
     </div>
 </section>
-<section id="forfait" class="primary-color my-4 py-5">
+<section id="founctions" class="primary-color my-4 py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -44,7 +54,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/bitdefender.jpg');
         </div>
     </div>
 </section>
-<section id="solutions" class="my-4 py-5">
+<section id="features" class="my-4 py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -58,7 +68,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/bitdefender.jpg');
         </div>
     </div>
 </section>
-<section id="technologie" class="secondary-color mt-4 mb-0 py-5">
+<section id="about" class="secondary-color mt-4 mb-0 py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -68,5 +78,19 @@ $this['image_url'] = asset('/themes/techno24/assets/images/bitdefender.jpg');
             </div>
         </div>
         {% partial '/bitdefender/cta' %}
+    </div>
+</section>
+<section id="price" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Achat de licences'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
     </div>
 </section>
