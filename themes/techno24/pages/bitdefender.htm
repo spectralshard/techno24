@@ -1,0 +1,96 @@
+title = "Bitdefender, solutions de sécurité pour votre entreprise"
+url = "/bitdefender"
+layout = "default"
+meta_title = "Bitdefender, solutions de sécurité pour votre entreprise"
+meta_description = "Protégez votre entreprise des cybermenaces sophistiquées à l’aide de Bitdefender, une plateforme unique de prévention, détection, réponse et renforcement."
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "Bitdefender, security solutions for your business"
+localeMeta_title[en] = "Bitdefender, security solutions for your business"
+localeMeta_description[en] = "Protégez votre entreprise des cybermenaces sophistiquées à l’aide de Bitdefender, une plateforme unique de prévention, détection, réponse et renforcement."
+
+[portfolio produit_bitdefender]
+category = 5
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = "blog/article"
+itemPage = "blog/article"
+tagListPage = "blog/article"
+==
+<?php
+function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/bitdefender.jpg');
+}
+?>
+==
+<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'Bitdefender, solutions de sécurité pour votre entreprise'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/bitdefender/intro' %}
+    </div>
+</section>
+<section id="founctions" class="primary-color my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Listes des fonctionnalités'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% content '/p-bitdefender/c-features' %}
+        </div>
+    </div>
+</section>
+<section id="features" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Les Avantages'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% partial '/bitdefender/avantage' %}
+        </div>
+    </div>
+</section>
+<section id="about" class="secondary-color mt-4 mb-0 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Une protection totale'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/bitdefender/cta' %}
+    </div>
+</section>
+<section id="price" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Achat de licences'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
+    </div>
+</section>
