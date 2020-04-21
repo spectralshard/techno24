@@ -1,4 +1,4 @@
-1579018646a:1:{s:16:"blog/article.htm";a:10:{s:8:"fileName";s:16:"blog/article.htm";s:7:"content";s:1841:"title = "Article"
+1587494839a:1:{s:16:"blog/article.htm";a:10:{s:8:"fileName";s:16:"blog/article.htm";s:7:"content";s:1966:"title = "Article"
 url = "/blogue/article/:slug"
 layout = "default"
 is_hidden = 0
@@ -14,6 +14,8 @@ function onEnd()
     if ($this->post)
     $this->page->title = $this->post->title;
     $this['image_url'] = $this->post->featured_images[0]->path;
+    $this->page->meta_title = $this->post->title;
+    $this->page->meta_description = $this->post->summary;
 }
 ?>
 ==
@@ -39,24 +41,22 @@ function onEnd()
 <section id="blog">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-sm-12 col-md-8">
                 {% if post %}
                     {% component 'article' %}
+                    <div class="my-4 pt-3 border-top">
+                        {% partial 'share' %}
+                    </div>
                 {% else %}
                 <h2>Sujet introuvable</h2>
                 {% endif %}
             </div>
-            <div class="col-12 my-4 pt-3 border-top">
-                {% partial 'share' %}
+            <div class="col-sm-12 col-md-4 my-4">
+                {% partial 'sidebar' %}
             </div>
         </div>
     </div>
-</section>
-<section class="primary-color py-5">
-    <div class="container">
-        {% partial 'subscribe' %}
-    </div>
-</section>";s:5:"mtime";i:1573849925;s:6:"markup";s:1465:"<section class="primary-color py-4 mb-4">
+</section>";s:5:"mtime";i:1586456268;s:6:"markup";s:1482:"<section class="primary-color py-4 mb-4">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -78,27 +78,27 @@ function onEnd()
 <section id="blog">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-sm-12 col-md-8">
                 {% if post %}
                     {% component 'article' %}
+                    <div class="my-4 pt-3 border-top">
+                        {% partial 'share' %}
+                    </div>
                 {% else %}
                 <h2>Sujet introuvable</h2>
                 {% endif %}
             </div>
-            <div class="col-12 my-4 pt-3 border-top">
-                {% partial 'share' %}
+            <div class="col-sm-12 col-md-4 my-4">
+                {% partial 'sidebar' %}
             </div>
         </div>
     </div>
-</section>
-<section class="primary-color py-5">
-    <div class="container">
-        {% partial 'subscribe' %}
-    </div>
-</section>";s:4:"code";s:205:"function onEnd()
+</section>";s:4:"code";s:313:"function onEnd()
 {
     // Optional - set the page title to the post title
     if ($this->post)
     $this->page->title = $this->post->title;
     $this['image_url'] = $this->post->featured_images[0]->path;
+    $this->page->meta_title = $this->post->title;
+    $this->page->meta_description = $this->post->summary;
 }";s:5:"title";s:7:"Article";s:3:"url";s:21:"/blogue/article/:slug";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:16:"blogPost article";a:2:{s:4:"slug";s:11:"{{ :slug }}";s:12:"categoryPage";s:15:"blog/categories";}}}
