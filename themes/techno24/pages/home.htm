@@ -25,6 +25,14 @@ selectedCat = "{{ :selected_cat }}"
 catListPage = "blog/article"
 itemPage = "blog/article"
 tagListPage = "blog/article"
+
+[blogPosts lastestBlogEntry]
+pageNumber = "{{ :page }}"
+postsPerPage = 2
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog/categories"
+postPage = "blog/article"
 ==
 <div class="jumbotron hero-home">
     <div class="container">
@@ -39,7 +47,7 @@ tagListPage = "blog/article"
         </div>
     </div>
 </div>
-<section class="intro my-4">
+<section class="intro mt-4">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -63,7 +71,21 @@ tagListPage = "blog/article"
         </div>
     </div>
 </section>
-<section class="primary-color my-4 py-5">
+<section class="pb-5" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center py-5">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Les dernières nouvelles'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% component 'lastestBlogEntry' %}
+        </div>
+    </div>
+</section>
+<section class="primary-color py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
