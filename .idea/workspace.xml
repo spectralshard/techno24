@@ -2,11 +2,231 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/partials/sidebar.htm" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
       <change beforePath="$PROJECT_DIR$/config/cms.php" afterPath="$PROJECT_DIR$/config/cms.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/behaviors/ListController.php" afterPath="$PROJECT_DIR$/modules/backend/behaviors/ListController.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/formwidgets/Repeater.php" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/Repeater.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/formwidgets/fileupload/assets/js/fileupload.js" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/fileupload/assets/js/fileupload.js" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/formwidgets/markdowneditor/assets/css/markdowneditor.css" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/markdowneditor/assets/css/markdowneditor.css" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/formwidgets/repeater/assets/js/repeater.js" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/repeater/assets/js/repeater.js" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/formwidgets/repeater/partials/_repeater.htm" afterPath="$PROJECT_DIR$/modules/backend/formwidgets/repeater/partials/_repeater.htm" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/lang/en/lang.php" afterPath="$PROJECT_DIR$/modules/backend/lang/en/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/lang/fr/lang.php" afterPath="$PROJECT_DIR$/modules/backend/lang/fr/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/lang/nl/lang.php" afterPath="$PROJECT_DIR$/modules/backend/lang/nl/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/lang/sk/lang.php" afterPath="$PROJECT_DIR$/modules/backend/lang/sk/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/Filter.php" afterPath="$PROJECT_DIR$/modules/backend/widgets/Filter.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/Form.php" afterPath="$PROJECT_DIR$/modules/backend/widgets/Form.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/Lists.php" afterPath="$PROJECT_DIR$/modules/backend/widgets/Lists.php" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/form/assets/js/october.form.js" afterPath="$PROJECT_DIR$/modules/backend/widgets/form/assets/js/october.form.js" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/form/partials/_field_number.htm" afterPath="$PROJECT_DIR$/modules/backend/widgets/form/partials/_field_number.htm" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/lists/partials/_list_pagination.htm" afterPath="$PROJECT_DIR$/modules/backend/widgets/lists/partials/_list_pagination.htm" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/lists/partials/_list_pagination_simple.htm" afterPath="$PROJECT_DIR$/modules/backend/widgets/lists/partials/_list_pagination_simple.htm" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/mediamanager/assets/js/mediamanager-browser-min.js" afterPath="$PROJECT_DIR$/modules/backend/widgets/mediamanager/assets/js/mediamanager-browser-min.js" />
+      <change beforePath="$PROJECT_DIR$/modules/backend/widgets/mediamanager/assets/js/mediamanager.js" afterPath="$PROJECT_DIR$/modules/backend/widgets/mediamanager/assets/js/mediamanager.js" />
+      <change beforePath="$PROJECT_DIR$/modules/cms/lang/en/lang.php" afterPath="$PROJECT_DIR$/modules/cms/lang/en/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/cms/widgets/assetlist/assets/js/assetlist.js" afterPath="$PROJECT_DIR$/modules/cms/widgets/assetlist/assets/js/assetlist.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/ServiceProvider.php" afterPath="$PROJECT_DIR$/modules/system/ServiceProvider.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/js/updates/install.js" afterPath="$PROJECT_DIR$/modules/system/assets/js/updates/install.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/js/list.rowlink.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/js/list.rowlink.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/js/select.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/js/select.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/js/tab.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/js/tab.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/checkbox.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/checkbox.less" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/less/site.normalize.less" afterPath="$PROJECT_DIR$/modules/system/assets/ui/less/site.normalize.less" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/storm-min.js" afterPath="$PROJECT_DIR$/modules/system/assets/ui/storm-min.js" />
+      <change beforePath="$PROJECT_DIR$/modules/system/assets/ui/storm.css" afterPath="$PROJECT_DIR$/modules/system/assets/ui/storm.css" />
+      <change beforePath="$PROJECT_DIR$/modules/system/classes/PluginBase.php" afterPath="$PROJECT_DIR$/modules/system/classes/PluginBase.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/lang/en/client.php" afterPath="$PROJECT_DIR$/modules/system/lang/en/client.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/lang/en/lang.php" afterPath="$PROJECT_DIR$/modules/system/lang/en/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/lang/nl/lang.php" afterPath="$PROJECT_DIR$/modules/system/lang/nl/lang.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/models/EventLog.php" afterPath="$PROJECT_DIR$/modules/system/models/EventLog.php" />
+      <change beforePath="$PROJECT_DIR$/modules/system/traits/SecurityController.php" afterPath="$PROJECT_DIR$/modules/system/traits/SecurityController.php" />
+      <change beforePath="$PROJECT_DIR$/plugins/romanov/clearcachewidget/README.md" afterPath="$PROJECT_DIR$/plugins/romanov/clearcachewidget/README.md" />
+      <change beforePath="$PROJECT_DIR$/plugins/romanov/clearcachewidget/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/romanov/clearcachewidget/updates/version.yaml" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/CHANGES-V2.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/CODE-OF-CONDUCT.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/DOCUMENTATION.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/Plugin.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/assets/css/redirect.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/assets/css/statistics.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/assets/css/test-lab.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/assets/images/icon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/assets/javascript/statistics.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/assets/javascript/test-lab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/CacheManager.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/OptionHelper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/PageHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/PublishManager.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/RedirectManager.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/RedirectMiddleware.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/RedirectRule.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/Sparkline.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/StaticPageHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/StatisticsHelper.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/TesterBase.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/TesterResult.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/contracts/RedirectConditionInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/contracts/RedirectManagerInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/contracts/TesterInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/exceptions/InvalidScheme.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/exceptions/RulesPathNotReadable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/testers/RedirectCount.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/testers/RedirectFinalDestination.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/testers/RedirectLoop.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/testers/RedirectMatch.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/classes/testers/ResponseCode.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/config/config.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/console/PublishRedirects.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/Categories.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/Logs.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/Redirects.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/Statistics.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/TestLab.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/categories/_list_toolbar.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/categories/config_form.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/categories/config_list.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/categories/create.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/categories/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/categories/update.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/logs/_list_toolbar.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/logs/config_filter.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/logs/config_list.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/logs/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_field_statistics.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_list_toolbar.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_popup_actions.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_redirect_test.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_redirect_test_result.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_reorder_toolbar.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_sparkline.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_status_code_info.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/_warning.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/config_filter.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/config_form.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/config_import_export.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/config_list.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/config_reorder.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/create.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/export.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/import.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/reorder.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/request-log/_list_toolbar.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/request-log/_modal.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/request-log/columns.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/request-log/config_list.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/redirects/update.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/statistics/_loading-indicator.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/statistics/_redirect-hits-per-month.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/statistics/_score-board.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/statistics/_top-crawlers-this-month.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/statistics/_top-redirects-this-month.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/statistics/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/testlab/_test_button.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/testlab/_tester_failed.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/testlab/_tester_result.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/testlab/_tester_result_items.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/controllers/testlab/index.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/lang/en/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/lang/es/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/lang/fr/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/lang/nl/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/lang/ru/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/lang/sv/lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/Category.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/Redirect.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/RedirectExport.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/RedirectImport.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/RedirectLog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/Settings.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/category/columns.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/category/fields.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/client/columns.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/client/fields.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/redirect/columns.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/redirect/fields.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/redirectexport/columns.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/redirectimport/columns.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/redirectlog/columns.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/models/settings/fields.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/phpunit.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/reportwidgets/CreateRedirect.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/reportwidgets/TopTenRedirects.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/reportwidgets/createredirect/fields.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/reportwidgets/createredirect/partials/_widget.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/reportwidgets/toptenredirects/partials/_widget.htm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/routes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/serviceproviders/Redirect.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/tests/OptionHelperTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/tests/RedirectManagerTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/tests/RedirectRuleTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/20180718_0001_create_tables.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/20180831_0002_upgrade_from_adrenth_redirect.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/20181019_0003_add_ignore_query_parameters_to_redirects_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/20181117_0004_add_redirect_timestamp_crawler_index_on_clients_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/20181117_0005_add_month_year_crawler_index_on_clients_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/20190404_0006_add_description_to_redirects_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/20190704_0007_add_timestamp_crawler_index_on_clients_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/updates/version.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/autoload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/ClassLoader.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/autoload_classmap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/autoload_namespaces.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/autoload_psr4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/autoload_real.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/autoload_static.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/composer/installed.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/autoload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/composer.travis.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/grumphp.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/phpunit.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/src/Sparkline.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/src/Sparkline/DataTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/src/Sparkline/FormatTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/src/Sparkline/Picture.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/src/Sparkline/PointTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/src/Sparkline/StyleTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/src/autoload.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/tests/SparklineTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/tests/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/tests/data/testGenerate-mockup.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/tests/data/testGenerate2-mockup.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/davaxi/sparkline/tests/phpunit.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/export.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/raw/Crawlers.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/raw/Crawlers.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/raw/Exclusions.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/raw/Exclusions.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/raw/Headers.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/raw/Headers.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/src/CrawlerDetect.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/src/Fixtures/AbstractProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/src/Fixtures/Crawlers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/src/Fixtures/Exclusions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/jaybizzle/crawler-detect/src/Fixtures/Headers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/Section.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/Stopwatch.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/StopwatchEvent.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/StopwatchPeriod.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/Tests/StopwatchEventTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/Tests/StopwatchPeriodTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/Tests/StopwatchTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugins/vdlp/redirect/vendor/symfony/stopwatch/phpunit.xml.dist" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/cms/cache/08/20/facebook-module.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/08/20/facebook-module.htm.php" />
       <change beforePath="$PROJECT_DIR$/storage/cms/cache/2c/13/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/2c/13/default.htm.php" />
       <change beforePath="$PROJECT_DIR$/storage/cms/cache/50/8e/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/50/8e/default.htm.php" />
@@ -16,53 +236,203 @@
       <change beforePath="$PROJECT_DIR$/storage/cms/cache/d9/b5/home.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/d9/b5/home.htm.php" />
       <change beforePath="$PROJECT_DIR$/storage/cms/cache/fb/43/header.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/fb/43/header.htm.php" />
       <change beforePath="$PROJECT_DIR$/storage/cms/cache/fb/ed/navbar.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/fb/ed/navbar.htm.php" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/disabled.json" afterPath="$PROJECT_DIR$/storage/cms/disabled.json" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c0/c07a89367a04aa0434221c633c09ddd09385f05f1087cbf3ae06dd9dc99886d8.php" afterPath="$PROJECT_DIR$/storage/cms/twig/c0/c07a89367a04aa0434221c633c09ddd09385f05f1087cbf3ae06dd9dc99886d8.php" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/33db22e22a4ee2694ce4588ffdac415a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/6233c3171d93bbda0265f6daa98c13d3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/72af58d8df85e4063c09d49e7822b51b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/80f1f59c17e536e4b438752e0883bbd1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/9420c889330c08acfd4388d939773ca6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/0d/0dc648a4c4179ce8f65e64386b56c565154707723173046509b0530211eec241.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/4d/4d4f4e2fc0b48637aa8256dd0f593c9d2ab029c37412458e7bd735708d867b10.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/93/936704efafcfe4f89d927dfabba924b6ed607eeb67b4b4ee570bf7b2575f2b69.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/a8/a8f9e58ab2dc538dfef5f7987b7f87bc4e509ec520599baf4f5b3f65d0ae0cf4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/aa/aaed2d0b1d2c59dcabd0c4406267e5f4be9ca587dc191b7d1cc72345b21e7533.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/aa/aaf7836b1214e79e1493d735ccf81541e6018412343e2e462deafb81962a5c2a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/b5/b5143cb9a45e6cb53bfa8f8510ea0287c113455b122683df75bd17171b05a71f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/c0/c07a89367a04aa0434221c633c09ddd09385f05f1087cbf3ae06dd9dc99886d8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/cd/cd7e55ac5401025620a46b90e68228f7082c4a9e3b15ab47e6f8ebb85be59fe9.php" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" afterPath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/0a/98/0a9822de12be4cd4fd24a71e1da24de9df28956d" afterPath="$PROJECT_DIR$/storage/framework/cache/0a/98/0a9822de12be4cd4fd24a71e1da24de9df28956d" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" afterPath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/23/37/2337845e765c1bac2dc0390d80535271f03bbb78" afterPath="$PROJECT_DIR$/storage/framework/cache/23/37/2337845e765c1bac2dc0390d80535271f03bbb78" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" afterPath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/2c/06/2c06cadbca11cd270e0ee5b65d05d115308921cb" afterPath="$PROJECT_DIR$/storage/framework/cache/2c/06/2c06cadbca11cd270e0ee5b65d05d115308921cb" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" afterPath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" afterPath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" afterPath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" afterPath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/50/75/507546cbceef8f911bca5346b5644942ecc6c597" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" afterPath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" afterPath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/76/a1/76a1197253c66e5c58a88a69fee23519aa6eb7be" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/76/a1/76a1197253c66e5c58a88a69fee23519aa6eb7be" afterPath="$PROJECT_DIR$/storage/framework/cache/76/a1/76a1197253c66e5c58a88a69fee23519aa6eb7be" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/7c/46/7c46e59c4c5b3288acf5899f4a486dce409e1873" afterPath="$PROJECT_DIR$/storage/framework/cache/7c/46/7c46e59c4c5b3288acf5899f4a486dce409e1873" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/89/34/893431b7b82a5413f6314e5f2bdfdf9bd083f9ba" afterPath="$PROJECT_DIR$/storage/framework/cache/89/34/893431b7b82a5413f6314e5f2bdfdf9bd083f9ba" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/89/34/893431b7b82a5413f6314e5f2bdfdf9bd083f9ba" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/45/8c454812356b6e1c1d6e86bd81e2ccac99c0e13e" afterPath="$PROJECT_DIR$/storage/framework/cache/8c/45/8c454812356b6e1c1d6e86bd81e2ccac99c0e13e" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/e2/8ce2df2b9afc375e91f61cc576690bf80035452e" afterPath="$PROJECT_DIR$/storage/framework/cache/8c/e2/8ce2df2b9afc375e91f61cc576690bf80035452e" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/bc/8dbcdf25c578f9dc7ab77fb881df360d03eee0cd" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/bc/8dbcdf25c578f9dc7ab77fb881df360d03eee0cd" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/9f/41/9f41291c9e7827186b8e41157ba163fb73ed1f40" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/aa/23/aa23c3a60e11bab9a276b19e897997bce67cf6e1" afterPath="$PROJECT_DIR$/storage/framework/cache/aa/23/aa23c3a60e11bab9a276b19e897997bce67cf6e1" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/b7/4d/b74d7547fa866c21dac0e098cfc8f5c9804cccb7" afterPath="$PROJECT_DIR$/storage/framework/cache/b7/4d/b74d7547fa866c21dac0e098cfc8f5c9804cccb7" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/c1/41/c1418ad3d765eed2f26f97611bd4af5edc135878" afterPath="$PROJECT_DIR$/storage/framework/cache/c1/41/c1418ad3d765eed2f26f97611bd4af5edc135878" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/c5/7d/c57d8e61573261c12fe43c9e4ac5c7d89bef7829" afterPath="$PROJECT_DIR$/storage/framework/cache/c5/7d/c57d8e61573261c12fe43c9e4ac5c7d89bef7829" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ce/33/ce3359e17f1d4b366a048b816816bfc36e9f606b" afterPath="$PROJECT_DIR$/storage/framework/cache/ce/33/ce3359e17f1d4b366a048b816816bfc36e9f606b" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ce/33/ce3359e17f1d4b366a048b816816bfc36e9f606b" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" afterPath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/e0/d2/e0d2b1a9a928ad21932d6f3059aad6e736dbdb4f" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/e3/05/e305dbb24f74536639b421c3d6b05ec5591fd919" afterPath="$PROJECT_DIR$/storage/framework/cache/e3/05/e305dbb24f74536639b421c3d6b05ec5591fd919" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" afterPath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" afterPath="" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/fc/2c/fc2cc22badbdfa41edc31b6e899492b25e2474dc" afterPath="$PROJECT_DIR$/storage/framework/cache/fc/2c/fc2cc22badbdfa41edc31b6e899492b25e2474dc" />
       <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" afterPath="$PROJECT_DIR$/storage/framework/classes.php" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/services.php" afterPath="$PROJECT_DIR$/storage/framework/services.php" />
       <change beforePath="$PROJECT_DIR$/storage/framework/sessions/3O9Z6P7IRd2mT5ztc2kIsOvOziVO41l488acqICO" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/subscribe.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/subscribe.htm" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installers/composer.json" afterPath="$PROJECT_DIR$/vendor/composer/installers/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/Installer.php" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/Installer.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailLexer.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailLexer.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailParser.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailParser.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailValidator.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/EmailValidator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/DomainPart.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/DomainPart.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/LocalPart.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/LocalPart.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/Parser.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Parser/Parser.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/DNSCheckValidation.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/DNSCheckValidation.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/Exception/EmptyValidationList.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/Exception/EmptyValidationList.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleErrors.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleErrors.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleValidationWithAnd.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/MultipleValidationWithAnd.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/NoRFCWarningsValidation.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/NoRFCWarningsValidation.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/RFCValidation.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/RFCValidation.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/SpoofCheckValidation.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Validation/SpoofCheckValidation.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Warning/QuotedPart.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Warning/QuotedPart.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Warning/QuotedString.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Warning/QuotedString.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Warning/Warning.php" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/EmailValidator/Warning/Warning.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" afterPath="$PROJECT_DIR$/vendor/egulias/email-validator/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/composer.json" afterPath="$PROJECT_DIR$/vendor/league/flysystem/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/AbstractFtpAdapter.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/AbstractFtpAdapter.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/Ftp.php" afterPath="$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/Ftp.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/build/rain-split-faster.sh" afterPath="$PROJECT_DIR$/vendor/october/rain/build/rain-split-faster.sh" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Database/Relations/BelongsToMany.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Database/Relations/BelongsToMany.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Foundation/Exception/Handler.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Foundation/Exception/Handler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Foundation/Providers/ArtisanServiceProvider.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Foundation/Providers/ArtisanServiceProvider.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Mail/Mailer.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Mail/Mailer.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Parse/Assetic/Less/lib/Less/Tree/Import.php" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Parse/Assetic/Less/lib/Less/Tree/Import.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/LICENSE" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/TimeConverterInterface.php" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Converter/TimeConverterInterface.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/DegradedUuid.php" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/DegradedUuid.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Uuid.php" afterPath="$PROJECT_DIR$/vendor/ramsey/uuid/src/Uuid.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Application.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Application.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Command/Command.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Command/Command.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/FormatterHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/FormatterHelper.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/QuestionHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/QuestionHelper.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/SymfonyQuestionHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/SymfonyQuestionHelper.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/console/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/console/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Style/SymfonyStyle.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Style/SymfonyStyle.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/ApplicationTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/ApplicationTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/SymfonyQuestionHelperTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/SymfonyQuestionHelperTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/AbstractNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/AbstractNode.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/debug/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/debug/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/DebugClassLoaderTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/DebugClassLoaderTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/Exception/FlattenExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/Exception/FlattenExceptionTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/FatalErrorHandler/ClassNotFoundFatalErrorHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/FatalErrorHandler/ClassNotFoundFatalErrorHandlerTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/ContainerAwareEventDispatcher.php" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/ContainerAwareEventDispatcher.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/event-dispatcher/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/finder/Finder.php" afterPath="$PROJECT_DIR$/vendor/symfony/finder/Finder.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php" afterPath="$PROJECT_DIR$/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/finder/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/finder/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/BinaryFileResponse.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/BinaryFileResponse.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/RedirectResponse.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/RedirectResponse.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Response.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Response.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/ResponseHeaderBag.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/ResponseHeaderBag.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Handler/AbstractSessionHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Handler/AbstractSessionHandler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/NativeSessionStorage.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/NativeSessionStorage.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Proxy/AbstractProxy.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Proxy/AbstractProxy.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/ResponseHeaderBagTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/ResponseHeaderBagTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/Fixtures/storage.expected" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/Fixtures/storage.expected" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/Fixtures/with_cookie_and_session.expected" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/Handler/Fixtures/with_cookie_and_session.expected" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/NativeSessionStorageTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/Session/Storage/NativeSessionStorageTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Controller/ControllerResolver.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Controller/ControllerResolver.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/EventListener/DebugHandlersListener.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/EventListener/DebugHandlersListener.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/HttpCache/HttpCache.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/HttpCache/HttpCache.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Kernel.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Kernel.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Log/Logger.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Log/Logger.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Controller/ContainerControllerResolverTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Controller/ContainerControllerResolverTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/ControllerMetadata/ArgumentMetadataFactoryTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/ControllerMetadata/ArgumentMetadataFactoryTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/RequestDataCollectorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/DataCollector/RequestDataCollectorTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpCache/HttpCacheTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/HttpCache/HttpCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Log/LoggerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Log/LoggerTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-iconv/Resources/charset/translit.php" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-iconv/Resources/charset/translit.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-iconv/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-iconv/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Mbstring.php" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Mbstring.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php56/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php56/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php70/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php70/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php72/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-php72/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-util/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-util/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/process/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/PipeStdinInStdoutStdErrStreamSelect.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Tests/PipeStdinInStdoutStdErrStreamSelect.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/Annotation/Route.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Annotation/Route.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/routing/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/Loader/ObjectRouteLoader.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Loader/ObjectRouteLoader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/routing/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/Command/XliffLintCommand.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Command/XliffLintCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/DataCollector/TranslationDataCollector.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DataCollector/TranslationDataCollector.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/translation/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/Loader/PhpFileLoader.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/PhpFileLoader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogue.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogue.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/translation/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/Translator.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Translator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/Caster/Caster.php" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/Caster/Caster.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/Caster/DateCaster.php" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/Caster/DateCaster.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/Cloner/AbstractCloner.php" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/Cloner/AbstractCloner.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/Cloner/Stub.php" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/Cloner/Stub.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/Tests/Caster/DateCasterTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/Tests/Caster/DateCasterTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/var-dumper/Tests/Caster/ReflectionCasterTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/var-dumper/Tests/Caster/ReflectionCasterTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Dumper.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Dumper.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Inline.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Inline.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/yaml/LICENSE" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/yaml/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/DumperTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/DumperTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/InlineTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/InlineTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" afterPath="$PROJECT_DIR$/vendor/twig/twig/CHANGELOG" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/LICENSE" afterPath="$PROJECT_DIR$/vendor/twig/twig/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/advanced.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/advanced.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/format_currency.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/format_currency.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/html_to_markdown.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/html_to_markdown.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/number_format.rst" afterPath="$PROJECT_DIR$/vendor/twig/twig/doc/filters/number_format.rst" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Environment.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/ExpressionParser.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/ExpressionParser.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/CoreExtension.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/EscaperExtension.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Extension/EscaperExtension.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/twig/twig/src/Sandbox/SecurityPolicy.php" afterPath="$PROJECT_DIR$/vendor/twig/twig/src/Sandbox/SecurityPolicy.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,42 +443,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="article.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="56" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/navbar.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/sidebar.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subscribe.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/subscribe.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="54" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="140">
+              <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="15" />
+              <folding>
+                <marker date="1587046939349" expanded="true" signature="2741:2780" ph="[...]" />
+                <marker date="1587046939349" expanded="true" signature="3416:3656" ph="[...]" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,7 +469,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>se</find>
       <find>footer</find>
       <find>#007bff</find>
       <find>lang.strings.testimonial_quote</find>
@@ -150,12 +492,13 @@
       <find>prima</find>
       <find>primary-color</find>
       <find>vertical-align: bottom;</find>
-      <find>social</find>
       <find>backup dest</find>
       <find>ol</find>
       <find>html_content</find>
       <find>editor</find>
       <find>ol{30</find>
+      <find>share</find>
+      <find>social</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/themes/</dir>
@@ -166,12 +509,12 @@
       <dir>$PROJECT_DIR$/plugins/arrizalamin</dir>
       <dir>$PROJECT_DIR$/plugins/janvince/smallcontactform</dir>
       <dir>$PROJECT_DIR$/plugins</dir>
-      <dir>$PROJECT_DIR$/themes/techno24/assets/sass</dir>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/themes/techno24</dir>
       <dir>$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss</dir>
       <dir>$PROJECT_DIR$/plugins/panakour/backup</dir>
       <dir>$PROJECT_DIR$/plugins/rainlab/blog</dir>
+      <dir>$PROJECT_DIR$/themes/techno24/assets/sass</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -192,57 +535,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/techno24/pages/office365.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/hosting.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/footer.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/info-entreprise.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/404.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-bitdefender.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-zerospam.en.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-zerospam.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-bitdefender.en.htm" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/_fonts.scss" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/vendor/bootstrap/scss/_variables.scss" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/partners/assets/css/partners.min.css" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/css/testimonial-slider.min.css" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/assets/js/testimonial-slider.min.js" />
-        <option value="$PROJECT_DIR$/plugins/dizoo/testimonials/components/Testimonials.php" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/order.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/contact.htm" />
-        <option value="$PROJECT_DIR$/robots.txt" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/js/techno24.js" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/blog/categories.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/blog/blogList.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/produit_home/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/produit/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.en.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/article/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/share.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/video.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/layouts/secondary.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
         <option value="$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/config/cms.php" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/promotion-agent-voyage-2020.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/subscribe.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/produits/p-intro-hosting.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/sidebar.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/produits/p-zerospam.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/theme_fields.yaml" />
+        <option value="$PROJECT_DIR$/themes/techno24/theme.yaml" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/blog/article.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/header.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/bitdefender/intro.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-avantage.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-avantage.en.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/bitdefender/features.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-features.en.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/footer.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-cta.en.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-cta.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/bitdefender/avantage.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/produit_bitdefender/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/bitdefender.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/bitdefender/cta.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-intro.en.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-intro.htm" />
+        <option value="$PROJECT_DIR$/plugins/dizoo/slider/models/slides/fields.yaml" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/home-slider/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/js/techno24.js" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss" />
+        <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/office365.htm" />
       </list>
     </option>
   </component>
@@ -275,8 +618,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,7 +641,39 @@
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="theme.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -308,7 +681,6 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -316,19 +688,13 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="produits" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,13 +707,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/techno24/layouts" />
-      <recent name="$PROJECT_DIR$/themes/techno24/content/produits" />
-      <recent name="$PROJECT_DIR$/themes/techno24/content/home" />
       <recent name="$PROJECT_DIR$/themes/techno24/partials" />
-      <recent name="$PROJECT_DIR$/themes/techno24/pages" />
+      <recent name="$PROJECT_DIR$/themes/techno24/assets/images" />
+      <recent name="$PROJECT_DIR$/themes/techno24/content/p-bitdefender" />
+      <recent name="$PROJECT_DIR$/themes/techno24/partials/bitdefender" />
+      <recent name="$PROJECT_DIR$/themes/techno24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/techno24/content/p-bitdefender" />
+      <recent name="$PROJECT_DIR$/themes/techno24/partials/bitdefender" />
       <recent name="$PROJECT_DIR$/themes/techno24/assets/css" />
       <recent name="$PROJECT_DIR$/themes/techno24/partials" />
       <recent name="$PROJECT_DIR$/themes/techno24/partials/blogs" />
@@ -424,28 +792,34 @@
       <workItem from="1580417818357" duration="917000" />
       <workItem from="1581018599761" duration="1071000" />
       <workItem from="1581968073112" duration="3586000" />
-      <workItem from="1582225446023" duration="1431000" />
-    </task>
-    <task id="LOCAL-00001" summary="Init Techno24 sources to git">
-      <created>1571018953989</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1571018953989</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Init Techno24 sources to git">
-      <created>1571019327549</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1571019327549</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Test commit">
-      <created>1571021416816</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1571021416816</updated>
+      <workItem from="1582225446023" duration="1633000" />
+      <workItem from="1583786450520" duration="335000" />
+      <workItem from="1583786969199" duration="25000" />
+      <workItem from="1585251547018" duration="205000" />
+      <workItem from="1585252019805" duration="43000" />
+      <workItem from="1585686845941" duration="525000" />
+      <workItem from="1585850905553" duration="2246000" />
+      <workItem from="1585924744817" duration="2000" />
+      <workItem from="1585926354476" duration="155000" />
+      <workItem from="1585926760096" duration="57000" />
+      <workItem from="1585926918805" duration="238000" />
+      <workItem from="1585944315245" duration="686000" />
+      <workItem from="1586196935901" duration="954000" />
+      <workItem from="1586199409811" duration="925000" />
+      <workItem from="1586201290924" duration="91000" />
+      <workItem from="1586201415187" duration="168000" />
+      <workItem from="1586201951052" duration="222000" />
+      <workItem from="1586266765055" duration="605000" />
+      <workItem from="1586272418778" duration="3000" />
+      <workItem from="1586438665400" duration="312000" />
+      <workItem from="1586455030756" duration="2943000" />
+      <workItem from="1586543419742" duration="8022000" />
+      <workItem from="1586783981385" duration="3732000" />
+      <workItem from="1586886535369" duration="4631000" />
+      <workItem from="1586957740041" duration="1799000" />
+      <workItem from="1587045564680" duration="1544000" />
+      <workItem from="1587296319251" duration="471000" />
+      <workItem from="1587494244250" duration="301000" />
     </task>
     <task id="LOCAL-00004" summary="Vendor update, init theme and start building of the home page">
       <created>1571495848586</created>
@@ -741,11 +1115,60 @@
       <option name="project" value="LOCAL" />
       <updated>1581019556951</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Push sidebar for news">
+      <created>1582227982496</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1582227982496</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Patch layout with new rules and update theme with var.">
+      <created>1586458040897</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1586458040897</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Add new page - bitdefender">
+      <created>1586555027548</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1586555027548</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Update and add prices for bitdefender page">
+      <created>1586789749802</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1586789749802</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Patch font not displaying on firefox">
+      <created>1586958953919</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1586958953920</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Patch to have fixed on top when scrolling nav">
+      <created>1586959332676</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1586959332676</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Patch issues that are resulve already online">
+      <created>1587494536109</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1587494536109</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154095000" />
+    <option name="totallyTimeSpent" value="185537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -758,18 +1181,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31135532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2753358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -824,13 +1248,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Update testimotial speed; add 404 page" />
-    <MESSAGE value="Add redirect, clear and speedy plugin - refactor codes layout" />
-    <MESSAGE value="Add plugin for video in blog; refactor css and layout" />
-    <MESSAGE value="Fix blog not showing published date" />
-    <MESSAGE value="Add plugin to generate robots.txt - fix Robot.txt missing #4 issue" />
-    <MESSAGE value="Optimize h1 to h6 by BDC guide" />
-    <MESSAGE value="Various bug fix and minified assets" />
     <MESSAGE value="Fix sharing image code for template2" />
     <MESSAGE value="Add subscribe form" />
     <MESSAGE value="Fix missing twitter codes" />
@@ -849,108 +1266,31 @@
     <MESSAGE value="Update CMS ands plugins" />
     <MESSAGE value="Update CMS and plugins to last version" />
     <MESSAGE value="Update CMS + add links to webmails in nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update CMS + add links to webmails in nav" />
+    <MESSAGE value="Push sidebar for news" />
+    <MESSAGE value="Patch layout with new rules and update theme with var." />
+    <MESSAGE value="Add new page - bitdefender" />
+    <MESSAGE value="Update and add prices for bitdefender page" />
+    <MESSAGE value="Patch font not displaying on firefox" />
+    <MESSAGE value="Patch to have fixed on top when scrolling nav" />
+    <MESSAGE value="Patch issues that are resulve already online" />
+    <option name="LAST_COMMIT_MESSAGE" value="Patch issues that are resulve already online" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/blogList.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/categories.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/js/techno24.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="163" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit_home/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit_serviceweb/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_mixins.scss">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/contact.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.en.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_controls.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/facebook-module.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/share.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-intro-hosting.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="293">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -961,204 +1301,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/controllers/Posts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1110">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/post/columns.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/post/fields.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/Settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/models/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-767">
-          <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/blog/Plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="123" column="28" lean-forward="true" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/secondary.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="86" column="24" lean-forward="false" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="79" column="11" lean-forward="false" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="0" column="228374" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="235852" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15079" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1350">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <marker date="1573765691421" expanded="true" signature="0:1807" ph="&lt;IfModule mod_rewrite.c&gt;" />
-            <marker date="1573765691421" expanded="true" signature="1873:3656" ph="&lt;IfModule mod_expires.c&gt;" />
-            <marker date="1573765691421" expanded="true" signature="3751:4904" ph="&lt;IfModule mod_deflate.c&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick-1.6.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/assets/js/slick.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/cms.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/contact.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/404.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/pages/video.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="10" />
+        <state relative-caret-position="195">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/blogList.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/partials/blogs/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        <state relative-caret-position="480">
+          <caret line="32" column="31" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/theme.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/theme_fields.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/aria.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="303" column="18" lean-forward="false" selection-start-line="303" selection-start-column="18" selection-end-line="303" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-bitdefender.htm" />
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/produits/c-bitdefender.en.htm" />
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-avantage.en.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-features.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="110" column="172" lean-forward="false" selection-start-line="110" selection-start-column="172" selection-end-line="110" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-features.en.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="109" column="142" lean-forward="false" selection-start-line="109" selection-start-column="142" selection-end-line="109" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/bitdefender/intro.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1169,56 +1395,194 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/content/home/c-about.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produits/p-intro-hosting.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/footer.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="180">
+          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/office365.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-cta.en.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-cta.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-avantage.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/bitdefender/avantage.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/hosting.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/produit_bitdefender/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/bitdefender/cta.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-intro.en.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-intro.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/bitdefender.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/slider/controllers/slides/config_list.yaml" />
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/slider/controllers/slides/config_form.yaml" />
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/slider/controllers/Slides.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/slider/models/slides/columns.yaml" />
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/slider/models/Slides.php" />
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/slider/plugin.yaml" />
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/slider/models/slides/fields.yaml" />
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/home-slider/default.htm" />
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/pages/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="114" column="0" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/controls/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/subscribe.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/js/techno24.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="54" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="6" />
+        <state relative-caret-position="570">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="0" column="236084" lean-forward="false" selection-start-line="0" selection-start-column="236084" selection-end-line="0" selection-end-column="236084" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/office365.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="56" selection-end-column="10" />
+        <state relative-caret-position="645">
+          <caret line="43" column="14" lean-forward="false" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="189" column="42" lean-forward="false" selection-start-line="189" selection-start-column="42" selection-end-line="189" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/partials/navbar.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="68" />
+        <state relative-caret-position="195">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/sidebar.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="140">
+          <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="15" />
+          <folding>
+            <marker date="1587046939349" expanded="true" signature="2741:2780" ph="[...]" />
+            <marker date="1587046939349" expanded="true" signature="3416:3656" ph="[...]" />
+          </folding>
         </state>
       </provider>
     </entry>

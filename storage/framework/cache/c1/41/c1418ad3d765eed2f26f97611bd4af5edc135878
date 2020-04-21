@@ -1,16 +1,17 @@
-1579018647a:1:{s:10:"navbar.htm";a:6:{s:8:"fileName";s:10:"navbar.htm";s:7:"content";s:2697:"description = "Navigation bar"
+1587494964a:1:{s:10:"navbar.htm";a:6:{s:8:"fileName";s:10:"navbar.htm";s:7:"content";s:3410:"description = "Navigation bar"
 ==
 
-<nav class="navbar bg-white navbar-expand-lg">
+<nav id="navbar" class="navbar bg-white navbar-expand-lg">
 	<div class="container">
 	<a class="navbar-brand" href="{{ 'home'|page }}">
 		<img src="{{'assets/images/techno24-logo.png'|theme}}" style="width:150px;" alt="{{ 'Logo de Techno24.net'|_ }}">
 	</a>
-	<button class="navbar-toggler btn-secondary" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	<button class="navbar-toggler btn-secondary" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+			aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
-		<ul class="navbar-nav ml-auto">
+		<ul class="navbar-nav ml-auto pb-0">
 			<li class="nav-item">
 				<a class="nav-link nav-link" href="{{ 'home'|page }}">
 					<strong>{{'ACCUEIL'|_}}</strong></a>
@@ -18,10 +19,11 @@
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="#" role="button"
 				   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					<strong>OFFICE365</strong>
+					<strong>{{'PRODUITS'|_}}</strong>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'office365'|page }}#office">Office365</a>
+					<a class="dropdown-item" href="{{ 'bitdefender'|page }}">BitDefender</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#msazure">Microsoft Azure</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#entreprise">{{'Logiciel d\'entreprise'|_}}</a>
 				</div>
@@ -41,6 +43,17 @@
 				<a class="nav-link" href="{{ 'blog/blogList'|page }}">
 					<strong>{{'NOUVELLES'|_}}</strong></a>
 			</li>
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" role="button"
+				   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<strong>{{'COURRIEL WEB'|_}}</strong>
+				</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+					<a class="dropdown-item" href="https://www.office.com/login?es=Click&ru=%2F&msafed=0" target="_blank">Office365</a>
+					<a class="dropdown-item" href="https://mail.hostedemail.com" target="_blank">Host Email</a>
+					<a class="dropdown-item" href="https://techno24.net/webmail" target="_blank">Webmail</a>
+				</div>
+			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="{{ 'contact'|page }}">
 					<strong>{{'Nous joindre'|_}}</strong></a>
@@ -51,30 +64,31 @@
 				   class="nav-link"
 				   data-request="onSwitchLocale"
 				   data-request-data="locale: 'en'" title="English">
-					<strong>ENGLISH</strong>
+					<strong>EN</strong>
 				</a>
 				{% else %}
 				<a href="#"
 				   class="nav-link"
 				   data-request="onSwitchLocale"
 				   data-request-data="locale: 'fr'" title="Français">
-					<strong>FRANÇAIS</strong>
+					<strong>FR</strong>
 				</a>
 				{% endif %}
 			</li>
 	</ul>
 	</div>
 	</div>
-</nav>";s:5:"mtime";i:1572394733;s:6:"markup";s:2662:"<nav class="navbar bg-white navbar-expand-lg">
+</nav>";s:5:"mtime";i:1587494359;s:6:"markup";s:3375:"<nav id="navbar" class="navbar bg-white navbar-expand-lg">
 	<div class="container">
 	<a class="navbar-brand" href="{{ 'home'|page }}">
 		<img src="{{'assets/images/techno24-logo.png'|theme}}" style="width:150px;" alt="{{ 'Logo de Techno24.net'|_ }}">
 	</a>
-	<button class="navbar-toggler btn-secondary" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	<button class="navbar-toggler btn-secondary" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+			aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
-		<ul class="navbar-nav ml-auto">
+		<ul class="navbar-nav ml-auto pb-0">
 			<li class="nav-item">
 				<a class="nav-link nav-link" href="{{ 'home'|page }}">
 					<strong>{{'ACCUEIL'|_}}</strong></a>
@@ -82,10 +96,11 @@
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="#" role="button"
 				   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					<strong>OFFICE365</strong>
+					<strong>{{'PRODUITS'|_}}</strong>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'office365'|page }}#office">Office365</a>
+					<a class="dropdown-item" href="{{ 'bitdefender'|page }}">BitDefender</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#msazure">Microsoft Azure</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#entreprise">{{'Logiciel d\'entreprise'|_}}</a>
 				</div>
@@ -105,6 +120,17 @@
 				<a class="nav-link" href="{{ 'blog/blogList'|page }}">
 					<strong>{{'NOUVELLES'|_}}</strong></a>
 			</li>
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" role="button"
+				   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<strong>{{'COURRIEL WEB'|_}}</strong>
+				</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+					<a class="dropdown-item" href="https://www.office.com/login?es=Click&ru=%2F&msafed=0" target="_blank">Office365</a>
+					<a class="dropdown-item" href="https://mail.hostedemail.com" target="_blank">Host Email</a>
+					<a class="dropdown-item" href="https://techno24.net/webmail" target="_blank">Webmail</a>
+				</div>
+			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="{{ 'contact'|page }}">
 					<strong>{{'Nous joindre'|_}}</strong></a>
@@ -115,14 +141,14 @@
 				   class="nav-link"
 				   data-request="onSwitchLocale"
 				   data-request-data="locale: 'en'" title="English">
-					<strong>ENGLISH</strong>
+					<strong>EN</strong>
 				</a>
 				{% else %}
 				<a href="#"
 				   class="nav-link"
 				   data-request="onSwitchLocale"
 				   data-request-data="locale: 'fr'" title="Français">
-					<strong>FRANÇAIS</strong>
+					<strong>FR</strong>
 				</a>
 				{% endif %}
 			</li>

@@ -1,4 +1,4 @@
-1579018646a:1:{s:13:"office365.htm";a:12:{s:8:"fileName";s:13:"office365.htm";s:7:"content";s:2491:"title = "Microsoft Office365"
+1587495051a:1:{s:13:"office365.htm";a:12:{s:8:"fileName";s:13:"office365.htm";s:7:"content";s:2111:"title = "Microsoft Office365"
 url = "/office365"
 layout = "default"
 meta_title = "Microsoft Office 365 - Hébergement site web"
@@ -45,7 +45,7 @@ localeMeta_description[en] = "Manage your business more easily - Office 365. Get
             {% partial '/produits/p-msazure' %}
     </div>
 </section>
-<section id="entreprise" class="secondary-color my-4 py-5">
+<section id="entreprise" class="secondary-color py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -56,19 +56,7 @@ localeMeta_description[en] = "Manage your business more easily - Office 365. Get
         </div>
         {% partial '/produits/p-zerospam' %}
     </div>
-</section>
-<section class="my-4 py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2-responsive text-secondary wow fadeInUp">
-                    {{ 'Bitdefender'|_ }}
-                </h2>
-            </div>
-        </div>
-        {% partial '/produits/p-bitdefender' %}
-    </div>
-</section>";s:5:"mtime";i:1573594649;s:6:"markup";s:1950:"<section id="office" class="my-4">
+</section>";s:5:"mtime";i:1587494449;s:6:"markup";s:1570:"<section id="office" class="my-4">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -104,7 +92,7 @@ localeMeta_description[en] = "Manage your business more easily - Office 365. Get
             {% partial '/produits/p-msazure' %}
     </div>
 </section>
-<section id="entreprise" class="secondary-color my-4 py-5">
+<section id="entreprise" class="secondary-color py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -114,17 +102,5 @@ localeMeta_description[en] = "Manage your business more easily - Office 365. Get
             </div>
         </div>
         {% partial '/produits/p-zerospam' %}
-    </div>
-</section>
-<section class="my-4 py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2-responsive text-secondary wow fadeInUp">
-                    {{ 'Bitdefender'|_ }}
-                </h2>
-            </div>
-        </div>
-        {% partial '/produits/p-bitdefender' %}
     </div>
 </section>";s:4:"code";N;s:5:"title";s:19:"Microsoft Office365";s:3:"url";s:10:"/office365";s:6:"layout";s:7:"default";s:10:"meta_title";s:44:"Microsoft Office 365 - Hébergement site web";s:16:"meta_description";s:146:"Gérez vos activités plus facilement - Office 365. Accédez à tout ce dont vous avez besoin pour effectuer vos tâches. Avec ou sans messagerie.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"en";s:34:"Microsoft Office 365 - Web Hosting";}s:22:"localeMeta_description";a:1:{s:2:"en";s:114:"Manage your business more easily - Office 365. Get everything you need to do your jobs. With or without messaging.";}}}}

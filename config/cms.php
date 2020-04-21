@@ -49,7 +49,7 @@ return [
     |
     */
 
-    'backendForceSecure' => null,
+    'backendForceSecure' => false,
 
     /*
     |--------------------------------------------------------------------------
@@ -210,7 +210,7 @@ return [
     |
     */
 
-    'enableAssetMinify' => null,
+    'enableAssetMinify' => false,
 
     /*
     |--------------------------------------------------------------------------
@@ -224,7 +224,7 @@ return [
     |
     */
 
-    'enableAssetDeepHashing' => null,
+    'enableAssetDeepHashing' => false,
 
     /*
     |--------------------------------------------------------------------------

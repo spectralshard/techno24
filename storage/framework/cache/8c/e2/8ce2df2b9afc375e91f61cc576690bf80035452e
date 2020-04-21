@@ -1,4 +1,4 @@
-1579018647a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:4410:"description = "Footer"
+1587494839a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:4473:"description = "Footer"
 ==
 <section id="footer" class="py-5">
     <div class="container">
@@ -10,6 +10,7 @@
             <p>
                 <a class="text-white" href="{{ 'home'|page }}">{{'Acceuil'|_}}</a><br />
                 <a class="text-white" href="{{ 'office365'|page }}">Office365</a><br />
+                <a class="text-white" href="{{ 'bitdefender'|page }}">BitDefender</a><br />
                 <a class="text-white" href="{{ 'hosting'|page }}">{{'Hébergement'|_}}</a><br />
                 <a class="text-white" href="{{ 'blog/blogList'|page }}">{{'Nouvelles'|_}}</a><br />
                 <a class="text-white" href="{{ 'contact'|page }}">{{'Nous joindre'|_}}</a><br />
@@ -65,16 +66,16 @@
             <h5 class="h5-responsive text-white text-uppercase">
                 {{ 'RÉSEAUX SOCIAUX'|_ }}
             </h5>
-            <a href="https://www.facebook.com/techno24" target="_blank">
+            <a href="{{ this.theme.facebook_url }}" target="_blank">
                 <i class="fab fa-facebook text-secondary" style="padding-right: 3px; font-size:18px;"></i>
             </a>
-            <a href="https://twitter.com/techno24net" target="_blank">
+            <a href="{{ this.theme.twitter_url }}" target="_blank">
 				<span class="fa-stack" style="vertical-align: top; font-size:10px;margin-top:2px;">
 				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
 				  <i class="fab fa-twitter fa-stack-1x" style="color:#4A4A4A;"></i>
 				</span>
             </a>
-            <a href="https://www.linkedin.com/company/techno24-net-lt-e/" target="_blank">
+            <a href="{{ this.theme.linkedin_url }}" target="_blank">
 					<span class="fa-stack" style="vertical-align: top; font-size:10px; margin-top:2px;">
 				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
 				  <i class="fab fa-linkedin-in fa-stack-1x" style="color:#4A4A4A;"></i>
@@ -96,7 +97,7 @@
             </div>
         </div>
     </div>
-</section>";s:5:"mtime";i:1573596191;s:6:"markup";s:4384:"<section id="footer" class="py-5">
+</section>";s:5:"mtime";i:1586554896;s:6:"markup";s:4447:"<section id="footer" class="py-5">
     <div class="container">
     <div class="row">
         <div class="col-sm-6 col-lg-3 text-white d-none d-sm-block mx-auto">
@@ -106,6 +107,7 @@
             <p>
                 <a class="text-white" href="{{ 'home'|page }}">{{'Acceuil'|_}}</a><br />
                 <a class="text-white" href="{{ 'office365'|page }}">Office365</a><br />
+                <a class="text-white" href="{{ 'bitdefender'|page }}">BitDefender</a><br />
                 <a class="text-white" href="{{ 'hosting'|page }}">{{'Hébergement'|_}}</a><br />
                 <a class="text-white" href="{{ 'blog/blogList'|page }}">{{'Nouvelles'|_}}</a><br />
                 <a class="text-white" href="{{ 'contact'|page }}">{{'Nous joindre'|_}}</a><br />
@@ -161,16 +163,16 @@
             <h5 class="h5-responsive text-white text-uppercase">
                 {{ 'RÉSEAUX SOCIAUX'|_ }}
             </h5>
-            <a href="https://www.facebook.com/techno24" target="_blank">
+            <a href="{{ this.theme.facebook_url }}" target="_blank">
                 <i class="fab fa-facebook text-secondary" style="padding-right: 3px; font-size:18px;"></i>
             </a>
-            <a href="https://twitter.com/techno24net" target="_blank">
+            <a href="{{ this.theme.twitter_url }}" target="_blank">
 				<span class="fa-stack" style="vertical-align: top; font-size:10px;margin-top:2px;">
 				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
 				  <i class="fab fa-twitter fa-stack-1x" style="color:#4A4A4A;"></i>
 				</span>
             </a>
-            <a href="https://www.linkedin.com/company/techno24-net-lt-e/" target="_blank">
+            <a href="{{ this.theme.linkedin_url }}" target="_blank">
 					<span class="fa-stack" style="vertical-align: top; font-size:10px; margin-top:2px;">
 				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
 				  <i class="fab fa-linkedin-in fa-stack-1x" style="color:#4A4A4A;"></i>

@@ -181,3 +181,11 @@ a:hover {
   background-color:$secondary-color;
   color: $white;
 }
+.card {
+  box-shadow: 0 0 0;
+  transition: ease;
+  transition-delay: 5ms;
+}
+.card:hover {
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+}
