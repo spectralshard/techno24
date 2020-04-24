@@ -24,6 +24,7 @@ description = "Navigation bar"
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'office365'|page }}#office">Office365</a>
 					<a class="dropdown-item" href="{{ 'bitdefender'|page }}">BitDefender</a>
+					<a class="dropdown-item" href="{{ 'ssl'|page }}">SSL</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#msazure">Microsoft Azure</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}#entreprise">{{'Logiciel d\'entreprise'|_}}</a>
 				</div>
@@ -56,7 +57,7 @@ description = "Navigation bar"
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="{{ 'contact'|page }}">
-					<strong>{{'Nous joindre'|_}}</strong></a>
+					<strong>{{'CONTACT'|_}}</strong></a>
 			</li>
 			<li class="nav-item">
 				{% if lang == 'fr' %}
@@ -74,6 +75,18 @@ description = "Navigation bar"
 					<strong>FR</strong>
 				</a>
 				{% endif %}
+			</li>
+			<li class="nav-item pl-2 d-none d-sm-block">
+				<div class="btn-group pt-1" role="group">
+					<button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split"
+							data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						{{'Support Technique'|_}}
+					</button>
+					<div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+						<a class="dropdown-item" href="https://www.teamviewer.com/link/?url=842558&id=263152143">Windows</a>
+						<a class="dropdown-item" href="https://download.teamviewer.com/download/TeamViewer.dmg">MAC</a>
+					</div>
+				</div>
 			</li>
 	</ul>
 	</div>

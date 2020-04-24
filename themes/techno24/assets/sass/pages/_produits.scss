@@ -1,0 +1,15 @@
+#why ul {
+  list-style: none;
+  padding-left: 30px;
+  padding-bottom: 16px;
+}
+#why ul li::before {
+  content: "\f00c";
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  text-decoration: inherit;
+  color: #FFFFFF;
+  padding-right: 0.5em;
+  margin-left: -25px;
+}
