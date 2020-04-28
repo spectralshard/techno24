@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_produits.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/content/p-ssl/c-intro.en.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/content/p-ssl/c-intro.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/content/p-ssl/c-questions.en.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/content/p-ssl/c-questions.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/pages/ssl.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/partials/ssl/avantage.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/partials/ssl/intro.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/partials/ssl/questions.htm" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/89/6d/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/89/6d/default.htm.php" />
       <change beforePath="$PROJECT_DIR$/storage/cms/cache/d9/b5/home.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/d9/b5/home.htm.php" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/fb/ed/navbar.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/fb/ed/navbar.htm.php" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" afterPath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/0a/98/0a9822de12be4cd4fd24a71e1da24de9df28956d" afterPath="$PROJECT_DIR$/storage/framework/cache/0a/98/0a9822de12be4cd4fd24a71e1da24de9df28956d" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" afterPath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" />
@@ -24,7 +13,6 @@
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" afterPath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" afterPath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" afterPath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" afterPath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" afterPath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" afterPath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" />
@@ -43,12 +31,10 @@
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/e3/05/e305dbb24f74536639b421c3d6b05ec5591fd919" afterPath="$PROJECT_DIR$/storage/framework/cache/e3/05/e305dbb24f74536639b421c3d6b05ec5591fd919" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/fc/2c/fc2cc22badbdfa41edc31b6e899492b25e2474dc" afterPath="$PROJECT_DIR$/storage/framework/cache/fc/2c/fc2cc22badbdfa41edc31b6e899492b25e2474dc" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css.map" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css.map" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm" afterPath="$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/content/home/c-about.htm" afterPath="$PROJECT_DIR$/themes/techno24/content/home/c-about.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/pages/home.htm" afterPath="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/lastestBlogEntry/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/lastestBlogEntry/default.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,21 +45,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="intro.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/ssl/intro.htm">
+      <file leaf-file-name="home.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="350">
+              <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c-intro.en.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-ssl/c-intro.en.htm">
+      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/lastestBlogEntry/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c-about.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/content/home/c-about.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c-about.en.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -158,8 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/config/cms.php" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/promotion-agent-voyage-2020.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/promotion-agents-voyages-2020.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/subscribe.htm" />
@@ -193,8 +197,6 @@
         <option value="$PROJECT_DIR$/themes/techno24/assets/js/techno24.js" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/_layouts.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/office365.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/lastestBlogEntry/default.htm" />
-        <option value="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/_color.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/navbar.htm" />
@@ -209,6 +211,10 @@
         <option value="$PROJECT_DIR$/themes/techno24/partials/ssl/intro.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/pages/ssl.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/p-ssl/c-intro.en.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/content/home/c-about.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/lastestBlogEntry/default.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/pages/home.htm" />
       </list>
     </option>
   </component>
@@ -241,7 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,7 +297,14 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="p-ssl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -299,6 +312,14 @@
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lastestBlogEntry" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -308,19 +329,11 @@
               <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="produit_serviceweb" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ssl" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,14 +461,8 @@
       <workItem from="1587494244250" duration="3075000" />
       <workItem from="1587605310727" duration="17000" />
       <workItem from="1587606599179" duration="191000" />
-      <workItem from="1587735722275" duration="9694000" />
-    </task>
-    <task id="LOCAL-00006" summary="Finished the blog page and push update to that plugin">
-      <created>1571779816726</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1571779816726</updated>
+      <workItem from="1587735722275" duration="9789000" />
+      <workItem from="1588087823767" duration="1269000" />
     </task>
     <task id="LOCAL-00007" summary="Finish contact us page and init translate plugin">
       <created>1571863966822</created>
@@ -793,11 +800,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587502357375</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="add SSL Pages and translation">
+      <created>1587755582106</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1587755582107</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198213000" />
+    <option name="totallyTimeSpent" value="199577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -811,12 +825,11 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2844933" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2875458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -829,6 +842,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -876,7 +890,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Fix missing twitter codes" />
     <MESSAGE value="Bug fixs" />
     <MESSAGE value="Update Vendor (jquery)" />
     <MESSAGE value="Fix meta title pointing on layouts" />
@@ -901,27 +914,14 @@
     <MESSAGE value="Patch issues that are resulve already online" />
     <MESSAGE value="Update CMS" />
     <MESSAGE value="Extend blog on the home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extend blog on the home page" />
+    <MESSAGE value="add SSL Pages and translation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SSL Pages and translation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/blog/article.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/footer.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-cta.en.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1049,14 +1049,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/lastestBlogEntry/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_color.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -1069,7 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,19 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#i#1;n#span#0;n#a#2;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="52" lean-forward="false" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#section#1;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1113,7 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="77" column="60" lean-forward="false" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1121,7 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,7 +1103,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,10 +1110,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="65" column="7" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
-          <folding>
-            <marker date="1587740699436" expanded="true" signature="2741:2776" ph="[...]" />
-            <marker date="1587740699436" expanded="true" signature="3412:3652" ph="[...]" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1156,7 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="2" lean-forward="true" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,7 +1132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="91" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1172,7 +1139,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,7 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1188,7 +1153,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1196,7 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="873">
           <caret line="0" column="236336" lean-forward="false" selection-start-line="0" selection-start-column="236336" selection-end-line="0" selection-end-column="236336" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1204,7 +1167,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,7 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,7 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,6 +1188,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="70" column="27" lean-forward="false" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-ssl/c-intro.en.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1240,10 +1207,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/content/p-ssl/c-intro.en.htm">
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/home/c-about.en.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/content/home/c-about.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/lastestBlogEntry/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
           <folding />
         </state>
       </provider>
