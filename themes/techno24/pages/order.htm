@@ -9,7 +9,7 @@ is_hidden = 0
 backgroundColor = "#FFFFFF"
 textColor = "#F39000"
 
-[contactForm]
+[contactForm order]
 
 [viewBag]
 localeTitle[en] = "Order a website hosting service"
@@ -34,7 +34,7 @@ localeMeta_description[en] = "Order a website hosting service, Office 365 and mo
                 <h4 class="h4-responsive text-secondary">
                     {{ 'Information à propos de vous et de vos besoins'|_ }}
                 </h4>
-                {% component 'contactForm' %}
+                {% component 'order' %}
             </div>
             <div class="col pb-3">
                 <div class="card primary-color">
