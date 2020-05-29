@@ -5,16 +5,16 @@ meta_title = "Commander un service d'hébergement site web"
 meta_description = "Commander un service d'hébergement site web, Office 365 et bien plus!"
 is_hidden = 0
 
-[testimonials myTestimonials]
-backgroundColor = "#FFFFFF"
-textColor = "#F39000"
-
-[contactForm order]
-
 [viewBag]
 localeTitle[en] = "Order a website hosting service"
 localeMeta_title[en] = "Order a website hosting service"
 localeMeta_description[en] = "Order a website hosting service, Office 365 and more!"
+
+[testimonials myTestimonials]
+backgroundColor = "#FFFFFF"
+textColor = "#F39000"
+
+[contactForm]
 ==
 <div class="jumbotron hero-home">
     <div class="container">
@@ -34,7 +34,7 @@ localeMeta_description[en] = "Order a website hosting service, Office 365 and mo
                 <h4 class="h4-responsive text-secondary">
                     {{ 'Information à propos de vous et de vos besoins'|_ }}
                 </h4>
-                {% component 'order' %}
+                {% component 'contactForm' %}
             </div>
             <div class="col pb-3">
                 <div class="card primary-color">
