@@ -6,6 +6,12 @@ is_hidden = 0
 [blogPost article]
 slug = "{{ :slug }}"
 categoryPage = "blog/categories"
+
+[relatedPosts relatedPost]
+slug = "{{ :slug }}"
+limit = 2
+orderBy = "published_at asc"
+postPage = "blog/article"
 ==
 <?php
 function onEnd()
@@ -44,8 +50,11 @@ function onEnd()
             <div class="col-sm-12 col-md-8">
                 {% if post %}
                     {% component 'article' %}
-                    <div class="my-4 pt-3 border-top">
+                    <div class="my-4 pt-3 border-top border-bottom">
                         {% partial 'share' %}
+                    </div>
+                    <div class="my-4 pt-3">
+                        {% component 'relatedPost' %}
                     </div>
                 {% else %}
                 <h2>Sujet introuvable</h2>

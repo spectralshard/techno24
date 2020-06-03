@@ -1,0 +1,32 @@
+title = "ZéroSpam, sécurité courriel complète de haute précision"
+url = "/zerospam"
+layout = "default"
+meta_title = "ZéroSpam, sécurité courriel complète de haute précision"
+meta_description = "ZéroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service."
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "ZeroSpam, high precision full email security"
+localeMeta_title[en] = "ZeroSpam, high precision full email security"
+localeMeta_description[en] = "ZeroSpam protects your business against ransomware, spear phishing, phishing and denial of service."
+
+==
+<?php
+function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
+}
+?>
+==
+<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'ZéroSpam, sécurité courriel complète de haute précision'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/zerospam/intro' %}
+    </div>
+</section>

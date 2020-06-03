@@ -1,20 +1,20 @@
-1588089547a:1:{s:9:"order.htm";a:14:{s:8:"fileName";s:9:"order.htm";s:7:"content";s:2043:"title = "Commander un service d'hébergement site web"
+1591205547a:1:{s:9:"order.htm";a:14:{s:8:"fileName";s:9:"order.htm";s:7:"content";s:2025:"title = "Commander un service d'hébergement site web"
 url = "/order"
 layout = "default"
 meta_title = "Commander un service d'hébergement site web"
 meta_description = "Commander un service d'hébergement site web, Office 365 et bien plus!"
 is_hidden = 0
 
+[viewBag]
+localeTitle[en] = "Order a website hosting service"
+localeMeta_title[en] = "Order a website hosting service"
+localeMeta_description[en] = "Order a website hosting service, Office 365 and more!"
+
 [testimonials myTestimonials]
 backgroundColor = "#FFFFFF"
 textColor = "#F39000"
 
 [contactForm]
-
-[viewBag]
-localeTitle[en] = "Order a website hosting service"
-localeMeta_title[en] = "Order a website hosting service"
-localeMeta_description[en] = "Order a website hosting service, Office 365 and more!"
 ==
 <div class="jumbotron hero-home">
     <div class="container">
@@ -57,7 +57,7 @@ localeMeta_description[en] = "Order a website hosting service, Office 365 and mo
         </div>
         {% component 'myTestimonials' %}
     </div>
-</section>";s:5:"mtime";i:1573762191;s:6:"markup";s:1466:"<div class="jumbotron hero-home">
+</section>";s:5:"mtime";i:1573762222;s:6:"markup";s:1466:"<div class="jumbotron hero-home">
     <div class="container">
         <div class="row my-0 my-sm-4 my-lg-5">
             <div class="col-sm-12 col-lg-6 my-2 my-sm-5">
@@ -98,4 +98,4 @@ localeMeta_description[en] = "Order a website hosting service, Office 365 and mo
         </div>
         {% component 'myTestimonials' %}
     </div>
-</section>";s:4:"code";N;s:5:"title";s:44:"Commander un service d'hébergement site web";s:3:"url";s:6:"/order";s:6:"layout";s:7:"default";s:10:"meta_title";s:44:"Commander un service d'hébergement site web";s:16:"meta_description";s:70:"Commander un service d'hébergement site web, Office 365 et bien plus!";s:9:"is_hidden";s:1:"0";s:27:"testimonials myTestimonials";a:2:{s:15:"backgroundColor";s:7:"#FFFFFF";s:9:"textColor";s:7:"#F39000";}s:11:"contactForm";a:0:{}s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:31:"Order a website hosting service";}s:16:"localeMeta_title";a:1:{s:2:"en";s:31:"Order a website hosting service";}s:22:"localeMeta_description";a:1:{s:2:"en";s:53:"Order a website hosting service, Office 365 and more!";}}}}
+</section>";s:4:"code";N;s:5:"title";s:44:"Commander un service d'hébergement site web";s:3:"url";s:6:"/order";s:6:"layout";s:7:"default";s:10:"meta_title";s:44:"Commander un service d'hébergement site web";s:16:"meta_description";s:70:"Commander un service d'hébergement site web, Office 365 et bien plus!";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:31:"Order a website hosting service";}s:16:"localeMeta_title";a:1:{s:2:"en";s:31:"Order a website hosting service";}s:22:"localeMeta_description";a:1:{s:2:"en";s:53:"Order a website hosting service, Office 365 and more!";}}s:27:"testimonials myTestimonials";a:2:{s:15:"backgroundColor";s:7:"#FFFFFF";s:9:"textColor";s:7:"#F39000";}s:11:"contactForm";a:0:{}}}

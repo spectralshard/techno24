@@ -1,6 +1,6 @@
 <?php 
 use RainLab\Translate\Classes\Translator;
-class Cms5ea3001b843e1053081207_8fb2594a54080b444cab1be9c7889b6fClass extends Cms\Classes\LayoutCode
+class Cms5ed7d9f71eddb807856941_2c423b002225d5e2ece29ee9af6217a9Class extends Cms\Classes\LayoutCode
 {
 public function onInit()
 {

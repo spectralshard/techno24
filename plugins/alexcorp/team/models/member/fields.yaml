@@ -1,0 +1,64 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    first_name:
+        label: First Name
+        span: left
+    last_name:
+        label: Last Name
+        span: right
+tabs:
+    fields:
+        email:
+            label: Email
+            span: left
+            tab: Description
+
+        job_title:
+            label: Title
+            span: right
+            tab: Description
+        description:
+            label: Description
+            type: richeditor
+            tab: Description
+        phone:
+            label: Phone
+            span: left
+            tab: Description
+        priority:
+            label: Priority
+            span: right
+            type: number
+            tab: Description
+        facebook_link:
+            label: Facebook
+            span: left
+            tab: Social Links
+        twitter_link:
+            label: Twitter
+            span: right
+            tab: Social Links
+        linkedin_link:
+            label: LinkedIn
+            span: left
+            tab: Social Links
+        instagram_link:
+            label: Instagram
+            span: right
+            tab: Social Links
+
+
+secondaryTabs:
+    fields:
+        photo:
+            label: Photo
+            type: fileupload
+            mode: image
+            imageHeight: 210
+            imageWidth: 210
+        published:
+            label: Published
+            type: switch
