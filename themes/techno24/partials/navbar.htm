@@ -1,6 +1,5 @@
 description = "Navigation bar"
 ==
-
 <nav id="navbar" class="navbar bg-white navbar-expand-lg">
 	<div class="container">
 	<a class="navbar-brand" href="{{ 'home'|page }}">
@@ -22,26 +21,26 @@ description = "Navigation bar"
 					<strong>{{'PRODUITS'|_}}</strong>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-					<a class="dropdown-item" href="{{ 'office365'|page }}#office">Office365</a>
+					<a class="dropdown-item" href="{{ 'office365'|page }}">Microsoft 365</a>
 					<a class="dropdown-item" href="{{ 'bitdefender'|page }}">BitDefender</a>
-					<a class="dropdown-item" href="{{ 'office365'|page }}#msazure">Microsoft Azure</a>
-					<a class="dropdown-item" href="{{ 'office365'|page }}#entreprise">{{'Logiciel d\'entreprise'|_}}</a>
-				</div>
-			</li>
-			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" role="button"
-				   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					<strong>{{'HÉBERGEMENT'|_}}</strong>
-				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'hosting'|page }}">{{'Hébergement Web'|_}}</a>
-					<a class="dropdown-item" href="{{ 'hosting'|page }}#solutions">{{'Autres solutions'|_}}</a>
-					<a class="dropdown-item" href="{{ 'hosting'|page }}#technologie">{{'Technologies disponible'|_}}</a>
+					<a class="dropdown-item" href="{{ 'ssl'|page }}">SSL</a>
+					<a class="dropdown-item" href="{{ 'office365'|page }}#msazure">Microsoft Azure</a>
+					<a class="dropdown-item" href="{{ 'zerospam'|page }}">ZéroSpam</a>
 				</div>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="{{ 'blog/blogList'|page }}">
 					<strong>{{'NOUVELLES'|_}}</strong></a>
+			</li>
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" role="button"
+				   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<strong>{{'À PROPOS'|_}}</strong>
+				</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+					<a class="dropdown-item" href="{{ 'equipe'|page }}">{{'L\'équipe'|_}}</a>
+				</div>
 			</li>
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="#" role="button"
@@ -56,7 +55,7 @@ description = "Navigation bar"
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="{{ 'contact'|page }}">
-					<strong>{{'Nous joindre'|_}}</strong></a>
+					<strong>{{'CONTACT'|_}}</strong></a>
 			</li>
 			<li class="nav-item">
 				{% if lang == 'fr' %}
@@ -74,6 +73,9 @@ description = "Navigation bar"
 					<strong>FR</strong>
 				</a>
 				{% endif %}
+			</li>
+			<li class="nav-item pl-2 pt-1 d-none d-sm-block">
+			<a class="btn btn-secondary" href="https://get.teamviewer.com/3max9aj" target="_blank">{{'Support à distance'|_}}</a>
 			</li>
 	</ul>
 	</div>

@@ -1,13 +1,16 @@
-1587494839a:1:{s:19:"blog/categories.htm";a:13:{s:8:"fileName";s:19:"blog/categories.htm";s:7:"content";s:1395:"title = "Catégories"
+1591377850a:1:{s:19:"blog/categories.htm";a:13:{s:8:"fileName";s:19:"blog/categories.htm";s:7:"content";s:1416:"title = "Catégories"
 url = "/blogue/categorie/:slug/:page?"
 layout = "default"
 meta_description = "Dans le blogue de Techno24, vous retrouvez des trucs et astuces pour mieux gérer votre site Web hébergé sur nos serveurs cloud."
 is_hidden = 0
 
+[viewBag]
+localeMeta_description[en] = "In the blog of Techno24, you will find tips and tricks to better manage your website hosted on our cloud servers."
+
 [blogPosts blogs]
 pageNumber = "{{ :page }}"
 categoryFilter = "{{ :slug }}"
-postsPerPage = 20
+postsPerPage = 10
 noPostsMessage = "No posts found"
 sortOrder = "published_at desc"
 categoryPage = "blog/categories"
@@ -17,9 +20,6 @@ postPage = "blog/article"
 slug = "{{ :slug }}"
 displayEmpty = 0
 categoryPage = "blog/categories"
-
-[viewBag]
-localeMeta_description[en] = "In the blog of Techno24, you will find tips and tricks to better manage your website hosted on our cloud servers."
 ==
 <?php
 function onEnd()
@@ -46,7 +46,7 @@ function onEnd()
     <div class="container">
         {% partial 'subscribe' %}
     </div>
-</section>";s:5:"mtime";i:1573851231;s:6:"markup";s:498:"<section class="primary-color py-4 mb-4">
+</section>";s:5:"mtime";i:1581967827;s:6:"markup";s:514:"<section class="primary-color py-4 mb-4">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -62,9 +62,9 @@ function onEnd()
     <div class="container">
         {% partial 'subscribe' %}
     </div>
-</section>";s:4:"code";s:155:"function onEnd()
+</section>";s:4:"code";s:160:"function onEnd()
 {
     // Optional - set the page title to the category name
     if ($this->category)
         $this->page->title = $this->category->name;
-}";s:5:"title";s:11:"Catégories";s:3:"url";s:30:"/blogue/categorie/:slug/:page?";s:6:"layout";s:7:"default";s:16:"meta_description";s:130:"Dans le blogue de Techno24, vous retrouvez des trucs et astuces pour mieux gérer votre site Web hébergé sur nos serveurs cloud.";s:9:"is_hidden";s:1:"0";s:15:"blogPosts blogs";a:7:{s:10:"pageNumber";s:11:"{{ :page }}";s:14:"categoryFilter";s:11:"{{ :slug }}";s:12:"postsPerPage";s:2:"20";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:15:"blog/categories";s:8:"postPage";s:12:"blog/article";}s:29:"blogCategories listcategories";a:3:{s:4:"slug";s:11:"{{ :slug }}";s:12:"displayEmpty";s:1:"0";s:12:"categoryPage";s:15:"blog/categories";}s:7:"viewBag";a:1:{s:22:"localeMeta_description";a:1:{s:2:"en";s:113:"In the blog of Techno24, you will find tips and tricks to better manage your website hosted on our cloud servers.";}}}}
+}";s:5:"title";s:11:"Catégories";s:3:"url";s:30:"/blogue/categorie/:slug/:page?";s:6:"layout";s:7:"default";s:16:"meta_description";s:130:"Dans le blogue de Techno24, vous retrouvez des trucs et astuces pour mieux gérer votre site Web hébergé sur nos serveurs cloud.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:1:{s:22:"localeMeta_description";a:1:{s:2:"en";s:113:"In the blog of Techno24, you will find tips and tricks to better manage your website hosted on our cloud servers.";}}s:15:"blogPosts blogs";a:7:{s:10:"pageNumber";s:11:"{{ :page }}";s:14:"categoryFilter";s:11:"{{ :slug }}";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:15:"blog/categories";s:8:"postPage";s:12:"blog/article";}s:29:"blogCategories listcategories";a:3:{s:4:"slug";s:11:"{{ :slug }}";s:12:"displayEmpty";s:1:"0";s:12:"categoryPage";s:15:"blog/categories";}}}

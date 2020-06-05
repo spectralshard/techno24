@@ -1,0 +1,683 @@
+﻿ID,Title,Content,"HTML Content",Excerpt,Slug,Categories,"Author Email","Featured Images","Created date","Updated date","Published date"
+1,"Un certificat sécure (SSL) pour votre site : Pas seulement une question de sécurité!","<p>Vous naviguez dans Internet et vous remarquez de plus en plus de sites sécurisés. Des sites arborant le « petit cadenas » dans la barre de navigation et dont l’adresse débute par https !</p>
+
+<p>« Ai-je besoin de ça pour mon site ? », vous demandez-vous.</p>
+
+<p>Techno24 vous répond sans équivoque, sans nuance : Oui.</p>
+
+<p>Mais… « Pourquoi ? », nous demanderez-vous ?</p>
+
+<p>Pour quelques raisons, il va de soit, mais j’ajouterais que les deux principaux facteurs n’ont que peu avoir avec la sécurité en tant que tel !</p>
+
+<h3>Qu’est-ce qu’un certificat sécure (SSL) ?</h3>
+
+<p>D’abord, un peu de sémantique. Un certificat sécure est la plupart du temps appelé certificat SSL pour l’abréviation de Secure Socket Layer que l’on pourrait traduire par « couche de sockets sécurisée ». Un certificat SSL, est aussi appelé certificat électronique ou certificat numérique ou certificat de clé publique peut être assimilé à une carte d’identité numérique. Ce fichier de données lie une clé cryptographique aux informations d’une personne physique ou morale et permet de sécuriser des échanges de données par chiffrement (128 bits, 256 bits, …).</p>
+
+<p>En clair, un certificat SSL permet de sécuriser les informations échangées entre 2 ordinateurs. La démocratisation de son utilisation vient de son application dans les applications bancaires,l’archivage et le partage sécurisé, l’envoi de courriel et le e-commerce.</p>
+
+<p>Par contre, depuis quelques années, les certificats SSL ont vu leur popularité augmenter en même temps que les cas de fraudes électroniques ou d’usurpation d’identité explosaient.</p>
+
+<h3>Le certificat SSL est aujourd’hui incontournable pour tous les sites</h3>
+
+<p>Votre site ne comporte aucun contenu sensible et vous ne faites pas de commerce électronique. Vous n’avez qu’une page simple de présentation de votre entreprise. Une carte de visite électronique. Alors pourquoi demander à Techno-24 la mise en place d’un certificat SSL ?</p>
+
+<h3>La vraie raison se trouve dans l’algorithme de Google.</h3>
+
+<p>Au-delà de l’argument massue de la sécurité de vos visiteurs, du moins dans leur perception du sentiment rassurant et sérieux qui se dégagera de votre entreprise, c’est Google qui vous force la main et vous oblige sans détour à dire oui au certificat SSL.</p>
+
+<h3>Une question de SEO</h3>
+
+<p>En août 2014, Google &nbsp;<a href=""http://googlewebmastercentral-fr.blogspot.fr/2014/08/le-protocole-https-en-tant-que-facteur.html"" rel=""noopener noreferrer"" target=""_blank"">a annoncé qu’il favoriserait le positionnement des sites utilisant SSL dans les classements de son moteur de recherche</a>. Le message de l’entreprise était sans équivoque : Un web plus sûr pour tous.</p>
+
+<p>La généralisation du protocole https est inéluctable, autant y passer au plus vite pour bénéficier du bonus SEO (Search Engine Optimization) accordé par Google. D’ailleurs, depuis janvier dernier, le plus populaire des engins de recherche a commencé a « désindexer » les sites non sécurisé de même que les sites ne proposant aucune version mobile.</p>
+
+<p>La mise en place d’un certificat SSL s’effectue au niveau de l’hébergement de votre site Internet et requiert quelques compétences techniques, en particulier la maîtrise des redirections 301. N’hésitez pas à communiquer avec Techno-24 pour réaliser cette délicate opération sur votre site web. Nous avons l’expertise et l’expérience. Qui plus est, un certificat renouvelable annuellement est peu dispendieux.</p>","<p>Vous naviguez dans Internet et vous remarquez de plus en plus de sites sécurisés. Des sites arborant le « petit cadenas » dans la barre de navigation et dont l’adresse débute par https !</p>
+<p>« Ai-je besoin de ça pour mon site ? », vous demandez-vous.</p>
+<p>Techno24 vous répond sans équivoque, sans nuance : Oui.</p>
+<p>Mais… « Pourquoi ? », nous demanderez-vous ?</p>
+<p>Pour quelques raisons, il va de soit, mais j’ajouterais que les deux principaux facteurs n’ont que peu avoir avec la sécurité en tant que tel !</p>
+<h3>Qu’est-ce qu’un certificat sécure (SSL) ?</h3>
+<p>D’abord, un peu de sémantique. Un certificat sécure est la plupart du temps appelé certificat SSL pour l’abréviation de Secure Socket Layer que l’on pourrait traduire par « couche de sockets sécurisée ». Un certificat SSL, est aussi appelé certificat électronique ou certificat numérique ou certificat de clé publique peut être assimilé à une carte d’identité numérique. Ce fichier de données lie une clé cryptographique aux informations d’une personne physique ou morale et permet de sécuriser des échanges de données par chiffrement (128 bits, 256 bits, …).</p>
+<p>En clair, un certificat SSL permet de sécuriser les informations échangées entre 2 ordinateurs. La démocratisation de son utilisation vient de son application dans les applications bancaires,l’archivage et le partage sécurisé, l’envoi de courriel et le e-commerce.</p>
+<p>Par contre, depuis quelques années, les certificats SSL ont vu leur popularité augmenter en même temps que les cas de fraudes électroniques ou d’usurpation d’identité explosaient.</p>
+<h3>Le certificat SSL est aujourd’hui incontournable pour tous les sites</h3>
+<p>Votre site ne comporte aucun contenu sensible et vous ne faites pas de commerce électronique. Vous n’avez qu’une page simple de présentation de votre entreprise. Une carte de visite électronique. Alors pourquoi demander à Techno-24 la mise en place d’un certificat SSL ?</p>
+<h3>La vraie raison se trouve dans l’algorithme de Google.</h3>
+<p>Au-delà de l’argument massue de la sécurité de vos visiteurs, du moins dans leur perception du sentiment rassurant et sérieux qui se dégagera de votre entreprise, c’est Google qui vous force la main et vous oblige sans détour à dire oui au certificat SSL.</p>
+<h3>Une question de SEO</h3>
+<p>En août 2014, Google  <a href=""http://googlewebmastercentral-fr.blogspot.fr/2014/08/le-protocole-https-en-tant-que-facteur.html"" rel=""noopener noreferrer"" target=""_blank"">a annoncé qu’il favoriserait le positionnement des sites utilisant SSL dans les classements de son moteur de recherche</a>. Le message de l’entreprise était sans équivoque : Un web plus sûr pour tous.</p>
+<p>La généralisation du protocole https est inéluctable, autant y passer au plus vite pour bénéficier du bonus SEO (Search Engine Optimization) accordé par Google. D’ailleurs, depuis janvier dernier, le plus populaire des engins de recherche a commencé a « désindexer » les sites non sécurisé de même que les sites ne proposant aucune version mobile.</p>
+<p>La mise en place d’un certificat SSL s’effectue au niveau de l’hébergement de votre site Internet et requiert quelques compétences techniques, en particulier la maîtrise des redirections 301. N’hésitez pas à communiquer avec Techno-24 pour réaliser cette délicate opération sur votre site web. Nous avons l’expertise et l’expérience. Qui plus est, un certificat renouvelable annuellement est peu dispendieux.</p>","Vous naviguez dans Internet et vous remarquez de plus en plus de sites sécurisés. Des sites arborant le « petit cadenas » dans la barre de navigation et dont l’adresse débute par https !",un-certificat-secure-ssl-pour-votre-site-pas-seulement-une-question-de-securite,"Nouvelles|Nom de domaine|SSL",michel@techno24.net,https://techno24.net/storage/app/uploads/public/5da/deb/518/5dadeb51803b6095587001.jpg,"2019-10-09 19:19:42","2019-11-26 01:30:22","2018-01-18 08:30:00"
+2,"Le site de Jean-Thomas Jobin sur les serveurs de Techno24","<p>Le site web de Jean-Thomas Jobin est hébergé sur les serveurs de Techno24.Jean-Thomas Jobin présente sont troisième one-man-show “Apprendre à s’aimer” Pour consulter le calendrier de la tournée de Jean-Thomas Jobin <a href=""http://www.jeanthomasjobin.com"" rel=""noopener noreferrer"" target=""_blank"">cliquant ici</a>. L’agence SPM compagnie de gérance de l’humoriste, qui sont nos clients depuis déjà quelques année.&nbsp;</p>
+
+<p>Nous sommes fier de collaborer avec eux . Vous pouvez visitez le site de l’agence SPM en <a href=""http://www.agencespm.com/"" rel=""noopener noreferrer"" target=""_blank"">cliquant ici</a></p>
+
+<p>Site officiel de Jean-Thomas Jobin <a href=""http://www.jeanthomasjobin.com"" rel=""noopener noreferrer"" target=""_blank"">http://www.jeanthomasjobin.com</a></p>","<p>Le site web de Jean-Thomas Jobin est hébergé sur les serveurs de Techno24.Jean-Thomas Jobin présente sont troisième one-man-show “Apprendre à s’aimer” Pour consulter le calendrier de la tournée de Jean-Thomas Jobin <a href=""http://www.jeanthomasjobin.com"" rel=""noopener noreferrer"" target=""_blank"">cliquant ici</a>. L’agence SPM compagnie de gérance de l’humoriste, qui sont nos clients depuis déjà quelques année. </p>
+<p>Nous sommes fier de collaborer avec eux . Vous pouvez visitez le site de l’agence SPM en <a href=""http://www.agencespm.com/"" rel=""noopener noreferrer"" target=""_blank"">cliquant ici</a></p>
+<p>Site officiel de Jean-Thomas Jobin <a href=""http://www.jeanthomasjobin.com"" rel=""noopener noreferrer"" target=""_blank"">http://www.jeanthomasjobin.com</a></p>","Le site web de Jean-Thomas Jobin est hébergé sur les serveurs de Techno24.",le-site-de-jean-thomas-jobin-sur-les-serveurs-de-techno24,hébergement,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5da/e17/8a6/5dae178a69a3f976510100.png,"2019-10-21 20:38:25","2019-11-26 01:29:48","2016-08-19 00:00:00"
+4,"Techno24.net souffle son 13e anniversaire","<p><strong>La Prairie, 15 novembre 2019 – Techno24.net, spécialiste des solutions numériques, s’offre pour son 13e anniversaire un nouveau site Web tout neuf qui lui permettra de continuer de vous servir et de vous offrir ce qu’il y a de mieux dans le domaine de l’hébergement Web. Cette nouvelle monture, créer en collaboration avec Alexandre Foisy, permettra de mieux vous servir et de vous offrir un peu plus.</strong></p>
+
+<p>Au menu sur notre nouvelle plateforme, notre gamme de produits Microsoft Office365, de l’hébergement sur un tout nouveau serveur Cloud sous la mouture de Plesk ou cPanel, ainsi que différents services de sécurité pour votre entreprise et notre offre imbattable d’assistance technique à distance. Vous retrouverez, aussi, dans notre nouveau blogue bilingue différents articles de fond qui toucheront l’univers de l’informatique et vous donneront quelques trucs et astuces pour mieux performer!</p>
+
+<p>Nous remercions l’ensemble de nos clients qui continuent à nous soutenir et à nous faire confiance jour après jour dans cette belle aventure!</p>
+
+<p>-L’équipe de Techno24.net</p>","<p><strong>La Prairie, 15 novembre 2019 – Techno24.net, spécialiste des solutions numériques, s’offre pour son 13e anniversaire un nouveau site Web tout neuf qui lui permettra de continuer de vous servir et de vous offrir ce qu’il y a de mieux dans le domaine de l’hébergement Web. Cette nouvelle monture, créer en collaboration avec Alexandre Foisy, permettra de mieux vous servir et de vous offrir un peu plus.</strong></p>
+<p>Au menu sur notre nouvelle plateforme, notre gamme de produits Microsoft Office365, de l’hébergement sur un tout nouveau serveur Cloud sous la mouture de Plesk ou cPanel, ainsi que différents services de sécurité pour votre entreprise et notre offre imbattable d’assistance technique à distance. Vous retrouverez, aussi, dans notre nouveau blogue bilingue différents articles de fond qui toucheront l’univers de l’informatique et vous donneront quelques trucs et astuces pour mieux performer!</p>
+<p>Nous remercions l’ensemble de nos clients qui continuent à nous soutenir et à nous faire confiance jour après jour dans cette belle aventure!</p>
+<p>-L’équipe de Techno24.net</p>","Techno24.net, spécialiste des solutions numériques, s’offre pour son 13e anniversaire un nouveau site Web tout neuf qui lui permettra de continuer de vous servir et de vous offrir ce qu’il y a de mieux dans le domaine de l’hébergement Web.",techno24net-souffle-son-13e-anniversaire,Nouvelles|techno24.net,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5dc/9a8/c02/5dc9a8c025e3a869279113.jpg,"2019-11-11 18:30:38","2019-11-26 01:31:00","2019-11-15 08:00:00"
+5,"L’importance d’appliquer les mises à jour de votre site WordPress","<p><strong>Les mises à jour de site sous WordPress, ou n’importe quel gestionnaire de contenues (CMS), permettre le bon maintien de celui-ci… mais alors pourquoi faut-il absolument le faire et quel sont les impacts?</strong></p>
+
+<p>Avez-vous déjà été confronté à des notifications vous informant d’une nouvelle version de WordPress est disponible? Vous avez surement ignoré celle-ci pendant plusieurs semaines en pensant que c’est inutile.</p>
+
+<p><img data-fr-image-pasted=""true"" src=""https://techno24.net/storage/app/media/images/update-wordpress.jpeg"" alt=""major-update-wordpress.jpg"" class=""fr-fic fr-dii"" style=""width: 300px;"">
+	<br>
+</p>
+
+<p>La mise à jour de WordPress et de ces composantes (thèmes et plugins) permet de régler certains problèmes que vous n’avez surement pas pensés…</p>
+
+<p>Les quatre raisons majeures de le mettre à jour:</p>
+
+<ol>
+	<li>Corrections de bogues qui empêchent ou non son fonctionnement</li>
+	<li>Ajouts de nouvelles fonctions (ça peut être un nouvel éditeur de texte)</li>
+	<li>Corrige et renforce la sécurité de votre site Web</li>
+	<li>Augmentation de la vitesse et des performances du site Web</li>
+</ol>
+
+<h4><strong>Qu’arrive-t-il si je ne fais pas ma mise à jour?</strong></h4>
+
+<p>Le plus grave, c’est une intrusion par des pirates informatiques qui mettront votre site Web hors d’usage pour quelques jours… le temps que vous effectuez un bon ménage ou une sauvegarde de votre site. Bien entendu, vous ne voulez pas vous aventurer jusque-là (je l’espère)!</p>
+
+<p>Si jamais une telle intrusion arrive, n’hésitez pas de communiquer avec nous pour vous aider à vérifier et éradiquer la problématique. Bien souvent, nous avons les outils et les gens qualifier pour régler ce genre de problème!</p>
+
+<h4><strong>&nbsp;Les bonnes pratiques</strong></h4>
+
+<p>Avant de faire toute mise à jour importante de votre site, il est recommandé d’effectuer une sauvegarde complète de votre site et de la base de données pour être en mesure de revenir en arrière en cas de pépin. Certains outils, tels qu’updraftplus, sont à votre disposition pour effectuer ce genre de sauvegarde.</p>
+
+<p>Après, rien de bien sorcier ici, vous avez qu’à mettre à jour WordPress par une des deux méthodes différentes qui existent :</p>
+
+<ol>
+	<li>Le plus simple et rapide la mise à jour automatique</li>
+	<li>Mise à jour manuelle</li>
+</ol>
+
+<p>Pour faire une mise à jour automatique, rendez-vous dans les options suivantes : Tableau de bord &gt; Mises à jour &gt; Mettre à jour automatiquement.</p>
+
+<p>Pour la version manuelle, vous devez disposer d’un logiciel FTP et de bonnes connaissances en informatique!</p>
+
+<p>Ces deux méthodes permettent d’appliquer les correctifs à votre site Web sans problème.</p>
+
+<p>En guise de conclusion, la mise à jour de votre site sous WordPress est une opération qui se passe, dans la majorité des cas, sans aucun tracas. Si dans l’éventualité des cas vous rencontrez une problématique, n’hésitez pas à nous contacter. <a href=""https://techno24.net/fr/contact"">Nos experts vous aideront sans problème</a>.</p>","<p><strong>Les mises à jour de site sous WordPress, ou n’importe quel gestionnaire de contenues (CMS), permettre le bon maintien de celui-ci… mais alors pourquoi faut-il absolument le faire et quel sont les impacts?</strong></p>
+<p>Avez-vous déjà été confronté à des notifications vous informant d’une nouvelle version de WordPress est disponible? Vous avez surement ignoré celle-ci pendant plusieurs semaines en pensant que c’est inutile.</p>
+<p><img data-fr-image-pasted=""true"" src=""https://techno24.net/storage/app/media/images/update-wordpress.jpeg"" alt=""major-update-wordpress.jpg"" class=""fr-fic fr-dii"" style=""width: 300px;"">
+    <br>
+</p>
+<p>La mise à jour de WordPress et de ces composantes (thèmes et plugins) permet de régler certains problèmes que vous n’avez surement pas pensés…</p>
+<p>Les quatre raisons majeures de le mettre à jour:</p>
+<ol>
+    <li>Corrections de bogues qui empêchent ou non son fonctionnement</li>
+    <li>Ajouts de nouvelles fonctions (ça peut être un nouvel éditeur de texte)</li>
+    <li>Corrige et renforce la sécurité de votre site Web</li>
+    <li>Augmentation de la vitesse et des performances du site Web</li>
+</ol>
+<h4><strong>Qu’arrive-t-il si je ne fais pas ma mise à jour?</strong></h4>
+<p>Le plus grave, c’est une intrusion par des pirates informatiques qui mettront votre site Web hors d’usage pour quelques jours… le temps que vous effectuez un bon ménage ou une sauvegarde de votre site. Bien entendu, vous ne voulez pas vous aventurer jusque-là (je l’espère)!</p>
+<p>Si jamais une telle intrusion arrive, n’hésitez pas de communiquer avec nous pour vous aider à vérifier et éradiquer la problématique. Bien souvent, nous avons les outils et les gens qualifier pour régler ce genre de problème!</p>
+<h4><strong> Les bonnes pratiques</strong></h4>
+<p>Avant de faire toute mise à jour importante de votre site, il est recommandé d’effectuer une sauvegarde complète de votre site et de la base de données pour être en mesure de revenir en arrière en cas de pépin. Certains outils, tels qu’updraftplus, sont à votre disposition pour effectuer ce genre de sauvegarde.</p>
+<p>Après, rien de bien sorcier ici, vous avez qu’à mettre à jour WordPress par une des deux méthodes différentes qui existent :</p>
+<ol>
+    <li>Le plus simple et rapide la mise à jour automatique</li>
+    <li>Mise à jour manuelle</li>
+</ol>
+<p>Pour faire une mise à jour automatique, rendez-vous dans les options suivantes : Tableau de bord &gt; Mises à jour &gt; Mettre à jour automatiquement.</p>
+<p>Pour la version manuelle, vous devez disposer d’un logiciel FTP et de bonnes connaissances en informatique!</p>
+<p>Ces deux méthodes permettent d’appliquer les correctifs à votre site Web sans problème.</p>
+<p>En guise de conclusion, la mise à jour de votre site sous WordPress est une opération qui se passe, dans la majorité des cas, sans aucun tracas. Si dans l’éventualité des cas vous rencontrez une problématique, n’hésitez pas à nous contacter. <a href=""https://techno24.net/fr/contact"">Nos experts vous aideront sans problème</a>.</p>","Les mises à jour de site sous WordPress, ou n’importe quel gestionnaire de contenues (CMS), permettre le bon maintien de celui-ci… mais alors pourquoi faut-il absolument le faire et quel sont les impacts?",limportance-dappliquer-les-mises-jour-de-votre-site-wordpress,"WordPress|Mise à jours",alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5dd/bdf/a47/5ddbdfa472081545016568.jpg,"2019-11-25 13:59:27","2019-11-26 01:43:02","2019-11-25 14:04:41"
+6,"Nos clients : présentation du site Etfy Design","<p><strong>Une nouvelle section pour 2020, nous vous présentons à l’honneur nos nouveaux clients. Nous commençons le bal avec Etfy Design. </strong></p>
+
+<p>Dans le but de réaliser son plus grand rêve qui est de faire un jour des costumes pour l’industrie du cinéma, Estelle Foisy, à démarrer son entreprise Etfy Design qui se concentre sur la création de costumes personnalisés. Maitre en la matière, elle a participé à de nombreux concours dans le domaine du <em>Cosplay</em>.</p>
+
+<p>Vous retrouvez, sur son <a href=""https://etfydesign.com"" rel=""noopener noreferrer"" target=""_blank"">site Web</a>, un Portfolio qui dénombre de nombreuses réalisations vibrantes!</p>","<p><strong>Une nouvelle section pour 2020, nous vous présentons à l’honneur nos nouveaux clients. Nous commençons le bal avec Etfy Design. </strong></p>
+<p>Dans le but de réaliser son plus grand rêve qui est de faire un jour des costumes pour l’industrie du cinéma, Estelle Foisy, à démarrer son entreprise Etfy Design qui se concentre sur la création de costumes personnalisés. Maitre en la matière, elle a participé à de nombreux concours dans le domaine du <em>Cosplay</em>.</p>
+<p>Vous retrouvez, sur son <a href=""https://etfydesign.com"" rel=""noopener noreferrer"" target=""_blank"">site Web</a>, un Portfolio qui dénombre de nombreuses réalisations vibrantes!</p>","Une nouvelle section pour 2020, nous vous présentons à l’honneur nos nouveaux clients. Nous commençons le bal avec Etfy Design.",nos-clients-presentation-du-site-etfy-design,"Nouvelles|Sites Web clients",michel@techno24.net,https://techno24.net/storage/app/uploads/public/5e0/219/e4b/5e0219e4b57da234848152.jpg,"2019-12-24 14:00:18","2019-12-24 14:06:29","2019-12-24 00:00:00"
+7,"Joyeux Noël et bonne année 2020!","Toute l’équipe de Techno24.net vous souhaite d’excellentes fêtes de fin d’année. Un grand merci pour votre confiance et de votre fidélité qui nous enrichissent. 
+
+Au plaisir de vous retrouver en 2020 !","<p>Toute l’équipe de Techno24.net vous souhaite d’excellentes fêtes de fin d’année. Un grand merci pour votre confiance et de votre fidélité qui nous enrichissent. </p>
+<p>Au plaisir de vous retrouver en 2020 !</p>","Toute l’équipe de Techno24.net vous souhaite d’excellentes fêtes de fin d’année. Un grand merci pour votre confiance et de votre fidélité qui nous enrichissent.",joyeux-noel-et-bonne-annee-2020,Nouvelles|techno24.net,alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e0/221/dce/5e0221dce40d6495780098.jpg,"2019-12-24 14:46:09","2019-12-24 14:46:09","2019-12-24 09:00:00"
+8,"Présentation du site de la clinique d’ostéopathie familiale Rosemont","**Nouveau client chez Techno24.net depuis peu, nous vous présentons cette semaine Louise Dupré, ostéopathe et son nouveau site Web.**
+
+Bachelière de l’Université Mc Gill en physiothérapie (1988), Louise Dupré a par la suite fait ses études en ostéopathie au Collège d’Études ostéopathiques de Montréal en 1999. Elle a réalisé sa thèse de fin d’études sur l’influence de la mobilité de la charnière dorso-lombaire sur la lombalgie chronique.
+
+Dès les débuts de sa pratique comme physiothérapeute, elle valorise l’approche multidisciplinaire dans le traitement des problèmes de santé. Elle œuvre auprès d’une clientèle très variée. Au fil de ses 20 années de pratique comme ostéopathe, elle a développé un intérêt particulier pour le traitement des bébés, et en ce sens, a suivi des formations post-graduées spécifiques à ce domaine.
+
+Vous pouvez, sur son site Web, prendre <a href=""https://osteopathierosemont.com"" target=""_blank"">rendez-vous en ligne</a>!","<p><strong>Nouveau client chez Techno24.net depuis peu, nous vous présentons cette semaine Louise Dupré, ostéopathe et son nouveau site Web.</strong></p>
+<p>Bachelière de l’Université Mc Gill en physiothérapie (1988), Louise Dupré a par la suite fait ses études en ostéopathie au Collège d’Études ostéopathiques de Montréal en 1999. Elle a réalisé sa thèse de fin d’études sur l’influence de la mobilité de la charnière dorso-lombaire sur la lombalgie chronique.</p>
+<p>Dès les débuts de sa pratique comme physiothérapeute, elle valorise l’approche multidisciplinaire dans le traitement des problèmes de santé. Elle œuvre auprès d’une clientèle très variée. Au fil de ses 20 années de pratique comme ostéopathe, elle a développé un intérêt particulier pour le traitement des bébés, et en ce sens, a suivi des formations post-graduées spécifiques à ce domaine.</p>
+<p>Vous pouvez, sur son site Web, prendre <a href=""https://osteopathierosemont.com"" target=""_blank"">rendez-vous en ligne</a>!</p>","Nouveau client chez Techno24.net depuis peu, nous vous présentons cette semaine Louise Dupré, ostéopathe et son nouveau site Web.",presentation-du-site-de-la-clinique-dosteopathie-familiale-rosemont,"Sites Web clients",alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e1/5d8/e78/5e15d8e78ef03681797209.jpg,"2020-01-08 13:28:12","2020-01-08 13:31:18","2020-01-08 08:00:00"
+9,"Comment vider le cache DNS de son ordinateur","**À chaque fois que vous tapez le nom d'un site, votre ordinateur conserve l'historique de toutes les adresses que vous avez visité dans le cache DNS. Parfois votre ordinateur peut avoir la mémoire longue.**
+
+Si jamais un site change son adresse IP ou que vous avez apporté un changement au contenu, il est possible que vous ne puissiez plus y accéder ou ne pas être en mesure. Pour y remédier, vous devez vider votre cache DNS pour pouvoir accélérer les futures connexions que vous ferez sur ce ou ces sites internet.
+
+Voici une liste par système d’exploitation et par version :
+
+## **Pour Windows 10**
+
+
+![windows-clean.jpg](https://techno24.net/storage/app/uploads/public/5e1/ce5/feb/5e1ce5febb9f7819864770.jpg)
+
+
+Démarrer invite de commande Boutton Windows Exécuter Tapez ""cmd"" (sans les guillemets) puis faites ""Entrer""
+
+ipconfig /flushdns
+
+##**Pour Mac OS**
+
+
+![mac-clean.jpg](https://techno24.net/storage/app/uploads/public/5e1/ce6/139/5e1ce61398e3c271152501.jpg)
+Lancer Spotlight, maintenez la touche Ctrl enfoncée, et appuyez sur la barre d'espace et effectuer la recherche suivante: terminal. Lancer l'application et copier coller le code ci-bas dépendant votre version (pour vérifier votre version mac, cliquer sur la Pomme puis À propos de ce Mac) dans la fenêtre de l'application.
+ 
+**macOS Catalina 10.15.0 à OSX 10.10.4**
+
+sudo killall -HUP mDNSResponder
+
+**OSX 10.10.0 – 10.10.3**
+
+sudo discoveryutil mdnsflushcache
+
+**OSX 10.9  – 10.8 – 10.7**
+
+sudo killall -HUP mDNSResponder
+
+**OSX 10.5 – 10.6**
+
+sudo dscacheutil -flushcache
+
+
+##**Linux (Selon la distribution)**
+
+
+![linux-clean.jpg](https://techno24.net/storage/app/uploads/public/5e1/ce6/1fd/5e1ce61fd377a461903021.jpg)
+
+
+/etc/init.d/named restart
+
+/etc/init.d/nscd restart","<p><strong>À chaque fois que vous tapez le nom d'un site, votre ordinateur conserve l'historique de toutes les adresses que vous avez visité dans le cache DNS. Parfois votre ordinateur peut avoir la mémoire longue.</strong></p>
+<p>Si jamais un site change son adresse IP ou que vous avez apporté un changement au contenu, il est possible que vous ne puissiez plus y accéder ou ne pas être en mesure. Pour y remédier, vous devez vider votre cache DNS pour pouvoir accélérer les futures connexions que vous ferez sur ce ou ces sites internet.</p>
+<p>Voici une liste par système d’exploitation et par version :</p>
+<h2><strong>Pour Windows 10</strong></h2>
+<p><img src=""https://techno24.net/storage/app/uploads/public/5e1/ce5/feb/5e1ce5febb9f7819864770.jpg"" alt=""windows-clean.jpg"" /></p>
+<p>Démarrer invite de commande Boutton Windows Exécuter Tapez &quot;cmd&quot; (sans les guillemets) puis faites &quot;Entrer&quot;</p>
+<p>ipconfig /flushdns</p>
+<h2><strong>Pour Mac OS</strong></h2>
+<p><img src=""https://techno24.net/storage/app/uploads/public/5e1/ce6/139/5e1ce61398e3c271152501.jpg"" alt=""mac-clean.jpg"" />
+Lancer Spotlight, maintenez la touche Ctrl enfoncée, et appuyez sur la barre d'espace et effectuer la recherche suivante: terminal. Lancer l'application et copier coller le code ci-bas dépendant votre version (pour vérifier votre version mac, cliquer sur la Pomme puis À propos de ce Mac) dans la fenêtre de l'application.</p>
+<p><strong>macOS Catalina 10.15.0 à OSX 10.10.4</strong></p>
+<p>sudo killall -HUP mDNSResponder</p>
+<p><strong>OSX 10.10.0 – 10.10.3</strong></p>
+<p>sudo discoveryutil mdnsflushcache</p>
+<p><strong>OSX 10.9  – 10.8 – 10.7</strong></p>
+<p>sudo killall -HUP mDNSResponder</p>
+<p><strong>OSX 10.5 – 10.6</strong></p>
+<p>sudo dscacheutil -flushcache</p>
+<h2><strong>Linux (Selon la distribution)</strong></h2>
+<p><img src=""https://techno24.net/storage/app/uploads/public/5e1/ce6/1fd/5e1ce61fd377a461903021.jpg"" alt=""linux-clean.jpg"" /></p>
+<p>/etc/init.d/named restart</p>
+<p>/etc/init.d/nscd restart</p>","À chaque fois que vous tapez le nom d'un site, votre ordinateur conserve l'historique de toutes les adresses que vous avez visité dans le cache DNS. Parfois votre ordinateur peut avoir la mémoire longue.",comment-vider-le-cache-dns-de-son-ordinateur,Nouvelles|hébergement,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5e1/ce5/333/5e1ce53335178076420088.jpg,"2020-01-13 21:50:51","2020-01-19 18:34:47","2020-01-13 16:00:00"
+10,"Présentation du site de École YogaSantéPlus","**Nous vous présentons cette semaine, Antonella Morun et son site Web l’école YogaSantéPlus.**
+
+Située à Montréal dans le quartier Hochelaga-Maisonneuve, l’école YogaSantePlus offre différent cours d’hatha yoga et yoga thérapeutique en groupe ou privés. À noter que la formation en yoga thérapeutique reconnue et accréditée par l’association RITMA!
+
+L’école propose ainsi différents cours pour le besoin de chacun, de l’initiation, au cours plus dynamique et avancé, jusqu’à l’approche thérapeutique personnalisée comme le yoga prénatal, le Yoga nidra, la méditation, le yoga antistress et le yoga thérapeutique pour le dos, le système digestif, le système articulaire, le système immunitaire, etc. Cours en groupe, privé et en entreprise.
+
+Vous pouvez en apprendre davantage sur cette école en <a href=""https://ecoleyogasanteplus.com"" target=""_blank"">cliquant ici</a>.","<p><strong>Nous vous présentons cette semaine, Antonella Morun et son site Web l’école YogaSantéPlus.</strong></p>
+<p>Située à Montréal dans le quartier Hochelaga-Maisonneuve, l’école YogaSantePlus offre différent cours d’hatha yoga et yoga thérapeutique en groupe ou privés. À noter que la formation en yoga thérapeutique reconnue et accréditée par l’association RITMA!</p>
+<p>L’école propose ainsi différents cours pour le besoin de chacun, de l’initiation, au cours plus dynamique et avancé, jusqu’à l’approche thérapeutique personnalisée comme le yoga prénatal, le Yoga nidra, la méditation, le yoga antistress et le yoga thérapeutique pour le dos, le système digestif, le système articulaire, le système immunitaire, etc. Cours en groupe, privé et en entreprise.</p>
+<p>Vous pouvez en apprendre davantage sur cette école en <a href=""https://ecoleyogasanteplus.com"" target=""_blank"">cliquant ici</a>.</p>","Nous vous présentons cette semaine, Antonella Morun et son site Web l’école YogaSantéPlus.",presentation-du-site-de-ecole-yogasanteplus,"Sites Web clients",alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e2/4b7/4f9/5e24b74f9e2ea074281739.jpg,"2020-01-19 20:09:22","2020-01-19 20:11:19","2020-01-19 15:00:00"
+11,"Top 5 d’application mobile pour optimiser votre entreprise","**Quoi de mieux que de commencer l’année du bon pied ? Techno24 vous propose son top 5 d’applications pour optimiser votre entreprise et votre appareil mobile.**
+
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">1. LastPass</h2></div>
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c0/2f5/5e28c02f5e4a8271594842.png"" alt=""LastPass app"" class=""wow flipInX"" style=""width:90px;"" class=""float-left"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p>LastPass est une app de gestion de mots de passe payante et qui simplifie votre expérience en ligne. LastPass vous permet de créer un mot de passe robuste en quelques secondes!</p>
+
+        <strong>Disponible :</strong>
+
+        <a href=""https://itunes.apple.com/fr/app/lastpass-password-manager/id324613447"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+        <a href=""https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&hl=fr"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+    </div>
+</div>
+<br />
+<div class=""row"">
+     <div class=""col-12""><h2 class=""h2-responsive"">2. La suite Microsoft Office</h2></div>
+
+        <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+            <img src=""/storage/app/uploads/public/5e2/8c4/789/5e28c47893038452529213.png"" alt=""Microsoft Office"" class=""wow flipInX"" style=""width:90px;"" class=""float-left"">
+        </div>
+        <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+            <p>La suite offerte par Microsoft est devenue un incontournable dans les PME. Vous y retrouverez vos outils préférer, dont Word, Excel, Outlook, PowerPoint et aussi d’autres applications développer par la firme. Vous pouvez vous procurer  <a href=""https://techno24.net/fr/office365#office"" target=""_blank"">une licence Office365</a> qui inclut ces applications payante et indispensable avec nous. Nous nous occuperons ainsi de la configuration de votre compte MS365.</p>
+
+            <strong>Disponible :</strong>
+
+            <a href=""https://apps.apple.com/us/developer/microsoft-corporation/id298856275"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+            <a href=""https://play.google.com/store/apps/dev?id=6720847872553662727"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+     </div>
+</div>
+<br />
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">3. HelloSign</h2></div>
+
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c7/6a5/5e28c76a5035e922472885.png"" alt=""HelloSign app"" class=""wow flipInX"" style=""width:90px;"" class=""float-left"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p>HelloSIgn est une application de signature électronique qui vous permet de signer vos documents lorsque vous êtes en déplacement. Il permet aussi de faire signer plusieurs collaborateurs dans un ordre défini. À noter que cette app s’intègre avec Google!
+        </p>
+
+        <strong>Disponible :</strong>
+
+        <a href=""https://itunes.apple.com/us/app/hellosign/id546260764"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+        <a href=""https://play.google.com/store/apps/details?id=com.hellosign&hl=fr"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+    </div>
+</div>
+<br />
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">4. Momenteo</h2></div>
+
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c7/9e9/5e28c79e90477608184025.png"" alt=""Momenteo app"" class=""wow flipInX"" style=""width:90px;"" class=""float-left"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p>Application québécoise, Momenteo est une app gratuite de facturation et de devis en ligne pour entrepreneur. Celle-ci simplifie grandement votre facturation en vous proposant divers outils, dont la création sur votre mobile (et sur votre ordinateur!) de factures, devis et autres fonctionnalités!
+        </p>
+
+        <strong>Disponible :</strong>
+
+        App disponible <a href=""https://www.momenteo.com"" target=""_blank"">en ligne</a> pour le moment, une version mobile est en route pour cette année!
+    </div>
+</div>
+<br />
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">5. CamScanner</h2></div>
+
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c7/bfe/5e28c7bfee560887468093.png"" alt=""LastPass app"" class=""wow flipInX"" style=""width:90px;"" class=""float-left"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p> CamScanner transforme votre téléphone en un puissant scanneur mobile qui numérise tout document physique et le sauvegarde dans votre appareil. Grâce à la technologie de l’OCR (Reconnaissance automatisée de caractère), l’application rend tout fichier numérisé modifiable!
+        </p>
+
+        <strong>Disponible :</strong>
+
+        <a href=""https://apps.apple.com/fr/app/camscanner-document-scan-fax/id388627783"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+        <a href=""https://play.google.com/store/apps/details?id=com.intsig.camscanner"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+    </div>
+</div>","<p><strong>Quoi de mieux que de commencer l’année du bon pied ? Techno24 vous propose son top 5 d’applications pour optimiser votre entreprise et votre appareil mobile.</strong></p>
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">1. LastPass</h2></div>
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c0/2f5/5e28c02f5e4a8271594842.png"" alt=""LastPass app"" class=""wow flipInX"" style=""width:90px;"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p>LastPass est une app de gestion de mots de passe payante et qui simplifie votre expérience en ligne. LastPass vous permet de créer un mot de passe robuste en quelques secondes!</p>
+
+        <strong>Disponible :</strong>
+
+        <a href=""https://itunes.apple.com/fr/app/lastpass-password-manager/id324613447"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+        <a href=""https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&amp;hl=fr"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+    </div>
+</div>
+<p><br /></p>
+<div class=""row"">
+     <div class=""col-12""><h2 class=""h2-responsive"">2. La suite Microsoft Office</h2></div>
+
+        <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+            <img src=""/storage/app/uploads/public/5e2/8c4/789/5e28c47893038452529213.png"" alt=""Microsoft Office"" class=""wow flipInX"" style=""width:90px;"">
+        </div>
+        <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+            <p>La suite offerte par Microsoft est devenue un incontournable dans les PME. Vous y retrouverez vos outils préférer, dont Word, Excel, Outlook, PowerPoint et aussi d’autres applications développer par la firme. Vous pouvez vous procurer  <a href=""https://techno24.net/fr/office365#office"" target=""_blank"">une licence Office365</a> qui inclut ces applications payante et indispensable avec nous. Nous nous occuperons ainsi de la configuration de votre compte MS365.</p>
+
+            <strong>Disponible :</strong>
+
+            <a href=""https://apps.apple.com/us/developer/microsoft-corporation/id298856275"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+            <a href=""https://play.google.com/store/apps/dev?id=6720847872553662727"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+     </div>
+</div>
+<p><br /></p>
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">3. HelloSign</h2></div>
+
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c7/6a5/5e28c76a5035e922472885.png"" alt=""HelloSign app"" class=""wow flipInX"" style=""width:90px;"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p>HelloSIgn est une application de signature électronique qui vous permet de signer vos documents lorsque vous êtes en déplacement. Il permet aussi de faire signer plusieurs collaborateurs dans un ordre défini. À noter que cette app s’intègre avec Google!
+        </p>
+
+        <strong>Disponible :</strong>
+
+        <a href=""https://itunes.apple.com/us/app/hellosign/id546260764"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+        <a href=""https://play.google.com/store/apps/details?id=com.hellosign&amp;hl=fr"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+    </div>
+</div>
+<p><br /></p>
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">4. Momenteo</h2></div>
+
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c7/9e9/5e28c79e90477608184025.png"" alt=""Momenteo app"" class=""wow flipInX"" style=""width:90px;"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p>Application québécoise, Momenteo est une app gratuite de facturation et de devis en ligne pour entrepreneur. Celle-ci simplifie grandement votre facturation en vous proposant divers outils, dont la création sur votre mobile (et sur votre ordinateur!) de factures, devis et autres fonctionnalités!
+        </p>
+
+        <strong>Disponible :</strong>
+
+        App disponible <a href=""https://www.momenteo.com"" target=""_blank"">en ligne</a> pour le moment, une version mobile est en route pour cette année!
+    </div>
+</div>
+<p><br /></p>
+<div class=""row"">
+    <div class=""col-12""><h2 class=""h2-responsive"">5. CamScanner</h2></div>
+
+    <div class=""col-xs-12 col-sm-1"" style=""margin-right:60px;"">
+        <img src=""/storage/app/uploads/public/5e2/8c7/bfe/5e28c7bfee560887468093.png"" alt=""LastPass app"" class=""wow flipInX"" style=""width:90px;"">
+    </div>
+    <div class=""col-xs-12 col-sm-10 mt-2-xs"">
+        <p> CamScanner transforme votre téléphone en un puissant scanneur mobile qui numérise tout document physique et le sauvegarde dans votre appareil. Grâce à la technologie de l’OCR (Reconnaissance automatisée de caractère), l’application rend tout fichier numérisé modifiable!
+        </p>
+
+        <strong>Disponible :</strong>
+
+        <a href=""https://apps.apple.com/fr/app/camscanner-document-scan-fax/id388627783"" target=""_blank"">iOS <i class=""fab fa-apple""></i></a> |
+        <a href=""https://play.google.com/store/apps/details?id=com.intsig.camscanner"" target=""_blank"">Android <i class=""fab fa-google-play""></i></a>
+    </div>
+</div>","Quoi de mieux que de commencer l’année du bon pied ? Techno24 vous propose son top 5 d’applications pour optimiser votre entreprise et votre appareil mobile.",top-5-dapplication-mobile-pour-optimiser-votre-entreprise,Nouvelles,alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e2/8bf/2f2/5e28bf2f2f177333184354.jpg,"2020-01-22 21:30:01","2020-01-23 13:07:39","2020-01-22 00:00:00"
+12,"Rapport de sécurité, les PC plus sécuritaires que les MAC","**Croyance populaire depuis l’ère Steve Jobs, le MAC serait mieux protégé contre les logiciels malveillants que les PC… hé bien cette croyance est révolue.**
+
+Un <a href=""https://resources.malwarebytes.com/files/2020/02/2020_State-of-Malware-Report.pdf"" target=""_blank"">nouveau rapport de sécurité</a> publié par l’entreprise Malwarebytes, qui conçoit des logiciels antivirus, vient de remettre en question cette croyance mythique. Ce rapport s’intéresse à la prévalence des maliciels à travers les différents systèmes d’exploitation, dont Windows et l’écosystème Apple. Pour une première fois, on arrive à une conclusion que les MAC sont plus vulnérables que les PC.
+
+En 2018, les MAC faisaient face en moyenne à 4,8 menaces par appareil, mais en 2019 ce chiffre a bondi à 11 menaces par appareil! En comparaisons les PC ont fait face à une moyenne de 5,8 menaces par appareils.
+
+Selon Malwarebytes, les menaces de sécurité envers les MAC proviendraient principalement des logiciels publicitaires (ou adwares), qui dirigent des publicités ciblées vers l'ordinateur, ainsi que des logiciels qui prétendent 
+« nettoyer » votre poste de travail, comme le fameux MacKeeper ou MacBooster.
+
+Avec les dernières années, les produits Apple seraient devenus assez populaires pour attirer l’attention des pirates informatiques et ainsi augmenter le nombre de menaces sur l'écosystème de la pomme… à un point tel que le mythe du MAC invincible semble maintenant être une chose du passé.","<p><strong>Croyance populaire depuis l’ère Steve Jobs, le MAC serait mieux protégé contre les logiciels malveillants que les PC… hé bien cette croyance est révolue.</strong></p>
+<p>Un <a href=""https://resources.malwarebytes.com/files/2020/02/2020_State-of-Malware-Report.pdf"" target=""_blank"">nouveau rapport de sécurité</a> publié par l’entreprise Malwarebytes, qui conçoit des logiciels antivirus, vient de remettre en question cette croyance mythique. Ce rapport s’intéresse à la prévalence des maliciels à travers les différents systèmes d’exploitation, dont Windows et l’écosystème Apple. Pour une première fois, on arrive à une conclusion que les MAC sont plus vulnérables que les PC.</p>
+<p>En 2018, les MAC faisaient face en moyenne à 4,8 menaces par appareil, mais en 2019 ce chiffre a bondi à 11 menaces par appareil! En comparaisons les PC ont fait face à une moyenne de 5,8 menaces par appareils.</p>
+<p>Selon Malwarebytes, les menaces de sécurité envers les MAC proviendraient principalement des logiciels publicitaires (ou adwares), qui dirigent des publicités ciblées vers l'ordinateur, ainsi que des logiciels qui prétendent
+« nettoyer » votre poste de travail, comme le fameux MacKeeper ou MacBooster.</p>
+<p>Avec les dernières années, les produits Apple seraient devenus assez populaires pour attirer l’attention des pirates informatiques et ainsi augmenter le nombre de menaces sur l'écosystème de la pomme… à un point tel que le mythe du MAC invincible semble maintenant être une chose du passé.</p>","Croyance populaire depuis l’ère Steve Jobs, le MAC serait mieux protégé contre les logiciels malveillants que les PC… hé bien cette croyance est révolue.",rapport-de-securite-les-pc-plus-securitaires-que-les-mac,Nouvelles|Sécurité|Ordinateur,alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e4/57b/51a/5e457b51add69551388468.jpg,"2020-02-13 16:38:24","2020-02-15 04:33:43","2020-02-13 11:30:00"
+13,"Présentation du site du Groupe Aladin","**Nous vous présentons cette semaine le groupe Aladin, magicien du nettoyage de ventilation et de tissus et son nouveau site Web.**
+
+Maitre dans la magie du nettoyage de ventilation et de tissus commercial depuis plus de 20 ans, elle est devenue une référence en la matière sur la Rive-Sud de Montréal. Le génie en chef, Jacques Beaulieu, président de l’entreprise, assure que son entreprise familiale évolue selon les besoins de ses clients.
+
+Nous vous encourageons à les contacter pour qu’il s’occupe de l’entretien de votre système de ventilation et des tissus (tapis, meubles, etc.). Vous pouvez par la même occasion visualiser leur <a href=""https://groupealadin.ca"" target=""_blank"">site Web</a>!","<p><strong>Nous vous présentons cette semaine le groupe Aladin, magicien du nettoyage de ventilation et de tissus et son nouveau site Web.</strong></p>
+<p>Maitre dans la magie du nettoyage de ventilation et de tissus commercial depuis plus de 20 ans, elle est devenue une référence en la matière sur la Rive-Sud de Montréal. Le génie en chef, Jacques Beaulieu, président de l’entreprise, assure que son entreprise familiale évolue selon les besoins de ses clients.</p>
+<p>Nous vous encourageons à les contacter pour qu’il s’occupe de l’entretien de votre système de ventilation et des tissus (tapis, meubles, etc.). Vous pouvez par la même occasion visualiser leur <a href=""https://groupealadin.ca"" target=""_blank"">site Web</a>!</p>","Nous vous présentons cette semaine le groupe Aladin, magicien du nettoyage de ventilation et de tissus et son nouveau site Web.",presentation-du-site-du-groupe-aladin,"Sites Web clients",alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e6/0fd/047/5e60fd0479b66246929297.jpg,"2020-03-05 13:23:44","2020-03-05 22:10:01","2020-03-05 13:22:36"
+14,"iDNS l’arnaque qui touche les propriétaires de nom de domaine","**Comme chaque année, cette entreprise d'escroc vous envoie, par courrier ou courriel, une lettre vous demandant de renouveler votre ou vos noms de domaines…**
+
+Une arnaque qui consiste à envoyer par la poste ou par courriel de faux avis de renouvellement de nom de domaines aux propriétaires du dit nom de domaine.
+
+Ces lettres et courriels sont d'un aspect qui semble « officiel » alors qu'en réalité, c'est une méthode de marketing direct et scrupuleux qui cache bien des petits caractères et bien des mots de tête si vous y répondez!
+
+Voici une copie de la lettre que nous et plusieurs propriétaires de nom de domaine avons reçue: 
+
+
+![fraude-idns.jpg](https://techno24.net/storage/app/uploads/public/5e6/264/8c1/5e62648c13122010266363.jpg)
+
+
+Cette lettre, qui a plus l’air d’une facture à mesure qu’on la lit, indique que leur domaine expire sous peu, ce qui peut s'avérer vrai, selon les cas… et en remplissant le formulaire, ce n'est pas un renouvellement, mais plutôt un transfert de nom de domaine qu'on fait. 
+
+L’équipe de Techno24.net vous invite à tout simplement ignorer cet avis. En cas de doute, contactez-nous directement et envoyez-nous la pièce jointe que vous avez reçue.","<p><strong>Comme chaque année, cette entreprise d'escroc vous envoie, par courrier ou courriel, une lettre vous demandant de renouveler votre ou vos noms de domaines…</strong></p>
+<p>Une arnaque qui consiste à envoyer par la poste ou par courriel de faux avis de renouvellement de nom de domaines aux propriétaires du dit nom de domaine.</p>
+<p>Ces lettres et courriels sont d'un aspect qui semble « officiel » alors qu'en réalité, c'est une méthode de marketing direct et scrupuleux qui cache bien des petits caractères et bien des mots de tête si vous y répondez!</p>
+<p>Voici une copie de la lettre que nous et plusieurs propriétaires de nom de domaine avons reçue: </p>
+<p><img src=""https://techno24.net/storage/app/uploads/public/5e6/264/8c1/5e62648c13122010266363.jpg"" alt=""fraude-idns.jpg"" /></p>
+<p>Cette lettre, qui a plus l’air d’une facture à mesure qu’on la lit, indique que leur domaine expire sous peu, ce qui peut s'avérer vrai, selon les cas… et en remplissant le formulaire, ce n'est pas un renouvellement, mais plutôt un transfert de nom de domaine qu'on fait. </p>
+<p>L’équipe de Techno24.net vous invite à tout simplement ignorer cet avis. En cas de doute, contactez-nous directement et envoyez-nous la pièce jointe que vous avez reçue.</p>","Comme chaque année, cette entreprise d'escroc vous envoie, par courrier ou courriel, une lettre vous demandant de renouveler votre ou vos noms de domaines…",idns-larnaque-qui-touche-les-proprietaires-de-nom-de-domaine,Nouvelles|Sécurité,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5e6/264/797/5e6264797af3f447903574.jpg,"2020-03-06 14:56:31","2020-03-13 14:36:57","2020-03-06 14:55:38"
+15,"Une app Android de suivi du COVID-19 déguisé en rançongiciel","**Des pirates tentent de profiter de la peur entourant le COVID-19 depuis plusieurs semaines pour arnaquer ou voler les données des internautes…**
+
+Ce lundi, une équipe de cybersécurité de la firme DomainTools a mis en garde les internautes contre cette application Android, nommé COVID-19 Tracker, prétendant offrir un suivi des personnes infectées par le coronavirus… Une fois installée, l’application prend le téléphone en otage et demande en échange une rançon pour être libérée. 
+
+Une fois téléchargée, l’application demande d’avoir accès à l’écran de déverrouillage pour « envoyer des alertes quand un patient est près de vous ». Celui-ci verrouille ensuite le téléphone de la victime et lui demande un paiement de 100 $ en bitcoin en échange d’un code qui redonnerait accès au téléphone. App menace l’utilisateur de vider la mémoire du téléphone si la rançon n’est pas payée.
+
+
+![covid-19-tracker-app.jpg](https://techno24.net/storage/app/uploads/public/5e7/140/8ce/5e71408ce662f561996682.jpg)
+
+
+Heureusement l’entreprise DomainTools a rendu public le mot de passe qui peut déverrouiller les téléphones infectés : 4865083501
+
+### Google et Apple surveillent les applications
+
+Les deux entreprises ont d’ailleurs émis un communiqué dans les derniers jours que seules les applications liées au coronavirus développées par des organismes reconnus seraient acceptées sur magasins applications pour ainsi stopper la désinformation.","<p><strong>Des pirates tentent de profiter de la peur entourant le COVID-19 depuis plusieurs semaines pour arnaquer ou voler les données des internautes…</strong></p>
+<p>Ce lundi, une équipe de cybersécurité de la firme DomainTools a mis en garde les internautes contre cette application Android, nommé COVID-19 Tracker, prétendant offrir un suivi des personnes infectées par le coronavirus… Une fois installée, l’application prend le téléphone en otage et demande en échange une rançon pour être libérée. </p>
+<p>Une fois téléchargée, l’application demande d’avoir accès à l’écran de déverrouillage pour « envoyer des alertes quand un patient est près de vous ». Celui-ci verrouille ensuite le téléphone de la victime et lui demande un paiement de 100 $ en bitcoin en échange d’un code qui redonnerait accès au téléphone. App menace l’utilisateur de vider la mémoire du téléphone si la rançon n’est pas payée.</p>
+<p><img src=""https://techno24.net/storage/app/uploads/public/5e7/140/8ce/5e71408ce662f561996682.jpg"" alt=""covid-19-tracker-app.jpg"" /></p>
+<p>Heureusement l’entreprise DomainTools a rendu public le mot de passe qui peut déverrouiller les téléphones infectés : 4865083501</p>
+<h3>Google et Apple surveillent les applications</h3>
+<p>Les deux entreprises ont d’ailleurs émis un communiqué dans les derniers jours que seules les applications liées au coronavirus développées par des organismes reconnus seraient acceptées sur magasins applications pour ainsi stopper la désinformation.</p>","Des pirates tentent de profiter de la peur entourant le COVID-19 depuis plusieurs semaines pour arnaquer ou voler les données des internautes…",une-app-android-de-suivi-du-covid-19-deguise-en-rancongiciel,Nouvelles|Sécurité,alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e7/140/a89/5e7140a89683c613493615.jpg,"2020-03-17 21:27:06","2020-03-17 21:28:40","2020-03-17 21:26:54"
+16,"COVID 19 et votre site Web","**La crise provoquée par le Coronavirus crée un retentissement majeur pour plusieurs de nos entreprises.**
+
+Ceci dit, c’est le temps parfait de prendre soin de soin de son site Web. Premièrement, appeler votre hébergeur Web pour vous assurer que votre nom de domaine n’arrive pas à échéance. Aussi demander à votre hébergeur d’activer un certificat SSL. Pour la plupart des sites Web, l’activation d’un certificat SSL est gratuite et se fait en quelques minutes.
+
+**Voici quelques idées pour chouchouter vote site Web**
+
+**Rédaction :** Écrire des articles sur votre site. Par exemple, si votre travail est massothérapeute, vous pourriez écrire un article sur comment adopter une posture assise.
+
+**Mettre à jour vos photos :** De nouvelles photos pour votre site Web, ça fait du bien.
+
+**Mettre à jour du site :** Si vous avez site confectionné en WordPress ou autres CMS profitez-en pour faire les mises à jour de sécurité des extensions et du cœur de la plateforme.
+
+**Création de contenue :** Le nouveau contenu sur votre site peut aider grandement votre entreprise et vous donner un petit push sur Google.
+
+Ceci n’est que quelques pistes pour vous aider, n’oublier pas de partager vos idées pour rehausse votre site Web par le biais de nos réseaux sociaux, aidons les entreprises d’ici!","<p><strong>La crise provoquée par le Coronavirus crée un retentissement majeur pour plusieurs de nos entreprises.</strong></p>
+<p>Ceci dit, c’est le temps parfait de prendre soin de soin de son site Web. Premièrement, appeler votre hébergeur Web pour vous assurer que votre nom de domaine n’arrive pas à échéance. Aussi demander à votre hébergeur d’activer un certificat SSL. Pour la plupart des sites Web, l’activation d’un certificat SSL est gratuite et se fait en quelques minutes.</p>
+<p><strong>Voici quelques idées pour chouchouter vote site Web</strong></p>
+<p><strong>Rédaction :</strong> Écrire des articles sur votre site. Par exemple, si votre travail est massothérapeute, vous pourriez écrire un article sur comment adopter une posture assise.</p>
+<p><strong>Mettre à jour vos photos :</strong> De nouvelles photos pour votre site Web, ça fait du bien.</p>
+<p><strong>Mettre à jour du site :</strong> Si vous avez site confectionné en WordPress ou autres CMS profitez-en pour faire les mises à jour de sécurité des extensions et du cœur de la plateforme.</p>
+<p><strong>Création de contenue :</strong> Le nouveau contenu sur votre site peut aider grandement votre entreprise et vous donner un petit push sur Google.</p>
+<p>Ceci n’est que quelques pistes pour vous aider, n’oublier pas de partager vos idées pour rehausse votre site Web par le biais de nos réseaux sociaux, aidons les entreprises d’ici!</p>","La crise provoquée par le Coronavirus crée un retentissement majeur pour plusieurs de nos entreprises.",covid-19-et-votre-site-web,Nouvelles|hébergement,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5e7/8f7/a08/5e78f7a08b663570567108.jpg,"2020-03-23 17:35:51","2020-03-23 17:53:58","2020-03-23 17:53:31"
+17,"Techno24.net facilite vos démarches avec le gouvernement du Canada","**Dans le but d’aider notre clientèle dans cette période difficile, nous continuons de mettre en oeuvre des outils pour bien vous servir.**
+
+Cet ainsi que nous avons de vous faciliter l’accès au programme d’aide de pandémie de la Covid-19 du Gouvernement Canada, en ajoutant l'adresse de confirmation suivante (ne_pas_repondre-do_not_reply@cra-arc.gc.ca) à la liste blanche des courriels approuver sur l'ensemble de nos services courriel.
+ 
+Pour la marche à suivre pour l’inscription à Mon dossier de l’Agence du Canada, nous vous suggérons <a href=""https://www.tvanouvelles.ca/2020/03/29/comment-sinscrire-pour-recevoir-la-prestation-canadienne-durgence"" target=""_blank"">l'article suivant publié chez TVA Nouvelles</a> qui vous explique la marche à suivre.","<p><strong>Dans le but d’aider notre clientèle dans cette période difficile, nous continuons de mettre en oeuvre des outils pour bien vous servir.</strong></p>
+<p>Cet ainsi que nous avons de vous faciliter l’accès au programme d’aide de pandémie de la Covid-19 du Gouvernement Canada, en ajoutant l'adresse de confirmation suivante (ne_pas_repondre-do_not_reply@cra-arc.gc.ca) à la liste blanche des courriels approuver sur l'ensemble de nos services courriel.</p>
+<p>Pour la marche à suivre pour l’inscription à Mon dossier de l’Agence du Canada, nous vous suggérons <a href=""https://www.tvanouvelles.ca/2020/03/29/comment-sinscrire-pour-recevoir-la-prestation-canadienne-durgence"" target=""_blank"">l'article suivant publié chez TVA Nouvelles</a> qui vous explique la marche à suivre.</p>","Dans le but d’aider notre clientèle dans cette période difficile, nous continuons de mettre en oeuvre des outils pour bien vous servir.",techno24net-facilite-vos-demarches-avec-le-gouvernement-du-canada,Nouvelles,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5e8/33c/099/5e833c0998083781366470.jpg,"2020-03-31 12:44:22","2020-03-31 12:48:39","2020-03-31 12:48:37"
+18,"Mise à jour de WordPress – 5.4","**Belle surprise ce matin, la mise à jour du populaire CMS, WordPress, est maintenant disponible. Nous allons découvrir ensemble, ce qu’il y a de nouveau derrière cette nouvelle monture!**
+
+En guise de commencement, nous vous invitions à faire une bonne sauvegarde de votre installation et de votre base de données! Vous pouvez visualiser notre <a href=""https://techno24.net/fr/blogue/article/limportance-dappliquer-les-mises-jour-de-votre-site-wordpress"">article ici.</a>
+
+Pour chaque version de WP (WordPress), l’équipe de développement se concentre sur l’éditeur de bloc et les failles du système.
+
+Dans cette version-ci, noté les points suivants :
+* Plus de moyens de donner vie aux articles et aux pages avec vos meilleures images
+* Plus de moyens d’attirer et de fidéliser vos visiteurs grâce à la richesse des médias intégrés depuis les principaux services du Web
+* Plus de moyens de concrétiser votre vision de votre site Wrb et de concevoir vos blocs à l’endroit idéal – et cela même si un type de bloc particulier est nouveau pour vous
+* Des processus plus efficaces
+* Plus de vitesse partout, de sorte que lorsque vous construisez des sections ou des galeries, ou que vous rédigez simplement une ligne de poésie, vous pourrez ressentir à quel point votre travail s’accélère
+
+
+## Du nouveau pour le module des blocs
+
+* Deux blocs tout neufs : Les liens sociaux et les boutons rendent rapide et facile l’ajout de fonctionnalités interactives.
+* De nouvelles façons d’utiliser la couleur : dégradée dans les blocs des boutons et de couverture, accès par la barre d’outils aux options de couleur dans les blocs de texte enrichi, et pour la première fois, options de couleur dans les blocs de groupe et de colonnes.
+* La version 5.4 rationalise l’ensemble du processus de placement et de remplacement de média dans chaque bloc.
+* Avez-vous déjà pensé que votre image dans le bloc Média+Texte devrait être liée à autre chose – peut-être qu’une image d’une brochure devrait télécharger cette brochure en tant que document ? C’est maintenant possible.
+
+
+## Une interface plus claire et une navigation plus facile avec le clavier
+
+* Une navigation dans les blocs plus claire via le navigateur de l’éditeur, et une sélection plus facile des blocs.
+* Pour quand vous avez besoin de naviguer avec le clavier, mieux tabuler et vous concentrer. De plus, vous pouvez tabuler sur la colonne latérale de presque tous les blocs.
+* Le chargement de l’éditeur est 14 % plus rapide et le temps d’attente avant la saisie est 51 % moins long !
+* Les astuces ont disparu. À leur place, une fenêtre de guide de bienvenue s’affiche lorsque vous en avez besoin et uniquement lorsque vous en avez besoin.
+* Sachez en un coup d’œil si vous êtes en mode modification de bloc ou navigation. Ou bien, si vous avez une vision limitée, votre lecteur d’écran vous indiquera dans quel mode vous êtes.
+
+
+## Ajout pour les développeurs
+Deux nouvelles actions vous permettent d’ajouter des champs personnalisés aux menus – plus besoin d’avoir des extensions pour ajouter des champs personnalisés.
+
+Sur l’écran d’administration des menus, l’action wp_nav_menu_item_custom_fields se déclenche juste avant les boutons de déplacement des éléments du menu de navigation.
+
+Dans l’outil de personnalisation, wp_nav_menu_item_custom_fields_customize_template se déclenche à la fin du modèle contenant les champs de formulaire de gestion du menu.
+
+Vérifiez votre code et voyez où ces nouvelles actions peuvent remplacer votre code personnalisé, et si vous êtes préoccupé par la duplication, ajoutez une vérification pour la version de WordPress.
+
+Beaucoup de nouveauté et de remaniement de la part de WP. L’équipe de Techno24.net reste à votre disposition si vous voulez mettre à jours votre plateforme sans soucie.
+
+Bonne mise à jour à tous!","<p><strong>Belle surprise ce matin, la mise à jour du populaire CMS, WordPress, est maintenant disponible. Nous allons découvrir ensemble, ce qu’il y a de nouveau derrière cette nouvelle monture!</strong></p>
+<p>En guise de commencement, nous vous invitions à faire une bonne sauvegarde de votre installation et de votre base de données! Vous pouvez visualiser notre <a href=""https://techno24.net/fr/blogue/article/limportance-dappliquer-les-mises-jour-de-votre-site-wordpress"">article ici.</a></p>
+<p>Pour chaque version de WP (WordPress), l’équipe de développement se concentre sur l’éditeur de bloc et les failles du système.</p>
+<p>Dans cette version-ci, noté les points suivants :</p>
+<ul>
+<li>Plus de moyens de donner vie aux articles et aux pages avec vos meilleures images</li>
+<li>Plus de moyens d’attirer et de fidéliser vos visiteurs grâce à la richesse des médias intégrés depuis les principaux services du Web</li>
+<li>Plus de moyens de concrétiser votre vision de votre site Wrb et de concevoir vos blocs à l’endroit idéal – et cela même si un type de bloc particulier est nouveau pour vous</li>
+<li>Des processus plus efficaces</li>
+<li>Plus de vitesse partout, de sorte que lorsque vous construisez des sections ou des galeries, ou que vous rédigez simplement une ligne de poésie, vous pourrez ressentir à quel point votre travail s’accélère</li>
+</ul>
+<h2>Du nouveau pour le module des blocs</h2>
+<ul>
+<li>Deux blocs tout neufs : Les liens sociaux et les boutons rendent rapide et facile l’ajout de fonctionnalités interactives.</li>
+<li>De nouvelles façons d’utiliser la couleur : dégradée dans les blocs des boutons et de couverture, accès par la barre d’outils aux options de couleur dans les blocs de texte enrichi, et pour la première fois, options de couleur dans les blocs de groupe et de colonnes.</li>
+<li>La version 5.4 rationalise l’ensemble du processus de placement et de remplacement de média dans chaque bloc.</li>
+<li>Avez-vous déjà pensé que votre image dans le bloc Média+Texte devrait être liée à autre chose – peut-être qu’une image d’une brochure devrait télécharger cette brochure en tant que document ? C’est maintenant possible.</li>
+</ul>
+<h2>Une interface plus claire et une navigation plus facile avec le clavier</h2>
+<ul>
+<li>Une navigation dans les blocs plus claire via le navigateur de l’éditeur, et une sélection plus facile des blocs.</li>
+<li>Pour quand vous avez besoin de naviguer avec le clavier, mieux tabuler et vous concentrer. De plus, vous pouvez tabuler sur la colonne latérale de presque tous les blocs.</li>
+<li>Le chargement de l’éditeur est 14 % plus rapide et le temps d’attente avant la saisie est 51 % moins long !</li>
+<li>Les astuces ont disparu. À leur place, une fenêtre de guide de bienvenue s’affiche lorsque vous en avez besoin et uniquement lorsque vous en avez besoin.</li>
+<li>Sachez en un coup d’œil si vous êtes en mode modification de bloc ou navigation. Ou bien, si vous avez une vision limitée, votre lecteur d’écran vous indiquera dans quel mode vous êtes.</li>
+</ul>
+<h2>Ajout pour les développeurs</h2>
+<p>Deux nouvelles actions vous permettent d’ajouter des champs personnalisés aux menus – plus besoin d’avoir des extensions pour ajouter des champs personnalisés.</p>
+<p>Sur l’écran d’administration des menus, l’action wp_nav_menu_item_custom_fields se déclenche juste avant les boutons de déplacement des éléments du menu de navigation.</p>
+<p>Dans l’outil de personnalisation, wp_nav_menu_item_custom_fields_customize_template se déclenche à la fin du modèle contenant les champs de formulaire de gestion du menu.</p>
+<p>Vérifiez votre code et voyez où ces nouvelles actions peuvent remplacer votre code personnalisé, et si vous êtes préoccupé par la duplication, ajoutez une vérification pour la version de WordPress.</p>
+<p>Beaucoup de nouveauté et de remaniement de la part de WP. L’équipe de Techno24.net reste à votre disposition si vous voulez mettre à jours votre plateforme sans soucie.</p>
+<p>Bonne mise à jour à tous!</p>","Belle surprise ce matin, la mise à jour du populaire CMS, WordPress, est maintenant disponible. Nous allons découvrir ensemble, ce qu’il y a de nouveau derrière cette nouvelle monture!",mise-jour-de-wordpress-54,Nouvelles|WordPress,alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e8/4a8/c74/5e84a8c741e88180920684.jpg,"2020-04-01 14:45:00","2020-04-01 14:46:21","2020-04-01 14:46:19"
+19,"Visioconférence avec Microsoft Teams","**Suite à la brèche informatique de son concurrent Zoom, le nombre d’appels vidéo passés sur l’application Teams de Microsoft a bondi de 1000% en mars.**
+
+En date du 31 mars, « nous avons assisté à un record de 2,7 milliards de minutes passées en réunion en une seule journée, soit une hausse de 200 % par rapport aux 900 millions de minutes du 16 mars », relève Jared Spataro, vice-président de Microsoft 365. 
+
+«Des réunions entre collègues aux professeurs qui font cours à leurs étudiants via des classes virtuelles et aux PDG qui tiennent des sessions de questions-réponses avec des milliers d'employés, nous trouvons tous de nouvelles façons de nous rassembler à distance», raconte-t-il.
+
+«Nous avons même vu des chefs se présenter à des réunions sous l'apparence de patates virtuelles» s'amuse-t-il encore!
+
+Il faut dire que la plupart des services de communication ont battu leurs records en mars dernier à mesure que la moitié de la planète est appelée à rester chez elle pour réduire la propagation de la Covid-19.
+
+![](https://techno24.net/storage/app/media/images/Raise-hand-700x.gif){.mx-auto .d-block}
+
+Dans le but de répondre de plus en plus aux demandes de ces clients, l’application Teams aura aussi droit à son bouton «lever la main» pour indiquer que quelqu’un souhaite prendre la parole lors d’une réunion vidéo. Cette fonctionnalité sera disponible d’ici la fin de l'année 2020.
+
+Tel que mentionné lors de son communiqué en ligne, « Chez Microsoft, la vie privée et la sécurité ne sont jamais des choses auxquelles on pense après-coup », a écrit Jared Spataro. 
+
+
+### Microsoft Teams en quelques points
+
+
+<div class=""embed-responsive embed-responsive-21by9 mb-5""><iframe class=""embed-responsive-item"" src=""https://www.youtube.com/embed/nKU-FMzZFF0"" frameborder=""0"" allow=""accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen=""""></iframe></div>
+
+
+* Création et participation à des réunions virtuelles
+* Messagerie Instantanée 
+* Appel Teams entre collègues de façon sécuritaire
+* Collaboration en temps réel grâce à l’intégration de SharePoint et OneDrive.
+
+À noter que cette app est incluse avec la suite Office 365 Business Premium et Essentials et disponible sur PC et MAC.
+
+
+### Acquisition de Microsoft 365
+
+Avec Techno24.net comme partenaire de choix, il est facile à votre entreprise d’acheter et de déployer les technologies de Microsoft 365 au sein de votre infrastructure. <a href=""https://techno24.net/fr/order"" target=""_blank"">Contactez-nous dès maintenant</a> pour acheter des licences pour votre entreprise et passées à l’étape supérieure!","<p><strong>Suite à la brèche informatique de son concurrent Zoom, le nombre d’appels vidéo passés sur l’application Teams de Microsoft a bondi de 1000% en mars.</strong></p>
+<p>En date du 31 mars, « nous avons assisté à un record de 2,7 milliards de minutes passées en réunion en une seule journée, soit une hausse de 200 % par rapport aux 900 millions de minutes du 16 mars », relève Jared Spataro, vice-président de Microsoft 365. </p>
+<p>«Des réunions entre collègues aux professeurs qui font cours à leurs étudiants via des classes virtuelles et aux PDG qui tiennent des sessions de questions-réponses avec des milliers d'employés, nous trouvons tous de nouvelles façons de nous rassembler à distance», raconte-t-il.</p>
+<p>«Nous avons même vu des chefs se présenter à des réunions sous l'apparence de patates virtuelles» s'amuse-t-il encore!</p>
+<p>Il faut dire que la plupart des services de communication ont battu leurs records en mars dernier à mesure que la moitié de la planète est appelée à rester chez elle pour réduire la propagation de la Covid-19.</p>
+<p><img src=""https://techno24.net/storage/app/media/images/Raise-hand-700x.gif"" alt="""" class=""mx-auto d-block"" /></p>
+<p>Dans le but de répondre de plus en plus aux demandes de ces clients, l’application Teams aura aussi droit à son bouton «lever la main» pour indiquer que quelqu’un souhaite prendre la parole lors d’une réunion vidéo. Cette fonctionnalité sera disponible d’ici la fin de l'année 2020.</p>
+<p>Tel que mentionné lors de son communiqué en ligne, « Chez Microsoft, la vie privée et la sécurité ne sont jamais des choses auxquelles on pense après-coup », a écrit Jared Spataro. </p>
+<h3>Microsoft Teams en quelques points</h3>
+<div class=""embed-responsive embed-responsive-21by9 mb-5""><iframe class=""embed-responsive-item"" src=""https://www.youtube.com/embed/nKU-FMzZFF0"" frameborder=""0"" allow=""accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen=""""></iframe></div>
+<ul>
+<li>Création et participation à des réunions virtuelles</li>
+<li>Messagerie Instantanée </li>
+<li>Appel Teams entre collègues de façon sécuritaire</li>
+<li>Collaboration en temps réel grâce à l’intégration de SharePoint et OneDrive.</li>
+</ul>
+<p>À noter que cette app est incluse avec la suite Office 365 Business Premium et Essentials et disponible sur PC et MAC.</p>
+<h3>Acquisition de Microsoft 365</h3>
+<p>Avec Techno24.net comme partenaire de choix, il est facile à votre entreprise d’acheter et de déployer les technologies de Microsoft 365 au sein de votre infrastructure. <a href=""https://techno24.net/fr/order"" target=""_blank"">Contactez-nous dès maintenant</a> pour acheter des licences pour votre entreprise et passées à l’étape supérieure!</p>","Suite à la brèche informatique de son concurrent Zoom, le nombre d’appels vidéo passés sur l’application Teams de Microsoft a bondi de 1000% en mars.",visioconference-avec-microsoft-teams,Nouvelles|Office365,alex@entouragesolution.com,https://techno24.net/storage/app/uploads/public/5e9/05b/73e/5e905b73e9aa4571725986.jpg,"2020-04-10 11:51:06","2020-05-06 17:36:25","2020-04-10 13:14:51"
+20,"Quelques conseils et astuces pour sécuriser votre environnement de travail à la maison","**Dans le contexte de la crise de la Covid-19 (Coronavirus) un grand nombre de personnes doivent travailler de la maison en télétravail et est sûrement une nouveauté pour plusieurs d’entre vous. Quelques conseils et astuces pour sécuriser votre environnement de travail à la maison :**
+ 
+* Faites les mises à jour de tous les périphériques, sites internet (plateformes, thèmes et extensions), outils, applications, logiciels (Windows, MacOS  iOS, etc.)
+* Utilisez des mots de passe robustes et différents pour chaque service qui demande une authentification : outils de travail, institution bancaire, session Windows, boutiques en ligne, téléphone intelligent, comptes de médias sociaux, etc.
+* Sauvegardez votre travail sur les outils et dans les répertoires homologués par votre employeur. VPN
+* Utilisez uniquement les applications approuvées par votre employeur pour le partage de fichiers (p. ex., One Drive nous offrons le support et <a href=""https://techno24.net/fr/office365"" target=""_blank"">les licences Office 365</a> et Google Drive).
+* Respectez les mesures de sécurité suggérées par les outils de vidéoconférence (Zoom, Teams, GoToMeeting, etc.) : Activer le mot de passe, l’authentification des usagers et la salle d’attente, verrouiller la salle une fois les invités joints, ne pas sauvegarder l’enregistrement sur le nuage, fermer les micros et les caméras à l’arrivée des invités. Si le contenu de la rencontre est sensible ou confidentiel, utilisez une autre méthode.
+* Sécurisez votre réseau sans fil, notamment en choisissant un nouveau mot de passe pour votre routeur ou votre borne Wi-Fi à la maison.
+* Ne partagez pas votre ordinateur de travail avec les membres de votre famille ou vos amis.
+* Rapportez tout incident de sécurité à votre employeur, ou votre technicien informatique comme un accès à un site malicieux ou un virus sur votre poste de travail.
+* Supprimez votre historique de navigation chaque fois que vous quittez une session sur un appareil public.
+* Verrouillez votre ordinateur de travail lorsque vous cessez de l’utiliser.
+ 
+Vous et les membres de votre famille se servent plus souvent d’internet qu’à l’habitude pour communiquer, apprendre et se divertir durant cette période où nous devons limiter nos déplacements. Voici quelques pièges à éviter.
+
+* Ingénierie sociale : N’ouvrez pas les pièces jointes et ne cliquez pas systématiquement sur les liens : Même si le courriel semble provenir d’un organisme gouvernemental, ces messages ne contiennent habituellement jamais de pièces jointes ni de liens. La même règle s’applique aux messages semblant provenir d’un service de courrier ou d’une boutique de commerce électronique. Ces messages sont habituellement des tentatives d’hameçonnage et se fondent sur des pratiques qui s’appliquent tout autant aux courriels et aux SMS qu’aux appels téléphoniques. Soyez vigilants!
+* Faites régulièrement des copies de sauvegarde: S’il vous arrive un pépin malgré toutes vos précautions, vous pourrez tout de même récupérer vos précieuses données.
+ 
+
+### Optez pour un antivirus payant
+
+Celui que nous vous recommandons est Bitdefender. Cette solution vous protège contre les attaques des rançongiciels qui cherchent à se propager sur votre réseau. C’est celui que nous fournissons à nos clients et qui est disponible en <a href=""https://techno24.net/fr/bitdefender"" target=""_blank"">achat ici</a>.
+
+Conservez vos bonnes habitudes lorsque vous retournerez au bureau et profitez de ce moment pour préparer la sécurité de votre retour :
+1. Changer le nom de votre téléphone mobile
+1. Télécharger un antivirus sur votre téléphone mobile
+1. Restez conscient du risque de Sim swap si vous optez pour l’authentification à 2 facteurs","<p><strong>Dans le contexte de la crise de la Covid-19 (Coronavirus) un grand nombre de personnes doivent travailler de la maison en télétravail et est sûrement une nouveauté pour plusieurs d’entre vous. Quelques conseils et astuces pour sécuriser votre environnement de travail à la maison :</strong></p>
+<ul>
+<li>Faites les mises à jour de tous les périphériques, sites internet (plateformes, thèmes et extensions), outils, applications, logiciels (Windows, MacOS  iOS, etc.)</li>
+<li>Utilisez des mots de passe robustes et différents pour chaque service qui demande une authentification : outils de travail, institution bancaire, session Windows, boutiques en ligne, téléphone intelligent, comptes de médias sociaux, etc.</li>
+<li>Sauvegardez votre travail sur les outils et dans les répertoires homologués par votre employeur. VPN</li>
+<li>Utilisez uniquement les applications approuvées par votre employeur pour le partage de fichiers (p. ex., One Drive nous offrons le support et <a href=""https://techno24.net/fr/office365"" target=""_blank"">les licences Office 365</a> et Google Drive).</li>
+<li>Respectez les mesures de sécurité suggérées par les outils de vidéoconférence (Zoom, Teams, GoToMeeting, etc.) : Activer le mot de passe, l’authentification des usagers et la salle d’attente, verrouiller la salle une fois les invités joints, ne pas sauvegarder l’enregistrement sur le nuage, fermer les micros et les caméras à l’arrivée des invités. Si le contenu de la rencontre est sensible ou confidentiel, utilisez une autre méthode.</li>
+<li>Sécurisez votre réseau sans fil, notamment en choisissant un nouveau mot de passe pour votre routeur ou votre borne Wi-Fi à la maison.</li>
+<li>Ne partagez pas votre ordinateur de travail avec les membres de votre famille ou vos amis.</li>
+<li>Rapportez tout incident de sécurité à votre employeur, ou votre technicien informatique comme un accès à un site malicieux ou un virus sur votre poste de travail.</li>
+<li>Supprimez votre historique de navigation chaque fois que vous quittez une session sur un appareil public.</li>
+<li>Verrouillez votre ordinateur de travail lorsque vous cessez de l’utiliser.</li>
+</ul>
+<p>Vous et les membres de votre famille se servent plus souvent d’internet qu’à l’habitude pour communiquer, apprendre et se divertir durant cette période où nous devons limiter nos déplacements. Voici quelques pièges à éviter.</p>
+<ul>
+<li>Ingénierie sociale : N’ouvrez pas les pièces jointes et ne cliquez pas systématiquement sur les liens : Même si le courriel semble provenir d’un organisme gouvernemental, ces messages ne contiennent habituellement jamais de pièces jointes ni de liens. La même règle s’applique aux messages semblant provenir d’un service de courrier ou d’une boutique de commerce électronique. Ces messages sont habituellement des tentatives d’hameçonnage et se fondent sur des pratiques qui s’appliquent tout autant aux courriels et aux SMS qu’aux appels téléphoniques. Soyez vigilants!</li>
+<li>Faites régulièrement des copies de sauvegarde: S’il vous arrive un pépin malgré toutes vos précautions, vous pourrez tout de même récupérer vos précieuses données.</li>
+</ul>
+<h3>Optez pour un antivirus payant</h3>
+<p>Celui que nous vous recommandons est Bitdefender. Cette solution vous protège contre les attaques des rançongiciels qui cherchent à se propager sur votre réseau. C’est celui que nous fournissons à nos clients et qui est disponible en <a href=""https://techno24.net/fr/bitdefender"" target=""_blank"">achat ici</a>.</p>
+<p>Conservez vos bonnes habitudes lorsque vous retournerez au bureau et profitez de ce moment pour préparer la sécurité de votre retour :</p>
+<ol>
+<li>Changer le nom de votre téléphone mobile</li>
+<li>Télécharger un antivirus sur votre téléphone mobile</li>
+<li>Restez conscient du risque de Sim swap si vous optez pour l’authentification à 2 facteurs</li>
+</ol>","Dans le contexte de la crise de la Covid-19 (Coronavirus) un grand nombre de personnes doivent travailler de la maison en télétravail et est sûrement une nouveauté pour plusieurs d’entre vous.",quelques-conseils-et-astuces-pour-securiser-votre-environnement-de-travail-la-maison,Nouvelles|Sécurité|Office365,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5e9/efa/9f0/5e9efa9f03882996393599.jpg,"2020-04-21 13:53:30","2020-04-21 19:24:55","2020-04-21 13:53:27"
+21,"Microsoft Teams : Comment rajouter des collaborateurs externes","**Conçue pour que des collègues d’une même entreprise puissent communiquer et collaborer ensemble, l’application Teams fait partie de la suite Microsoft 365, permet d’avoir tous les outils de communication au même endroit.**
+
+Aujourd’hui nous répondons à une question souvent demander par nos clients : Est-ce que je peux inviter des collaborateurs extérieurs à notre entreprise? **La réponse est oui.** 
+
+Il faut activer, autoriser l’accès inviter dans Teams. Comment s’y rendre?
+
+Rendez-vous dans le centre d’administration de Microsoft 365, puis aller dans les paramètres. Ensuite, aller dans les Paramètres de l’organisation – Microsoft Teams et cochez Autoriser l’accès inviter.
+
+Voilà, vous pouvez maintenant collaborer ou discuter avec des gens ne faisant pas partie de votre entreprise.","<p><strong>Conçue pour que des collègues d’une même entreprise puissent communiquer et collaborer ensemble, l’application Teams fait partie de la suite Microsoft 365, permet d’avoir tous les outils de communication au même endroit.</strong></p>
+<p>Aujourd’hui nous répondons à une question souvent demander par nos clients : Est-ce que je peux inviter des collaborateurs extérieurs à notre entreprise? <strong>La réponse est oui.</strong> </p>
+<p>Il faut activer, autoriser l’accès inviter dans Teams. Comment s’y rendre?</p>
+<p>Rendez-vous dans le centre d’administration de Microsoft 365, puis aller dans les paramètres. Ensuite, aller dans les Paramètres de l’organisation – Microsoft Teams et cochez Autoriser l’accès inviter.</p>
+<p>Voilà, vous pouvez maintenant collaborer ou discuter avec des gens ne faisant pas partie de votre entreprise.</p>","Conçue pour que des collègues d’une même entreprise puissent communiquer et collaborer ensemble, l’application Teams fait partie de la suite Microsoft 365, permet d’avoir tous les outils de communication au même endroit.",microsoft-teams-comment-rajouter-des-collaborateurs-externes,Office365,michel@techno24.net,https://techno24.net/storage/app/uploads/public/5ed/53b/145/5ed53b145e0e1056241877.jpg,"2020-06-01 17:30:45","2020-06-01 17:30:45","2020-06-01 17:30:22"

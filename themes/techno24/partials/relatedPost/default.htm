@@ -1,0 +1,15 @@
+<div class="row">
+    {% if __SELF__.posts | length %}
+        {% for post in __SELF__.posts %}
+        <div class="col-xs-12 col-sm-6">
+            <a href="{{ post.url }}">
+                <img class="img-fluid"
+                     data-src="{{ post.featured_images.0.filename }}"
+                     src="{{ post.featured_images.0.path }}"
+                     alt="{{ post.featured_images.0.description }}"/>
+                <h4>{{ post.title }}</h4></a>
+        </div>
+        {% endfor %}
+    {% else %}
+    {% endif %}
+</div>
