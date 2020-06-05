@@ -26,7 +26,7 @@
 }(document, "script", "twitter-wjs"));</script>
 <div class="row">
     <div class="col">
-        <ul class="social mb-0 pb-0">
+        <ul class="social mb-0 pb-0 align-content-between">
             <li>
                 <p style="display: inline-block" class="mb-3">
                     <strong>{{ 'Partager l\'article'|_ }}</strong>&nbsp;
@@ -50,6 +50,15 @@
                    target="_blank">
                     Tweet
                 </a>
+            </li>
+            <li>
+                {% if lang == 'fr' %}
+                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: fr_FR</script>
+                <script type="IN/Share" data-url="https://www.linkedin.com"></script>
+                {% else %}
+                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+                <script type="IN/Share" data-url="https://www.linkedin.com"></script>
+                {% endif %}
             </li>
         </ul>
     </div>

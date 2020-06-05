@@ -12426,19 +12426,6 @@ a .page-link {
   border: 1px solid #6DBBE9;
 }
 
-.social {
-  padding-inline-start: 0px;
-}
-
-.social li {
-  display: inline;
-}
-
-.fb-share-button {
-  position: relative;
-  top: -6px;
-}
-
 .text-uppercase {
   text-transform: uppercase;
 }
@@ -12650,6 +12637,24 @@ i {
 .back {
   transform: rotateY(180deg);
   -webkit-transform: rotateY(180deg);
+}
+
+.social {
+  padding-inline-start: 0px;
+}
+
+.social li {
+  display: inline;
+}
+
+.fb-share-button {
+  position: relative;
+  top: -6px;
+}
+
+.IN-widget {
+  vertical-align: top !important;
+  padding-top: 5px !important;
 }
 
 /*
