@@ -54,10 +54,10 @@
             <li>
                 {% if lang == 'fr' %}
                 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: fr_FR</script>
-                <script type="IN/Share" data-url="https://www.linkedin.com"></script>
+                <script type="IN/Share" data-url="{{ ''|page }}"></script>
                 {% else %}
                 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-                <script type="IN/Share" data-url="https://www.linkedin.com"></script>
+                <script type="IN/Share" data-url="{{ ''|page }}"></script>
                 {% endif %}
             </li>
         </ul>
