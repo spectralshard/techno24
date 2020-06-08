@@ -2,38 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16047037-b9ea-4458-85c7-2c79be000cae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_nouvelles.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/dizoo/partners/lang/fr/lang.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/89/6d/default.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/89/6d/default.htm.php" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" afterPath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" afterPath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/23/37/2337845e765c1bac2dc0390d80535271f03bbb78" afterPath="$PROJECT_DIR$/storage/framework/cache/23/37/2337845e765c1bac2dc0390d80535271f03bbb78" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" afterPath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2c/06/2c06cadbca11cd270e0ee5b65d05d115308921cb" afterPath="$PROJECT_DIR$/storage/framework/cache/2c/06/2c06cadbca11cd270e0ee5b65d05d115308921cb" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" afterPath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" afterPath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" afterPath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" afterPath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" afterPath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" afterPath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/45/8c454812356b6e1c1d6e86bd81e2ccac99c0e13e" afterPath="$PROJECT_DIR$/storage/framework/cache/8c/45/8c454812356b6e1c1d6e86bd81e2ccac99c0e13e" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/e2/8ce2df2b9afc375e91f61cc576690bf80035452e" afterPath="$PROJECT_DIR$/storage/framework/cache/8c/e2/8ce2df2b9afc375e91f61cc576690bf80035452e" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/bc/8dbcdf25c578f9dc7ab77fb881df360d03eee0cd" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/bc/8dbcdf25c578f9dc7ab77fb881df360d03eee0cd" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b7/4d/b74d7547fa866c21dac0e098cfc8f5c9804cccb7" afterPath="$PROJECT_DIR$/storage/framework/cache/b7/4d/b74d7547fa866c21dac0e098cfc8f5c9804cccb7" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c1/41/c1418ad3d765eed2f26f97611bd4af5edc135878" afterPath="$PROJECT_DIR$/storage/framework/cache/c1/41/c1418ad3d765eed2f26f97611bd4af5edc135878" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c5/7d/c57d8e61573261c12fe43c9e4ac5c7d89bef7829" afterPath="$PROJECT_DIR$/storage/framework/cache/c5/7d/c57d8e61573261c12fe43c9e4ac5c7d89bef7829" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css.map" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.css.map" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" afterPath="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/sass/_mixins.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/sass/_mixins.scss" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss" afterPath="$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
-      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/share.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/share.htm" />
+      <change beforePath="$PROJECT_DIR$/plugins/dizoo/partners/components/partner/default.htm" afterPath="$PROJECT_DIR$/plugins/dizoo/partners/components/partner/default.htm" />
+      <change beforePath="$PROJECT_DIR$/plugins/dizoo/partners/models/partners/columns.yaml" afterPath="$PROJECT_DIR$/plugins/dizoo/partners/models/partners/columns.yaml" />
+      <change beforePath="$PROJECT_DIR$/plugins/dizoo/partners/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/dizoo/partners/updates/version.yaml" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/08/20/facebook-module.htm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/60/0a/default.htm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/89/6d/default.htm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/c3/26/footer.htm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/fb/43/header.htm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/fb/ed/navbar.htm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/04/36/0436b25da71f120bf01ac7a10e076c4ce901556e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/12/0b/120bd44f8a835d8550ea2b89bc211c06aa21886e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/15/2e/152ee74b597213514b76274724ed3241eab0e8e4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/23/37/2337845e765c1bac2dc0390d80535271f03bbb78" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/26/87/268708b3dec453876a36f5168757b1f067658a99" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2c/06/2c06cadbca11cd270e0ee5b65d05d115308921cb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2f/0b/2f0be8fe507720b682b062d2504a200b158343de" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/33/1b/331b6b02fa19cdf17f74dd5cefa2e1b54bb4e72e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/3d/45/3d45783ba03d649b2d78053eba7d5b5de1383a46" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/40/6a/406a616cf3fe7a62649037251da8394111801216" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/44/42/4442065515a22ce4dd881f8b8f2c1b40b5a330d4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/52/f8/52f857972cdbb672e00ee3d41f4bfe2fab7ad0aa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/5e/68/5e68affb459e8635c09c66c4493df3661b394d9d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/69/d2/69d25b237be41bc0ed4ae682ddb7ee2d5b97be14" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/73/48/7348097e47e9108ce426f0f208dda3beadc76a30" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/83/b4/83b4c9cedb265a8417b1b87a333492643f5eb1c3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/45/8c454812356b6e1c1d6e86bd81e2ccac99c0e13e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8c/e2/8ce2df2b9afc375e91f61cc576690bf80035452e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/bc/8dbcdf25c578f9dc7ab77fb881df360d03eee0cd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a7/ac/a7ac3f9272eab4c6d0a6aed7a8fcb92b6b1eccd5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b7/4d/b74d7547fa866c21dac0e098cfc8f5c9804cccb7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c1/41/c1418ad3d765eed2f26f97611bd4af5edc135878" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c3/9e/c39e7269e3cf25e8c6109dcc4b6a631e78633da9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c5/7d/c57d8e61573261c12fe43c9e4ac5c7d89bef7829" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d5/9e/d59ec63fcfc2aef2915040aa619978b252999fa1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d6/b1/d6b1160fe39312c783489f0a4f03ec125838fce2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/fd/43/fd43fb2fb392c8cf2e0b7365b5f2a0213c764e98" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/fd/fa/fdfa25f2a9757f6b9f5c6dd9973c1969f3267f7e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/techno24/partials/mypartner/default.htm" afterPath="$PROJECT_DIR$/themes/techno24/partials/mypartner/default.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,62 +59,29 @@
       <file leaf-file-name="share.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/techno24/partials/share.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="49" column="35" lean-forward="true" selection-start-line="48" selection-start-column="52" selection-end-line="49" selection-end-column="35" />
+            <state relative-caret-position="270">
+              <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
+      <file leaf-file-name="Partner.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="25" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15212" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/partials/navbar.htm">
+      <file leaf-file-name="columns.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/models/partners/columns.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="60" column="16" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="74" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_nouvelles.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/pages/_nouvelles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/techno24/layouts/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-              <folding>
-                <marker date="1591377143820" expanded="true" signature="2830:2865" ph="[...]" />
-                <marker date="1591377143820" expanded="true" signature="3501:3741" ph="[...]" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -188,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-cta.en.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/content/p-bitdefender/c-cta.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/bitdefender/avantage.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/partials/produit_bitdefender/default.htm" />
@@ -237,8 +215,9 @@
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/_pages.scss" />
         <option value="$PROJECT_DIR$/themes/techno24/layouts/default.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/sass/pages/_nouvelles.scss" />
-        <option value="$PROJECT_DIR$/themes/techno24/partials/share.htm" />
         <option value="$PROJECT_DIR$/themes/techno24/assets/css/theme.min.css" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/share.htm" />
+        <option value="$PROJECT_DIR$/themes/techno24/partials/mypartner/default.htm" />
       </list>
     </option>
   </component>
@@ -273,14 +252,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dizoo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dizoo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partners" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dizoo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partners" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dizoo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partners" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
@@ -331,10 +342,20 @@
               <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="techno24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="techno24" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mypartner" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -498,21 +519,9 @@
       <workItem from="1591191220859" duration="531000" />
       <workItem from="1591203816868" duration="1854000" />
       <workItem from="1591213521174" duration="197000" />
-      <workItem from="1591376267686" duration="1065000" />
-    </task>
-    <task id="LOCAL-00011" summary="Finish translate fields">
-      <created>1572278693670</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1572278693670</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Fix menu">
-      <created>1572307870295</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1572307870295</updated>
+      <workItem from="1591376267686" duration="1389000" />
+      <workItem from="1591625873786" duration="8000" />
+      <workItem from="1591625931217" duration="478000" />
     </task>
     <task id="LOCAL-00013" summary="Extended Plugin for translation">
       <created>1572308270577</created>
@@ -843,11 +852,25 @@
       <option name="project" value="LOCAL" />
       <updated>1591206235765</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Add share on Linkedin in nouvelles sections">
+      <created>1591377621881</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1591377621881</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Update url for share linkedin">
+      <created>1591377792868</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1591377792868</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222389000" />
+    <option name="totallyTimeSpent" value="223199000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -861,24 +884,24 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21672772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22161172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.492674" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -926,8 +949,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="Missing closing tags" />
-    <MESSAGE value="Add text - request client" />
     <MESSAGE value="Upload missing files" />
     <MESSAGE value="Upload css for article" />
     <MESSAGE value="Update Share codes" />
@@ -951,36 +972,15 @@
     <MESSAGE value="Vendor update (bootstrap)" />
     <MESSAGE value="Update theme" />
     <MESSAGE value="Add blog taxaonomy plugin (relatedpost); team page and more!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add blog taxaonomy plugin (relatedpost); team page and more!" />
+    <MESSAGE value="Add share on Linkedin in nouvelles sections" />
+    <MESSAGE value="Update url for share linkedin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update url for share linkedin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/team.htm" />
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/js/techno24.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/theme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="19" lean-forward="false" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/404.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/pages/equipe.htm.html" />
     <entry file="file://$PROJECT_DIR$/plugins/alexcorp/team/updates/create_members_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1013,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="85" column="72" lean-forward="false" selection-start-line="85" selection-start-column="72" selection-end-line="85" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="385" column="33" lean-forward="true" selection-start-line="385" selection-start-column="33" selection-end-line="385" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1188,7 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1196,7 +1193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1204,10 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-          <folding>
-            <marker date="1591377143820" expanded="true" signature="2830:2865" ph="[...]" />
-            <marker date="1591377143820" expanded="true" signature="3501:3741" ph="[...]" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1215,15 +1207,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/assets/sass/pages/_nouvelles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1231,15 +1221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="60" column="16" lean-forward="false" selection-start-line="60" selection-start-column="16" selection-end-line="74" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/share.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="49" column="35" lean-forward="true" selection-start-line="48" selection-start-column="52" selection-end-line="49" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,35 +1228,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="846">
           <caret line="0" column="238015" lean-forward="false" selection-start-line="0" selection-start-column="238015" selection-end-line="0" selection-end-column="238015" />
-          <folding>
-            <element signature="e#27423#27678#2" expanded="true" />
-            <element signature="e#28311#28485#1" expanded="true" />
-            <element signature="e#28527#28782#1" expanded="true" />
-            <element signature="e#31256#31570#2" expanded="true" />
-            <element signature="e#32215#32389#1" expanded="true" />
-            <element signature="e#32431#32745#1" expanded="true" />
-            <element signature="e#62933#63141#2" expanded="true" />
-            <element signature="e#63381#63538#2" expanded="true" />
-            <element signature="e#63967#64123#2" expanded="true" />
-            <element signature="e#65344#65518#1" expanded="true" />
-            <element signature="e#78591#78848#2" expanded="true" />
-            <element signature="e#79791#80054#2" expanded="true" />
-            <element signature="e#110374#110570#2" expanded="true" />
-            <element signature="e#110619#110816#2" expanded="true" />
-            <element signature="e#196562#196811#2" expanded="true" />
-            <element signature="e#198143#198392#2" expanded="true" />
-            <element signature="e#207744#208493#2" expanded="true" />
-            <element signature="e#208557#209346#2" expanded="true" />
-            <element signature="e#209412#209901#2" expanded="true" />
-            <element signature="e#209967#210684#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/techno24/assets/css/theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="25" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15212" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15212" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/updates/version.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/mypartner/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/models/partners/columns.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/partner/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/techno24/partials/share.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/dizoo/partners/components/Partner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding />
         </state>
       </provider>
