@@ -1,0 +1,30 @@
+1595343687a:1:{s:23:"relatedpost/default.htm";a:5:{s:8:"fileName";s:23:"relatedpost/default.htm";s:7:"content";s:535:"<div class="row">
+    {% if __SELF__.posts | length %}
+        {% for post in __SELF__.posts %}
+        <div class="col-xs-12 col-sm-6">
+            <a href="{{ post.url }}">
+                <img class="img-fluid"
+                     data-src="{{ post.featured_images.0.filename }}"
+                     src="{{ post.featured_images.0.path }}"
+                     alt="{{ post.featured_images.0.description }}"/>
+                <h4>{{ post.title }}</h4></a>
+        </div>
+        {% endfor %}
+    {% else %}
+    {% endif %}
+</div>
+";s:5:"mtime";i:1591205054;s:6:"markup";s:534:"<div class="row">
+    {% if __SELF__.posts | length %}
+        {% for post in __SELF__.posts %}
+        <div class="col-xs-12 col-sm-6">
+            <a href="{{ post.url }}">
+                <img class="img-fluid"
+                     data-src="{{ post.featured_images.0.filename }}"
+                     src="{{ post.featured_images.0.path }}"
+                     alt="{{ post.featured_images.0.description }}"/>
+                <h4>{{ post.title }}</h4></a>
+        </div>
+        {% endfor %}
+    {% else %}
+    {% endif %}
+</div>";s:4:"code";N;}}

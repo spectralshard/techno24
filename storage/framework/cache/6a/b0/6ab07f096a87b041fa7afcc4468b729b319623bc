@@ -1,0 +1,52 @@
+1595343687a:1:{s:11:"sidebar.htm";a:6:{s:8:"fileName";s:11:"sidebar.htm";s:7:"content";s:1200:"==
+<div class="row d-flex justify-content-end">
+    <div class=" col-xs-12 col-sm-11 mb-4 px-0 text-center">
+        <small class="text-muted">-{{'Publicité'|_}}-</small>
+        {% if lang == 'fr' %}
+        <div class="">
+            <a href="https://techno24.net/fr/bitdefender?utm_source=home-advertise&utm_medium=banner&utm_campaign=bitdefender-fr" target="_blank">
+                <img class="mx-auto d-block border border-dark"
+                     src="{{ '/sidebar/pub-maison-antivirus-300x.jpg'|media }}"
+                     data-holder-rendered="true">
+            </a>
+        </div>
+        {% else %}
+        <div class="">
+            <a href="https://techno24.net/en/bitdefender?utm_source=home-advertise&utm_medium=banner&utm_campaign=bitdefender-en" target="_blank">
+                <img class="mx-auto d-block border border-dark"
+                     src="{{ '/sidebar/pub-maison-antivirus-300x-en.jpg'|media }}"
+                     data-holder-rendered="true">
+            </a>
+        </div>
+        {% endif %}
+    </div>
+    <div class=" col-xs-12 col-sm-11 primary-color rounded pt-2 pb-4 mb-4">
+        {% partial 'subscribe' %}
+    </div>
+
+</div>";s:5:"mtime";i:1586791186;s:6:"markup";s:1197:"<div class="row d-flex justify-content-end">
+    <div class=" col-xs-12 col-sm-11 mb-4 px-0 text-center">
+        <small class="text-muted">-{{'Publicité'|_}}-</small>
+        {% if lang == 'fr' %}
+        <div class="">
+            <a href="https://techno24.net/fr/bitdefender?utm_source=home-advertise&utm_medium=banner&utm_campaign=bitdefender-fr" target="_blank">
+                <img class="mx-auto d-block border border-dark"
+                     src="{{ '/sidebar/pub-maison-antivirus-300x.jpg'|media }}"
+                     data-holder-rendered="true">
+            </a>
+        </div>
+        {% else %}
+        <div class="">
+            <a href="https://techno24.net/en/bitdefender?utm_source=home-advertise&utm_medium=banner&utm_campaign=bitdefender-en" target="_blank">
+                <img class="mx-auto d-block border border-dark"
+                     src="{{ '/sidebar/pub-maison-antivirus-300x-en.jpg'|media }}"
+                     data-holder-rendered="true">
+            </a>
+        </div>
+        {% endif %}
+    </div>
+    <div class=" col-xs-12 col-sm-11 primary-color rounded pt-2 pb-4 mb-4">
+        {% partial 'subscribe' %}
+    </div>
+
+</div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

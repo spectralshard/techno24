@@ -1,0 +1,201 @@
+1595343689a:1:{s:16:"team/default.htm";a:5:{s:8:"fileName";s:16:"team/default.htm";s:7:"content";s:6853:"<div class="container">
+    <div class="row d-flex justify-content-center">
+        {% for member in members %}
+            <div class="col-xs-12 col-sm-4 col-lg-3">
+                <!-- Card Flip -->
+                <div class="card-flip">
+                    <div class="flip">
+                        <div class="front pt-5">
+                            <!-- front content -->
+                            <div class="card card-team profile-card-5 border-rad-5">
+                                <div class="card-img-block py-3">
+                                    {% if member.photo %}
+                                    <img class="card-img-top rounded-circle mx-auto" src="{{ member.photo.path }}" alt=" "
+                                         style="height: 200px; width: 200px; display: block;" data-holder-rendered="true">
+                                    {% else %}
+                                    <img class="card-img-top rounded-circle mx-auto" src="{{'assets/images/team/profile-image.jpg'|theme}}" alt=" "
+                                         style="height: 200px; width: 200px; display: block;" data-holder-rendered="true">
+                                    {% endif %}
+                                </div>
+                                <div class="card-header text-center primary-color">
+                                    <h4 class="h4-responsive text-white mb-0">
+                                        {{ member.first_name }}&nbsp;{{ member.last_name }}
+                                    </h4>
+                                </div>
+                                <div class="card-body text-center text-white">
+                                    <h6>{{ member.job_title }}</h6>
+                                    <p class="card-text pt-2">
+                                        {% if member.phone %}
+                                        <a href="tel:{{ member.phone }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-phone fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.email %}
+                                        <a href="mailto:{{ member.email }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-envelope fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="back pt-5">
+                            <!-- back content -->
+                            <div class="card card-team border-rad-5 secondary-color">
+                                <div class="card-body text-center text-white">
+                                    <h4 class="h4-responsive card-title">
+                                        {{ member.first_name }}&nbsp;{{ member.last_name }}
+                                    </h4>
+                                    <p class="card-text pt-2">
+                                        {{ member.description|raw }}
+                                    </p>
+                                    <p class="card-text pt-2">
+                                        {% if member.phone %}
+                                        <a href="tel:{{ member.phone }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-phone fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.email %}
+                                        <a href="mailto:{{ member.email }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-envelope fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.facebook_link %}
+                                        <a href="{{ member.facebook_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-facebook-f fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.twitter_link %}
+                                        <a href="{{ member.twitter_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-twitter fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.linkedin_link %}
+                                        <a href="{{ member.linkedin_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-linkedin fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.instagram_link %}
+                                        <a href="{{ member.instagram_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-instagram fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Card Flip -->
+            </div>
+        {% endfor %}
+    </div>
+</div>";s:5:"mtime";i:1590775108;s:6:"markup";s:6853:"<div class="container">
+    <div class="row d-flex justify-content-center">
+        {% for member in members %}
+            <div class="col-xs-12 col-sm-4 col-lg-3">
+                <!-- Card Flip -->
+                <div class="card-flip">
+                    <div class="flip">
+                        <div class="front pt-5">
+                            <!-- front content -->
+                            <div class="card card-team profile-card-5 border-rad-5">
+                                <div class="card-img-block py-3">
+                                    {% if member.photo %}
+                                    <img class="card-img-top rounded-circle mx-auto" src="{{ member.photo.path }}" alt=" "
+                                         style="height: 200px; width: 200px; display: block;" data-holder-rendered="true">
+                                    {% else %}
+                                    <img class="card-img-top rounded-circle mx-auto" src="{{'assets/images/team/profile-image.jpg'|theme}}" alt=" "
+                                         style="height: 200px; width: 200px; display: block;" data-holder-rendered="true">
+                                    {% endif %}
+                                </div>
+                                <div class="card-header text-center primary-color">
+                                    <h4 class="h4-responsive text-white mb-0">
+                                        {{ member.first_name }}&nbsp;{{ member.last_name }}
+                                    </h4>
+                                </div>
+                                <div class="card-body text-center text-white">
+                                    <h6>{{ member.job_title }}</h6>
+                                    <p class="card-text pt-2">
+                                        {% if member.phone %}
+                                        <a href="tel:{{ member.phone }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-phone fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.email %}
+                                        <a href="mailto:{{ member.email }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-envelope fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="back pt-5">
+                            <!-- back content -->
+                            <div class="card card-team border-rad-5 secondary-color">
+                                <div class="card-body text-center text-white">
+                                    <h4 class="h4-responsive card-title">
+                                        {{ member.first_name }}&nbsp;{{ member.last_name }}
+                                    </h4>
+                                    <p class="card-text pt-2">
+                                        {{ member.description|raw }}
+                                    </p>
+                                    <p class="card-text pt-2">
+                                        {% if member.phone %}
+                                        <a href="tel:{{ member.phone }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-phone fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.email %}
+                                        <a href="mailto:{{ member.email }}"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fas fa-envelope fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.facebook_link %}
+                                        <a href="{{ member.facebook_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-facebook-f fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.twitter_link %}
+                                        <a href="{{ member.twitter_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-twitter fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.linkedin_link %}
+                                        <a href="{{ member.linkedin_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-linkedin fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                        {% if member.instagram_link %}
+                                        <a href="{{ member.instagram_link }}" target="_blank"><span class="fa-stack fa-2x">
+                                          <i class="fas fa-circle fa-stack-2x text-white"></i>
+                                          <i class="fab fa-instagram fa-stack-1x fa-inverse text-secondary"></i>
+                                        </span></a>
+                                        {% endif %}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Card Flip -->
+            </div>
+        {% endfor %}
+    </div>
+</div>";s:4:"code";N;}}

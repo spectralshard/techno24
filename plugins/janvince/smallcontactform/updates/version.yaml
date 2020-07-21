@@ -181,3 +181,16 @@
 1.40.0:
     - Added validation rule custom_not_regex (inverse of default regex validation rule)
     - Added form container with ID and action attribute with this hash URL (to automatically jump to form after nonAJAX send or refresh)
+1.40.1:
+    - Fixed notification From name to be correctly set from component properties (thanks @pavsid)
+1.41.0:
+    - Added component redirect properties and allow dynamic redirect URL as a component markup parameter. More info in README file.
+    - Removed hard coded form hash URL (#scf-[form-alias]) as this can be now easily added with redirect options.
+1.41.1:
+    - Set redirect URL property default value to null.
+1.42.0:
+    - Added Google Analytics events after form is successfully sent
+    - Do not populate redirection field code when redirection is not allowed
+1.43.0: !!! Rewritten component partials. No action is needed if you use plugin as is. But if you override component partials test them before update!
+1.44.0:
+    - Added component properties to override notification and autoreply email subject (with support for Twig variables)

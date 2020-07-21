@@ -1,0 +1,48 @@
+1595343681a:1:{s:19:"facebook-module.htm";a:6:{s:8:"fileName";s:19:"facebook-module.htm";s:7:"content";s:777:"==
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            xfbml            : true,
+            version          : 'v4.0'
+        });
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/fr_FR/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+     attribution=install_email
+     page_id="136020400224"
+     logged_in_greeting="Que puise-je faire pour vous aider?"
+     logged_out_greeting="">
+</div>";s:5:"mtime";i:1572721129;s:6:"markup";s:774:"<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            xfbml            : true,
+            version          : 'v4.0'
+        });
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/fr_FR/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+     attribution=install_email
+     page_id="136020400224"
+     logged_in_greeting="Que puise-je faire pour vous aider?"
+     logged_out_greeting="">
+</div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

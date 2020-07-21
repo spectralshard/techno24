@@ -1,0 +1,88 @@
+1595343680a:1:{s:13:"office365.htm";a:12:{s:8:"fileName";s:13:"office365.htm";s:7:"content";s:1869:"title = "Microsoft 365"
+url = "/microsoft-365"
+layout = "default"
+meta_title = "Microsoft 365 (office 365) - Hébergement site web"
+meta_description = "Gérez vos activités plus facilement - Microsoft 365 (office 365). Accédez à tout ce dont vous avez besoin pour effectuer vos tâches. Avec ou sans messagerie."
+is_hidden = 0
+
+[viewBag]
+localeMeta_title[en] = "Microsoft 365 (office 365) - Web Hosting"
+localeMeta_description[en] = "Manage your business more easily - Microsoft 365 (office 365). Get everything you need to do your jobs. With or without messaging."
+==
+<section id="office" class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'Microsoft 365'|_ }}
+                </h1>
+                <h5 class="h5-responsive">
+                    {{ '(Office 365)'|_ }}
+                </h5>
+            </div>
+        </div>
+        {% partial '/produits/p-intro-office365' %}
+    </div>
+</section>
+<section id="forfait" class="primary-color my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Forfaits Microsoft 365'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/produits/p-forfaits-365' %}
+    </div>
+</section>
+<section id="msazure" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Microsoft Azure'|_ }}
+                </h2>
+            </div>
+        </div>
+            {% partial '/produits/p-msazure' %}
+    </div>
+</section>";s:5:"mtime";i:1591121115;s:6:"markup";s:1286:"<section id="office" class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'Microsoft 365'|_ }}
+                </h1>
+                <h5 class="h5-responsive">
+                    {{ '(Office 365)'|_ }}
+                </h5>
+            </div>
+        </div>
+        {% partial '/produits/p-intro-office365' %}
+    </div>
+</section>
+<section id="forfait" class="primary-color my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Forfaits Microsoft 365'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/produits/p-forfaits-365' %}
+    </div>
+</section>
+<section id="msazure" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Microsoft Azure'|_ }}
+                </h2>
+            </div>
+        </div>
+            {% partial '/produits/p-msazure' %}
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:13:"Microsoft 365";s:3:"url";s:14:"/microsoft-365";s:6:"layout";s:7:"default";s:10:"meta_title";s:50:"Microsoft 365 (office 365) - Hébergement site web";s:16:"meta_description";s:162:"Gérez vos activités plus facilement - Microsoft 365 (office 365). Accédez à tout ce dont vous avez besoin pour effectuer vos tâches. Avec ou sans messagerie.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"en";s:40:"Microsoft 365 (office 365) - Web Hosting";}s:22:"localeMeta_description";a:1:{s:2:"en";s:130:"Manage your business more easily - Microsoft 365 (office 365). Get everything you need to do your jobs. With or without messaging.";}}}}

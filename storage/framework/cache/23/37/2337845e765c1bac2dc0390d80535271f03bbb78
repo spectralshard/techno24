@@ -1,0 +1,187 @@
+1595343680a:1:{s:8:"home.htm";a:15:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:3954:"title = "Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
+url = "/"
+layout = "default"
+meta_title = "Hébergement site WEB, serveurs dédiés, cloud, domaine"
+meta_description = "Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "Web Hosting, Dedicated server in Montreal, Domain, Cloud"
+localeUrl[en] = "/"
+localeMeta_title[en] = "Web Hosting, Dedicated server in Montreal, Domain, Cloud"
+localeMeta_description[en] = "Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates ang Google APPS. 24/7 technical support"
+
+[testimonials myTestimonials]
+backgroundColor = "#FFFFFF"
+textColor = "#F39000"
+
+[portfolio produit_home]
+category = 4
+itemsPerPage = 3
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = "blog/article"
+itemPage = "blog/article"
+tagListPage = "blog/article"
+
+[blogPosts lastestBlogEntry]
+pageNumber = "{{ :page }}"
+postsPerPage = 2
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog/categories"
+postPage = "blog/article"
+==
+<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                    <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                        <strong>
+                        {{ 'LA FAÇON LA PLUS SIMPLE DE CONNECTER L\'HUMAIN ET LA TECHNOLOGIE.'|_ }}
+                        </strong>
+                    </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive">
+                    {{ 'Services pour votre entreprise'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pb-3">
+            {% component 'produit_home' %}
+        </div>
+    </div>
+</section>
+<section class="intro primary-color py-4">
+    <div class="container pt-5">
+        <div class="row ">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow flipInX">
+                    {{ 'Qui est derrière Techno24?'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-3 pb-5">
+                <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+                    <div class="embed-responsive-16by9  wow fadeInLeft">
+                        <div class="youtube" data-embed="tYsiEpaKR6k">
+                            <div class="play-button"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-6 text-white wow fadeInUp">
+                    {% content '/home/c-about' %}
+                </div>
+        </div>
+    </div>
+</section>
+<section class="pb-5" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center pt-5">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Les dernières nouvelles'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-2">
+            {% component 'lastestBlogEntry' %}
+        </div>
+    </div>
+</section>
+<section class="my-5">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="h2-responsive text-center wow fadeInUp">
+                    {{ 'Témoignages clients'|_ }}
+                </h2>
+            </div>
+        </div>
+            {% component 'myTestimonials' %}
+    </div>
+</section>";s:5:"mtime";i:1588089166;s:6:"markup";s:2598:"<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                    <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                        <strong>
+                        {{ 'LA FAÇON LA PLUS SIMPLE DE CONNECTER L\'HUMAIN ET LA TECHNOLOGIE.'|_ }}
+                        </strong>
+                    </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive">
+                    {{ 'Services pour votre entreprise'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pb-3">
+            {% component 'produit_home' %}
+        </div>
+    </div>
+</section>
+<section class="intro primary-color py-4">
+    <div class="container pt-5">
+        <div class="row ">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow flipInX">
+                    {{ 'Qui est derrière Techno24?'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-3 pb-5">
+                <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+                    <div class="embed-responsive-16by9  wow fadeInLeft">
+                        <div class="youtube" data-embed="tYsiEpaKR6k">
+                            <div class="play-button"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-6 text-white wow fadeInUp">
+                    {% content '/home/c-about' %}
+                </div>
+        </div>
+    </div>
+</section>
+<section class="pb-5" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center pt-5">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Les dernières nouvelles'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-2">
+            {% component 'lastestBlogEntry' %}
+        </div>
+    </div>
+</section>
+<section class="my-5">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="h2-responsive text-center wow fadeInUp">
+                    {{ 'Témoignages clients'|_ }}
+                </h2>
+            </div>
+        </div>
+            {% component 'myTestimonials' %}
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:160:"Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:10:"meta_title";s:56:"Hébergement site WEB, serveurs dédiés, cloud, domaine";s:16:"meta_description";s:160:"Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:56:"Web Hosting, Dedicated server in Montreal, Domain, Cloud";}s:9:"localeUrl";a:1:{s:2:"en";s:1:"/";}s:16:"localeMeta_title";a:1:{s:2:"en";s:56:"Web Hosting, Dedicated server in Montreal, Domain, Cloud";}s:22:"localeMeta_description";a:1:{s:2:"en";s:130:"Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates ang Google APPS. 24/7 technical support";}}s:27:"testimonials myTestimonials";a:2:{s:15:"backgroundColor";s:7:"#FFFFFF";s:9:"textColor";s:7:"#F39000";}s:22:"portfolio produit_home";a:9:{s:8:"category";s:1:"4";s:12:"itemsPerPage";s:1:"3";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:12:"blog/article";s:8:"itemPage";s:12:"blog/article";s:11:"tagListPage";s:12:"blog/article";}s:26:"blogPosts lastestBlogEntry";a:6:{s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:1:"2";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:15:"blog/categories";s:8:"postPage";s:12:"blog/article";}}}

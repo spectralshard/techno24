@@ -1,0 +1,82 @@
+1595343680a:1:{s:10:"equipe.htm";a:14:{s:8:"fileName";s:10:"equipe.htm";s:7:"content";s:1817:"title = "L'équipe de Techno24"
+url = "/equipe"
+layout = "default"
+meta_title = "L'équipe de Techno24.net"
+meta_description = "L'équipe de Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique."
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "Techno24.net Team"
+localeUrl[en] = "/team"
+localeMeta_title[en] = "Techno24.net Team"
+localeMeta_description[en] = "The team behind Techno24, a Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates ang Google APPS. 24/7 technical support"
+
+[blogPosts lastestBlogEntry]
+pageNumber = "{{ :page }}"
+postsPerPage = 2
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog/categories"
+postPage = "blog/article"
+
+[Members team]
+==
+<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'NOTRE ÉQUIPE'|_ }}
+                    </strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="pb-5">
+    {% component 'team' %}
+</section>
+<section class="pb-5" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center pt-5">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Les dernières nouvelles'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-2">
+            {% component 'lastestBlogEntry' %}
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1590775157;s:6:"markup";s:987:"<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'NOTRE ÉQUIPE'|_ }}
+                    </strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="pb-5">
+    {% component 'team' %}
+</section>
+<section class="pb-5" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center pt-5">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Les dernières nouvelles'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-2">
+            {% component 'lastestBlogEntry' %}
+        </div>
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:21:"L'équipe de Techno24";s:3:"url";s:7:"/equipe";s:6:"layout";s:7:"default";s:10:"meta_title";s:25:"L'équipe de Techno24.net";s:16:"meta_description";s:139:"L'équipe de Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:17:"Techno24.net Team";}s:9:"localeUrl";a:1:{s:2:"en";s:5:"/team";}s:16:"localeMeta_title";a:1:{s:2:"en";s:17:"Techno24.net Team";}s:22:"localeMeta_description";a:1:{s:2:"en";s:158:"The team behind Techno24, a Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates ang Google APPS. 24/7 technical support";}}s:26:"blogPosts lastestBlogEntry";a:6:{s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:1:"2";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:15:"blog/categories";s:8:"postPage";s:12:"blog/article";}s:12:"Members team";a:0:{}}}
