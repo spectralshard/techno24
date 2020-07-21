@@ -1,0 +1,143 @@
+1595343680a:1:{s:7:"ssl.htm";a:13:{s:8:"fileName";s:7:"ssl.htm";s:7:"content";s:2608:"title = "Protégez votre site Web avec un certificat SSL"
+url = "/ssl"
+layout = "default"
+meta_title = "Protégez votre site Web avec un certificat SSL"
+meta_description = ""
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "Protect your website with an SSL certificate"
+localeMeta_title[en] = "Protect your website with an SSL certificate"
+localeMeta_description[en] = "An SSL certificate protects you by encrypting the data between your visitors and your website."
+
+[portfolio produit_serviceweb]
+category = 6
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+==
+<?php
+function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.jpg');
+}
+?>
+==
+<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/ssl/intro' %}
+    </div>
+</section>
+<section id="pricing" class="primary-color py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Nos forfaits SSL'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% component 'produit_serviceweb' %}
+        </div>
+        <div class="row mt-3">
+            <div class="col">
+                <p class="text-center text-white wow fadeInUp">
+                    {{ '* D’autres type de SSL sont disponible sur demande!'|_ }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="features" class="secondary-color py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'La sécurité du SSL, abordable et accessible à tous'|_ }}
+                </h2>
+            </div>
+        </div>
+            {% partial '/ssl/avantage' %}
+    </div>
+</section>
+<section id="about" class="mt-4 mb-0 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive wow fadeInUp">
+                    {{ 'Questions et réponses SSL'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/ssl/questions' %}
+    </div>
+</section>";s:5:"mtime";i:1587753715;s:6:"markup";s:1849:"<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/ssl/intro' %}
+    </div>
+</section>
+<section id="pricing" class="primary-color py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Nos forfaits SSL'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% component 'produit_serviceweb' %}
+        </div>
+        <div class="row mt-3">
+            <div class="col">
+                <p class="text-center text-white wow fadeInUp">
+                    {{ '* D’autres type de SSL sont disponible sur demande!'|_ }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="features" class="secondary-color py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'La sécurité du SSL, abordable et accessible à tous'|_ }}
+                </h2>
+            </div>
+        </div>
+            {% partial '/ssl/avantage' %}
+    </div>
+</section>
+<section id="about" class="mt-4 mb-0 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive wow fadeInUp">
+                    {{ 'Questions et réponses SSL'|_ }}
+                </h2>
+            </div>
+        </div>
+        {% partial '/ssl/questions' %}
+    </div>
+</section>";s:4:"code";s:107:"function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.jpg');
+}";s:5:"title";s:47:"Protégez votre site Web avec un certificat SSL";s:3:"url";s:4:"/ssl";s:6:"layout";s:7:"default";s:10:"meta_title";s:47:"Protégez votre site Web avec un certificat SSL";s:16:"meta_description";s:0:"";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:44:"Protect your website with an SSL certificate";}s:16:"localeMeta_title";a:1:{s:2:"en";s:44:"Protect your website with an SSL certificate";}s:22:"localeMeta_description";a:1:{s:2:"en";s:94:"An SSL certificate protects you by encrypting the data between your visitors and your website.";}}s:28:"portfolio produit_serviceweb";a:6:{s:8:"category";s:1:"6";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";}}}

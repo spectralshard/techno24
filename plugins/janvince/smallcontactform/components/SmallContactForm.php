@@ -29,6 +29,9 @@ class SmallContactForm extends ComponentBase
   private $formDescription;
   private $formDescriptionOverride;
 
+  private $formRedirect;
+  private $formRedirectOverride;
+
     public function componentDetails() {
         return [
             'name'        => 'janvince.smallcontactform::lang.controller.contact_form.name',
@@ -36,8 +39,7 @@ class SmallContactForm extends ComponentBase
         ];
     }
 
-    public function defineProperties()
-    {
+    public function defineProperties(){
 
         return [
 
@@ -113,6 +115,14 @@ class SmallContactForm extends ComponentBase
                 'default'     => null,
                 'group'       => 'janvince.smallcontactform::lang.components.groups.override_notifications',
             ],
+            'notification_subject'      => [
+              'title'       => 'janvince.smallcontactform::lang.components.properties.notification_subject',
+              'description' => 'janvince.smallcontactform::lang.components.properties.notification_subject_comment',
+              'type'        => 'string',
+              'default'     => null,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_notifications',
+            ],
+
 
             'disable_autoreply'      => [
               'title'       => 'janvince.smallcontactform::lang.components.properties.disable_autoreply',
@@ -142,6 +152,65 @@ class SmallContactForm extends ComponentBase
                 'default'     => null,
                 'group'       => 'janvince.smallcontactform::lang.components.groups.override_autoreply',
             ],
+            'autoreply_subject'      => [
+                'title'       => 'janvince.smallcontactform::lang.components.properties.autoreply_subject',
+                'description' => 'janvince.smallcontactform::lang.components.properties.autoreply_subject_comment',
+                'type'        => 'string',
+                'default'     => null,
+                'group'       => 'janvince.smallcontactform::lang.components.groups.override_autoreply',
+            ],
+
+            'allow_redirect'      => [
+              'title'       => 'janvince.smallcontactform::lang.settings.redirect.allow_redirect',
+              'description' => 'janvince.smallcontactform::lang.settings.redirect.allow_redirect_comment',
+              'type'        => 'checkbox',
+              'default'     => false,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_redirect',
+            ],
+
+            'redirect_url'      => [
+              'title'       => 'janvince.smallcontactform::lang.settings.redirect.redirect_url',
+              'description' => 'janvince.smallcontactform::lang.settings.redirect.redirect_url_comment',
+              'type'        => 'string',
+              'default'     => null,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_redirect',
+            ],
+
+            'redirect_url_external'      => [
+              'title'       => 'janvince.smallcontactform::lang.settings.redirect.redirect_url_external',
+              'description' => 'janvince.smallcontactform::lang.settings.redirect.redirect_url_external_comment',
+              'type'        => 'checkbox',
+              'default'     => false,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_redirect',
+            ],
+
+            'ga_success_event_allow'      => [
+              'title'       => 'janvince.smallcontactform::lang.settings.ga.ga_success_event_allow',
+              'type'        => 'checkbox',
+              'default'     => false,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_ga',
+            ],
+
+            'ga_success_event_category'      => [
+              'title'       => 'janvince.smallcontactform::lang.settings.form_fields.event_category',
+              'type'        => 'string',
+              'default'     => null,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_ga',
+            ],
+
+            'ga_success_event_action'      => [
+              'title'       => 'janvince.smallcontactform::lang.settings.form_fields.event_action',
+              'type'        => 'string',
+              'default'     => null,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_ga',
+            ],
+
+            'ga_success_event_label'      => [
+              'title'       => 'janvince.smallcontactform::lang.settings.form_fields.event_label',
+              'type'        => 'string',
+              'default'     => null,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_ga',
+            ],
 
         ];
 
@@ -149,37 +218,42 @@ class SmallContactForm extends ComponentBase
 
     public function onRun() {
 
-        $this->formDescription = $this->property('form_description');
+      $this->page['currentLocale'] = App::getLocale();
+      
+      $this->page['formSentAlias'] = Session::get('formSentAlias', null);
+      $this->page['formError'] = Session::get('formError', null);
+      $this->page['formSuccess'] = Session::get('formSuccess', null);
 
-        $this->page['currentLocale'] = App::getLocale();
+      $this->formDescription = $this->property('form_description');
+      $this->formRedirect = $this->property('redirect_url');
 
-        if ( Session::get('flashSuccess') ) {
+      // Inject CSS assets if required
+      if(Settings::getTranslated('add_assets') && Settings::getTranslated('add_css_assets')){
+        $this->addCss('/modules/system/assets/css/framework.extras.css');
+        $this->addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+      }
 
-          $this->page['flashSuccess'] = Session::get('flashSuccess', $this->alias);
-
-        }
-
-        // Inject CSS assets if required
-        if(Settings::getTranslated('add_assets') && Settings::getTranslated('add_css_assets')){
-          $this->addCss('/modules/system/assets/css/framework.extras.css');
-          $this->addCss('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
-        }
-
-        // Inject JS assets if required
-        if(Settings::getTranslated('add_assets') && Settings::getTranslated('add_js_assets')){
-          $this->addJs('https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js');
-          $this->addJs('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js');
-          $this->addJs('/modules/system/assets/js/framework.js');
-          $this->addJs('/modules/system/assets/js/framework.extras.js');
-        }
+      // Inject JS assets if required
+      if(Settings::getTranslated('add_assets') && Settings::getTranslated('add_js_assets')){
+        $this->addJs('https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js');
+        $this->addJs('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js');
+        $this->addJs('/modules/system/assets/js/framework.js');
+        $this->addJs('/modules/system/assets/js/framework.extras.js');
+      }
 
     }
 
     public function onRender() {
 
-        if($this->formDescription != $this->property('form_description') ) {
-            $this->formDescriptionOverride = $this->property('form_description');
-        }
+      // Component markup parameters are accesible only from onRender method!
+      if($this->formDescription != $this->property('form_description') ) {
+          $this->formDescriptionOverride = $this->property('form_description');
+      }
+
+      if($this->formRedirect != $this->property('redirect_url') ) {
+          $this->formRedirectOverride = $this->property('redirect_url');
+      }
+
     }
 
   /**
@@ -266,12 +340,7 @@ class SmallContactForm extends ComponentBase
     $this->validationMessages = $validator->messages();
     $this->setPostData($validator->messages());
 
-    Session::forget('_flash_oc');
-    Session::forget('_flash');
-    Session::forget('flashSuccess');
-    Session::forget('flashError');
-
-    if(!empty($validator->failed()) or !empty($errors)){
+    if($validator->failed() or count($errors)){
 
       // Form main error msg (can be overriden by component property)
       if ( $this->property('form_error_msg') ) {
@@ -284,17 +353,26 @@ class SmallContactForm extends ComponentBase
 
       }
 
-      // validation error msg for Antispam field
+      // Validation error msg for Antispam field
       if( empty($this->postData[('_protect' . $this->alias)]['error']) && !empty($this->postData['_form_created']['error']) ) {
         $errors[] = ( Settings::getTranslated('antispam_delay_error_msg') ? Settings::getTranslated('antispam_delay_error_msg') : e(trans('janvince.smallcontactform::lang.settings.antispam.antispam_delay_error_msg_placeholder')));
       }
 
       Flash::error(implode(PHP_EOL, $errors));
-      Session::flash('flashSuccess', $this->alias);
-      $this->page['flashSuccess'] = $this->alias;
-      
-      Session::flash('flashError', true);
-      $this->page['flashError'] = true;
+            
+      if (Request::ajax()) {
+        
+        $this->page['formSentAlias'] = $this->alias;
+        $this->page['formError'] = true;
+        $this->page['formSuccess'] = null;
+
+      } else {
+        
+        Session::flash('formSentAlias', $this->alias);
+        Session::flash('formError', true);
+
+      }
+
 
     } else {
 
@@ -308,10 +386,6 @@ class SmallContactForm extends ComponentBase
         $successMsg = ( Settings::getTranslated('form_success_msg') ? Settings::getTranslated('form_success_msg') : e(trans('janvince.smallcontactform::lang.settings.form.success_msg_placeholder')) );
         
       }
-      
-      Flash::success($successMsg);
-
-      Session::flash('flashSuccess', $this->alias);
 
       $message = new Message;
 
@@ -325,14 +399,71 @@ class SmallContactForm extends ComponentBase
       // Send notification
       $message->sendNotificationEmail($this->postData, $this->getProperties(), $this->alias, $formDescription);
 
-      // Redirect to defined page or to prevent repeated sending of form
-      // Clear data after success AJAX send
-      if( Settings::getTranslated('allow_redirect') and !empty(Settings::getTranslated('redirect_url')) ) {
+      /**
+       * Flash messages
+       */
+      Flash::success($successMsg);
 
-        if( !empty(Settings::getTranslated('redirect_url_external')) ) {
-          $path = Settings::getTranslated('redirect_url');
+      if (Request::ajax()) {
+
+        $this->postData = [];
+        $this->page['formSentAlias'] = $this->alias;
+        $this->page['formSuccess'] = true;
+        $this->page['formError'] = null;
+
+      } else {
+
+        Session::flash('formSentAlias', $this->alias);
+        Session::flash('formSuccess', true);
+
+      }
+
+
+      /**
+       *  Redirects
+       *  
+       * Redirect to defined page or to prevent repeated sending of form
+       * Clear data after success AJAX send
+       */
+      if( Settings::getTranslated('allow_redirect') or $this->property('allow_redirect') ) {
+
+        // Component markup parameter (eg. {{ component 'contactForm' redirect_url = '/form-success-'~page.id }} ) overrides component property
+        if(!empty($this->post['_form_redirect'])) {
+
+          $propertyRedirectUrl = e($this->post['_form_redirect']);
+
         } else {
-          $path = url(Settings::getTranslated('redirect_url'));
+
+          $propertyRedirectUrl = $this->property('redirect_url');
+
+        }
+
+        // If redirection is allowed but no URL provided, just refresh (if not AJAX)
+        if(empty($propertyRedirectUrl) and empty(Settings::getTranslated('redirect_url'))) {
+          
+          Log::warning('SCF: Form redirect is allowed but no URL was provided!');
+
+          if (!Request::ajax()) {
+
+            return Redirect::refresh();
+            
+          } else {
+
+            return;
+
+          }
+
+        }
+
+        // Overrides take precedence
+        if( !empty(Settings::getTranslated('redirect_url_external')) and !empty($this->property('redirect_url_external')) ) {
+
+          $path = $propertyRedirectUrl ? $propertyRedirectUrl : Settings::getTranslated('redirect_url');
+
+        } else {
+
+          $path = $propertyRedirectUrl ? url($propertyRedirectUrl) : url(Settings::getTranslated('redirect_url'));
+
         }
 
         return Redirect::to($path);
@@ -340,13 +471,12 @@ class SmallContactForm extends ComponentBase
       } else {
 
         if (!Request::ajax()) {
-          return Redirect::refresh();
-        }
-      }
 
-      $this->post = [];
-      $this->postData = [];
-      $this->page['flashSuccess'] = $this->alias;
+          return Redirect::refresh();
+
+        }
+
+      }
 
     }
 
@@ -390,7 +520,10 @@ class SmallContactForm extends ComponentBase
     $attributes = [];
 
     $attributes['request'] = $this->alias . '::onFormSend';
-    $attributes['url'] = '#scf-' . $this->alias;
+    
+    // Disabled hard coded hash URL in 1.41.0 as dynamic redirect is now available
+    // $attributes['url'] = '#scf-' . $this->alias;
+    
     $attributes['method'] = 'POST';
     $attributes['class'] = null;
     $attributes['id'] = 'scf-form-id-' . $this->alias;
@@ -655,6 +788,71 @@ class SmallContactForm extends ComponentBase
 
   }
 
+  /**
+   * Generate redirect field HTML code
+   * @return string
+   */
+  public function getRedirectFieldHtmlCode(){
+
+    if (empty(Settings::getTranslated('allow_redirect')) and empty($this->property('allow_redirect'))) {
+      return NULL;
+    }
+
+    if( !$this->formRedirectOverride ){
+      return NULL;
+    }
+
+    $output = [];
+
+    // Field attributes
+    $attributes = [
+        'id' => '_form_redirect-'.$this->alias,
+        'type' => 'hidden',
+        'name' => '_form_redirect',
+        'class' => '_form_redirect form-control',
+        'value' => $this->formRedirectOverride,
+      ];
+
+    $output[] = '<input ' . $this->formatAttributes($attributes) . '>';
+
+    return(implode('', $output));
+
+  }
+
+  /**
+   * Generate success GA event field HTML code
+   * @return string
+   */
+  public function getGaSuccessEventHtmlCode($addScriptTag = false)
+  {
+
+    // If GA success event is not allowed
+    if (empty(Settings::getTranslated('ga_success_event_allow')) and empty($this->property('ga_success_event_allow'))) {
+      return;
+    }
+
+    $output = [];
+
+    // Field attributes
+    $attributes = [
+      'hitType' => 'event',
+      'eventCategory' => ($this->property('ga_success_event_category') ? e($this->property('ga_success_event_category')) : Settings::getTranslated('ga_success_event_category')),
+      'eventAction' => ($this->property('ga_success_event_action') ? e($this->property('ga_success_event_action')) : Settings::getTranslated('ga_success_event_action')),
+      'eventLabel' => ($this->property('ga_success_event_label') ? e($this->property('ga_success_event_label')) : Settings::getTranslated('ga_success_event_label')),
+    ];
+
+    if($addScriptTag) {
+      $output[] = "<script>";
+    }
+
+    $output[] = "ga('send', { " . $this->formatAttributes($attributes, true) . " }); ";
+
+    if ($addScriptTag) {
+      $output[] = "</script>";
+    }
+
+    return (implode('', $output));
+  }
 
   /**
    * Generate submit button field HTML code
@@ -797,15 +995,15 @@ class SmallContactForm extends ComponentBase
    * Format attributes array
    * @return array
    */
-  private function formatAttributes(array $attributes) {
+  private function formatAttributes(array $attributes, $jsArray = false) {
 
     $output = [];
 
     foreach ($attributes as $key => $value) {
-      $output[] = $key . '="' . $value . '"';
+      $output[] = $key . ($jsArray ? ': "' : '="') . $value . '"';
     }
 
-    return implode(' ', $output);
+    return implode(($jsArray ? ', ' : ' '), $output);
   }
 
   /**

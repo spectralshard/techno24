@@ -1,0 +1,86 @@
+1595343686a:1:{s:13:"subscribe.htm";a:6:{s:8:"fileName";s:13:"subscribe.htm";s:7:"content";s:3081:"==
+<div class="row">
+    <div class="col px-5 py-3 text-center mx-auto text-white">
+        <h4 class="h4-responsive "><strong>{{'M\'abonner à l\'infolettre exclusive'|_}}</strong></h4>
+        <p>{{'Recevez directement dans votre boite courriel des nouvelles liées à la technologie et outils pour mieux performer!'|_}}</p>
+        <div id="mlb2-1608414" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-1608414">
+            <div class="ml-form-align-center">
+                <div class="ml-form-embedWrapper embedForm">
+                    <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+                        <form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/h0l9r2" data-code="h0l9r2" method="post" target="_blank">
+                            <div class="ml-form-formContent">
+                                <div class="ml-form-fieldRow ml-last-item">
+                                    <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                                        <input type="email" class="form-control" data-inputmask="" name="fields[email]" value="" placeholder="Courriel">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ml-form-checkboxRow ml-validate-required mt-3">
+                                <label class="checkbox"> <input type="checkbox"> <p class="d-inline">{{'Inscrivez-vous pour recevoir des nouvelles et des mises à jour.'|_}}</p> </label>
+                            </div>
+                            <style type="text/css">
+                                .ml-form-recaptcha{margin-bottom:20px;float:left}.ml-form-recaptcha.ml-error iframe{border:solid 1px red}@media screen and (max-width:768px){.ml-form-recaptcha{transform:scale(.77);-webkit-transform:scale(.77);transform-origin:0 0;-webkit-transform-origin:0 0}}
+                            </style>
+                            <input type="hidden" name="ml-submit" value="1">
+                            <div class="ml-form-embedSubmit mt-3">
+                                <button type="submit" class="btn btn-secondary">{{'M\'inscrire'|_}}</button>
+                                <button disabled="disabled" style="display:none" type="button" class="loading">
+                                    <div class="ml-form-embedSubmitLoad"></div>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="ml-form-successBody row-success" style="display:none">
+                        <div class="ml-form-successContent">
+                            <h2 class="h2-responsive">{{'Merci!'|_}}</h2>
+                            <p>{{'Vous êtes maintenant inscrit à notre infolettre!'|_}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>";s:5:"mtime";i:1582227447;s:6:"markup";s:3078:"<div class="row">
+    <div class="col px-5 py-3 text-center mx-auto text-white">
+        <h4 class="h4-responsive "><strong>{{'M\'abonner à l\'infolettre exclusive'|_}}</strong></h4>
+        <p>{{'Recevez directement dans votre boite courriel des nouvelles liées à la technologie et outils pour mieux performer!'|_}}</p>
+        <div id="mlb2-1608414" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-1608414">
+            <div class="ml-form-align-center">
+                <div class="ml-form-embedWrapper embedForm">
+                    <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+                        <form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/h0l9r2" data-code="h0l9r2" method="post" target="_blank">
+                            <div class="ml-form-formContent">
+                                <div class="ml-form-fieldRow ml-last-item">
+                                    <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                                        <input type="email" class="form-control" data-inputmask="" name="fields[email]" value="" placeholder="Courriel">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ml-form-checkboxRow ml-validate-required mt-3">
+                                <label class="checkbox"> <input type="checkbox"> <p class="d-inline">{{'Inscrivez-vous pour recevoir des nouvelles et des mises à jour.'|_}}</p> </label>
+                            </div>
+                            <style type="text/css">
+                                .ml-form-recaptcha{margin-bottom:20px;float:left}.ml-form-recaptcha.ml-error iframe{border:solid 1px red}@media screen and (max-width:768px){.ml-form-recaptcha{transform:scale(.77);-webkit-transform:scale(.77);transform-origin:0 0;-webkit-transform-origin:0 0}}
+                            </style>
+                            <input type="hidden" name="ml-submit" value="1">
+                            <div class="ml-form-embedSubmit mt-3">
+                                <button type="submit" class="btn btn-secondary">{{'M\'inscrire'|_}}</button>
+                                <button disabled="disabled" style="display:none" type="button" class="loading">
+                                    <div class="ml-form-embedSubmitLoad"></div>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="ml-form-successBody row-success" style="display:none">
+                        <div class="ml-form-successContent">
+                            <h2 class="h2-responsive">{{'Merci!'|_}}</h2>
+                            <p>{{'Vous êtes maintenant inscrit à notre infolettre!'|_}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

@@ -1,0 +1,46 @@
+1595343680a:1:{s:12:"zerospam.htm";a:12:{s:8:"fileName";s:12:"zerospam.htm";s:7:"content";s:1112:"title = "ZéroSpam, sécurité courriel complète de haute précision"
+url = "/zerospam"
+layout = "default"
+meta_title = "ZéroSpam, sécurité courriel complète de haute précision"
+meta_description = "ZéroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service."
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "ZeroSpam, high precision full email security"
+localeMeta_title[en] = "ZeroSpam, high precision full email security"
+localeMeta_description[en] = "ZeroSpam protects your business against ransomware, spear phishing, phishing and denial of service."
+
+==
+<?php
+function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
+}
+?>
+==
+<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'ZéroSpam, sécurité courriel complète de haute précision'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/zerospam/intro' %}
+    </div>
+</section>";s:5:"mtime";i:1591121091;s:6:"markup";s:385:"<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'ZéroSpam, sécurité courriel complète de haute précision'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/zerospam/intro' %}
+    </div>
+</section>";s:4:"code";s:96:"function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
+}";s:5:"title";s:60:"ZéroSpam, sécurité courriel complète de haute précision";s:3:"url";s:9:"/zerospam";s:6:"layout";s:7:"default";s:10:"meta_title";s:60:"ZéroSpam, sécurité courriel complète de haute précision";s:16:"meta_description";s:117:"ZéroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:44:"ZeroSpam, high precision full email security";}s:16:"localeMeta_title";a:1:{s:2:"en";s:44:"ZeroSpam, high precision full email security";}s:22:"localeMeta_description";a:1:{s:2:"en";s:99:"ZeroSpam protects your business against ransomware, spear phishing, phishing and denial of service.";}}}}

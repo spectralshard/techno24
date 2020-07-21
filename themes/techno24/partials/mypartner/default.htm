@@ -11,7 +11,7 @@
                 {% set url = 'https://' ~ partner.url %}
             {% endif %}
         {% endif %}
-        <div class="slide">
+        <div class="slick-slide">
             {% if partner.url %}<a href="{{ url }}" target="_blank">{% endif %}
             <img src="{{ partner.image.thumb(auto,100) }}" alt="{{ partner.name }}" class="wow flipInX">
             {% if partner.url %}</a>{% endif %}

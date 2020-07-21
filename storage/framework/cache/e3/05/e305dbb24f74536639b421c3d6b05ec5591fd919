@@ -1,0 +1,189 @@
+1595343680a:1:{s:26:"mytestimonials/default.htm";a:6:{s:8:"fileName";s:26:"mytestimonials/default.htm";s:7:"content";s:3338:"
+==
+{% if testimonials%}
+<section id="testim" class="testim wow fadeInUp">
+    <div class="row wrap">
+        <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
+        <span id="left-arrow" class="arrow left fa fa-chevron-left "></span>
+        <ul id="testim-dots" class="dots" style="visibility: hidden;">
+            {% for item in testimonials %}
+            <li class="dot{% if loop.first %} active{% endif %}"></li>
+            {% endfor %}
+        </ul>
+        <div id="testim-content" class="col-12 cont">
+            {% for testimonial in testimonials %}
+            <div{% if loop.first %} class="active"{% endif %}>
+            {% if testimonial.image %}
+            <div>
+                <img src="{{ testimonial.image.thumb(300,300,{'mode':'auto'}) }}" alt="{{ testimonial.name }}"
+                     style="width: 280px;background-color:#FFFFFF;">
+            </div>
+            {% endif %}
+            <p style="color:#000000;" class="mt-3">{{ testimonial.quote }}</p>
+            <h2>{{ testimonial.name }}</h2>
+        </div>
+            {% endfor %}
+    </div>
+    </div>
+</section>
+<style>
+    .testim {
+    background-color: {{ __SELF__.property('backgroundColor') }} !important;
+    }
+    .testim .arrow:hover, .testim .cont div h2 {
+    color: {{ __SELF__.property('textColor') }} !important;
+    }
+    .testim .dots .dot.active,
+    .testim .dots .dot:hover {
+    background: {{ __SELF__.property('textColor') }};
+    border-color: {{ __SELF__.property('textColor') }};
+    }
+    @-webkit-keyframes testim-scale {
+        70% {
+    -webkit-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -webkit-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+    @-moz-keyframes testim-scale {
+        70% {
+    -moz-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -moz-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+    @-ms-keyframes testim-scale {
+        70% {
+    -ms-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -ms-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+
+    @-o-keyframes testim-scale {
+        70% {
+    -o-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -o-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+    @keyframes testim-scale {
+        70% {
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+</style>
+{% endif %}";s:5:"mtime";i:1572645675;s:6:"markup";s:3332:"{% if testimonials%}
+<section id="testim" class="testim wow fadeInUp">
+    <div class="row wrap">
+        <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
+        <span id="left-arrow" class="arrow left fa fa-chevron-left "></span>
+        <ul id="testim-dots" class="dots" style="visibility: hidden;">
+            {% for item in testimonials %}
+            <li class="dot{% if loop.first %} active{% endif %}"></li>
+            {% endfor %}
+        </ul>
+        <div id="testim-content" class="col-12 cont">
+            {% for testimonial in testimonials %}
+            <div{% if loop.first %} class="active"{% endif %}>
+            {% if testimonial.image %}
+            <div>
+                <img src="{{ testimonial.image.thumb(300,300,{'mode':'auto'}) }}" alt="{{ testimonial.name }}"
+                     style="width: 280px;background-color:#FFFFFF;">
+            </div>
+            {% endif %}
+            <p style="color:#000000;" class="mt-3">{{ testimonial.quote }}</p>
+            <h2>{{ testimonial.name }}</h2>
+        </div>
+            {% endfor %}
+    </div>
+    </div>
+</section>
+<style>
+    .testim {
+    background-color: {{ __SELF__.property('backgroundColor') }} !important;
+    }
+    .testim .arrow:hover, .testim .cont div h2 {
+    color: {{ __SELF__.property('textColor') }} !important;
+    }
+    .testim .dots .dot.active,
+    .testim .dots .dot:hover {
+    background: {{ __SELF__.property('textColor') }};
+    border-color: {{ __SELF__.property('textColor') }};
+    }
+    @-webkit-keyframes testim-scale {
+        70% {
+    -webkit-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -webkit-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+    @-moz-keyframes testim-scale {
+        70% {
+    -moz-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -moz-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+    @-ms-keyframes testim-scale {
+        70% {
+    -ms-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -ms-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+
+    @-o-keyframes testim-scale {
+        70% {
+    -o-box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    -o-box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+    @keyframes testim-scale {
+        70% {
+    box-shadow: 0px 0px 10px 5px {{ __SELF__.property('textColor') }};
+    }
+
+    100% {
+    box-shadow: 0px 0px 0px 0px {{ __SELF__.property('textColor') }};
+    }
+    }
+</style>
+{% endif %}";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

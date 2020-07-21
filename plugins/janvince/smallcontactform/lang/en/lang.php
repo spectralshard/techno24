@@ -171,6 +171,16 @@ return [
       'add_js_assets' => 'Add JavaScript assets',
       'add_js_assets_comment' => 'All necesssary JavaScripts will be included',
 
+      'form_ga_event_success' => 'GA event after successful sent',
+
+    ],
+
+    'sections' => [
+      'ga_events' => 'Events'
+    ],
+
+    'ga' => [
+      'ga_success_event_allow' => 'Send event after successful sent',
 
     ],
 
@@ -252,6 +262,11 @@ return [
       'add_values_prompt' => 'Add values',
       'field_value_id' => 'Field value ID',
       'field_value_content' => 'Field value content',
+
+      'hit_type' => 'Hit type',
+      'event_category' => 'Event category',
+      'event_action' => 'Event action',
+      'event_label' => 'Event label',
 
     ],
 
@@ -420,7 +435,8 @@ return [
       'mapping' => 'Columns mapping',
       'email' => 'Email',
       'antispam' => 'Antispam',
-      'privacy' => 'Privacy'
+      'privacy' => 'Privacy',
+      'ga' => 'Google Analytics',
     ],
 
   ],
@@ -434,9 +450,10 @@ return [
           'override_notifications' => 'Override notification settings',
           'override_autoreply' => 'Override autoreply settings',
           'override' => 'Override form settings',
-
-
+          'override_redirect' => 'Override redirect settings',
+          'override_ga' => 'Override Google Analytics settings',
       ],
+
       'properties' => [
 
         'form_description' => 'Form description',
@@ -469,6 +486,9 @@ return [
         'notification_template' => 'Notification template',
         'notification_template_comment' => 'This will override notification email template (eg. janvince.smallcontactform::mail.notification)',
 
+        'notification_subject' => 'Notification subject',
+        'notification_template_comment' => 'Override email subject',
+
         'disable_autoreply' => 'Disable notification',
         'disable_autoreply_comment' => 'This will disable notification emails (overrides form settings)',
 
@@ -480,6 +500,9 @@ return [
 
         'autoreply_template' => 'Autoreply template',
         'autoreply_template_comment' => 'This will override autoreply email template (eg. janvince.smallcontactform::mail.autoreply)',
+
+        'autoreply_subject' => 'Autoreply email subject',
+        'autoreply_template_comment' => 'Override email subject',
 
       ]
 

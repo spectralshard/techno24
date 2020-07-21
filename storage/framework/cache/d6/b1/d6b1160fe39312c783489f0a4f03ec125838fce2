@@ -1,4 +1,4 @@
-1591377850a:1:{s:21:"mypartner/default.htm";a:5:{s:8:"fileName";s:21:"mypartner/default.htm";s:7:"content";s:863:"{% if partners %}
+1595343681a:1:{s:21:"mypartner/default.htm";a:5:{s:8:"fileName";s:21:"mypartner/default.htm";s:7:"content";s:869:"{% if partners %}
 <div class="partner-slider slider"
      style="background-color: {{ __SELF__.property('backgroundColor') }};padding: 30px 0;">
     {% for partner in partners %}
@@ -11,14 +11,14 @@
                 {% set url = 'https://' ~ partner.url %}
             {% endif %}
         {% endif %}
-        <div class="slide">
+        <div class="slick-slide">
             {% if partner.url %}<a href="{{ url }}" target="_blank">{% endif %}
             <img src="{{ partner.image.thumb(auto,100) }}" alt="{{ partner.name }}" class="wow flipInX">
             {% if partner.url %}</a>{% endif %}
         </div>
     {% endfor %}
 </div>
-{% endif %}";s:5:"mtime";i:1572645675;s:6:"markup";s:863:"{% if partners %}
+{% endif %}";s:5:"mtime";i:1591626136;s:6:"markup";s:869:"{% if partners %}
 <div class="partner-slider slider"
      style="background-color: {{ __SELF__.property('backgroundColor') }};padding: 30px 0;">
     {% for partner in partners %}
@@ -31,7 +31,7 @@
                 {% set url = 'https://' ~ partner.url %}
             {% endif %}
         {% endif %}
-        <div class="slide">
+        <div class="slick-slide">
             {% if partner.url %}<a href="{{ url }}" target="_blank">{% endif %}
             <img src="{{ partner.image.thumb(auto,100) }}" alt="{{ partner.name }}" class="wow flipInX">
             {% if partner.url %}</a>{% endif %}

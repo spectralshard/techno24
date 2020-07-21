@@ -25,7 +25,7 @@ You can set permissions to restrict access to *Settings > Small plugins > Contac
 ### Installation with composer
 
 * Edit composer.json by adding new repository
-```json
+```
 "repositories": [
     {
       "type": "vcs",
@@ -106,7 +106,16 @@ If you want to insert assets by hand, you can do it this way (or similar):
 ### SEND BUTTON
 
 * You can set button class and text.
-* Form can automatically redirect to given URL after successful submit.
+
+#### Redirection after the form is sent
+
+You have some options to control redirection after form is successfully sent:
+
+* In main form settings you can allow redirection and set fixed URL (internal or external)
+* In component properties (on CMS Page or Layout) you can override main redirection settings for a specific form
+* You can add a dynamic redirect URL as a markup parameter eg. `{% component 'contactForm' redirectUrl = ('/success#'~this.page.id) %}`
+
+> If you use markup parameter do not forget to allow form redirection in form main settings or (rather) in component parameters ! There is no markup parametr to allow redirection.
 
 
 ### FIELDS
@@ -239,6 +248,19 @@ There is ````{{fields}}```` array available inside of email templates.
 
 *If your custom form field has name eg. 'email', you use it in template with ````{{fields.email}}````.*
 
+## GOOGLE ANALYTICS
+
+> if you want to use these settings, be sure to have Google Analytics scripts included on your site. You can use [Rainlab Google Analytics plugin](https://octobercms.com/plugin/rainlab-googleanalytics).
+
+### Events
+
+You can allow events to be send to your GA account when the form is successfully sent.
+
+There are (translatable) fields for category, action and label.
+
+*All event settings can be overriden in component property so if you use more then one form, you can custommize events for each of them.*
+
+
 ## MESSAGES LIST
 
 All sent data from Contact form are saved and listed in backend Messages list.
@@ -300,7 +322,6 @@ Form alias: {{fields.form_alias}}
 Form description: {{fields.form_description}}
 ````
 
-
 > When you override form description in ````{% component form_description = 'My description' %}````, description will be added as a **hidden field** into a form. Do not use this to store private data as this is easily visible in page HTML code!
 
 #### Override notification email options
@@ -317,7 +338,8 @@ notification_address_to = 'sales@domain.com'
 notification_address_from = 'contactform@domain.com'
 notification_template = 'notification-sales'
 notification_template_en = 'notification-sales-en'
-notification_template_cs = 'notification-sales-cs
+notification_template_cs = 'notification-sales-cs'
+notification_subject = 'Notification sent by form {{ fields.form_alias }} on {{ "now"|date }}'
 ````
 
 > Local strings in `notification_template` canot be used in Twig!
@@ -338,7 +360,10 @@ autoreply_address_from_name_cs = 'Objednávky'
 autoreply_template = 'autoreply-order'
 autoreply_template_en = 'autoreply-order-en'
 autoreply_template_cs = 'autoreply-order-cs'
+autoreply_subject = 'Autoreply sent by form {{ fields.form_alias }} on {{ "now"|date }}'
 ````
+> Do you know that you can use form variables in an email template subject. In Settings > Mail templates create new template and set the Subject field to eg: `My form {{ fields.form_alias }}`.
+
 #### Disable some form fields
 You can disable some of defined form fields by passing their names in ````disable_fields```` component property.
 
