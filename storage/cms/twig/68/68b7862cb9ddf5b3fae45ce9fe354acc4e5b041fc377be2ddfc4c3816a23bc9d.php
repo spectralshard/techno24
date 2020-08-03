@@ -78,35 +78,41 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
         echo "\">Microsoft 365</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
         // line 23
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("aide-distance");
+        echo "\">";
+        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Aide à distance"]);
+        echo "</a>
+\t\t\t\t\t<a class=\"dropdown-item\" href=\"";
+        // line 24
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("bitdefender");
         echo "\">BitDefender</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 24
+        // line 25
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("hosting");
         echo "\">";
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Hébergement Web"]);
         echo "</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 25
+        // line 26
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("ssl");
         echo "\">SSL</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 26
+        // line 27
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("office365");
         echo "#msazure\">Microsoft Azure</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 27
+        // line 28
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("zerospam");
         echo "\">ZéroSpam</a>
 \t\t\t\t</div>
 \t\t\t</li>
 \t\t\t<li class=\"nav-item\">
 \t\t\t\t<a class=\"nav-link\" href=\"";
-        // line 31
+        // line 32
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("blog/blogList");
         echo "\">
 \t\t\t\t\t<strong>";
-        // line 32
+        // line 33
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["NOUVELLES"]);
         echo "</strong></a>
 \t\t\t</li>
@@ -114,13 +120,13 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t<a class=\"nav-link dropdown-toggle\" href=\"#\" role=\"button\"
 \t\t\t\t   data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
 \t\t\t\t\t<strong>";
-        // line 37
+        // line 38
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["À PROPOS"]);
         echo "</strong>
 \t\t\t\t</a>
 \t\t\t\t<div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 40
+        // line 41
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("equipe");
         echo "\">";
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["L'équipe"]);
@@ -131,7 +137,7 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t<a class=\"nav-link dropdown-toggle\" href=\"#\" role=\"button\"
 \t\t\t\t   data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
 \t\t\t\t\t<strong>";
-        // line 46
+        // line 47
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["COURRIEL WEB"]);
         echo "</strong>
 \t\t\t\t</a>
@@ -143,19 +149,19 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t</li>
 \t\t\t<li class=\"nav-item\">
 \t\t\t\t<a class=\"nav-link\" href=\"";
-        // line 55
+        // line 56
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("contact");
         echo "\">
 \t\t\t\t\t<strong>";
-        // line 56
+        // line 57
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["CONTACT"]);
         echo "</strong></a>
 \t\t\t</li>
 \t\t\t<li class=\"nav-item\">
 \t\t\t\t";
-        // line 59
+        // line 60
         if ((($context["lang"] ?? null) == "fr")) {
-            // line 60
+            // line 61
             echo "\t\t\t\t<a href=\"#\"
 \t\t\t\t   class=\"nav-link\"
 \t\t\t\t   data-request=\"onSwitchLocale\"
@@ -164,7 +170,7 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t</a>
 \t\t\t\t";
         } else {
-            // line 67
+            // line 68
             echo "\t\t\t\t<a href=\"#\"
 \t\t\t\t   class=\"nav-link\"
 \t\t\t\t   data-request=\"onSwitchLocale\"
@@ -173,11 +179,11 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t</a>
 \t\t\t\t";
         }
-        // line 74
+        // line 75
         echo "\t\t\t</li>
 \t\t\t<li class=\"nav-item pl-2 pt-1 d-none d-sm-block\">
 \t\t\t<a class=\"btn btn-secondary\" href=\"https://get.teamviewer.com/3max9aj\" target=\"_blank\">";
-        // line 76
+        // line 77
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Support à distance"]);
         echo "</a>
 \t\t\t</li>
@@ -199,7 +205,7 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 
     public function getDebugInfo()
     {
-        return array (  181 => 76,  177 => 74,  168 => 67,  159 => 60,  157 => 59,  151 => 56,  147 => 55,  135 => 46,  124 => 40,  118 => 37,  110 => 32,  106 => 31,  99 => 27,  95 => 26,  91 => 25,  85 => 24,  81 => 23,  77 => 22,  71 => 19,  63 => 14,  59 => 13,  45 => 4,  41 => 3,  37 => 1,);
+        return array (  187 => 77,  183 => 75,  174 => 68,  165 => 61,  163 => 60,  157 => 57,  153 => 56,  141 => 47,  130 => 41,  124 => 38,  116 => 33,  112 => 32,  105 => 28,  101 => 27,  97 => 26,  91 => 25,  87 => 24,  81 => 23,  77 => 22,  71 => 19,  63 => 14,  59 => 13,  45 => 4,  41 => 3,  37 => 1,);
     }
 
     public function getSourceContext()

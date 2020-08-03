@@ -112,4 +112,5 @@
   'dizoo\\partners\\Controllers\\partners' => 'plugins/dizoo/partners/controllers/partners.php',
   'romainmazb\\adminbar\\Plugin' => 'plugins/romainmazb/adminbar/Plugin.php',
   'RomainMazB\\AdminBar\\Components\\AdminBar' => 'plugins/romainmazb/adminbar/components/AdminBar.php',
+  'arrizalamin\\portfolio\\Controllers\\categories' => 'plugins/arrizalamin/portfolio/controllers/categories.php',
 );

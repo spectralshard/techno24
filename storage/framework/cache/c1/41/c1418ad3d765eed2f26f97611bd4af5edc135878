@@ -1,4 +1,4 @@
-1595343681a:1:{s:10:"navbar.htm";a:6:{s:8:"fileName";s:10:"navbar.htm";s:7:"content";s:3488:"description = "Navigation bar"
+1596477668a:1:{s:10:"navbar.htm";a:6:{s:8:"fileName";s:10:"navbar.htm";s:7:"content";s:3581:"description = "Navigation bar"
 ==
 <nav id="navbar" class="navbar bg-white navbar-expand-lg">
 	<div class="container">
@@ -22,6 +22,7 @@
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'office365'|page }}">Microsoft 365</a>
+					<a class="dropdown-item" href="{{ 'aide-distance'|page }}">{{'Aide à distance'|_}}</a>
 					<a class="dropdown-item" href="{{ 'bitdefender'|page }}">BitDefender</a>
 					<a class="dropdown-item" href="{{ 'hosting'|page }}">{{'Hébergement Web'|_}}</a>
 					<a class="dropdown-item" href="{{ 'ssl'|page }}">SSL</a>
@@ -80,7 +81,7 @@
 	</ul>
 	</div>
 	</div>
-</nav>";s:5:"mtime";i:1591117811;s:6:"markup";s:3454:"<nav id="navbar" class="navbar bg-white navbar-expand-lg">
+</nav>";s:5:"mtime";i:1596477068;s:6:"markup";s:3547:"<nav id="navbar" class="navbar bg-white navbar-expand-lg">
 	<div class="container">
 	<a class="navbar-brand" href="{{ 'home'|page }}">
 		<img src="{{'assets/images/techno24-logo.png'|theme}}" style="width:150px;" alt="{{ 'Logo de Techno24.net'|_ }}">
@@ -102,6 +103,7 @@
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 					<a class="dropdown-item" href="{{ 'office365'|page }}">Microsoft 365</a>
+					<a class="dropdown-item" href="{{ 'aide-distance'|page }}">{{'Aide à distance'|_}}</a>
 					<a class="dropdown-item" href="{{ 'bitdefender'|page }}">BitDefender</a>
 					<a class="dropdown-item" href="{{ 'hosting'|page }}">{{'Hébergement Web'|_}}</a>
 					<a class="dropdown-item" href="{{ 'ssl'|page }}">SSL</a>
