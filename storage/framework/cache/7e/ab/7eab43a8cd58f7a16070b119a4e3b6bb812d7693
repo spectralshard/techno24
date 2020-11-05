@@ -1,0 +1,85 @@
+1604597150a:1:{s:17:"aide-distance.htm";a:13:{s:8:"fileName";s:17:"aide-distance.htm";s:7:"content";s:1801:"title = "Aide à distance"
+url = "/aide-distance"
+layout = "default"
+meta_title = "Aide à distance"
+meta_description = "Vous aimeriez avoir l’aide d’un expert quelques heures par semaine? Votre budget en informatique est limité ? Plusieurs soucis informatiques peuvent être réglés à distance."
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "Remote IT Support"
+localeMeta_title[en] = "Remote IT Support"
+localeMeta_description[en] = "Would you like to have expert help a few hours a week? Is your IT budget limited? Several IT concerns can be resolved remotely."
+localeUrl[en] = "/remote-help"
+
+[portfolio produit_bitdefender]
+category = 7
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = 404
+itemPage = 404
+tagListPage = 404
+==
+<?php
+function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/support/aide-distance-feature.jpg');
+}
+?>
+==
+<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'Aide à distance'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/support/intro' %}
+    </div>
+</section>
+<section id="founctions" class="primary-color py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Règler vos problèmes informatique tout en douceur'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1596744704;s:6:"markup";s:842:"<section class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    {{ 'Aide à distance'|_ }}
+                </h1>
+            </div>
+        </div>
+        {% partial '/support/intro' %}
+    </div>
+</section>
+<section id="founctions" class="primary-color py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Règler vos problèmes informatique tout en douceur'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
+    </div>
+</section>";s:4:"code";s:116:"function onEnd()
+{
+$this['image_url'] = asset('/themes/techno24/assets/images/support/aide-distance-feature.jpg');
+}";s:5:"title";s:16:"Aide à distance";s:3:"url";s:14:"/aide-distance";s:6:"layout";s:7:"default";s:10:"meta_title";s:16:"Aide à distance";s:16:"meta_description";s:181:"Vous aimeriez avoir l’aide d’un expert quelques heures par semaine? Votre budget en informatique est limité ? Plusieurs soucis informatiques peuvent être réglés à distance.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:17:"Remote IT Support";}s:16:"localeMeta_title";a:1:{s:2:"en";s:17:"Remote IT Support";}s:22:"localeMeta_description";a:1:{s:2:"en";s:127:"Would you like to have expert help a few hours a week? Is your IT budget limited? Several IT concerns can be resolved remotely.";}s:9:"localeUrl";a:1:{s:2:"en";s:12:"/remote-help";}}s:29:"portfolio produit_bitdefender";a:9:{s:8:"category";s:1:"7";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:3:"404";s:8:"itemPage";s:3:"404";s:11:"tagListPage";s:3:"404";}}}

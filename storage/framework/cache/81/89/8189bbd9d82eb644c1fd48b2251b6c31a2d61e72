@@ -1,0 +1,338 @@
+1604597150a:1:{s:37:"/p-office365-backup/c-avantage.en.htm";a:6:{s:8:"fileName";s:37:"/p-office365-backup/c-avantage.en.htm";s:7:"content";s:4772:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Accessibility
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            Service is available through an Internet-connected device.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Backup schedule
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            Users can restore a document, a folder, or all content without deleting or overwriting files.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Schedule
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            4 Backups each day with Office 365 Backup
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingfour">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
+                Fast Recovery
+            </a>
+        </h3>
+    </div>
+    <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#avantage">
+        <div class="card-body">
+            Needed files or folders can be identified, restored and downloaded immediately.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingFive">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
+                User Transparency
+            </a>
+        </h3>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#avantage">
+        <div class="card-body">
+            Data additions or changes are identified automatically and backed up without user intervention.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingSix">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
+                Support
+            </a>
+        </h3>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#avantage">
+        <div class="card-body">
+            Phone and email support by experts technicians.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingSeven">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseThree">
+                Storage and retention
+            </a>
+        </h3>
+    </div>
+    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#avantage">
+        <div class="card-body">
+            Office 365 Backup offer free storage, history and data recovery.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingEight">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseThree">
+                Storage
+            </a>
+        </h3>
+    </div>
+    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#avantage">
+        <div class="card-body">
+            The data center is located in Canada.
+        </div>
+    </div>
+</div>
+";s:5:"mtime";i:1604595935;s:6:"markup";s:4771:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Accessibility
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            Service is available through an Internet-connected device.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Backup schedule
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            Users can restore a document, a folder, or all content without deleting or overwriting files.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Schedule
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            4 Backups each day with Office 365 Backup
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingfour">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
+                Fast Recovery
+            </a>
+        </h3>
+    </div>
+    <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#avantage">
+        <div class="card-body">
+            Needed files or folders can be identified, restored and downloaded immediately.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingFive">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
+                User Transparency
+            </a>
+        </h3>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#avantage">
+        <div class="card-body">
+            Data additions or changes are identified automatically and backed up without user intervention.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingSix">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
+                Support
+            </a>
+        </h3>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#avantage">
+        <div class="card-body">
+            Phone and email support by experts technicians.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingSeven">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseThree">
+                Storage and retention
+            </a>
+        </h3>
+    </div>
+    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#avantage">
+        <div class="card-body">
+            Office 365 Backup offer free storage, history and data recovery.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingEight">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseThree">
+                Storage
+            </a>
+        </h3>
+    </div>
+    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#avantage">
+        <div class="card-body">
+            The data center is located in Canada.
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:4771:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Accessibility
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            Service is available through an Internet-connected device.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Backup schedule
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            Users can restore a document, a folder, or all content without deleting or overwriting files.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Schedule
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            4 Backups each day with Office 365 Backup
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingfour">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
+                Fast Recovery
+            </a>
+        </h3>
+    </div>
+    <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#avantage">
+        <div class="card-body">
+            Needed files or folders can be identified, restored and downloaded immediately.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingFive">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
+                User Transparency
+            </a>
+        </h3>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#avantage">
+        <div class="card-body">
+            Data additions or changes are identified automatically and backed up without user intervention.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingSix">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
+                Support
+            </a>
+        </h3>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#avantage">
+        <div class="card-body">
+            Phone and email support by experts technicians.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingSeven">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseThree">
+                Storage and retention
+            </a>
+        </h3>
+    </div>
+    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#avantage">
+        <div class="card-body">
+            Office 365 Backup offer free storage, history and data recovery.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingEight">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseThree">
+                Storage
+            </a>
+        </h3>
+    </div>
+    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#avantage">
+        <div class="card-body">
+            The data center is located in Canada.
+        </div>
+    </div>
+</div>";}}

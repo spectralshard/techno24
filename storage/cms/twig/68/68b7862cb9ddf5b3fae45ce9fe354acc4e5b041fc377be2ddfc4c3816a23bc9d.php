@@ -78,41 +78,45 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
         echo "\">Microsoft 365</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
         // line 23
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("office365backup");
+        echo "\">Office 365 Backup</a>
+\t\t\t\t\t<a class=\"dropdown-item\" href=\"";
+        // line 24
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("aide-distance");
         echo "\">";
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Aide à distance"]);
         echo "</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 24
+        // line 25
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("bitdefender");
         echo "\">BitDefender</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 25
+        // line 26
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("hosting");
         echo "\">";
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Hébergement Web"]);
         echo "</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 26
+        // line 27
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("ssl");
         echo "\">SSL</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 27
+        // line 28
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("office365");
         echo "#msazure\">Microsoft Azure</a>
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 28
+        // line 29
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("zerospam");
         echo "\">ZéroSpam</a>
 \t\t\t\t</div>
 \t\t\t</li>
 \t\t\t<li class=\"nav-item\">
 \t\t\t\t<a class=\"nav-link\" href=\"";
-        // line 32
+        // line 33
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("blog/blogList");
         echo "\">
 \t\t\t\t\t<strong>";
-        // line 33
+        // line 34
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["NOUVELLES"]);
         echo "</strong></a>
 \t\t\t</li>
@@ -120,13 +124,19 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t<a class=\"nav-link dropdown-toggle\" href=\"#\" role=\"button\"
 \t\t\t\t   data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
 \t\t\t\t\t<strong>";
-        // line 38
+        // line 39
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["À PROPOS"]);
         echo "</strong>
 \t\t\t\t</a>
 \t\t\t\t<div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">
 \t\t\t\t\t<a class=\"dropdown-item\" href=\"";
-        // line 41
+        // line 42
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("about");
+        echo "\">";
+        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["À propos de nous"]);
+        echo "</a>
+\t\t\t\t\t<a class=\"dropdown-item\" href=\"";
+        // line 43
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("equipe");
         echo "\">";
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["L'équipe"]);
@@ -137,7 +147,7 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t<a class=\"nav-link dropdown-toggle\" href=\"#\" role=\"button\"
 \t\t\t\t   data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">
 \t\t\t\t\t<strong>";
-        // line 47
+        // line 49
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["COURRIEL WEB"]);
         echo "</strong>
 \t\t\t\t</a>
@@ -149,19 +159,19 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t</li>
 \t\t\t<li class=\"nav-item\">
 \t\t\t\t<a class=\"nav-link\" href=\"";
-        // line 56
+        // line 58
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("contact");
         echo "\">
 \t\t\t\t\t<strong>";
-        // line 57
+        // line 59
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["CONTACT"]);
         echo "</strong></a>
 \t\t\t</li>
 \t\t\t<li class=\"nav-item\">
 \t\t\t\t";
-        // line 60
+        // line 62
         if ((($context["lang"] ?? null) == "fr")) {
-            // line 61
+            // line 63
             echo "\t\t\t\t<a href=\"#\"
 \t\t\t\t   class=\"nav-link\"
 \t\t\t\t   data-request=\"onSwitchLocale\"
@@ -170,7 +180,7 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t</a>
 \t\t\t\t";
         } else {
-            // line 68
+            // line 70
             echo "\t\t\t\t<a href=\"#\"
 \t\t\t\t   class=\"nav-link\"
 \t\t\t\t   data-request=\"onSwitchLocale\"
@@ -179,11 +189,11 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 \t\t\t\t</a>
 \t\t\t\t";
         }
-        // line 75
+        // line 77
         echo "\t\t\t</li>
 \t\t\t<li class=\"nav-item pl-2 pt-1 d-none d-sm-block\">
 \t\t\t<a class=\"btn btn-secondary\" href=\"https://get.teamviewer.com/3max9aj\" target=\"_blank\">";
-        // line 77
+        // line 79
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Support à distance"]);
         echo "</a>
 \t\t\t</li>
@@ -205,7 +215,7 @@ class __TwigTemplate_90d0198b44d00b3e3205e34ea76cc2070c083f267bdd0e985fc50fe3d06
 
     public function getDebugInfo()
     {
-        return array (  187 => 77,  183 => 75,  174 => 68,  165 => 61,  163 => 60,  157 => 57,  153 => 56,  141 => 47,  130 => 41,  124 => 38,  116 => 33,  112 => 32,  105 => 28,  101 => 27,  97 => 26,  91 => 25,  87 => 24,  81 => 23,  77 => 22,  71 => 19,  63 => 14,  59 => 13,  45 => 4,  41 => 3,  37 => 1,);
+        return array (  197 => 79,  193 => 77,  184 => 70,  175 => 63,  173 => 62,  167 => 59,  163 => 58,  151 => 49,  140 => 43,  134 => 42,  128 => 39,  120 => 34,  116 => 33,  109 => 29,  105 => 28,  101 => 27,  95 => 26,  91 => 25,  85 => 24,  81 => 23,  77 => 22,  71 => 19,  63 => 14,  59 => 13,  45 => 4,  41 => 3,  37 => 1,);
     }
 
     public function getSourceContext()

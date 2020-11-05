@@ -1,0 +1,76 @@
+title = "Office 365 Backup"
+url = "/office-365-backup"
+layout = "default"
+meta_title = "Office 365 Backup - Hébergement site web"
+meta_description = "Saviez-vous qu’une sauvegarde cloud Office 365 n’en fait pas partie? Éliminez tout risque de perte ou de corruption avec Office 365 Backup."
+is_hidden = 0
+
+[portfolio produit_bitdefender]
+category = 7
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = 404
+itemPage = 404
+tagListPage = 404
+
+[viewBag]
+localeMeta_title[en] = "Office 365 Backup - Web Hosting"
+localeMeta_description[en] = "Did you know that a secure Office 365 backup is not amongst them? Eliminate all data loss and corruption risks with a top-of-the-line Office 365 Backup. "
+==
+<section id="office" class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    Office 365 Backup
+                </h1>
+            </div>
+        </div>
+        {% partial '/office365-backup/intro' %}
+    </div>
+</section>
+<section id="founctions" class="primary-color my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Sauvegarde pour vos données cloud'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% content '/p-office365-backup/c-features' %}
+        </div>
+    </div>
+</section>
+<section id="features" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Les Avantages'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% partial '/office365-backup/avantage' %}
+        </div>
+    </div>
+</section>
+<section id="price" class="primary-color py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Forfaits Office 365 Backup'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
+    </div>
+</section>

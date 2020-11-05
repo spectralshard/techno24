@@ -1,0 +1,128 @@
+1604597106a:1:{s:19:"office365backup.htm";a:12:{s:8:"fileName";s:19:"office365backup.htm";s:7:"content";s:2394:"title = "Office 365 Backup"
+url = "/office-365-backup"
+layout = "default"
+meta_title = "Office 365 Backup - Hébergement site web"
+is_hidden = 0
+
+[portfolio produit_bitdefender]
+category = 7
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = 404
+itemPage = 404
+tagListPage = 404
+
+[viewBag]
+localeMeta_title[en] = "Office 365 Backup - Web Hosting"
+localeMeta_description[en] = "Manage your business more easily - Microsoft 365 (office 365). Get everything you need to do your jobs. With or without messaging."
+==
+<section id="office" class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    Office 365 Backup
+                </h1>
+            </div>
+        </div>
+        {% partial '/office365-backup/intro' %}
+    </div>
+</section>
+<section id="founctions" class="primary-color my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Sauvegarde pour vos données cloud'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% content '/p-office365-backup/c-features' %}
+        </div>
+    </div>
+</section>
+<section id="features" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Les Avantages'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% partial '/office365-backup/avantage' %}
+        </div>
+    </div>
+</section>
+<section id="price" class="primary-color py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Forfaits Office 365 Backup'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1604595449;s:6:"markup";s:1768:"<section id="office" class="my-4">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="h1-responsive text-secondary">
+                    Office 365 Backup
+                </h1>
+            </div>
+        </div>
+        {% partial '/office365-backup/intro' %}
+    </div>
+</section>
+<section id="founctions" class="primary-color my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Sauvegarde pour vos données cloud'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% content '/p-office365-backup/c-features' %}
+        </div>
+    </div>
+</section>
+<section id="features" class="my-4 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-secondary wow fadeInUp">
+                    {{ 'Les Avantages'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% partial '/office365-backup/avantage' %}
+        </div>
+    </div>
+</section>
+<section id="price" class="primary-color py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Forfaits Office 365 Backup'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:17:"Office 365 Backup";s:3:"url";s:18:"/office-365-backup";s:6:"layout";s:7:"default";s:10:"meta_title";s:41:"Office 365 Backup - Hébergement site web";s:9:"is_hidden";s:1:"0";s:29:"portfolio produit_bitdefender";a:9:{s:8:"category";s:1:"7";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:3:"404";s:8:"itemPage";s:3:"404";s:11:"tagListPage";s:3:"404";}s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"en";s:31:"Office 365 Backup - Web Hosting";}s:22:"localeMeta_description";a:1:{s:2:"en";s:130:"Manage your business more easily - Microsoft 365 (office 365). Get everything you need to do your jobs. With or without messaging.";}}}}

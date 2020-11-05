@@ -1,15 +1,15 @@
-1596477610a:1:{s:8:"home.htm";a:15:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:3954:"title = "Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
+1604597150a:1:{s:8:"home.htm";a:15:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:4025:"title = "Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
 url = "/"
 layout = "default"
-meta_title = "Hébergement site WEB, serveurs dédiés, cloud, domaine"
-meta_description = "Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
+meta_title = "Hébergement site WEB, serveurs dédiés, cloud, domaine et Microsoft 365"
+meta_description = "Techno24, spécialiste de l’hébergement Web et de Microsoft 365 offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
 is_hidden = 0
 
 [viewBag]
-localeTitle[en] = "Web Hosting, Dedicated server in Montreal, Domain, Cloud"
+localeTitle[en] = "Web Hosting, Dedicated server in Montreal, Domain, Cloud & Microsoft 365"
 localeUrl[en] = "/"
-localeMeta_title[en] = "Web Hosting, Dedicated server in Montreal, Domain, Cloud"
-localeMeta_description[en] = "Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates ang Google APPS. 24/7 technical support"
+localeMeta_title[en] = "Web Hosting, Dedicated server in Montreal, Domain, Cloud & Microsoft 365"
+localeMeta_description[en] = "Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates and Microsoft 365. 24/7 technical support"
 
 [testimonials myTestimonials]
 backgroundColor = "#FFFFFF"
@@ -109,7 +109,7 @@ postPage = "blog/article"
         </div>
             {% component 'myTestimonials' %}
     </div>
-</section>";s:5:"mtime";i:1588089166;s:6:"markup";s:2598:"<div class="jumbotron hero-home">
+</section>";s:5:"mtime";i:1598549708;s:6:"markup";s:2598:"<div class="jumbotron hero-home">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
@@ -184,4 +184,4 @@ postPage = "blog/article"
         </div>
             {% component 'myTestimonials' %}
     </div>
-</section>";s:4:"code";N;s:5:"title";s:160:"Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:10:"meta_title";s:56:"Hébergement site WEB, serveurs dédiés, cloud, domaine";s:16:"meta_description";s:160:"Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:56:"Web Hosting, Dedicated server in Montreal, Domain, Cloud";}s:9:"localeUrl";a:1:{s:2:"en";s:1:"/";}s:16:"localeMeta_title";a:1:{s:2:"en";s:56:"Web Hosting, Dedicated server in Montreal, Domain, Cloud";}s:22:"localeMeta_description";a:1:{s:2:"en";s:130:"Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates ang Google APPS. 24/7 technical support";}}s:27:"testimonials myTestimonials";a:2:{s:15:"backgroundColor";s:7:"#FFFFFF";s:9:"textColor";s:7:"#F39000";}s:22:"portfolio produit_home";a:9:{s:8:"category";s:1:"4";s:12:"itemsPerPage";s:1:"3";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:12:"blog/article";s:8:"itemPage";s:12:"blog/article";s:11:"tagListPage";s:12:"blog/article";}s:26:"blogPosts lastestBlogEntry";a:6:{s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:1:"2";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:15:"blog/categories";s:8:"postPage";s:12:"blog/article";}}}
+</section>";s:4:"code";N;s:5:"title";s:160:"Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:10:"meta_title";s:73:"Hébergement site WEB, serveurs dédiés, cloud, domaine et Microsoft 365";s:16:"meta_description";s:180:"Techno24, spécialiste de l’hébergement Web et de Microsoft 365 offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:72:"Web Hosting, Dedicated server in Montreal, Domain, Cloud & Microsoft 365";}s:9:"localeUrl";a:1:{s:2:"en";s:1:"/";}s:16:"localeMeta_title";a:1:{s:2:"en";s:72:"Web Hosting, Dedicated server in Montreal, Domain, Cloud & Microsoft 365";}s:22:"localeMeta_description";a:1:{s:2:"en";s:132:"Web Hosting, Dedicated server in Montreal, MAC mini, Domain names, Email, SSL Certificates and Microsoft 365. 24/7 technical support";}}s:27:"testimonials myTestimonials";a:2:{s:15:"backgroundColor";s:7:"#FFFFFF";s:9:"textColor";s:7:"#F39000";}s:22:"portfolio produit_home";a:9:{s:8:"category";s:1:"4";s:12:"itemsPerPage";s:1:"3";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:12:"blog/article";s:8:"itemPage";s:12:"blog/article";s:11:"tagListPage";s:12:"blog/article";}s:26:"blogPosts lastestBlogEntry";a:6:{s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:1:"2";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:15:"blog/categories";s:8:"postPage";s:12:"blog/article";}}}

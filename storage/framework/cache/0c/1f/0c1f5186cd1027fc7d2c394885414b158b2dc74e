@@ -1,0 +1,25 @@
+1604510856a:1:{s:23:"/produits/p-msazure.htm";a:5:{s:8:"fileName";s:23:"/produits/p-msazure.htm";s:7:"content";s:460:"<div class="row my-5">
+    <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+        <div class="secondary-shadow">
+            <img class="img-fluid mx-auto d-block wow fadeInLeft"
+                 src="{{ 'assets/images/ms-azure-portal.png'|theme }}"
+                 data-holder-rendered="true">
+        </div>
+    </div>
+    <div class="col"></div>
+    <div class="col-sm-12 col-lg-5 wow fadeInUp">
+        {% content '/produits/c-azure' %}
+    </div>
+</div>";s:5:"mtime";i:1572645675;s:6:"markup";s:460:"<div class="row my-5">
+    <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+        <div class="secondary-shadow">
+            <img class="img-fluid mx-auto d-block wow fadeInLeft"
+                 src="{{ 'assets/images/ms-azure-portal.png'|theme }}"
+                 data-holder-rendered="true">
+        </div>
+    </div>
+    <div class="col"></div>
+    <div class="col-sm-12 col-lg-5 wow fadeInUp">
+        {% content '/produits/c-azure' %}
+    </div>
+</div>";s:4:"code";N;}}
