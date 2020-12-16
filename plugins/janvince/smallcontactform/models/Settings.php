@@ -207,6 +207,7 @@ class Settings extends Model
         'label' => true,
         'wrapper_class' => 'form-group',
         'field_class' => 'form-control',
+        'use_name_attribute' => true,
         'attributes' => [
           'type' => 'text',
         ],
@@ -218,6 +219,7 @@ class Settings extends Model
         'label' => true,
         'wrapper_class' => 'form-group',
         'field_class' => 'form-control',
+        'use_name_attribute' => true,
         'attributes' => [
           'type' => 'email',
         ],
@@ -229,6 +231,7 @@ class Settings extends Model
         'label' => true,
         'wrapper_class' => 'form-group',
         'field_class' => 'form-control',
+        'use_name_attribute' => true,
         'attributes' => [
           'rows' => 5,
         ],
@@ -241,9 +244,9 @@ class Settings extends Model
         'wrapper_class' => null,
         'field_class' => null,
         'inner_label' => true,
+        'use_name_attribute' => true,
         'attributes' => [
           'type' => 'checkbox',
-          'value' => 1,
         ],
         'html_close' => null,
       ],
@@ -254,9 +257,34 @@ class Settings extends Model
         'wrapper_class' => 'form-group',
         'field_class' => 'form-control',
         'inner_label' => false,
+        'use_name_attribute' => true,
         'attributes' => [
         ],
         'html_close' => 'select',
+      ],
+
+      'custom_code' => [
+        'html_open' => "div",
+        'label' => true,
+        'wrapper_class' => null,
+        'field_class' => null,
+        'inner_label' => false,
+        'use_name_attribute' => false,
+        'attributes' => [
+        ],
+        'html_close' => "div",
+      ],
+
+      'custom_content' => [
+        'html_open' => "div",
+        'label' => true,
+        'wrapper_class' => null,
+        'field_class' => null,
+        'inner_label' => false,
+        'use_name_attribute' => false,
+        'attributes' => [
+        ],
+        'html_close' => "div",
       ],
 
     ];

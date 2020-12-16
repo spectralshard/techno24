@@ -38,7 +38,7 @@ abstract class ComponentAbstract extends ComponentBase
      * @param Controller $controller
      * @param array $modelUrlParams
      */
-    public function setUrls(
+    protected function setUrls(
         Collection $items,
         string $urlPage,
         Controller $controller,
@@ -56,37 +56,32 @@ abstract class ComponentAbstract extends ComponentBase
      *
      * @param ArrayAccess $posts
      */
-    public function setPostUrls(ArrayAccess $posts)
+    protected function setPostUrls(ArrayAccess $posts)
     {
         // Add a "url" helper attribute for linking to each post and category
         if (!empty($this->postPage) && $posts && $posts->count()) {
-            $blogPostComponent = $this->getComponent('blogPost', $this->postPage);
-            $blogPostsComponent = $this->getComponent('blogPosts', $this->categoryPage ?? '');
-
-            $posts->each(function($post) use ($blogPostComponent, $blogPostsComponent) {
-                /** @var Post $post */
-                $post->setUrl(
-                    $this->postPage,
-                    $this->controller,
-                    [
-                        'slug' => $this->urlProperty($blogPostComponent, 'slug')
-                    ]
-                );
+            $posts->each(function ($post) {
+                $this->setPostUrl($post);
 
                 if (!empty($this->categoryPage) && $post->categories->count()) {
-                    $post->categories->each(function ($category) use ($blogPostsComponent) {
+                    $post->categories->each(function ($category) {
                         /** @var Category $category */
                         $category->setUrl(
                             $this->categoryPage,
-                            $this->controller,
-                            [
-                                'slug' => $this->urlProperty($blogPostsComponent, 'categoryFilter')
-                            ]
+                            $this->controller
                         );
                     });
                 }
             });
         }
+    }
+
+    protected function setPostUrl(Post $post)
+    {
+        $post->setUrl(
+            $this->postPage,
+            $this->controller
+        );
     }
 
     /**

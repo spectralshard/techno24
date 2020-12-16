@@ -187,6 +187,7 @@ tabs:
             prompt: 'janvince.smallcontactform::lang.settings.form_fields.prompt'
             span: full
             type: repeater
+            style: collapsed
             tab: 'janvince.smallcontactform::lang.settings.tabs.form_fields'
             form:
                 fields:
@@ -215,6 +216,7 @@ tabs:
                         prompt: 'janvince.smallcontactform::lang.settings.form_fields.add_values_prompt'
                         span: full
                         type: repeater
+                        style: collapsed
                         cssClass: field-indent
                         trigger:
                             action: show
@@ -231,6 +233,58 @@ tabs:
                                     label: 'janvince.smallcontactform::lang.settings.form_fields.field_value_content'
                                     type: text
 
+                    field_custom_code:
+                        span: full
+                        label: 'janvince.smallcontactform::lang.settings.form_fields.custom_code'
+                        comment: 'janvince.smallcontactform::lang.settings.form_fields.custom_code_comment'
+                        type: codeeditor
+                        size: large
+                        cssClass: field-indent
+                        trigger:
+                            action: show
+                            field: type
+                            condition: value[custom_code]
+
+                    field_custom_code_twig:
+                        span: left
+                        label: 'janvince.smallcontactform::lang.settings.form_fields.custom_code_twig'
+                        comment: 'janvince.smallcontactform::lang.settings.form_fields.custom_code_twig_comment'
+                        type: checkbox
+                        cssClass: field-indent
+                        trigger:
+                            action: show
+                            field: type
+                            condition: value[custom_code]
+
+                    field_custom_code_line:
+                        span: full
+                        type: section
+                        cssClass: field-indent
+                        trigger:
+                            action: show
+                            field: type
+                            condition: value[custom_code]
+
+                    field_custom_content:
+                        span: full
+                        label: 'janvince.smallcontactform::lang.settings.form_fields.custom_content'
+                        comment: 'janvince.smallcontactform::lang.settings.form_fields.custom_content_comment'
+                        type: richeditor
+                        size: large
+                        cssClass: field-indent
+                        trigger:
+                            action: show
+                            field: type
+                            condition: value[custom_content]
+
+                    field_custom_content_section:
+                        span: full
+                        type: section
+                        cssClass: field-indent
+                        trigger:
+                            action: show
+                            field: type
+                            condition: value[custom_content]
 
                     field_styling:
                         label: 'janvince.smallcontactform::lang.settings.form_fields.field_styling'
@@ -301,6 +355,7 @@ tabs:
                         prompt: 'janvince.smallcontactform::lang.settings.form_fields.validation_prompt'
                         span: full
                         type: repeater
+                        style: collapsed
                         cssClass: field-indent
                         trigger:
                             action: show
@@ -652,6 +707,18 @@ tabs:
             span: right
             type: text
             placeholder: 'janvince.smallcontactform::lang.settings.email.address_from_name_placeholder'
+            tab: 'janvince.smallcontactform::lang.settings.tabs.email'
+            cssClass: field-indent
+            trigger:
+                action: show
+                field: allow_autoreply
+                condition: checked
+
+        email_address_replyto:
+            label: 'janvince.smallcontactform::lang.settings.email.address_replyto'
+            span: left
+            type: text
+            placeholder: 'janvince.smallcontactform::lang.settings.email.address_from_placeholder'
             tab: 'janvince.smallcontactform::lang.settings.tabs.email'
             cssClass: field-indent
             trigger:

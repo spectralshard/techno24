@@ -1,4 +1,4 @@
-1604597150a:1:{s:21:"mypartner/default.htm";a:5:{s:8:"fileName";s:21:"mypartner/default.htm";s:7:"content";s:869:"{% if partners %}
+1608102110a:1:{s:21:"mypartner/default.htm";a:5:{s:8:"fileName";s:21:"mypartner/default.htm";s:7:"content";s:869:"{% if partners %}
 <div class="partner-slider slider"
      style="background-color: {{ __SELF__.property('backgroundColor') }};padding: 30px 0;">
     {% for partner in partners %}

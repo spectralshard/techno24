@@ -113,7 +113,7 @@ You have some options to control redirection after form is successfully sent:
 
 * In main form settings you can allow redirection and set fixed URL (internal or external)
 * In component properties (on CMS Page or Layout) you can override main redirection settings for a specific form
-* You can add a dynamic redirect URL as a markup parameter eg. `{% component 'contactForm' redirectUrl = ('/success#'~this.page.id) %}`
+* You can add a dynamic redirect URL as a markup parameter eg. `{% component 'contactForm' redirect_url = ('/success#'~this.page.id) %}`
 
 > If you use markup parameter do not forget to allow form redirection in form main settings or (rather) in component parameters ! There is no markup parametr to allow redirection.
 
@@ -133,6 +133,9 @@ When dropdown is selected there will be values/options repeater shown. You can a
 
 > Hint: you can add dropdown empty option by adding a value with empty ID.
 
+You can also use **Custom code** and have complete control of generated code.
+
+There is also a **Custom content** field to add formated content in place of a field.
 
 #### Field data validation
 
@@ -210,7 +213,8 @@ Email can be send to form sender as confirmation.
 * You have to enter email address and name - it will be used as FROM field
 * Email subject can be manually added here (or edited in *Settings > Mail > Mail templates (code: janvince.smallcontactform::mail.autoreply)*)
 * Email TO address and name have to be assigned to form fields (in selections only corresponding field types are shown - if you don't see one, try to check it's type in Fields tab)
- * Message field can be also assigned (and will be saved separately into database)
+* Email REPLY TO address can be set
+* Message field can be also assigned (and will be saved separately into database)
 
 #### Allow notifications
 
@@ -244,7 +248,9 @@ You can create your own email templates in *Settings > Mail > Mail templates* 
 
 Remember your email templates CODE and put in in Small Contact form email settings in *Settings > Small plugins > Contact form > Email tab*. For each language there can be specific template.
 
-There is ````{{fields}}```` array available inside of email templates.
+There are `{{fields}}` and `{{fieldsDetails}}` arrays available inside of email templates.
+
+You can also use `{{url}}` variable to get original request URL.
 
 *If your custom form field has name eg. 'email', you use it in template with ````{{fields.email}}````.*
 
@@ -386,7 +392,19 @@ disable_autoreply = true
 
 ## HOWTO
 
-#### Add an empty option to dropdown field
+### Fight SPAM
+
+#### Prohibit sending URLs in a (message) field.
+
+* Use Custom rule
+* Add your validation error text
+* Use validation rule: `custom_not_regex`
+* Use validation: `/(http|https|ftp|ftps)\:\/\/?/`
+
+![Custom regex to prevent sending URLs](https://www.vince.cz/storage/app/media/OctoberCMS/scf-custom-regex-urls.png)
+
+
+### Add an empty option to dropdown field
 
 You can easily add an empty option with empty ID and some value.
 

@@ -14,6 +14,7 @@ use Flash;
 use Form;
 use Log;
 use App;
+use Twig;
 
 class SmallContactForm extends ComponentBase
 {
@@ -145,6 +146,13 @@ class SmallContactForm extends ComponentBase
                 'default'     => null,
                 'group'       => 'janvince.smallcontactform::lang.components.groups.override_autoreply',
             ],
+            'autoreply_address_replyto'      => [
+              'title'       => 'janvince.smallcontactform::lang.components.properties.autoreply_address_replyto',
+              'description' => 'janvince.smallcontactform::lang.components.properties.autoreply_address_replyto_comment',
+              'type'        => 'string',
+              'default'     => null,
+              'group'       => 'janvince.smallcontactform::lang.components.groups.override_autoreply',
+            ],
             'autoreply_template'      => [
                 'title'       => 'janvince.smallcontactform::lang.components.properties.autoreply_template',
                 'description' => 'janvince.smallcontactform::lang.components.properties.autoreply_template_comment',
@@ -260,7 +268,7 @@ class SmallContactForm extends ComponentBase
    * Form handler
    */
   public function onFormSend(){
-    
+
     /**
      * Validation
      */
@@ -373,6 +381,9 @@ class SmallContactForm extends ComponentBase
 
       }
 
+      // Fill hidden fields if request has errors to maintain
+      $this->formDescriptionOverride = post('_form_description');
+      $this->formRedirectOverride = post('_form_redirect');
 
     } else {
 
@@ -418,6 +429,15 @@ class SmallContactForm extends ComponentBase
 
       }
 
+      /**
+       * Keep properties overrides after Ajax request (onRender method is not called)
+       */
+      if (Request::ajax()) {
+
+        $this->formDescriptionOverride = post('_form_description');
+        $this->formRedirectOverride = post('_form_redirect');
+
+      }
 
       /**
        *  Redirects
@@ -572,6 +592,16 @@ class SmallContactForm extends ComponentBase
     $fieldType = Settings::getFieldTypes($fieldSettings['type']);
     $fieldRequired = $this->isFieldRequired($fieldSettings);
 
+    // If there is a custom code, return it only
+    if( !empty($fieldSettings['type']) and $fieldSettings['type'] == 'custom_code' and !empty($fieldSettings['field_custom_code']) ) {
+
+      if( !empty($fieldSettings['field_custom_code_twig']) ) {
+        return(Twig::parse($fieldSettings['field_custom_code']));
+      } else {
+        return($fieldSettings['field_custom_code']);
+      }
+    }
+
     $output = [];
 
     $wrapperCss = ( $fieldSettings['wrapper_css'] ? $fieldSettings['wrapper_css'] : $fieldType['wrapper_class'] );
@@ -594,7 +624,7 @@ class SmallContactForm extends ComponentBase
       }
 
       // Label as container
-      if( empty($fieldType['label']) ){
+      if( !empty($fieldSettings['label']) and empty($fieldType['label']) ){
         $output[] = '<label class="' . ( !empty($fieldSettings['label_css']) ? $fieldSettings['label_css'] : '' ) . '">';
       }
 
@@ -607,9 +637,18 @@ class SmallContactForm extends ComponentBase
       // Field attributes
       $attributes = [
         'id' => $this->alias . '-' . $fieldSettings['name'],
-        'name' => $fieldSettings['name'],
-        'class' => ($fieldSettings['field_css'] ? $fieldSettings['field_css'] : $fieldType['field_class'] ),
+        'class' => null
       ];
+
+      $tagClass = $fieldSettings['field_css'] ? $fieldSettings['field_css'] : $fieldType['field_class'];
+
+      if(!empty($tagClass)) {
+        $attributes['class'] = $tagClass;
+      }
+
+      if(!empty($fieldType['use_name_attribute'])) {
+        $attributes['name'] = $fieldSettings['name'];
+      }
 
       if ( !empty($this->postData[$fieldSettings['name']]['value']) && empty($fieldType['html_close']) ) {
 
@@ -683,12 +722,17 @@ class SmallContactForm extends ComponentBase
         $output[] = Settings::getDictionaryTranslated($fieldSettings['label']);
       }
 
+      // If there is a custom content
+      if (!empty($fieldSettings['type']) and $fieldSettings['type'] == 'custom_content' and !empty($fieldSettings['field_custom_content'])) {
+        $output[] = $fieldSettings['field_custom_content'];
+      }
+
       if(!empty($fieldType['html_close'])){
         $output[] = '</' . $fieldType['html_close'] . '>';
       }
 
       // Label as container
-      if( empty($fieldType['label']) ){
+      if( !empty($fieldSettings['label']) and empty($fieldType['label']) ){
         $output[] = '</label>';
       }
 

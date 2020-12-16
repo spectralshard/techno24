@@ -1,4 +1,4 @@
-1604597150a:1:{s:8:"home.htm";a:15:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:4025:"title = "Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
+1608102067a:1:{s:8:"home.htm";a:15:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:4024:"title = "Techno24, spécialiste de l’hébergement Web offrant un soutien hors pair pour tous vos besoins de communication numérique. Serveurs dédiés, cloud, domaine"
 url = "/"
 layout = "default"
 meta_title = "Hébergement site WEB, serveurs dédiés, cloud, domaine et Microsoft 365"
@@ -79,7 +79,7 @@ postPage = "blog/article"
                     </div>
                 </div>
                 <div class="col-sm-12 col-lg-6 text-white wow fadeInUp">
-                    {% content '/home/c-about' %}
+                    {% content 'home/c-about' %}
                 </div>
         </div>
     </div>
@@ -109,7 +109,7 @@ postPage = "blog/article"
         </div>
             {% component 'myTestimonials' %}
     </div>
-</section>";s:5:"mtime";i:1598549708;s:6:"markup";s:2598:"<div class="jumbotron hero-home">
+</section>";s:5:"mtime";i:1608100845;s:6:"markup";s:2597:"<div class="jumbotron hero-home">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
@@ -154,7 +154,7 @@ postPage = "blog/article"
                     </div>
                 </div>
                 <div class="col-sm-12 col-lg-6 text-white wow fadeInUp">
-                    {% content '/home/c-about' %}
+                    {% content 'home/c-about' %}
                 </div>
         </div>
     </div>

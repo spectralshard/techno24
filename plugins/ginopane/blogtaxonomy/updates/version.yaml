@@ -1,3 +1,18 @@
+2.6.1:
+  - Removed usage of 'void' return type to support old PHP versions
+
+2.6.0:
+  - Added 'include tagged posts' option for the posts-in-series component
+
+2.5.0:
+  - Related posts can now be additionally filtered by post and/or category
+
+2.4.0:
+  - Added ability to pass series slug into post URLs via the posts-in-series component
+
+2.3.1:
+  - Fixed post URLs broken by Rainlab Blog 1.4.3
+
 2.3.0:
   - Added status support for series
   - Added possibility to delete series from the series list page

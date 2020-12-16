@@ -198,3 +198,30 @@
     - Added German translation (thanks NiklasDah)
 1.46.0:
     - Fixed backend validation for reCaptcha invisible
+1.47.0:
+    - Added Custom code and Custom content field types
+    - Updated README
+1.47.1:
+    - Fixed typo in README (wrong component redirection parameter name)
+1.47.2:
+    - Fixed checkbox validation (thanks Chocofede)
+1.47.3:
+    - Removed unnecessarry name attribute from custom_content field
+1.47.4:
+    - Fixed typo in field attributes
+1.48.0:
+    - Added option to set ReplyTo email address for autoreply emails
+1.48.1:
+    - Fixed autoreply email addresses checks
+1.48.2:
+    - Fixed empty ReplyTo field error
+1.48.3:
+    - Fixed getFieldHtmlCode method (thanks sdlb)
+1.49.0:
+    - Fixed missing description and redirect url after AJAX calls
+    - Fields forms in backend are now collapsed by default for better visibility
+1.50.0:
+    - Auto store form request URL in DB (is available also in Mail templates)
+    - scf_tables_04.php
+1.50.1:
+    - Removed unnecessarry debug log

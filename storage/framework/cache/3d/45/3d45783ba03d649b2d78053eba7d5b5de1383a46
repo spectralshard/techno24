@@ -1,4 +1,4 @@
-1604597150a:1:{s:19:"blog/categories.htm";a:13:{s:8:"fileName";s:19:"blog/categories.htm";s:7:"content";s:1416:"title = "Catégories"
+1608102000a:1:{s:19:"blog/categories.htm";a:13:{s:8:"fileName";s:19:"blog/categories.htm";s:7:"content";s:1416:"title = "Catégories"
 url = "/blogue/categorie/:slug/:page?"
 layout = "default"
 meta_description = "Dans le blogue de Techno24, vous retrouvez des trucs et astuces pour mieux gérer votre site Web hébergé sur nos serveurs cloud."
