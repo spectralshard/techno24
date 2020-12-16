@@ -1,4 +1,4 @@
-1595343680a:1:{s:12:"zerospam.htm";a:12:{s:8:"fileName";s:12:"zerospam.htm";s:7:"content";s:1112:"title = "ZéroSpam, sécurité courriel complète de haute précision"
+1608102287a:1:{s:12:"zerospam.htm";a:12:{s:8:"fileName";s:12:"zerospam.htm";s:7:"content";s:1111:"title = "ZéroSpam, sécurité courriel complète de haute précision"
 url = "/zerospam"
 layout = "default"
 meta_title = "ZéroSpam, sécurité courriel complète de haute précision"
@@ -27,9 +27,9 @@ $this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
                 </h1>
             </div>
         </div>
-        {% partial '/zerospam/intro' %}
+        {% partial 'zerospam/intro' %}
     </div>
-</section>";s:5:"mtime";i:1591121091;s:6:"markup";s:385:"<section class="my-4">
+</section>";s:5:"mtime";i:1608101678;s:6:"markup";s:384:"<section class="my-4">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -38,7 +38,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
                 </h1>
             </div>
         </div>
-        {% partial '/zerospam/intro' %}
+        {% partial 'zerospam/intro' %}
     </div>
 </section>";s:4:"code";s:96:"function onEnd()
 {

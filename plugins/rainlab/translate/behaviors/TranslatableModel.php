@@ -33,7 +33,7 @@ class TranslatableModel extends TranslatableBehavior
 
     /**
      * Applies a translatable index to a basic query. This scope will join the index
-     * table and cannot be executed more than once.
+     * table and can be executed neither more than once, nor with scopeTransOrder.
      * @param  Builder $query
      * @param  string $index
      * @param  string $value
@@ -46,27 +46,72 @@ class TranslatableModel extends TranslatableBehavior
             $locale = $this->translatableContext;
         }
 
-        $query->select($this->model->getTable().'.*');
+        // Separate query into two separate queries for improved performance
+        // @see https://github.com/rainlab/translate-plugin/pull/623
+        $translateIndexes = Db::table('rainlab_translate_indexes')
+            ->where('rainlab_translate_indexes.model_type', '=', $this->getClass())
+            ->where('rainlab_translate_indexes.locale', '=', $locale)
+            ->where('rainlab_translate_indexes.item', $index)
+            ->where('rainlab_translate_indexes.value', $operator, $value)
+            ->pluck('model_id');
 
-        $query->where(function($q) use ($index, $value, $operator) {
-            $q->where($this->model->getTable().'.'.$index, $operator, $value);
-            $q->orWhere(function($q) use ($index, $value, $operator) {
-                $q
-                    ->where('rainlab_translate_indexes.item', $index)
-                    ->where('rainlab_translate_indexes.value', $operator, $value)
-                ;
-            });
-        });
+        if ($translateIndexes->count()) {
+            $query->whereIn($this->model->getQualifiedKeyName(), $translateIndexes);
+        } else {
+            $query->where($index, $operator, $value);
+        }
 
-        // This join will crap out if this scope executes twice, it is a known issue.
-        // It should check if the join exists before applying it, this mechanism was
-        // not found in Laravel. So options are block joins entirely or allow once.
-        $query->leftJoin('rainlab_translate_indexes', function($join) use ($locale) {
+        return $query;
+    }
+
+    /**
+     * Applies a sort operation with a translatable index to a basic query. This scope will join the index table.
+     * @param  Builder $query
+     * @param  string $index
+     * @param  string $direction
+     * @param  string $locale
+     * @return Builder
+     */
+    public function scopeTransOrderBy($query, $index, $direction = 'asc', $locale = null)
+    {
+        if (!$locale) {
+            $locale = $this->translatableContext;
+        }
+        $indexTableAlias = 'rainlab_translate_indexes_' . $index . '_' . $locale;
+
+        $query->select(
+            $this->model->getTable().'.*',
+            Db::raw('COALESCE(' . $indexTableAlias . '.value, '. $this->model->getTable() .'.'.$index.') AS translate_sorting_key')
+        );
+
+        $query->orderBy('translate_sorting_key', $direction);
+
+        $this->joinTranslateIndexesTable($query, $locale, $index, $indexTableAlias);
+
+        return $query;
+    }
+
+    /**
+     * Joins the translatable indexes table to a query.
+     * @param  Builder $query
+     * @param  string $locale
+     * @param  string $indexTableAlias
+     * @return Builder
+     */
+    protected function joinTranslateIndexesTable($query, $locale, $index, $indexTableAlias)
+    {
+        $joinTableWithAlias = 'rainlab_translate_indexes as ' . $indexTableAlias;
+        // check if table with same name and alias is already joined
+        if (collect($query->getQuery()->joins)->contains('table', $joinTableWithAlias)) {
+            return $query;
+        }
+
+        $query->leftJoin($joinTableWithAlias, function($join) use ($locale, $index, $indexTableAlias) {
             $join
-                ->on(Db::raw(DbDongle::cast($this->model->getQualifiedKeyName(), 'TEXT')), '=', 'rainlab_translate_indexes.model_id')
-                ->where('rainlab_translate_indexes.model_type', '=', $this->getClass())
-                ->where('rainlab_translate_indexes.locale', '=', $locale)
-            ;
+                ->on(Db::raw(DbDongle::cast($this->model->getQualifiedKeyName(), 'TEXT')), '=', $indexTableAlias . '.model_id')
+                ->where($indexTableAlias . '.model_type', '=', $this->getClass())
+                ->where($indexTableAlias . '.item', '=', $index)
+                ->where($indexTableAlias . '.locale', '=', $locale);
         });
 
         return $query;

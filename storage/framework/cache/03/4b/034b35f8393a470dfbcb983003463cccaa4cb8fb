@@ -1,4 +1,4 @@
-1595343680a:1:{s:7:"ssl.htm";a:13:{s:8:"fileName";s:7:"ssl.htm";s:7:"content";s:2608:"title = "Protégez votre site Web avec un certificat SSL"
+1608102199a:1:{s:7:"ssl.htm";a:13:{s:8:"fileName";s:7:"ssl.htm";s:7:"content";s:2605:"title = "Protégez votre site Web avec un certificat SSL"
 url = "/ssl"
 layout = "default"
 meta_title = "Protégez votre site Web avec un certificat SSL"
@@ -34,7 +34,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h1>
             </div>
         </div>
-        {% partial '/ssl/intro' %}
+        {% partial 'ssl/intro' %}
     </div>
 </section>
 <section id="pricing" class="primary-color py-5">
@@ -67,7 +67,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h2>
             </div>
         </div>
-            {% partial '/ssl/avantage' %}
+            {% partial 'ssl/avantage' %}
     </div>
 </section>
 <section id="about" class="mt-4 mb-0 py-5">
@@ -79,9 +79,9 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h2>
             </div>
         </div>
-        {% partial '/ssl/questions' %}
+        {% partial 'ssl/questions' %}
     </div>
-</section>";s:5:"mtime";i:1587753715;s:6:"markup";s:1849:"<section class="my-4">
+</section>";s:5:"mtime";i:1608101585;s:6:"markup";s:1846:"<section class="my-4">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -90,7 +90,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h1>
             </div>
         </div>
-        {% partial '/ssl/intro' %}
+        {% partial 'ssl/intro' %}
     </div>
 </section>
 <section id="pricing" class="primary-color py-5">
@@ -123,7 +123,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h2>
             </div>
         </div>
-            {% partial '/ssl/avantage' %}
+            {% partial 'ssl/avantage' %}
     </div>
 </section>
 <section id="about" class="mt-4 mb-0 py-5">
@@ -135,7 +135,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h2>
             </div>
         </div>
-        {% partial '/ssl/questions' %}
+        {% partial 'ssl/questions' %}
     </div>
 </section>";s:4:"code";s:107:"function onEnd()
 {

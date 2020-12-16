@@ -1,0 +1,72 @@
+1608102262a:1:{s:19:"produit/default.htm";a:6:{s:8:"fileName";s:19:"produit/default.htm";s:7:"content";s:1275:"==
+{% for item in __SELF__.portfolio %}
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+    <div class="card text-center">
+        <div class="card-header secondary-color">
+            <h3 class="h3-responsive text-white my-0">
+                {{ item.title }}
+            </h3>
+        </div>
+        <div class="card-header primary-color">
+            <h4 class="h4-responsive text-white mb-0">
+               <span class="label label-primary">{{ item.slug }}</span>
+            </h4>
+        </div>
+        <div class="card-body">
+            {% if item.images|length > 0 %}
+            <div>
+                {% set image = item.images.first %}
+                <a href="{{ item.pageUrl }}">
+                    <img src="{{ image.path }}" class="img-responsive" alt="{{ image.title }}">
+                </a>
+            </div>
+            {% endif %}
+            {% if item.description %}
+            <p>
+                {{ item.description|raw }}
+            </p>
+            {% endif %}
+        </div>
+        <div class="card-body text-right pt-0">
+            <a class="btn btn-secondary" href="{{ 'order'|page }}">
+                {{ 'Commander'|_ }}
+            </a>
+        </div>
+    </div>
+</div>
+{% endfor %}";s:5:"mtime";i:1574023121;s:6:"markup";s:1272:"{% for item in __SELF__.portfolio %}
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+    <div class="card text-center">
+        <div class="card-header secondary-color">
+            <h3 class="h3-responsive text-white my-0">
+                {{ item.title }}
+            </h3>
+        </div>
+        <div class="card-header primary-color">
+            <h4 class="h4-responsive text-white mb-0">
+               <span class="label label-primary">{{ item.slug }}</span>
+            </h4>
+        </div>
+        <div class="card-body">
+            {% if item.images|length > 0 %}
+            <div>
+                {% set image = item.images.first %}
+                <a href="{{ item.pageUrl }}">
+                    <img src="{{ image.path }}" class="img-responsive" alt="{{ image.title }}">
+                </a>
+            </div>
+            {% endif %}
+            {% if item.description %}
+            <p>
+                {{ item.description|raw }}
+            </p>
+            {% endif %}
+        </div>
+        <div class="card-body text-right pt-0">
+            <a class="btn btn-secondary" href="{{ 'order'|page }}">
+                {{ 'Commander'|_ }}
+            </a>
+        </div>
+    </div>
+</div>
+{% endfor %}";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

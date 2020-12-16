@@ -16,6 +16,31 @@ Types of changes
 
 ## [Unreleased]
 
+## 2.6.1 - 2020-11-11
+
+### Fixed
+* Removed usage of 'void' return type to support old PHP versions
+
+## 2.6.0 - 2020-11-09
+
+### Added
+* Added 'include tagged posts' option for the 'Posts in the Series' component
+
+## 2.5.0 - 2020-09-14
+
+### Added
+* Related posts can now be additionally filtered by post and/or category
+
+## 2.4.0 - 2020-09-03
+
+### Added
+* Added ability to pass series slug into post URLs via the 'Posts in the Series' component
+
+## 2.3.1 - 2020-08-21
+
+### Fixed
+* Fixed post URLs broken by Rainlab Blog 1.4.3
+
 ## 2.3.0 - 2020-06-11
 
 ### Added
@@ -235,4 +260,4 @@ Types of changes
 ### Features
 * The initial release of Blog Taxonomy.
 
-[Unreleased]: https://github.com/GinoPane/oc-blogtaxonomy-plugin/compare/v2.3.0...HEAD
+[Unreleased]: https://github.com/GinoPane/oc-blogtaxonomy-plugin/compare/v2.6.0...HEAD

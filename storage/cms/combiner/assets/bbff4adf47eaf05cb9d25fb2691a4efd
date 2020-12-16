@@ -38,21 +38,21 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('Big Shoulders Display Regular'), local('BigShouldersDisplay-Regular'), url(https://fonts.gstatic.com/s/bigshouldersdisplay/v1/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1syw.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/bigshouldersdisplay/v4/fC1_PZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1syw.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Big Shoulders Display';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: local('Big Shoulders Display Medium'), local('BigShouldersDisplay-Medium'), url(https://fonts.gstatic.com/s/bigshouldersdisplay/v1/fC1yPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1UP_PLJg.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/bigshouldersdisplay/v4/fC1yPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1UP_PLJg.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Big Shoulders Display';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: local('Big Shoulders Display Bold'), local('BigShouldersDisplay-Bold'), url(https://fonts.gstatic.com/s/bigshouldersdisplay/v1/fC1yPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1Ud_XLJg.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/bigshouldersdisplay/v4/fC1yPZJEZG-e9gHhdI4-NBbfd2ys3SjJCx1Ud_XLJg.ttf) format('truetype');
 }
 
 :root {

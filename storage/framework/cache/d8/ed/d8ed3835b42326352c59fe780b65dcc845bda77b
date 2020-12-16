@@ -1,0 +1,121 @@
+1608102000a:1:{s:9:"about.htm";a:13:{s:8:"fileName";s:9:"about.htm";s:7:"content";s:2403:"title = "À propos de Techno24.net"
+url = "/a-propos"
+layout = "default"
+meta_title = "À propos de Techno24.net"
+meta_description = "Présentation de l'entreprise Techno24.net, spécialiste en produit Microsoft 365 et hébergement Web"
+is_hidden = 0
+
+[viewBag]
+localeTitle[en] = "About Techno24.net"
+localeUrl[en] = "/about"
+localeMeta_title[en] = "About Techno24.net"
+localeMeta_description[en] = "Presentation of Techno24.net, a Microsoft 365 and Web hosting specialist"
+
+[blogPosts lastestBlogEntry]
+pageNumber = "{{ :page }}"
+postsPerPage = 2
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog/categories"
+postPage = "blog/article"
+
+==
+<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'À PROPOS DE TECHNO24.NET'|_ }}
+                    </strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="intro py-5">
+    <div class="container pt-5">
+        <div class="row ">
+            <div class="col text-center">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Qui est derrière Techno24?'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-3 pb-5">
+            <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+                <div class="embed-responsive-16by9  wow fadeInLeft">
+                    <div class="youtube" data-embed="tYsiEpaKR6k">
+                        <div class="play-button"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-lg-6 wow fadeInUp">
+                {% content '/home/c-about' %}
+            </div>
+        </div>
+    </div>
+</section>
+<section class="pb-5" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center pt-5">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Les dernières nouvelles'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-2">
+            {% component 'lastestBlogEntry' %}
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1598550388;s:6:"markup";s:1726:"<div class="jumbotron hero-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'À PROPOS DE TECHNO24.NET'|_ }}
+                    </strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="intro py-5">
+    <div class="container pt-5">
+        <div class="row ">
+            <div class="col text-center">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Qui est derrière Techno24?'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-3 pb-5">
+            <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+                <div class="embed-responsive-16by9  wow fadeInLeft">
+                    <div class="youtube" data-embed="tYsiEpaKR6k">
+                        <div class="play-button"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-lg-6 wow fadeInUp">
+                {% content '/home/c-about' %}
+            </div>
+        </div>
+    </div>
+</section>
+<section class="pb-5" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center pt-5">
+                <h2 class="h2-responsive wow flipInX">
+                    {{ 'Les dernières nouvelles'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row pt-2">
+            {% component 'lastestBlogEntry' %}
+        </div>
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:25:"À propos de Techno24.net";s:3:"url";s:9:"/a-propos";s:6:"layout";s:7:"default";s:10:"meta_title";s:25:"À propos de Techno24.net";s:16:"meta_description";s:101:"Présentation de l'entreprise Techno24.net, spécialiste en produit Microsoft 365 et hébergement Web";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:4:{s:11:"localeTitle";a:1:{s:2:"en";s:18:"About Techno24.net";}s:9:"localeUrl";a:1:{s:2:"en";s:6:"/about";}s:16:"localeMeta_title";a:1:{s:2:"en";s:18:"About Techno24.net";}s:22:"localeMeta_description";a:1:{s:2:"en";s:72:"Presentation of Techno24.net, a Microsoft 365 and Web hosting specialist";}}s:26:"blogPosts lastestBlogEntry";a:6:{s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:1:"2";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:15:"blog/categories";s:8:"postPage";s:12:"blog/article";}}}

@@ -1,4 +1,4 @@
-1595343680a:1:{s:9:"video.htm";a:12:{s:8:"fileName";s:9:"video.htm";s:7:"content";s:1970:"title = "Qui est derrière Techno24?"
+1608102386a:1:{s:9:"video.htm";a:12:{s:8:"fileName";s:9:"video.htm";s:7:"content";s:1982:"title = "Qui est derrière Techno24?"
 url = "/qui-est-derriere-techno24"
 layout = "default"
 meta_title = "Qui est derrière Techno24?"
@@ -35,7 +35,7 @@ localeMeta_description[en] = "Techno24 specializes in digital solutions, offerin
         </div>
         <div class="row ">
             <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto">
-                {% content '/home/c-about' %}
+                {% content 'home/c-about' %}
             </div>
             <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto text-center pt-5">
                 <a class="btn btn-secondary wow fadeInUp "
@@ -45,7 +45,7 @@ localeMeta_description[en] = "Techno24 specializes in digital solutions, offerin
             </div>
         </div>
     </div>
-</section>";s:5:"mtime";i:1574720860;s:6:"markup";s:1307:"<section class="primary-color py-5">
+</section>";s:5:"mtime";i:1608101780;s:6:"markup";s:1306:"<section class="primary-color py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center py-2">
@@ -69,7 +69,7 @@ localeMeta_description[en] = "Techno24 specializes in digital solutions, offerin
         </div>
         <div class="row ">
             <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto">
-                {% content '/home/c-about' %}
+                {% content 'home/c-about' %}
             </div>
             <div class="col-xs-12 col-sm-8 wow fadeInUp mx-auto text-center pt-5">
                 <a class="btn btn-secondary wow fadeInUp "

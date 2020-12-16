@@ -1,4 +1,4 @@
-1595343680a:1:{s:11:"hosting.htm";a:14:{s:8:"fileName";s:11:"hosting.htm";s:7:"content";s:2779:"title = "Hébergement Web Cloud"
+1608102110a:1:{s:11:"hosting.htm";a:14:{s:8:"fileName";s:11:"hosting.htm";s:7:"content";s:2811:"title = "Hébergement Web Cloud"
 url = "/hosting"
 layout = "default"
 meta_title = "Hébergement web, partagé, FTP à Montréal et au Canada"
@@ -41,7 +41,7 @@ tagListPage = "blog/article"
                 </h1>
             </div>
         </div>
-        {% partial '/produits/p-intro-hosting' %}
+        {% partial 'produits/p-intro-hosting' %}
     </div>
 </section>
 <section id="forfait" class="primary-color my-4 py-5">
@@ -81,9 +81,9 @@ tagListPage = "blog/article"
                 </h2>
             </div>
         </div>
-        {% partial '/produits/p-techno' %}
+        {% partial 'produits/p-techno' %}
     </div>
-</section>";s:5:"mtime";i:1574265618;s:6:"markup";s:1724:"<section id="hosting" class="my-4">
+</section>";s:5:"mtime";i:1608101507;s:6:"markup";s:1722:"<section id="hosting" class="my-4">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -92,7 +92,7 @@ tagListPage = "blog/article"
                 </h1>
             </div>
         </div>
-        {% partial '/produits/p-intro-hosting' %}
+        {% partial 'produits/p-intro-hosting' %}
     </div>
 </section>
 <section id="forfait" class="primary-color my-4 py-5">
@@ -132,6 +132,6 @@ tagListPage = "blog/article"
                 </h2>
             </div>
         </div>
-        {% partial '/produits/p-techno' %}
+        {% partial 'produits/p-techno' %}
     </div>
 </section>";s:4:"code";N;s:5:"title";s:22:"Hébergement Web Cloud";s:3:"url";s:8:"/hosting";s:6:"layout";s:7:"default";s:10:"meta_title";s:57:"Hébergement web, partagé, FTP à Montréal et au Canada";s:16:"meta_description";s:106:"Hébergement web, partagé, FTP, serveurs cloud Noms de domaine, certificats SSL à Montréal et au Canada";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:17:"Cloud Web Hosting";}s:16:"localeMeta_title";a:1:{s:2:"en";s:71:"Shared hosting, cloud, dedicates server, email, domain name in Montreal";}s:22:"localeMeta_description";a:1:{s:2:"en";s:83:"Shared hosting plan, cloud, dedicates server, domain name, web hosting in Montreal.";}}s:17:"portfolio produit";a:9:{s:8:"category";s:1:"3";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:12:"blog/article";s:8:"itemPage";s:12:"blog/article";s:11:"tagListPage";s:12:"blog/article";}s:28:"portfolio produit_serviceweb";a:9:{s:8:"category";s:1:"2";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:12:"blog/article";s:8:"itemPage";s:12:"blog/article";s:11:"tagListPage";s:12:"blog/article";}}}

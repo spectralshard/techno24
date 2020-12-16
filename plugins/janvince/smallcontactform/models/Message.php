@@ -118,6 +118,7 @@ class Message extends Model
         $this->remote_ip = Request::ip();
         $this->form_alias = $formAlias;
         $this->form_description = $formDescription;
+        $this->url = url()->full();
         $this->save();
 
     }
@@ -217,7 +218,7 @@ class Message extends Model
             Log::error('SMALL CONTACT FORM: Missing defined email template: ' . $componentProperties[ ('autoreply_template_'.App::getLocale())] . '. ' . $template . ' template will be used!');
         }
 
-        Mail::{$method}($template, ['fields' => $output, 'fieldsDetails' => $outputFull], function($message) use($sendTo, $componentProperties, $output){
+        Mail::{$method}($template, ['fields' => $output, 'fieldsDetails' => $outputFull, 'url' => url()->full()], function($message) use($sendTo, $componentProperties, $output){
 
             $message->to($sendTo);
 
@@ -240,6 +241,7 @@ class Message extends Model
             * Component's property can override this
             */
             $fromAddress = null;
+            $fromAddressName = null;
 
             if( Settings::getTranslated('email_address_from') ) {
                 $fromAddress = Settings::getTranslated('email_address_from');
@@ -262,11 +264,36 @@ class Message extends Model
 
             if($validator->fails()){
                 Log::error('SMALL CONTACT FORM ERROR: Autoreply email address is invalid (' .$fromAddress. ')! System email address and name will be used.');
-                return;
+            } else {
+                $message->from($fromAddress, $fromAddressName);
             }
 
-            $message->from($fromAddress, $fromAddressName);
 
+            /**
+            * Reply To address
+            * Component's property can override this
+            */
+            $replyToAddress = null;
+
+            if( Settings::getTranslated('email_address_replyto') ) {
+                $replyToAddress = Settings::getTranslated('email_address_replyto');
+            }
+
+            if( !empty($componentProperties['autoreply_address_replyto']) ) {
+                $replyToAddress = $componentProperties['autoreply_address_replyto'];
+            }
+
+            if( $replyToAddress ) {
+
+                $validator = Validator::make(['email' => $replyToAddress], ['email' => 'required|email']);
+
+                if($validator->fails()){
+                    Log::error('SMALL CONTACT FORM ERROR: Autoreply Reply To email address is invalid (' .$replyToAddress. ')! No Reply To header will be added.');
+                } else {
+                    $message->replyTo($replyToAddress);
+                }
+
+            }
         });
 
     }
@@ -376,7 +403,7 @@ class Message extends Model
             Log::error('SMALL CONTACT FORM: Missing defined email template: ' . $componentProperties[ ('notification_template_'.App::getLocale())] . '. ' . $template . ' template will be used!');
         }
 
-        Mail::{$method}($template, ['fields' => $output, 'fieldsDetails' => $outputFull], function($message) use($sendToAddressesValidated, $replyToAddress, $replyToName, $componentProperties, $output){
+        Mail::{$method}($template, ['fields' => $output, 'fieldsDetails' => $outputFull, 'url' => url()->full()], function($message) use($sendToAddressesValidated, $replyToAddress, $replyToName, $componentProperties, $output){
 
             if( count($sendToAddressesValidated)>1 ) {
                 
