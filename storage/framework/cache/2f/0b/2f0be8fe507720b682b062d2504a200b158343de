@@ -1,4 +1,4 @@
-1608102000a:1:{s:11:"default.htm";a:8:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:3814:"description = "Default Layout"
+1611334975a:1:{s:11:"default.htm";a:8:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:4003:"description = "Default Layout"
 
 [localePicker]
 forceUrl = 1
@@ -62,6 +62,8 @@ $this['site_url'] = asset('');
     <link rel="icon" type="image/jpg" href="{{ 'assets/images/favicon.png'|theme }}"/>
     <link href="{{ 'assets/images/apple-touch-icon.png'|theme }}" rel="apple-touch-icon">
     <link href="{{ 'assets/images/apple-touch-icon-precomposed.png'|theme }}" rel="apple-touch-icon-precomposed">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="{{ [
     'assets/css/theme.css',
     ]|theme }}" rel="stylesheet">
@@ -102,7 +104,7 @@ $this['site_url'] = asset('');
 {% framework extras %}
 {% scripts %}
 </body>
-</html>";s:5:"mtime";i:1591719320;s:6:"markup";s:3444:"<!DOCTYPE html>
+</html>";s:5:"mtime";i:1608611870;s:6:"markup";s:3633:"<!DOCTYPE html>
 <html>
 <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4576616-1"></script>
@@ -145,6 +147,8 @@ $this['site_url'] = asset('');
     <link rel="icon" type="image/jpg" href="{{ 'assets/images/favicon.png'|theme }}"/>
     <link href="{{ 'assets/images/apple-touch-icon.png'|theme }}" rel="apple-touch-icon">
     <link href="{{ 'assets/images/apple-touch-icon-precomposed.png'|theme }}" rel="apple-touch-icon-precomposed">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="{{ [
     'assets/css/theme.css',
     ]|theme }}" rel="stylesheet">

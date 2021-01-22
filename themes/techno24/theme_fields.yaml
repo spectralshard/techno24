@@ -39,3 +39,8 @@ fields:
         label: Pinterest URL
         span: auto
         default: https://www.pinterest.com/
+
+    youtube_url:
+        label: Youtube URL
+        span: auto
+        default:

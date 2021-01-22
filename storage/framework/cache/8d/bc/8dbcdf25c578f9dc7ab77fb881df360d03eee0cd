@@ -1,4 +1,4 @@
-1608102386a:1:{s:9:"video.htm";a:12:{s:8:"fileName";s:9:"video.htm";s:7:"content";s:1982:"title = "Qui est derrière Techno24?"
+1611335038a:1:{s:9:"video.htm";a:12:{s:8:"fileName";s:9:"video.htm";s:7:"content";s:1982:"title = "Qui est derrière Techno24?"
 url = "/qui-est-derriere-techno24"
 layout = "default"
 meta_title = "Qui est derrière Techno24?"
@@ -27,7 +27,7 @@ localeMeta_description[en] = "Techno24 specializes in digital solutions, offerin
         <div class="row pb-4">
             <div class="col-xs-12 col-sm-8 mx-auto">
                 <div class="embed-responsive-16by9 secondary-shadow wow fadeInLeft">
-                    <div class="youtube" data-embed="tYsiEpaKR6k">
+                    <div class="youtube" data-embed="MvzHnEyxXDg">
                         <div class="play-button"></div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ localeMeta_description[en] = "Techno24 specializes in digital solutions, offerin
             </div>
         </div>
     </div>
-</section>";s:5:"mtime";i:1608101780;s:6:"markup";s:1306:"<section class="primary-color py-5">
+</section>";s:5:"mtime";i:1611334434;s:6:"markup";s:1306:"<section class="primary-color py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center py-2">
@@ -61,7 +61,7 @@ localeMeta_description[en] = "Techno24 specializes in digital solutions, offerin
         <div class="row pb-4">
             <div class="col-xs-12 col-sm-8 mx-auto">
                 <div class="embed-responsive-16by9 secondary-shadow wow fadeInLeft">
-                    <div class="youtube" data-embed="tYsiEpaKR6k">
+                    <div class="youtube" data-embed="MvzHnEyxXDg">
                         <div class="play-button"></div>
                     </div>
                 </div>

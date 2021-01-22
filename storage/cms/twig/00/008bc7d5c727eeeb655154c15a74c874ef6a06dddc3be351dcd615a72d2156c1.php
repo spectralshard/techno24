@@ -96,6 +96,15 @@ class __TwigTemplate_ce5ed3d6ea94ed0e7602bed82b5cfdd8f6ce6565eb6e6764c710d390817
 \t\t\t\t  <i class=\"fab fa-linkedin-in fa-stack-1x\" style=\"color:#E79435;\"></i>
 \t\t\t\t</span>
                 </a>
+\t\t\t\t<a href=\"";
+        // line 29
+        echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "theme", [], "any", false, false, true, 29), "youtube_url", [], "any", false, false, true, 29), 29, $this->source), "html", null, true);
+        echo "\" target=\"_blank\">
+\t\t\t\t\t<span class=\"fa-stack\" style=\"vertical-align: top; font-size:10px; margin-top:2px;\">
+\t\t\t\t  <i class=\"fas fa-circle fa-stack-2x white-text\"></i>
+\t\t\t\t  <i class=\"fab fa-youtube fa-stack-1x\" style=\"color:#E79435;\"></i>
+\t\t\t\t</span>
+\t\t\t\t</a>
             </div>
             <div class=\"col text-sm-right p-2 d-block d-sm-none\">
 \t\t\t\t<span class=\"pr-3 white-text align-top\">
@@ -125,7 +134,7 @@ class __TwigTemplate_ce5ed3d6ea94ed0e7602bed82b5cfdd8f6ce6565eb6e6764c710d390817
 
     public function getDebugInfo()
     {
-        return array (  92 => 23,  83 => 17,  77 => 14,  62 => 1,);
+        return array (  101 => 29,  92 => 23,  83 => 17,  77 => 14,  62 => 1,);
     }
 
     public function getSourceContext()

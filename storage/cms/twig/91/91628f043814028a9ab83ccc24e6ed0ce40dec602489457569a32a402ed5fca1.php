@@ -30,7 +30,7 @@ class __TwigTemplate_6a37f87e301e51a32d910142018cbe25224664585a16a46d45762f0a38e
         ];
         $this->sandbox = $this->env->getExtension('\Twig\Extension\SandboxExtension');
         $tags = array("if" => 15);
-        $filters = array("_" => 6, "page" => 9, "escape" => 67, "theme" => 82, "date" => 92);
+        $filters = array("_" => 6, "page" => 9, "escape" => 67, "theme" => 88, "date" => 98);
         $functions = array();
 
         try {
@@ -206,8 +206,17 @@ class __TwigTemplate_6a37f87e301e51a32d910142018cbe25224664585a16a46d45762f0a38e
 \t\t\t\t  <i class=\"fab fa-linkedin-in fa-stack-1x\" style=\"color:#4A4A4A;\"></i>
 \t\t\t\t</span>
             </a>
-            <img class=\"d-block pt-5\" src=\"";
+            <a href=\"";
         // line 82
+        echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "theme", [], "any", false, false, true, 82), "youtube_url", [], "any", false, false, true, 82), 82, $this->source), "html", null, true);
+        echo "\" target=\"_blank\">
+\t\t\t\t\t<span class=\"fa-stack\" style=\"vertical-align: top; font-size:10px; margin-top:2px;\">
+\t\t\t\t  <i class=\"fas fa-circle fa-stack-2x text-secondary\"></i>
+\t\t\t\t  <i class=\"fab fa-youtube fa-stack-1x\" style=\"color:#4A4A4A;\"></i>
+\t\t\t\t</span>
+            </a>
+            <img class=\"d-block pt-5\" src=\"";
+        // line 88
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/creditcard-logo.png");
         echo "\" alt=\"";
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Cartes de crédits"]);
@@ -222,13 +231,13 @@ class __TwigTemplate_6a37f87e301e51a32d910142018cbe25224664585a16a46d45762f0a38e
             <div class=\"col text-center py-2 text-white\">
 
                     © Techno24.net - ";
-        // line 92
+        // line 98
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Tous droits réservés"]);
         echo " ";
         echo twig_escape_filter($this->env, twig_date_format_filter($this->env, "now", "Y"), "html", null, true);
         echo "
                     | ";
-        // line 93
+        // line 99
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Hébergement 5 étoiles"]);
         echo "
 
@@ -250,7 +259,7 @@ class __TwigTemplate_6a37f87e301e51a32d910142018cbe25224664585a16a46d45762f0a38e
 
     public function getDebugInfo()
     {
-        return array (  232 => 93,  226 => 92,  211 => 82,  202 => 76,  193 => 70,  187 => 67,  182 => 65,  171 => 57,  160 => 49,  149 => 41,  143 => 38,  139 => 37,  133 => 34,  127 => 30,  118 => 23,  109 => 16,  107 => 15,  101 => 14,  95 => 13,  89 => 12,  85 => 11,  81 => 10,  75 => 9,  69 => 6,  62 => 1,);
+        return array (  241 => 99,  235 => 98,  220 => 88,  211 => 82,  202 => 76,  193 => 70,  187 => 67,  182 => 65,  171 => 57,  160 => 49,  149 => 41,  143 => 38,  139 => 37,  133 => 34,  127 => 30,  118 => 23,  109 => 16,  107 => 15,  101 => 14,  95 => 13,  89 => 12,  85 => 11,  81 => 10,  75 => 9,  69 => 6,  62 => 1,);
     }
 
     public function getSourceContext()

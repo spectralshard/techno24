@@ -1,4 +1,4 @@
-1608102110a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:4473:"description = "Footer"
+1611335241a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:4795:"description = "Footer"
 ==
 <section id="footer" class="py-5">
     <div class="container">
@@ -81,6 +81,12 @@
 				  <i class="fab fa-linkedin-in fa-stack-1x" style="color:#4A4A4A;"></i>
 				</span>
             </a>
+            <a href="{{ this.theme.youtube_url }}" target="_blank">
+					<span class="fa-stack" style="vertical-align: top; font-size:10px; margin-top:2px;">
+				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
+				  <i class="fab fa-youtube fa-stack-1x" style="color:#4A4A4A;"></i>
+				</span>
+            </a>
             <img class="d-block pt-5" src="{{'assets/images/creditcard-logo.png'|theme}}" alt="{{ 'Cartes de crédits'|_ }}">
         </div>
     </div>
@@ -97,7 +103,7 @@
             </div>
         </div>
     </div>
-</section>";s:5:"mtime";i:1586554920;s:6:"markup";s:4447:"<section id="footer" class="py-5">
+</section>";s:5:"mtime";i:1611334637;s:6:"markup";s:4769:"<section id="footer" class="py-5">
     <div class="container">
     <div class="row">
         <div class="col-sm-6 col-lg-3 text-white d-none d-sm-block mx-auto">
@@ -176,6 +182,12 @@
 					<span class="fa-stack" style="vertical-align: top; font-size:10px; margin-top:2px;">
 				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
 				  <i class="fab fa-linkedin-in fa-stack-1x" style="color:#4A4A4A;"></i>
+				</span>
+            </a>
+            <a href="{{ this.theme.youtube_url }}" target="_blank">
+					<span class="fa-stack" style="vertical-align: top; font-size:10px; margin-top:2px;">
+				  <i class="fas fa-circle fa-stack-2x text-secondary"></i>
+				  <i class="fab fa-youtube fa-stack-1x" style="color:#4A4A4A;"></i>
 				</span>
             </a>
             <img class="d-block pt-5" src="{{'assets/images/creditcard-logo.png'|theme}}" alt="{{ 'Cartes de crédits'|_ }}">
