@@ -1,15 +1,35 @@
-1611334975a:1:{s:12:"zerospam.htm";a:12:{s:8:"fileName";s:12:"zerospam.htm";s:7:"content";s:1111:"title = "ZéroSpam, sécurité courriel complète de haute précision"
+1618938817a:1:{s:12:"zerospam.htm";a:19:{s:8:"fileName";s:12:"zerospam.htm";s:7:"content";s:2734:"title = "ZeroSpam, sécurité courriel complète de haute précision"
 url = "/zerospam"
 layout = "default"
-meta_title = "ZéroSpam, sécurité courriel complète de haute précision"
-meta_description = "ZéroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service."
+meta_title = "ZeroSpam, sécurité courriel complète de haute précision"
+meta_description = "ZeroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service."
 is_hidden = 0
+child_of = "home"
+hide_crumb = 0
+crumb_title = "ZeroSpam"
+remove_crumb_trail = 0
+crumb_disabled = 0
 
 [viewBag]
 localeTitle[en] = "ZeroSpam, high precision full email security"
 localeMeta_title[en] = "ZeroSpam, high precision full email security"
 localeMeta_description[en] = "ZeroSpam protects your business against ransomware, spear phishing, phishing and denial of service."
 
+[breadcrumbs mainBreadcrumbs]
+main-ol-class = "breadcrumb"
+active-class = "active"
+disabled-class = "disabled"
+
+[portfolio produit_bitdefender]
+category = 8
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = 404
+itemPage = 404
+tagListPage = 404
 ==
 <?php
 function onEnd()
@@ -18,29 +38,96 @@ $this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
 }
 ?>
 ==
+<div class="zerospam">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Zerospam, une solution antispam complète pour la sécurité des courriels'|_ }}
+                    </strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
 <section class="my-4">
+    <div class="container py-2 d-flex align-items-center">
+        {% partial 'zerospam/intro' %}
+    </div>
+</section>
+<section id="features" class="primary-color py-5">
+    <div class="container">
+            {% partial 'zerospam/callout' %}
+    </div>
+</section>
+<section id="avantages">
+            {% partial 'zerospam/avantages' %}
+</section>
+<section id="price" class="py-5 primary-color">
     <div class="container">
         <div class="row">
             <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'ZéroSpam, sécurité courriel complète de haute précision'|_ }}
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Ajouter Zerospam à votre boite courriel'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1618936104;s:6:"markup";s:1532:"<div class="zerospam">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Zerospam, une solution antispam complète pour la sécurité des courriels'|_ }}
+                    </strong>
                 </h1>
             </div>
         </div>
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section class="my-4">
+    <div class="container py-2 d-flex align-items-center">
         {% partial 'zerospam/intro' %}
     </div>
-</section>";s:5:"mtime";i:1608101678;s:6:"markup";s:384:"<section class="my-4">
+</section>
+<section id="features" class="primary-color py-5">
+    <div class="container">
+            {% partial 'zerospam/callout' %}
+    </div>
+</section>
+<section id="avantages">
+            {% partial 'zerospam/avantages' %}
+</section>
+<section id="price" class="py-5 primary-color">
     <div class="container">
         <div class="row">
             <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'ZéroSpam, sécurité courriel complète de haute précision'|_ }}
-                </h1>
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Ajouter Zerospam à votre boite courriel'|_ }}
+                </h2>
             </div>
         </div>
-        {% partial 'zerospam/intro' %}
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
     </div>
-</section>";s:4:"code";s:96:"function onEnd()
+</section>";s:4:"code";s:102:"
+function onEnd()
 {
 $this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
-}";s:5:"title";s:60:"ZéroSpam, sécurité courriel complète de haute précision";s:3:"url";s:9:"/zerospam";s:6:"layout";s:7:"default";s:10:"meta_title";s:60:"ZéroSpam, sécurité courriel complète de haute précision";s:16:"meta_description";s:117:"ZéroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:44:"ZeroSpam, high precision full email security";}s:16:"localeMeta_title";a:1:{s:2:"en";s:44:"ZeroSpam, high precision full email security";}s:22:"localeMeta_description";a:1:{s:2:"en";s:99:"ZeroSpam protects your business against ransomware, spear phishing, phishing and denial of service.";}}}}
+}";s:5:"title";s:59:"ZeroSpam, sécurité courriel complète de haute précision";s:3:"url";s:9:"/zerospam";s:6:"layout";s:7:"default";s:10:"meta_title";s:59:"ZeroSpam, sécurité courriel complète de haute précision";s:16:"meta_description";s:116:"ZeroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service.";s:9:"is_hidden";s:1:"0";s:8:"child_of";s:4:"home";s:10:"hide_crumb";s:1:"0";s:11:"crumb_title";s:8:"ZeroSpam";s:18:"remove_crumb_trail";s:1:"0";s:14:"crumb_disabled";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:44:"ZeroSpam, high precision full email security";}s:16:"localeMeta_title";a:1:{s:2:"en";s:44:"ZeroSpam, high precision full email security";}s:22:"localeMeta_description";a:1:{s:2:"en";s:99:"ZeroSpam protects your business against ransomware, spear phishing, phishing and denial of service.";}}s:27:"breadcrumbs mainBreadcrumbs";a:3:{s:13:"main-ol-class";s:10:"breadcrumb";s:12:"active-class";s:6:"active";s:14:"disabled-class";s:8:"disabled";}s:29:"portfolio produit_bitdefender";a:9:{s:8:"category";s:1:"8";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";s:11:"catListPage";s:3:"404";s:8:"itemPage";s:3:"404";s:11:"tagListPage";s:3:"404";}}}

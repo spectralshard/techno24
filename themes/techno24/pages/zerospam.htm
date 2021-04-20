@@ -1,32 +1,85 @@
-title = "ZéroSpam, sécurité courriel complète de haute précision"
+title = "ZeroSpam, sécurité courriel complète de haute précision"
 url = "/zerospam"
 layout = "default"
-meta_title = "ZéroSpam, sécurité courriel complète de haute précision"
-meta_description = "ZéroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service."
+meta_title = "ZeroSpam, sécurité courriel complète de haute précision"
+meta_description = "ZeroSpam protège votre entreprise contre les rançongiciels, le harponnage, le hameçonnage et le déni de service."
 is_hidden = 0
+child_of = "home"
+hide_crumb = 0
+crumb_title = "ZeroSpam"
+remove_crumb_trail = 0
+crumb_disabled = 0
 
 [viewBag]
 localeTitle[en] = "ZeroSpam, high precision full email security"
 localeMeta_title[en] = "ZeroSpam, high precision full email security"
 localeMeta_description[en] = "ZeroSpam protects your business against ransomware, spear phishing, phishing and denial of service."
 
+[breadcrumbs mainBreadcrumbs]
+main-ol-class = "breadcrumb"
+active-class = "active"
+disabled-class = "disabled"
+
+[portfolio produit_bitdefender]
+category = 8
+itemsPerPage = 4
+order = "asc"
+pageNumber = "{{ :page }}"
+selectedTag = "{{ :selected_tag }}"
+selectedCat = "{{ :selected_cat }}"
+catListPage = 404
+itemPage = 404
+tagListPage = 404
 ==
 <?php
 function onEnd()
 {
-$this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
+$this['image_url'] = asset('/themes/techno24/assets/images/zerospam/zerospam.jpg');
 }
 ?>
 ==
-<section class="my-4">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'ZéroSpam, sécurité courriel complète de haute précision'|_ }}
+<div class="zerospam">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Zerospam, une solution antispam complète pour la sécurité des courriels'|_ }}
+                    </strong>
                 </h1>
             </div>
         </div>
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section class="my-4">
+    <div class="container py-2 d-flex align-items-center">
         {% partial 'zerospam/intro' %}
+    </div>
+</section>
+<section id="features" class="primary-color py-5">
+    <div class="container">
+            {% partial 'zerospam/callout' %}
+    </div>
+</section>
+<section id="avantages">
+            {% partial 'zerospam/avantages' %}
+</section>
+<section id="price" class="py-5 primary-color">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="h2-responsive text-white wow fadeInUp">
+                    {{ 'Ajouter Zerospam à votre boite courriel'|_ }}
+                </h2>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            {% component 'produit_bitdefender' %}
+        </div>
     </div>
 </section>

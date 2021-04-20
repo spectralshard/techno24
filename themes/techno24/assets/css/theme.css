@@ -12430,6 +12430,10 @@ a .page-link {
   text-transform: uppercase;
 }
 
+.text-primary {
+  color: #6DBBE9 !important;
+}
+
 .hero-home {
   background: url("../images/tech24-hero-home.jpg") no-repeat center center;
   -webkit-background-size: 100% 100%;
@@ -12571,6 +12575,30 @@ HTML CSS JS Result EDIT ON html {
   color: #FFFFFF;
   padding-right: 0.5em;
   margin-left: -25px;
+}
+
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  list-style: none;
+  background-color: transparent;
+  border-radius: 0.25rem;
+}
+
+.zerospam {
+  background: url("../images/zerospam/bg-header-produit-zerospam.jpg") no-repeat center center;
+  background-size: cover;
+  min-height: 545px;
+  width: 100%;
+  position: relative;
+}
+
+.cover-zerospam {
+  position: relative;
+  min-height: 350px;
+  background: url("../images/zerospam/zerospam-winning-btb.jpg") no-repeat scroll center center/cover transparent;
 }
 
 .fa-stack {

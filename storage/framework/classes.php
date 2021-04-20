@@ -114,4 +114,6 @@
   'RomainMazB\\AdminBar\\Components\\AdminBar' => 'plugins/romainmazb/adminbar/components/AdminBar.php',
   'arrizalamin\\portfolio\\Controllers\\categories' => 'plugins/arrizalamin/portfolio/controllers/categories.php',
   'Zainab\\SimpleContact\\Models\\Settings' => 'plugins/zainab/simplecontact/models/Settings.php',
+  'mey\\breadcrumbs\\Plugin' => 'plugins/mey/breadcrumbs/Plugin.php',
+  'Mey\\Breadcrumbs\\Components\\Breadcrumbs' => 'plugins/mey/breadcrumbs/components/Breadcrumbs.php',
 );

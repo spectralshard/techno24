@@ -65,24 +65,25 @@ class __TwigTemplate_8195af824b9135e1624a7179467cff6d5e2f8445e8a6cdd1d43b835ffff
             <img class=\"img-fluid mx-auto d-block wow fadeInLeft\"
                  src=\"";
         // line 5
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/0spam-com.jpg");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/zerospam/zerospam.jpg");
         echo "\"
                  data-holder-rendered=\"true\"
                 alt=\"";
         // line 7
-        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Capture écran de l'antivirus Bitdefender."]);
+        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Logo Zérospam."]);
         echo "\">
         </div>
     </div>
     <div class=\"col\"></div>
-    <div class=\"col-sm-12 col-lg-5 wow fadeInUp\">
-        ";
+    <div class=\"col-sm-12 col-lg-5 wow fadeInUp d-flex align-items-center\">
+        <div>";
         // line 12
         $context['__cms_content_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("produits/c-zerospam"        , $context['__cms_content_params']        );
+        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("zerospam/c-zerospam"        , $context['__cms_content_params']        );
         unset($context['__cms_content_params']);
         // line 13
-        echo "    </div>
+        echo "        </div>
+    </div>
 </div>";
     }
 

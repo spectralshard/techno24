@@ -14,7 +14,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/usr/local/Cellar/sass/1.26.8/bin" />
+      <option name="program" value="/usr/local/Cellar/sass/1.26.8/bin/sass" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
