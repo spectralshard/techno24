@@ -1,30 +1,57 @@
-1618938816a:1:{s:13:"office365.htm";a:12:{s:8:"fileName";s:13:"office365.htm";s:7:"content";s:1866:"title = "Microsoft 365"
+1629816781a:1:{s:13:"office365.htm";a:18:{s:8:"fileName";s:13:"office365.htm";s:7:"content";s:2653:"title = "Microsoft 365"
 url = "/microsoft-365"
 layout = "default"
 meta_title = "Microsoft 365 (office 365) - Hébergement site web"
 meta_description = "Gérez vos activités plus facilement - Microsoft 365 (office 365). Accédez à tout ce dont vous avez besoin pour effectuer vos tâches. Avec ou sans messagerie."
 is_hidden = 0
+child_of = "home"
+hide_crumb = 0
+crumb_title = "Microsoft365"
+remove_crumb_trail = 0
+crumb_disabled = 0
+
+[breadcrumbs mainBreadcrumbs]
+main-ol-class = "breadcrumb"
+active-class = "active"
+disabled-class = "disabled"
 
 [viewBag]
 localeMeta_title[en] = "Microsoft 365 (office 365) - Web Hosting"
 localeMeta_description[en] = "Manage your business more easily - Microsoft 365 (office 365). Get everything you need to do your jobs. With or without messaging."
 ==
-<section id="office" class="my-4">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'Microsoft 365'|_ }}
+<!--Update section-->
+<div class="office365">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Microsoft 365 pour entreprise'|_ }}
+                    </strong>
                 </h1>
-                <h5 class="h5-responsive">
-                    {{ '(Office 365)'|_ }}
-                </h5>
             </div>
         </div>
-        {% partial 'produits/p-intro-office365' %}
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section id="presentation" class="my-4">
+    <div class="container py-2 d-flex align-items-center">
+        {% partial 'microsoft365/intro' %}
     </div>
 </section>
-<section id="forfait" class="primary-color my-4 py-5">
+<section id="features" class="primary-color py-5">
+    <div class="container">
+        {% partial 'microsoft365/callout' %}
+    </div>
+</section>
+<section id="avantages">
+    {% partial 'microsoft365/avantages' %}
+</section>
+<section id="forfait" class="primary-color py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -36,6 +63,7 @@ localeMeta_description[en] = "Manage your business more easily - Microsoft 365 (
         {% partial 'produits/p-forfaits-365' %}
     </div>
 </section>
+<!--End of-->
 <section id="msazure" class="my-4 py-5">
     <div class="container">
         <div class="row">
@@ -47,22 +75,39 @@ localeMeta_description[en] = "Manage your business more easily - Microsoft 365 (
         </div>
             {% partial 'produits/p-msazure' %}
     </div>
-</section>";s:5:"mtime";i:1608100963;s:6:"markup";s:1283:"<section id="office" class="my-4">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'Microsoft 365'|_ }}
+</section>";s:5:"mtime";i:1629816176;s:6:"markup";s:1844:"<!--Update section-->
+<div class="office365">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Microsoft 365 pour entreprise'|_ }}
+                    </strong>
                 </h1>
-                <h5 class="h5-responsive">
-                    {{ '(Office 365)'|_ }}
-                </h5>
             </div>
         </div>
-        {% partial 'produits/p-intro-office365' %}
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section id="presentation" class="my-4">
+    <div class="container py-2 d-flex align-items-center">
+        {% partial 'microsoft365/intro' %}
     </div>
 </section>
-<section id="forfait" class="primary-color my-4 py-5">
+<section id="features" class="primary-color py-5">
+    <div class="container">
+        {% partial 'microsoft365/callout' %}
+    </div>
+</section>
+<section id="avantages">
+    {% partial 'microsoft365/avantages' %}
+</section>
+<section id="forfait" class="primary-color py-5">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -74,6 +119,7 @@ localeMeta_description[en] = "Manage your business more easily - Microsoft 365 (
         {% partial 'produits/p-forfaits-365' %}
     </div>
 </section>
+<!--End of-->
 <section id="msazure" class="my-4 py-5">
     <div class="container">
         <div class="row">
@@ -85,4 +131,4 @@ localeMeta_description[en] = "Manage your business more easily - Microsoft 365 (
         </div>
             {% partial 'produits/p-msazure' %}
     </div>
-</section>";s:4:"code";N;s:5:"title";s:13:"Microsoft 365";s:3:"url";s:14:"/microsoft-365";s:6:"layout";s:7:"default";s:10:"meta_title";s:50:"Microsoft 365 (office 365) - Hébergement site web";s:16:"meta_description";s:162:"Gérez vos activités plus facilement - Microsoft 365 (office 365). Accédez à tout ce dont vous avez besoin pour effectuer vos tâches. Avec ou sans messagerie.";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"en";s:40:"Microsoft 365 (office 365) - Web Hosting";}s:22:"localeMeta_description";a:1:{s:2:"en";s:130:"Manage your business more easily - Microsoft 365 (office 365). Get everything you need to do your jobs. With or without messaging.";}}}}
+</section>";s:4:"code";N;s:5:"title";s:13:"Microsoft 365";s:3:"url";s:14:"/microsoft-365";s:6:"layout";s:7:"default";s:10:"meta_title";s:50:"Microsoft 365 (office 365) - Hébergement site web";s:16:"meta_description";s:162:"Gérez vos activités plus facilement - Microsoft 365 (office 365). Accédez à tout ce dont vous avez besoin pour effectuer vos tâches. Avec ou sans messagerie.";s:9:"is_hidden";s:1:"0";s:8:"child_of";s:4:"home";s:10:"hide_crumb";s:1:"0";s:11:"crumb_title";s:12:"Microsoft365";s:18:"remove_crumb_trail";s:1:"0";s:14:"crumb_disabled";s:1:"0";s:27:"breadcrumbs mainBreadcrumbs";a:3:{s:13:"main-ol-class";s:10:"breadcrumb";s:12:"active-class";s:6:"active";s:14:"disabled-class";s:8:"disabled";}s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"en";s:40:"Microsoft 365 (office 365) - Web Hosting";}s:22:"localeMeta_description";a:1:{s:2:"en";s:130:"Manage your business more easily - Microsoft 365 (office 365). Get everything you need to do your jobs. With or without messaging.";}}}}

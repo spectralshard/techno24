@@ -1,8 +1,8 @@
 <?php 
-class Cms607f012a9d1fb352620778_2d9865bb160d37a61a3a513e2da4524bClass extends Cms\Classes\PageCode
+class Cms609e898f13f5d760157021_13b4ebad81589af4c084b5936c3ec03eClass extends Cms\Classes\PageCode
 {
 public function onEnd()
 {
-$this['image_url'] = asset('/themes/techno24/assets/images/0spam-com.jpg');
+$this['image_url'] = asset('/themes/techno24/assets/images/zerospam/zerospam.jpg');
 }
 }

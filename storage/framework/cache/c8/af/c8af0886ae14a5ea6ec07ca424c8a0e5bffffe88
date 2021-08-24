@@ -1,0 +1,128 @@
+1615222515a:1:{s:9:"share.htm";a:6:{s:8:"fileName";s:9:"share.htm";s:7:"content";s:2380:"==
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+        t._e.push(f);
+    };
+
+    return t;
+}(document, "script", "twitter-wjs"));</script>
+<div class="row">
+    <div class="col">
+        <ul class="social mb-0 pb-0 align-content-between">
+            <li>
+                <p style="display: inline-block" class="mb-3">
+                    <strong>{{ 'Partager l\'article'|_ }}</strong>&nbsp;
+                </p>
+            </li>
+            <li>
+                <div class="fb-share-button"
+                     data-href="{{ ''|page }}"
+                     data-layout="button_count">
+                </div>
+            </li>
+            <li>
+                <a class="twitter-share-button"
+                   href="https://twitter.com/intent/tweet"
+                   data-size="small"
+                   data-text="{{ post.title }}"
+                   data-url="{{ post.url }}"
+                   data-hashtags="techno24"
+                   data-via="techno24net"
+                   data-related="twitterapi,twitter"
+                   target="_blank">
+                    Tweet
+                </a>
+            </li>
+            <li>
+                {% if lang == 'fr' %}
+                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: fr_FR</script>
+                <script type="IN/Share" data-url="{{ ''|page }}"></script>
+                {% else %}
+                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+                <script type="IN/Share" data-url="{{ ''|page }}"></script>
+                {% endif %}
+            </li>
+        </ul>
+    </div>
+</div>";s:5:"mtime";i:1591377712;s:6:"markup";s:2376:"<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+        t._e.push(f);
+    };
+
+    return t;
+}(document, "script", "twitter-wjs"));</script>
+<div class="row">
+    <div class="col">
+        <ul class="social mb-0 pb-0 align-content-between">
+            <li>
+                <p style="display: inline-block" class="mb-3">
+                    <strong>{{ 'Partager l\'article'|_ }}</strong>&nbsp;
+                </p>
+            </li>
+            <li>
+                <div class="fb-share-button"
+                     data-href="{{ ''|page }}"
+                     data-layout="button_count">
+                </div>
+            </li>
+            <li>
+                <a class="twitter-share-button"
+                   href="https://twitter.com/intent/tweet"
+                   data-size="small"
+                   data-text="{{ post.title }}"
+                   data-url="{{ post.url }}"
+                   data-hashtags="techno24"
+                   data-via="techno24net"
+                   data-related="twitterapi,twitter"
+                   target="_blank">
+                    Tweet
+                </a>
+            </li>
+            <li>
+                {% if lang == 'fr' %}
+                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: fr_FR</script>
+                <script type="IN/Share" data-url="{{ ''|page }}"></script>
+                {% else %}
+                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+                <script type="IN/Share" data-url="{{ ''|page }}"></script>
+                {% endif %}
+            </li>
+        </ul>
+    </div>
+</div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

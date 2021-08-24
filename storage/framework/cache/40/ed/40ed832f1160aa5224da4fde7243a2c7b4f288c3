@@ -1,0 +1,21 @@
+1629817060a:1:{s:26:"microsoft365/avantages.htm";a:5:{s:8:"fileName";s:26:"microsoft365/avantages.htm";s:7:"content";s:353:"<div class="row-flush">
+    <div class="row no-gutters">
+        <div class="col-md-12 col-lg-6 py-5 d-flex align-items-center">
+            <div class="container mx-sm-5">
+                {% content 'microsoft365/c-avantages' %}
+            </div>
+        </div>
+        <div class="col-md-12 col-lg-6 cover-office365">
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1629816455;s:6:"markup";s:353:"<div class="row-flush">
+    <div class="row no-gutters">
+        <div class="col-md-12 col-lg-6 py-5 d-flex align-items-center">
+            <div class="container mx-sm-5">
+                {% content 'microsoft365/c-avantages' %}
+            </div>
+        </div>
+        <div class="col-md-12 col-lg-6 cover-office365">
+        </div>
+    </div>
+</div>";s:4:"code";N;}}

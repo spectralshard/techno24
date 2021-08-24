@@ -1,0 +1,29 @@
+1629816781a:1:{s:22:"microsoft365/intro.htm";a:5:{s:8:"fileName";s:22:"microsoft365/intro.htm";s:7:"content";s:503:"<div class="row my-5">
+    <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+        <div class="secondary-shadow">
+            <img class="img-fluid mx-auto d-block"
+                 src="{{ 'assets/images/office365-1200x.jpg'|theme }}"
+                 data-holder-rendered="true">
+        </div>
+    </div>
+    <div class="col"></div>
+    <div class="col-sm-12 col-lg-5 wow fadeInUp d-flex align-items-center">
+        <div>
+        {% content 'microsoft365/c-intro' %}
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1621003715;s:6:"markup";s:503:"<div class="row my-5">
+    <div class="col-xs-12 col-sm-12 col-lg-6 pb-3">
+        <div class="secondary-shadow">
+            <img class="img-fluid mx-auto d-block"
+                 src="{{ 'assets/images/office365-1200x.jpg'|theme }}"
+                 data-holder-rendered="true">
+        </div>
+    </div>
+    <div class="col"></div>
+    <div class="col-sm-12 col-lg-5 wow fadeInUp d-flex align-items-center">
+        <div>
+        {% content 'microsoft365/c-intro' %}
+        </div>
+    </div>
+</div>";s:4:"code";N;}}

@@ -1,0 +1,9 @@
+1629816781a:1:{s:24:"microsoft365/callout.htm";a:5:{s:8:"fileName";s:24:"microsoft365/callout.htm";s:7:"content";s:173:"<div class="row d-flex justify-content-center">
+    <div class="col-sm-12 wow fadeInUp text-white text-center">
+         {% content 'microsoft365/c-cta' %}
+    </div>
+</div>";s:5:"mtime";i:1621004270;s:6:"markup";s:173:"<div class="row d-flex justify-content-center">
+    <div class="col-sm-12 wow fadeInUp text-white text-center">
+         {% content 'microsoft365/c-cta' %}
+    </div>
+</div>";s:4:"code";N;}}
