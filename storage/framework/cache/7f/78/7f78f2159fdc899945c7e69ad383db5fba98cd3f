@@ -1,0 +1,343 @@
+1637087220a:1:{s:31:"p-bitdefender/c-features.en.htm";a:6:{s:8:"fileName";s:31:"p-bitdefender/c-features.en.htm";s:7:"content";s:4469:"<div class="row my-5">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Antivirus and antimalware
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Signature database, heuristic detection, continuous process monitoring and integration into the GPN network.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Bidirectional firewall
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    The full two-way firewall with Intrusion Detection is essential to block intrusion and hacking attempts.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Search Advisor and web filtering
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Potentially malicious websites are flagged in search results and known malicious pages are blocked.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Data protection
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Avoid the loss of confidential data by configuring filters that will block the transmission of sensitive information.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Web control of users and applications
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Restrict or block employee access to applications or web pages.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Remote and local quarantine management
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Quarantine is kept locally but can be managed centrally from the administration console.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Device control and USB analysis
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Reduce the risk of infections and data loss with automatic USB scanning and device control.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Endpoint Security Relay
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Product and signature updates can be distributed more efficiently across the network via an endpoint that acts as a relay.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1586552719;s:6:"markup";s:4469:"<div class="row my-5">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Antivirus and antimalware
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Signature database, heuristic detection, continuous process monitoring and integration into the GPN network.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Bidirectional firewall
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    The full two-way firewall with Intrusion Detection is essential to block intrusion and hacking attempts.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Search Advisor and web filtering
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Potentially malicious websites are flagged in search results and known malicious pages are blocked.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Data protection
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Avoid the loss of confidential data by configuring filters that will block the transmission of sensitive information.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Web control of users and applications
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Restrict or block employee access to applications or web pages.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Remote and local quarantine management
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Quarantine is kept locally but can be managed centrally from the administration console.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Device control and USB analysis
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Reduce the risk of infections and data loss with automatic USB scanning and device control.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Endpoint Security Relay
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Product and signature updates can be distributed more efficiently across the network via an endpoint that acts as a relay.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:4469:"<div class="row my-5">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Antivirus and antimalware
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Signature database, heuristic detection, continuous process monitoring and integration into the GPN network.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Bidirectional firewall
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    The full two-way firewall with Intrusion Detection is essential to block intrusion and hacking attempts.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Search Advisor and web filtering
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Potentially malicious websites are flagged in search results and known malicious pages are blocked.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Data protection
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Avoid the loss of confidential data by configuring filters that will block the transmission of sensitive information.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Web control of users and applications
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Restrict or block employee access to applications or web pages.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Remote and local quarantine management
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Quarantine is kept locally but can be managed centrally from the administration console.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Device control and USB analysis
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Reduce the risk of infections and data loss with automatic USB scanning and device control.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3 my-3 wow fadeIn">
+        <div class="card text-center">
+            <div class="card-header secondary-color">
+                <h3 class="h3-responsive text-white my-0">
+                    Endpoint Security Relay
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>
+                    Product and signature updates can be distributed more efficiently across the network via an endpoint that acts as a relay.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>";}}

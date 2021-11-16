@@ -4,9 +4,17 @@ layout = "default"
 meta_title = "Office 365 Backup - Hébergement site web"
 meta_description = "Saviez-vous qu’une sauvegarde cloud Office 365 n’en fait pas partie? Éliminez tout risque de perte ou de corruption avec Office 365 Backup."
 is_hidden = 0
+child_of = "home"
+hide_crumb = 0
+remove_crumb_trail = 0
+crumb_disabled = 0
+
+[viewBag]
+localeMeta_title[en] = "Office 365 Backup - Web Hosting"
+localeMeta_description[en] = "Did you know that a secure Office 365 backup is not amongst them? Eliminate all data loss and corruption risks with a top-of-the-line Office 365 Backup."
 
 [portfolio produit_bitdefender]
-category = 7
+category = 5
 itemsPerPage = 4
 order = "asc"
 pageNumber = "{{ :page }}"
@@ -16,52 +24,45 @@ catListPage = 404
 itemPage = 404
 tagListPage = 404
 
-[viewBag]
-localeMeta_title[en] = "Office 365 Backup - Web Hosting"
-localeMeta_description[en] = "Did you know that a secure Office 365 backup is not amongst them? Eliminate all data loss and corruption risks with a top-of-the-line Office 365 Backup. "
+[breadcrumbs mainBreadcrumbs]
+main-ol-class = "breadcrumb"
+active-class = "active"
+disabled-class = "disabled"
 ==
-<section id="office" class="my-4">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    Office 365 Backup
+<!--Update section-->
+<div class="office365-backup">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        Office 365 Backup
+                    </strong>
                 </h1>
             </div>
         </div>
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section id="presentation" class="my-4">
+    <div class="container py-2 d-flex align-items-center">
         {% partial 'office365-backup/intro' %}
     </div>
 </section>
-<section id="founctions" class="primary-color my-4 py-5">
+<section id="features" class="primary-color py-5">
     <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2-responsive text-white wow fadeInUp">
-                    {{ 'Sauvegarde pour vos données cloud'|_ }}
-                </h2>
-            </div>
-        </div>
-        <div class="row">
-            {% content 'p-office365-backup/c-features' %}
-        </div>
+        {% partial 'office365-backup/callout' %}
     </div>
 </section>
-<section id="features" class="my-4 py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2-responsive text-secondary wow fadeInUp">
-                    {{ 'Les Avantages'|_ }}
-                </h2>
-            </div>
-        </div>
-        <div class="row">
-            {% partial 'office365-backup/avantage' %}
-        </div>
-    </div>
+<section id="avantages">
+    {% partial 'office365-backup/avantage' %}
 </section>
 <section id="price" class="primary-color py-5">
-    <div class="container py-5">
+    <div class="container">
         <div class="row">
             <div class="col text-center">
                 <h2 class="h2-responsive text-white wow fadeInUp">

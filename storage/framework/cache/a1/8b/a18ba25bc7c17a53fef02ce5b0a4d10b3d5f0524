@@ -1,0 +1,286 @@
+1637085252a:1:{s:21:"p-ssl/c-questions.htm";a:6:{s:8:"fileName";s:21:"p-ssl/c-questions.htm";s:7:"content";s:6031:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Qu'est-ce qu'un certificat SSL et pourquoi en ai-je besoin?
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            <p> Le Secure Sockets Layer (SSL) est une technologie qui permet de chiffrer la transmission de
+                données sur Internet pour empêcher qu’elles soient interceptées et décodées. Ceci est particulièrement
+                important lorsque des informations sensibles telles que les numéros de cartes de crédit ou des mots de
+                passe sont saisies sur votre site web, comme cela est souvent le cas pour les sites de commerce électronique
+                ou les sections protégées par mot de passe.
+            </p>
+            <p>
+            Les sites sécurisés par un certificat SSL affichent un cadenas de sécurité dans le navigateur Web et
+                peuvent afficher un sceau de sécurité. Si vous vendez des articles en ligne, si vous avez des sections
+                protégées par mot de passe sur votre site web, ou si vous hébergez des formulaires en ligne demandant
+                des informations personnelles, vous êtes fortement encouragés à obtenir un certificat SSL. Non seulement
+                la sécurité de votre compte sera améliorée, mais vous augmenterez le niveau de confiance de vos visiteurs,
+                ce qui se traduit souvent par des taux de conversion et des ventes plus élevés.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Quel certificat SSL devrais-je choisir?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+                EssentialSSL est un certificat abordable, qui offre un cryptage de 256-bits pour un seul domaine (par exemple www.votredomaine.com).
+            C’est le certificat le plus populaire et il est recommandé pour les sites qui génèrent jusqu’à C$50 000 de chiffre d’affaires annuellement.
+            </p>
+            <p>
+            Le WildCard SSL fournit le même cryptage de 256-bits sur un nombre illimité de sous-domaines. C’est une bonne solution
+            pour les sites multilingues, les boutiques multidevises, ou tout autre compte utilisant plusieurs sous-domaines.
+            </p>
+            <p>
+            Le certificat SSL de validation étendue (EV) est le certificat le plus avancé et le seul à offrir la technologie
+            de la barre verte, qui change la couleur de la barre d’adresse de votre navigateur web sur les pages sécurisées,
+            donnant ainsi à vos visiteurs un niveau supplémentaire d’assurance. Le certificat EV comprend également un sceau dynamique,
+            qui affiche le nom et l’adresse de votre entreprise, ainsi que la période de validité du certificat. Si la confiance
+            des clients est cruciale pour votre site, les certificats EV vous sont recommandés.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Comment installer un certificat SSL?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+            Si votre compte est déjà hébergé chez Techno24.net, nos techniciens installeront votre certificat
+            sur votre compte gratuitement. Veuillez noter que tous les certificats SSL nécessitent une adresse IP dédiée
+            (qui peut être commandée en même temps que votre certificat pour un léger supplément annuel).
+            Selon le certificat que vous choisissez, vous pourrez être invités à fournir une preuve de votre identité
+            ou de l’identité de votre entreprise. Ces demandes vous seront envoyées par e-mail après votre commande.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingFour">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                Comment puis-je utiliser mon certificat SSL une fois installé?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+                Afin d’utiliser votre certificat SSL, il vous suffira de changer vos liens (ou URL) de « http » à « https ».
+                Toutes les pages https sont cryptées avec votre certificat SSL. Si vous utilisez un système de gestion de contenu
+                (tel que WordPress, ou tout logiciel e-commerce), il vous faudra paramétrer votre logiciel pour utiliser
+                le certificat SSL installé. Pour une assistance à ce niveau, veuillez simplement rentrer en
+                contact avec notre équipe de support.
+            </p>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1587753474;s:6:"markup";s:6031:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Qu'est-ce qu'un certificat SSL et pourquoi en ai-je besoin?
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            <p> Le Secure Sockets Layer (SSL) est une technologie qui permet de chiffrer la transmission de
+                données sur Internet pour empêcher qu’elles soient interceptées et décodées. Ceci est particulièrement
+                important lorsque des informations sensibles telles que les numéros de cartes de crédit ou des mots de
+                passe sont saisies sur votre site web, comme cela est souvent le cas pour les sites de commerce électronique
+                ou les sections protégées par mot de passe.
+            </p>
+            <p>
+            Les sites sécurisés par un certificat SSL affichent un cadenas de sécurité dans le navigateur Web et
+                peuvent afficher un sceau de sécurité. Si vous vendez des articles en ligne, si vous avez des sections
+                protégées par mot de passe sur votre site web, ou si vous hébergez des formulaires en ligne demandant
+                des informations personnelles, vous êtes fortement encouragés à obtenir un certificat SSL. Non seulement
+                la sécurité de votre compte sera améliorée, mais vous augmenterez le niveau de confiance de vos visiteurs,
+                ce qui se traduit souvent par des taux de conversion et des ventes plus élevés.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Quel certificat SSL devrais-je choisir?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+                EssentialSSL est un certificat abordable, qui offre un cryptage de 256-bits pour un seul domaine (par exemple www.votredomaine.com).
+            C’est le certificat le plus populaire et il est recommandé pour les sites qui génèrent jusqu’à C$50 000 de chiffre d’affaires annuellement.
+            </p>
+            <p>
+            Le WildCard SSL fournit le même cryptage de 256-bits sur un nombre illimité de sous-domaines. C’est une bonne solution
+            pour les sites multilingues, les boutiques multidevises, ou tout autre compte utilisant plusieurs sous-domaines.
+            </p>
+            <p>
+            Le certificat SSL de validation étendue (EV) est le certificat le plus avancé et le seul à offrir la technologie
+            de la barre verte, qui change la couleur de la barre d’adresse de votre navigateur web sur les pages sécurisées,
+            donnant ainsi à vos visiteurs un niveau supplémentaire d’assurance. Le certificat EV comprend également un sceau dynamique,
+            qui affiche le nom et l’adresse de votre entreprise, ainsi que la période de validité du certificat. Si la confiance
+            des clients est cruciale pour votre site, les certificats EV vous sont recommandés.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Comment installer un certificat SSL?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+            Si votre compte est déjà hébergé chez Techno24.net, nos techniciens installeront votre certificat
+            sur votre compte gratuitement. Veuillez noter que tous les certificats SSL nécessitent une adresse IP dédiée
+            (qui peut être commandée en même temps que votre certificat pour un léger supplément annuel).
+            Selon le certificat que vous choisissez, vous pourrez être invités à fournir une preuve de votre identité
+            ou de l’identité de votre entreprise. Ces demandes vous seront envoyées par e-mail après votre commande.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingFour">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                Comment puis-je utiliser mon certificat SSL une fois installé?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+                Afin d’utiliser votre certificat SSL, il vous suffira de changer vos liens (ou URL) de « http » à « https ».
+                Toutes les pages https sont cryptées avec votre certificat SSL. Si vous utilisez un système de gestion de contenu
+                (tel que WordPress, ou tout logiciel e-commerce), il vous faudra paramétrer votre logiciel pour utiliser
+                le certificat SSL installé. Pour une assistance à ce niveau, veuillez simplement rentrer en
+                contact avec notre équipe de support.
+            </p>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:6031:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Qu'est-ce qu'un certificat SSL et pourquoi en ai-je besoin?
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            <p> Le Secure Sockets Layer (SSL) est une technologie qui permet de chiffrer la transmission de
+                données sur Internet pour empêcher qu’elles soient interceptées et décodées. Ceci est particulièrement
+                important lorsque des informations sensibles telles que les numéros de cartes de crédit ou des mots de
+                passe sont saisies sur votre site web, comme cela est souvent le cas pour les sites de commerce électronique
+                ou les sections protégées par mot de passe.
+            </p>
+            <p>
+            Les sites sécurisés par un certificat SSL affichent un cadenas de sécurité dans le navigateur Web et
+                peuvent afficher un sceau de sécurité. Si vous vendez des articles en ligne, si vous avez des sections
+                protégées par mot de passe sur votre site web, ou si vous hébergez des formulaires en ligne demandant
+                des informations personnelles, vous êtes fortement encouragés à obtenir un certificat SSL. Non seulement
+                la sécurité de votre compte sera améliorée, mais vous augmenterez le niveau de confiance de vos visiteurs,
+                ce qui se traduit souvent par des taux de conversion et des ventes plus élevés.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Quel certificat SSL devrais-je choisir?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+                EssentialSSL est un certificat abordable, qui offre un cryptage de 256-bits pour un seul domaine (par exemple www.votredomaine.com).
+            C’est le certificat le plus populaire et il est recommandé pour les sites qui génèrent jusqu’à C$50 000 de chiffre d’affaires annuellement.
+            </p>
+            <p>
+            Le WildCard SSL fournit le même cryptage de 256-bits sur un nombre illimité de sous-domaines. C’est une bonne solution
+            pour les sites multilingues, les boutiques multidevises, ou tout autre compte utilisant plusieurs sous-domaines.
+            </p>
+            <p>
+            Le certificat SSL de validation étendue (EV) est le certificat le plus avancé et le seul à offrir la technologie
+            de la barre verte, qui change la couleur de la barre d’adresse de votre navigateur web sur les pages sécurisées,
+            donnant ainsi à vos visiteurs un niveau supplémentaire d’assurance. Le certificat EV comprend également un sceau dynamique,
+            qui affiche le nom et l’adresse de votre entreprise, ainsi que la période de validité du certificat. Si la confiance
+            des clients est cruciale pour votre site, les certificats EV vous sont recommandés.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Comment installer un certificat SSL?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+            Si votre compte est déjà hébergé chez Techno24.net, nos techniciens installeront votre certificat
+            sur votre compte gratuitement. Veuillez noter que tous les certificats SSL nécessitent une adresse IP dédiée
+            (qui peut être commandée en même temps que votre certificat pour un léger supplément annuel).
+            Selon le certificat que vous choisissez, vous pourrez être invités à fournir une preuve de votre identité
+            ou de l’identité de votre entreprise. Ces demandes vous seront envoyées par e-mail après votre commande.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingFour">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                Comment puis-je utiliser mon certificat SSL une fois installé?
+            </a>
+        </h3>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            <p>
+                Afin d’utiliser votre certificat SSL, il vous suffira de changer vos liens (ou URL) de « http » à « https ».
+                Toutes les pages https sont cryptées avec votre certificat SSL. Si vous utilisez un système de gestion de contenu
+                (tel que WordPress, ou tout logiciel e-commerce), il vous faudra paramétrer votre logiciel pour utiliser
+                le certificat SSL installé. Pour une assistance à ce niveau, veuillez simplement rentrer en
+                contact avec notre équipe de support.
+            </p>
+        </div>
+    </div>
+</div>";}}

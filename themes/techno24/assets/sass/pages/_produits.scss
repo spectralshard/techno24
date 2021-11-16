@@ -50,3 +50,17 @@
   min-height: 350px;
   background: url("../images/ms365/windows-cover.jpg") no-repeat scroll center center / cover transparent;
 }
+
+.office365-backup{
+  background: url("../images/ms-backup/bg-header-produit-ms365-backup.jpg") no-repeat center center;
+  background-size: cover;
+  min-height: 545px;
+  width: 100%;
+  position: relative;
+}
+
+.cover-office365-backup{
+  position: relative;
+  min-height: 350px;
+  background: url("../images/ms-backup/office365-backup-extra.jpg") no-repeat scroll center center / cover transparent;
+}
