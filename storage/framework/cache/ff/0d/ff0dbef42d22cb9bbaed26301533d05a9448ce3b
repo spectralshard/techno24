@@ -1,4 +1,4 @@
-1637087220a:1:{s:31:"produit_bitdefender/default.htm";a:5:{s:8:"fileName";s:31:"produit_bitdefender/default.htm";s:7:"content";s:1238:"{% for item in __SELF__.portfolio %}
+1637946646a:1:{s:31:"produit_bitdefender/default.htm";a:5:{s:8:"fileName";s:31:"produit_bitdefender/default.htm";s:7:"content";s:1238:"{% for item in __SELF__.portfolio %}
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 my-3 wow fadeIn">
     <div class="card text-center">
         <div class="card-header secondary-color">

@@ -1,39 +1,66 @@
 <h3 class="text-primary h3-responsive">
-    Protection automatique pour les courriels envoyés à un domaine et depuis un domaine
+    Mécanismes d’analyse précis et filtres fiables
 </h3>
 <p>
-    Les filtres de Zerospam se déclenchent dès la connexion SMTP et feront un premier tri avant même de voir l’objet ou
-    le contenu du courriel.  Ils examinent ensuite les courriels en profondeur et analysent les pièces-jointes.
-    La technologie Zerospam est créée contre l’hameçonnage et leurs filtres sont mis à jour quotidiennement pour assurer votre sécurité.
-    Malgré la complexité de cette technologie de filtrage, la configuration et l’utilisation restent simplissimes.
+    La plupart des courriels malveillants sont bloqués dès les premiers niveaux de filtrage. Les autres passent par
+    une analyse plus profonde et l’application de filtres plus fins. L’accès à la quarantaine permettra une qualification
+    finale pour les courriels dont la classification n’est pas certaine.
 </p>
 <h3 class="text-primary h3-responsive">
-    ZeroPrefilter
+    Filtre d’hameçonnage
 </h3>
 <p>
-    Analyse du comportement de l’expéditeur pendant la transaction SMTP.
+    Le suivi des liens et d’autres mécanismes protègent efficacement contre les courriels d’hameçonnage. Les commandes
+    de script malveillant rechargeables, entre autres, sont détectées.
 </p>
 <h3 class="text-primary h3-responsive">
-    ZeroScan
+    Filtre Infolettres
 </h3>
 <p>
-    Inspection des liens et filtrage du contenu – volets heuristiques et IA, vérification des listes noires en temps réel.
+    Les infolettres non classées comme spam et autres courriels d’information qui interrompent inutilement
+    le flux de travail sont filtrés et stockés pour une récupération ultérieure. Ils sont répertoriés dans le rapport de
+    quarantaine individuel et peuvent être remis et autoriser répertoriés par un clic de souris si nécessaire.
 </p>
 <h3 class="text-primary h3-responsive">
-    ZeroMalware
+    Suivi des liens
 </h3>
 <p>
-    Antivirus (détection des menaces du jour zéro et virus connus) et repérage des indicateurs d’hameçonnage.
+    Les courriels entrants et sortants sont automatiquement analysés contre les URL malveillantes.
 </p>
 <h3 class="text-primary h3-responsive">
-    ZeroPhishing
+    Mise à jour automatique des signatures de virus
 </h3>
 <p>
-    Filtrage de contenu par modèle heuristique et authentification courriel (DKIM/DMARC).
+    Les filtres anti-logiciels malveillants sont constamment mis à jour. Hornetsecurity utilise entre autres ses propres
+    scanners, qui sont spécialisés dans les logiciels malveillants qui se propagent via courriels.
 </p>
 <h3 class="text-primary h3-responsive">
-    ZeroPhishing Advanced
+    Filtrage sortant
 </h3>
 <p>
-    Module anti-harponnage et analyse lexicographique.
+    Les courriels sortants sont vérifiés pour le spam et les virus afin d’empêcher le client d’envoyer ou de transférer
+    involontairement des logiciels malveillants et des courriels de spam.
+</p>
+<h3 class="text-primary h3-responsive">
+    Gestion des courriels non livrables
+</h3>
+<p>
+    Seuls les retours à l’expéditeur authentiques sont livrés au destinataire dans le trafic de courrier entrant;
+    les rebonds en réponse au spam avec de fausses adresses d’expéditeur sont filtrés de manière fiable.
+</p>
+<h3 class="text-primary h3-responsive">
+    Filtre de contenu pour les pièces jointes
+</h3>
+<p>
+    Les pièces jointes indésirables peuvent être rejetées ou mises en quarantaine.
+</p>
+<h3 class="text-primary h3-responsive">
+    Détection dynamique des attaques de virus
+</h3>
+<p>
+    Les virus nouveaux ou précédemment inconnus sont arrêtés par le système d’alerte précoce. Hornetsecurity analyse en
+    permanence les courriels entrants sur les comptes dits « honeypot » (adresses courriel dont le seul but est de
+    recevoir du spam) pour les pièces jointes, les liens, les expéditeurs ou les contenus inhabituels. La dérivation
+    des signatures à partir de celui-ci est effectué dans le temps de réaction le plus court possible (habituellement
+    moins de 5 minutes)
 </p>

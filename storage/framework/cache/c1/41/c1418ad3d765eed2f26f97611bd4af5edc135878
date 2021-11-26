@@ -1,4 +1,4 @@
-1637087215a:1:{s:10:"navbar.htm";a:6:{s:8:"fileName";s:10:"navbar.htm";s:7:"content";s:3755:"description = "Navigation bar"
+1637946646a:1:{s:10:"navbar.htm";a:6:{s:8:"fileName";s:10:"navbar.htm";s:7:"content";s:3766:"description = "Navigation bar"
 ==
 <nav id="navbar" class="navbar bg-white navbar-expand-lg">
 	<div class="container">
@@ -21,7 +21,7 @@
 					<strong>{{'PRODUITS'|_}}</strong>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-					<a class="dropdown-item" href="{{ 'zerospam'|page }}">ZéroSpam</a>
+					<a class="dropdown-item" href="{{ 'hornetsecurity'|page }}">Hornetsecurity</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}">Microsoft 365</a>
 					<a class="dropdown-item" href="{{ 'office365backup'|page }}">Office 365 Backup</a>
 					<a class="dropdown-item" href="{{ 'aide-distance'|page }}">{{'Aide à distance'|_}}</a>
@@ -83,7 +83,7 @@
 	</ul>
 	</div>
 	</div>
-</nav>";s:5:"mtime";i:1621002629;s:6:"markup";s:3721:"<nav id="navbar" class="navbar bg-white navbar-expand-lg">
+</nav>";s:5:"mtime";i:1637945051;s:6:"markup";s:3732:"<nav id="navbar" class="navbar bg-white navbar-expand-lg">
 	<div class="container">
 	<a class="navbar-brand" href="{{ 'home'|page }}">
 		<img src="{{'assets/images/techno24-logo.png'|theme}}" style="width:150px;" alt="{{ 'Logo de Techno24.net'|_ }}">
@@ -104,7 +104,7 @@
 					<strong>{{'PRODUITS'|_}}</strong>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-					<a class="dropdown-item" href="{{ 'zerospam'|page }}">ZéroSpam</a>
+					<a class="dropdown-item" href="{{ 'hornetsecurity'|page }}">Hornetsecurity</a>
 					<a class="dropdown-item" href="{{ 'office365'|page }}">Microsoft 365</a>
 					<a class="dropdown-item" href="{{ 'office365backup'|page }}">Office 365 Backup</a>
 					<a class="dropdown-item" href="{{ 'aide-distance'|page }}">{{'Aide à distance'|_}}</a>

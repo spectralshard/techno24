@@ -70,7 +70,7 @@ class __TwigTemplate_2807b7f7b369e6d5a4cf8ede8e17e8194db0fa69d72a7300eba8787974f
                  data-holder-rendered=\"true\"
                 alt=\"";
         // line 7
-        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Logo Zérospam."]);
+        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Logo Hornetsecurity."]);
         echo "\">
         </div>
     </div>

@@ -12,8 +12,8 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* /Users/alexandrefoisy/web sites/techno24/themes/techno24/pages/zerospam.htm */
-class __TwigTemplate_a2d695e65d94feaa5bd47235ad91ca0f33c466fb935a19608c842bc53df3499f extends \Twig\Template
+/* /Users/alexandrefoisy/web sites/techno24/themes/techno24/pages/hornetsecurity.htm */
+class __TwigTemplate_8aabb64cc3d5785d37ef415a7ff98d5d7be643838768913fbde4f3b5c5c3e15c extends \Twig\Template
 {
     private $source;
     private $macros = [];
@@ -139,7 +139,7 @@ class __TwigTemplate_a2d695e65d94feaa5bd47235ad91ca0f33c466fb935a19608c842bc53df
 
     public function getTemplateName()
     {
-        return "/Users/alexandrefoisy/web sites/techno24/themes/techno24/pages/zerospam.htm";
+        return "/Users/alexandrefoisy/web sites/techno24/themes/techno24/pages/hornetsecurity.htm";
     }
 
     public function isTraitable()
@@ -154,6 +154,6 @@ class __TwigTemplate_a2d695e65d94feaa5bd47235ad91ca0f33c466fb935a19608c842bc53df
 
     public function getSourceContext()
     {
-        return new Source("", "/Users/alexandrefoisy/web sites/techno24/themes/techno24/pages/zerospam.htm", "");
+        return new Source("", "/Users/alexandrefoisy/web sites/techno24/themes/techno24/pages/hornetsecurity.htm", "");
     }
 }
