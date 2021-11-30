@@ -29,13 +29,13 @@ class __TwigTemplate_50e1d1b33d5a45dbc28408e2689c79a39ca3b4f5b5c3c89e4090c51d48d
         $this->blocks = [
         ];
         $this->sandbox = $this->env->getExtension('\Twig\Extension\SandboxExtension');
-        $tags = array("partial" => 10, "content" => 23, "component" => 63);
-        $filters = array("_" => 6);
+        $tags = array("component" => 16, "partial" => 21);
+        $filters = array("_" => 7);
         $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
-                ['partial', 'content', 'component'],
+                ['component', 'partial'],
                 ['_'],
                 []
             );
@@ -59,97 +59,67 @@ class __TwigTemplate_50e1d1b33d5a45dbc28408e2689c79a39ca3b4f5b5c3c89e4090c51d48d
     {
         $macros = $this->macros;
         // line 1
-        echo "<section class=\"my-4\">
-    <div class=\"container\">
-        <div class=\"row\">
-            <div class=\"col text-center\">
-                <h1 class=\"h1-responsive text-secondary\">
-                    ";
-        // line 6
+        echo "<div class=\"bitdefender\">
+    <div class=\"container py-5\">
+        <div class=\"row py-5\">
+            <div class=\"col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5\">
+                <h1 class=\"h1-responsive white-text my-0 my-sm-4 my-lg-5\" style=\"text-shadow: 2px 2px #333333;\">
+                    <strong>
+                        ";
+        // line 7
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Bitdefender, solutions de sécurité pour votre entreprise"]);
         echo "
+                    </strong>
                 </h1>
             </div>
         </div>
+    </div>
+</div>
+<div class=\"grey lighten-3\">
+    <div class=\"container\">
         ";
-        // line 10
+        // line 16
+        $context['__cms_component_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->componentFunction("mainBreadcrumbs"        , $context['__cms_component_params']        );
+        unset($context['__cms_component_params']);
+        // line 17
+        echo "    </div>
+</div>
+<section class=\"my-4\">
+    <div class=\"container py-2 d-flex align-items-center\">
+        ";
+        // line 21
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("bitdefender/intro"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 11
+        // line 22
         echo "    </div>
 </section>
-<section id=\"founctions\" class=\"primary-color my-4 py-5\">
+<section id=\"features\" class=\"primary-color py-5\">
     <div class=\"container\">
-        <div class=\"row\">
-            <div class=\"col text-center\">
-                <h2 class=\"h2-responsive text-white wow fadeInUp\">
-                    ";
-        // line 18
-        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Listes des fonctionnalités"]);
-        echo "
-                </h2>
-            </div>
-        </div>
-        <div class=\"row\">
-            ";
-        // line 23
-        $context['__cms_content_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("p-bitdefender/c-features"        , $context['__cms_content_params']        );
-        unset($context['__cms_content_params']);
-        // line 24
-        echo "        </div>
-    </div>
-</section>
-<section id=\"features\" class=\"my-4 py-5\">
-    <div class=\"container\">
-        <div class=\"row\">
-            <div class=\"col text-center\">
-                <h2 class=\"h2-responsive text-secondary wow fadeInUp\">
-                    ";
-        // line 32
-        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Les Avantages"]);
-        echo "
-                </h2>
-            </div>
-        </div>
-        <div class=\"row\">
-            ";
-        // line 37
-        $context['__cms_partial_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("bitdefender/avantage"        , $context['__cms_partial_params']        , true        );
-        unset($context['__cms_partial_params']);
-        // line 38
-        echo "        </div>
-    </div>
-</section>
-<section id=\"about\" class=\"secondary-color mt-4 mb-0 py-5\">
-    <div class=\"container\">
-        <div class=\"row\">
-            <div class=\"col text-center\">
-                <h2 class=\"h2-responsive text-white wow fadeInUp\">
-                    ";
-        // line 46
-        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Une protection totale"]);
-        echo "
-                </h2>
-            </div>
-        </div>
         ";
-        // line 50
+        // line 26
         $context['__cms_partial_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("bitdefender/cta"        , $context['__cms_partial_params']        , true        );
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("bitdefender/callout"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 51
+        // line 27
         echo "    </div>
 </section>
-<section id=\"price\" class=\"my-4 py-5\">
+<section id=\"avantages\">
+    ";
+        // line 30
+        $context['__cms_partial_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("bitdefender/avantages"        , $context['__cms_partial_params']        , true        );
+        unset($context['__cms_partial_params']);
+        // line 31
+        echo "</section>
+<section id=\"price\" class=\"py-5 primary-color\">
     <div class=\"container\">
         <div class=\"row\">
             <div class=\"col text-center\">
-                <h2 class=\"h2-responsive text-secondary wow fadeInUp\">
+                <h2 class=\"h2-responsive text-white wow fadeInUp\">
                     ";
-        // line 58
+        // line 37
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Achat de licences"]);
         echo "
                 </h2>
@@ -157,11 +127,11 @@ class __TwigTemplate_50e1d1b33d5a45dbc28408e2689c79a39ca3b4f5b5c3c89e4090c51d48d
         </div>
         <div class=\"row d-flex justify-content-center\">
             ";
-        // line 63
+        // line 42
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->componentFunction("produit_bitdefender"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 64
+        // line 43
         echo "        </div>
     </div>
 </section>";
@@ -179,7 +149,7 @@ class __TwigTemplate_50e1d1b33d5a45dbc28408e2689c79a39ca3b4f5b5c3c89e4090c51d48d
 
     public function getDebugInfo()
     {
-        return array (  165 => 64,  161 => 63,  153 => 58,  144 => 51,  140 => 50,  133 => 46,  123 => 38,  119 => 37,  111 => 32,  101 => 24,  97 => 23,  89 => 18,  80 => 11,  76 => 10,  69 => 6,  62 => 1,);
+        return array (  135 => 43,  131 => 42,  123 => 37,  115 => 31,  111 => 30,  106 => 27,  102 => 26,  96 => 22,  92 => 21,  86 => 17,  82 => 16,  70 => 7,  62 => 1,);
     }
 
     public function getSourceContext()

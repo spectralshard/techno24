@@ -29,14 +29,14 @@ class __TwigTemplate_d984eaeef6a7595143dd0a93e0544909ed73a3a20e7cf82086c47eec4ca
         $this->blocks = [
         ];
         $this->sandbox = $this->env->getExtension('\Twig\Extension\SandboxExtension');
-        $tags = array("content" => 12);
-        $filters = array("theme" => 5);
+        $tags = array("content" => 5);
+        $filters = array();
         $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
                 ['content'],
-                ['theme'],
+                [],
                 []
             );
         } catch (SecurityError $e) {
@@ -59,27 +59,20 @@ class __TwigTemplate_d984eaeef6a7595143dd0a93e0544909ed73a3a20e7cf82086c47eec4ca
     {
         $macros = $this->macros;
         // line 1
-        echo "<div class=\"row my-5\">
-    <div class=\"col-xs-12 col-sm-12 col-lg-6 pb-3\">
-        <div class=\"secondary-shadow\">
-            <img class=\"img-fluid mx-auto d-block wow fadeInLeft\"
-                 src=\"";
+        echo "<div class=\"row-flush\">
+    <div class=\"row no-gutters\">
+        <div class=\"col-md-12 col-lg-6 py-5 d-flex align-items-center\">
+            <div class=\"container mx-sm-5\">
+                ";
         // line 5
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/bitdefender/avantage-img.jpg");
-        echo "\"
-                 data-holder-rendered=\"true\">
-        </div>
-    </div>
-    <div class=\"col\"></div>
-    <div class=\"col-sm-12 col-lg-5 wow fadeInUp\">
-        <div class=\"accordion border-secondary\" id=\"avantage\">
-            ";
-        // line 12
         $context['__cms_content_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("p-bitdefender/c-avantage"        , $context['__cms_content_params']        );
+        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("bitdefender/c-avantage"        , $context['__cms_content_params']        );
         unset($context['__cms_content_params']);
-        // line 13
-        echo "        </div>
+        // line 6
+        echo "            </div>
+        </div>
+        <div class=\"col-md-12 col-lg-6 cover-zerospam\">
+        </div>
     </div>
 </div>";
     }
@@ -96,7 +89,7 @@ class __TwigTemplate_d984eaeef6a7595143dd0a93e0544909ed73a3a20e7cf82086c47eec4ca
 
     public function getDebugInfo()
     {
-        return array (  82 => 13,  78 => 12,  68 => 5,  62 => 1,);
+        return array (  72 => 6,  68 => 5,  62 => 1,);
     }
 
     public function getSourceContext()

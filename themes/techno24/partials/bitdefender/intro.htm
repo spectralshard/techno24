@@ -4,11 +4,12 @@
             <img class="img-fluid mx-auto d-block wow fadeInLeft"
                  src="{{ 'assets/images/bitdefender/av-screenshot.jpg'|theme }}"
                  data-holder-rendered="true"
-                alt="{{ 'Capture écran de l\'antivirus Bitdefender.'|_ }}">
+                 alt="{{ 'Capture écran de l\'antivirus Bitdefender.'|_ }}">
         </div>
     </div>
     <div class="col"></div>
-    <div class="col-sm-12 col-lg-5 wow fadeInUp">
-        {% content 'p-bitdefender/c-intro' %}
+    <div class="col-sm-12 col-lg-5 wow fadeInUp d-flex align-items-center">
+        <div>{% content 'bitdefender/c-intro' %}
+        </div>
     </div>
 </div>

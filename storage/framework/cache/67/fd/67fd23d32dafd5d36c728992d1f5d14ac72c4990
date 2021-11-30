@@ -1,0 +1,181 @@
+1638296512a:1:{s:26:"bitdefender/c-avantage.htm";a:6:{s:8:"fileName";s:26:"bitdefender/c-avantage.htm";s:7:"content";s:3410:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Détecte et bloque l'ensemble des menaces sophistiquées et des malwares inconnus
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            Endpoint Security HD bloque les menaces avancées et les malwares inconnus, y compris les ransomwares,
+            qui peuvent contourner les solutions traditionnelles de protection des endpoints. Les attaques
+            avancées de type PowerShell, basées sur des scripts, les attaques sans fichier et les malwares sophistiqués
+            peuvent être détectés et bloqués avant leur exécution.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Détecte et bloque les malwares sans fichier
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            Les attaques par malware sans fichier exécutent du code malveillant
+            directement dans la mémoire. Comme aucun fichier n'est présent sur
+            le disque, la plupart des solutions antivirus conçues pour l'analyse de
+            fi chiers ne sont pas en mesure de détecter ces attaques. Bitdefender
+            tire profit de ses technologies Anti-exploit avancées, HyperDetect™ et
+            de Process Inspector pour détecter, bloquer et stopper les attaques
+            sans fichier.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Bloque les attaques basées sur des macros et des scripts
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            Lors de ce type d'attaque, une macro MS Office jugée fi able utilise des
+            outils d'administration Microsoft comme PowerShell pour exécuter
+            des scripts et télécharger du code malveillant. Comme il s'agit
+            d'outils "fiables" de Microsoft, la plupart des produits de sécurité pour
+            endpoints, y compris ceux dits de nouvelle génération, n'examinent
+            pas les scripts, tels que Powershell, WMI, les interpréteurs Javascript,
+            etc. Bitdefender intègre des techniques d'analyse des lignes de
+            commande pour intercepter et sécuriser les scripts, avertir les
+            administrateurs et empêcher l'exécution des scripts contenant des
+            commandes malveillantes.
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1586552719;s:6:"markup";s:3410:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Détecte et bloque l'ensemble des menaces sophistiquées et des malwares inconnus
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            Endpoint Security HD bloque les menaces avancées et les malwares inconnus, y compris les ransomwares,
+            qui peuvent contourner les solutions traditionnelles de protection des endpoints. Les attaques
+            avancées de type PowerShell, basées sur des scripts, les attaques sans fichier et les malwares sophistiqués
+            peuvent être détectés et bloqués avant leur exécution.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Détecte et bloque les malwares sans fichier
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            Les attaques par malware sans fichier exécutent du code malveillant
+            directement dans la mémoire. Comme aucun fichier n'est présent sur
+            le disque, la plupart des solutions antivirus conçues pour l'analyse de
+            fi chiers ne sont pas en mesure de détecter ces attaques. Bitdefender
+            tire profit de ses technologies Anti-exploit avancées, HyperDetect™ et
+            de Process Inspector pour détecter, bloquer et stopper les attaques
+            sans fichier.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Bloque les attaques basées sur des macros et des scripts
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            Lors de ce type d'attaque, une macro MS Office jugée fi able utilise des
+            outils d'administration Microsoft comme PowerShell pour exécuter
+            des scripts et télécharger du code malveillant. Comme il s'agit
+            d'outils "fiables" de Microsoft, la plupart des produits de sécurité pour
+            endpoints, y compris ceux dits de nouvelle génération, n'examinent
+            pas les scripts, tels que Powershell, WMI, les interpréteurs Javascript,
+            etc. Bitdefender intègre des techniques d'analyse des lignes de
+            commande pour intercepter et sécuriser les scripts, avertir les
+            administrateurs et empêcher l'exécution des scripts contenant des
+            commandes malveillantes.
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:3410:"<div class="card">
+    <div class="card-header secondary-color" id="headingOne">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left mx-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Détecte et bloque l'ensemble des menaces sophistiquées et des malwares inconnus
+            </a>
+        </h3>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#avantage">
+        <div class="card-body">
+            Endpoint Security HD bloque les menaces avancées et les malwares inconnus, y compris les ransomwares,
+            qui peuvent contourner les solutions traditionnelles de protection des endpoints. Les attaques
+            avancées de type PowerShell, basées sur des scripts, les attaques sans fichier et les malwares sophistiqués
+            peuvent être détectés et bloqués avant leur exécution.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingTwo">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Détecte et bloque les malwares sans fichier
+            </a>
+        </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#avantage">
+        <div class="card-body">
+            Les attaques par malware sans fichier exécutent du code malveillant
+            directement dans la mémoire. Comme aucun fichier n'est présent sur
+            le disque, la plupart des solutions antivirus conçues pour l'analyse de
+            fi chiers ne sont pas en mesure de détecter ces attaques. Bitdefender
+            tire profit de ses technologies Anti-exploit avancées, HyperDetect™ et
+            de Process Inspector pour détecter, bloquer et stopper les attaques
+            sans fichier.
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header secondary-color" id="headingThree">
+        <h3 class="my-0 h3-responsive text-white">
+            <a class="btn btn-link text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Bloque les attaques basées sur des macros et des scripts
+            </a>
+        </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#avantage">
+        <div class="card-body">
+            Lors de ce type d'attaque, une macro MS Office jugée fi able utilise des
+            outils d'administration Microsoft comme PowerShell pour exécuter
+            des scripts et télécharger du code malveillant. Comme il s'agit
+            d'outils "fiables" de Microsoft, la plupart des produits de sécurité pour
+            endpoints, y compris ceux dits de nouvelle génération, n'examinent
+            pas les scripts, tels que Powershell, WMI, les interpréteurs Javascript,
+            etc. Bitdefender intègre des techniques d'analyse des lignes de
+            commande pour intercepter et sécuriser les scripts, avertir les
+            administrateurs et empêcher l'exécution des scripts contenant des
+            commandes malveillantes.
+        </div>
+    </div>
+</div>";}}

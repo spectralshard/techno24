@@ -68,21 +68,22 @@ class __TwigTemplate_0a6446564ca69e3ccc6600d7cec3daaf5a02118ab068d9d4f11dd0a2fe0
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/bitdefender/av-screenshot.jpg");
         echo "\"
                  data-holder-rendered=\"true\"
-                alt=\"";
+                 alt=\"";
         // line 7
         echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["Capture écran de l'antivirus Bitdefender."]);
         echo "\">
         </div>
     </div>
     <div class=\"col\"></div>
-    <div class=\"col-sm-12 col-lg-5 wow fadeInUp\">
-        ";
+    <div class=\"col-sm-12 col-lg-5 wow fadeInUp d-flex align-items-center\">
+        <div>";
         // line 12
         $context['__cms_content_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("p-bitdefender/c-intro"        , $context['__cms_content_params']        );
+        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("bitdefender/c-intro"        , $context['__cms_content_params']        );
         unset($context['__cms_content_params']);
         // line 13
-        echo "    </div>
+        echo "        </div>
+    </div>
 </div>";
     }
 
