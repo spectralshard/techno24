@@ -4,11 +4,12 @@
             <img class="img-fluid mx-auto d-block wow fadeInLeft"
                  src="{{ 'assets/images/ssl/ssl-images-1200x.jpg'|theme }}"
                  data-holder-rendered="true"
-                alt="SSL">
+                 alt="{{ 'SSL'|_ }}">
         </div>
     </div>
     <div class="col"></div>
-    <div class="col-sm-12 col-lg-5 wow fadeInUp">
-        {% content 'p-ssl/c-intro' %}
+    <div class="col-sm-12 col-lg-5 wow fadeInUp d-flex align-items-center">
+        <div>{% content 'ssl/c-intro' %}
+        </div>
     </div>
 </div>

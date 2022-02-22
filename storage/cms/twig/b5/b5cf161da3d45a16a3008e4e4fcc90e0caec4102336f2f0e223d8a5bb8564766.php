@@ -65,7 +65,7 @@ class __TwigTemplate_636d020917a605d21c85a4dde35dbdc4924e649b5f14357e9cff26b0e8e
             <img class=\"img-fluid mx-auto d-block wow fadeInLeft\"
                  src=\"";
         // line 5
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/bitdefender/avantage-img.jpg");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/ssl/ssl-question-reponse.jpg");
         echo "\"
                  data-holder-rendered=\"true\">
         </div>
@@ -75,7 +75,7 @@ class __TwigTemplate_636d020917a605d21c85a4dde35dbdc4924e649b5f14357e9cff26b0e8e
             ";
         // line 11
         $context['__cms_content_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("p-ssl/c-questions"        , $context['__cms_content_params']        );
+        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("ssl/c-questions"        , $context['__cms_content_params']        );
         unset($context['__cms_content_params']);
         // line 12
         echo "        </div>

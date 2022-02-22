@@ -1,11 +1,11 @@
-1638298928a:1:{s:23:"bitdefender/callout.htm";a:5:{s:8:"fileName";s:23:"bitdefender/callout.htm";s:7:"content";s:297:"<div class="row d-flex justify-content-center">
+1645545388a:1:{s:23:"bitdefender/callout.htm";a:5:{s:8:"fileName";s:23:"bitdefender/callout.htm";s:7:"content";s:297:"<div class="row d-flex justify-content-center">
     <div class="col-sm-12 col-lg-6 col-xl-5 wow fadeInUp">
         {% content 'bitdefender/c-feature-left' %}
     </div>
     <div class="col-sm-12 col-lg-6 col-xl-5 wow fadeInUp">
         {% content 'bitdefender/c-feature-right' %}
     </div>
-</div>";s:5:"mtime";i:1638295809;s:6:"markup";s:297:"<div class="row d-flex justify-content-center">
+</div>";s:5:"mtime";i:1645544535;s:6:"markup";s:297:"<div class="row d-flex justify-content-center">
     <div class="col-sm-12 col-lg-6 col-xl-5 wow fadeInUp">
         {% content 'bitdefender/c-feature-left' %}
     </div>

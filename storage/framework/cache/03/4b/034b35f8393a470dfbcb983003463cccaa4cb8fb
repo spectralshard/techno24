@@ -1,4 +1,4 @@
-1638298928a:1:{s:7:"ssl.htm";a:13:{s:8:"fileName";s:7:"ssl.htm";s:7:"content";s:2605:"title = "Protégez votre site Web avec un certificat SSL"
+1645546807a:1:{s:7:"ssl.htm";a:14:{s:8:"fileName";s:7:"ssl.htm";s:7:"content";s:2909:"title = "Protégez votre site Web avec un certificat SSL"
 url = "/ssl"
 layout = "default"
 meta_title = "Protégez votre site Web avec un certificat SSL"
@@ -9,6 +9,11 @@ is_hidden = 0
 localeTitle[en] = "Protect your website with an SSL certificate"
 localeMeta_title[en] = "Protect your website with an SSL certificate"
 localeMeta_description[en] = "An SSL certificate protects you by encrypting the data between your visitors and your website."
+
+[breadcrumbs mainBreadcrumbs]
+main-ol-class = "breadcrumb"
+active-class = "active"
+disabled-class = "disabled"
 
 [portfolio produit_serviceweb]
 category = 6
@@ -25,19 +30,39 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
 }
 ?>
 ==
-<section class="my-4">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+
+<div class="ssl">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+                    </strong>
                 </h1>
             </div>
         </div>
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section class="my-4">
+    <div class="container py-2 d-flex align-items-center">
         {% partial 'ssl/intro' %}
     </div>
 </section>
-<section id="pricing" class="primary-color py-5">
+<section id="features" class="primary-color py-5">
+    <div class="container">
+        {% partial 'ssl/callout' %}
+    </div>
+</section>
+<section id="avantages">
+    {% partial 'ssl/avantages' %}
+</section>
+<section id="price" class="py-5 primary-color">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -46,7 +71,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h2>
             </div>
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             {% component 'produit_serviceweb' %}
         </div>
         <div class="row mt-3">
@@ -56,18 +81,6 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </p>
             </div>
         </div>
-    </div>
-</section>
-<section id="features" class="secondary-color py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2-responsive text-white wow fadeInUp">
-                    {{ 'La sécurité du SSL, abordable et accessible à tous'|_ }}
-                </h2>
-            </div>
-        </div>
-            {% partial 'ssl/avantage' %}
     </div>
 </section>
 <section id="about" class="mt-4 mb-0 py-5">
@@ -81,19 +94,38 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
         </div>
         {% partial 'ssl/questions' %}
     </div>
-</section>";s:5:"mtime";i:1608101585;s:6:"markup";s:1846:"<section class="my-4">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+</section>";s:5:"mtime";i:1645546206;s:6:"markup";s:2037:"<div class="ssl">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+                    </strong>
                 </h1>
             </div>
         </div>
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section class="my-4">
+    <div class="container py-2 d-flex align-items-center">
         {% partial 'ssl/intro' %}
     </div>
 </section>
-<section id="pricing" class="primary-color py-5">
+<section id="features" class="primary-color py-5">
+    <div class="container">
+        {% partial 'ssl/callout' %}
+    </div>
+</section>
+<section id="avantages">
+    {% partial 'ssl/avantages' %}
+</section>
+<section id="price" class="py-5 primary-color">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -102,7 +134,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h2>
             </div>
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             {% component 'produit_serviceweb' %}
         </div>
         <div class="row mt-3">
@@ -112,18 +144,6 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </p>
             </div>
         </div>
-    </div>
-</section>
-<section id="features" class="secondary-color py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2-responsive text-white wow fadeInUp">
-                    {{ 'La sécurité du SSL, abordable et accessible à tous'|_ }}
-                </h2>
-            </div>
-        </div>
-            {% partial 'ssl/avantage' %}
     </div>
 </section>
 <section id="about" class="mt-4 mb-0 py-5">
@@ -140,4 +160,4 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
 </section>";s:4:"code";s:107:"function onEnd()
 {
 $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.jpg');
-}";s:5:"title";s:47:"Protégez votre site Web avec un certificat SSL";s:3:"url";s:4:"/ssl";s:6:"layout";s:7:"default";s:10:"meta_title";s:47:"Protégez votre site Web avec un certificat SSL";s:16:"meta_description";s:0:"";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:44:"Protect your website with an SSL certificate";}s:16:"localeMeta_title";a:1:{s:2:"en";s:44:"Protect your website with an SSL certificate";}s:22:"localeMeta_description";a:1:{s:2:"en";s:94:"An SSL certificate protects you by encrypting the data between your visitors and your website.";}}s:28:"portfolio produit_serviceweb";a:6:{s:8:"category";s:1:"6";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";}}}
+}";s:5:"title";s:47:"Protégez votre site Web avec un certificat SSL";s:3:"url";s:4:"/ssl";s:6:"layout";s:7:"default";s:10:"meta_title";s:47:"Protégez votre site Web avec un certificat SSL";s:16:"meta_description";s:0:"";s:9:"is_hidden";s:1:"0";s:7:"viewBag";a:3:{s:11:"localeTitle";a:1:{s:2:"en";s:44:"Protect your website with an SSL certificate";}s:16:"localeMeta_title";a:1:{s:2:"en";s:44:"Protect your website with an SSL certificate";}s:22:"localeMeta_description";a:1:{s:2:"en";s:94:"An SSL certificate protects you by encrypting the data between your visitors and your website.";}}s:27:"breadcrumbs mainBreadcrumbs";a:3:{s:13:"main-ol-class";s:10:"breadcrumb";s:12:"active-class";s:6:"active";s:14:"disabled-class";s:8:"disabled";}s:28:"portfolio produit_serviceweb";a:6:{s:8:"category";s:1:"6";s:12:"itemsPerPage";s:1:"4";s:5:"order";s:3:"asc";s:10:"pageNumber";s:11:"{{ :page }}";s:11:"selectedTag";s:19:"{{ :selected_tag }}";s:11:"selectedCat";s:19:"{{ :selected_cat }}";}}}

@@ -10,6 +10,11 @@ localeTitle[en] = "Protect your website with an SSL certificate"
 localeMeta_title[en] = "Protect your website with an SSL certificate"
 localeMeta_description[en] = "An SSL certificate protects you by encrypting the data between your visitors and your website."
 
+[breadcrumbs mainBreadcrumbs]
+main-ol-class = "breadcrumb"
+active-class = "active"
+disabled-class = "disabled"
+
 [portfolio produit_serviceweb]
 category = 6
 itemsPerPage = 4
@@ -25,19 +30,39 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
 }
 ?>
 ==
-<section class="my-4">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h1 class="h1-responsive text-secondary">
-                    {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+
+<div class="ssl">
+    <div class="container py-5">
+        <div class="row py-5">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-xs-12 my-2 my-sm-5">
+                <h1 class="h1-responsive white-text my-0 my-sm-4 my-lg-5" style="text-shadow: 2px 2px #333333;">
+                    <strong>
+                        {{ 'Protégez votre site Web avec un certificat SSL'|_ }}
+                    </strong>
                 </h1>
             </div>
         </div>
+    </div>
+</div>
+<div class="grey lighten-3">
+    <div class="container">
+        {% component 'mainBreadcrumbs' %}
+    </div>
+</div>
+<section class="my-4">
+    <div class="container py-2 d-flex align-items-center">
         {% partial 'ssl/intro' %}
     </div>
 </section>
-<section id="pricing" class="primary-color py-5">
+<section id="features" class="primary-color py-5">
+    <div class="container">
+        {% partial 'ssl/callout' %}
+    </div>
+</section>
+<section id="avantages">
+    {% partial 'ssl/avantages' %}
+</section>
+<section id="price" class="py-5 primary-color">
     <div class="container">
         <div class="row">
             <div class="col text-center">
@@ -46,7 +71,7 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </h2>
             </div>
         </div>
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             {% component 'produit_serviceweb' %}
         </div>
         <div class="row mt-3">
@@ -56,18 +81,6 @@ $this['image_url'] = asset('/themes/techno24/assets/images/ssl/ssl-images-1200x.
                 </p>
             </div>
         </div>
-    </div>
-</section>
-<section id="features" class="secondary-color py-5">
-    <div class="container">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2-responsive text-white wow fadeInUp">
-                    {{ 'La sécurité du SSL, abordable et accessible à tous'|_ }}
-                </h2>
-            </div>
-        </div>
-            {% partial 'ssl/avantage' %}
     </div>
 </section>
 <section id="about" class="mt-4 mb-0 py-5">

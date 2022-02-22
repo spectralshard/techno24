@@ -30,13 +30,13 @@ class __TwigTemplate_adf3f4caba67814aa08804dc3bac7532533a50cee5ac292c83c64bdb77b
         ];
         $this->sandbox = $this->env->getExtension('\Twig\Extension\SandboxExtension');
         $tags = array("content" => 12);
-        $filters = array("theme" => 5);
+        $filters = array("theme" => 5, "_" => 7);
         $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
                 ['content'],
-                ['theme'],
+                ['theme', '_'],
                 []
             );
         } catch (SecurityError $e) {
@@ -68,18 +68,22 @@ class __TwigTemplate_adf3f4caba67814aa08804dc3bac7532533a50cee5ac292c83c64bdb77b
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/ssl/ssl-images-1200x.jpg");
         echo "\"
                  data-holder-rendered=\"true\"
-                alt=\"SSL\">
+                 alt=\"";
+        // line 7
+        echo call_user_func_array($this->env->getFilter('_')->getCallable(), ["SSL"]);
+        echo "\">
         </div>
     </div>
     <div class=\"col\"></div>
-    <div class=\"col-sm-12 col-lg-5 wow fadeInUp\">
-        ";
+    <div class=\"col-sm-12 col-lg-5 wow fadeInUp d-flex align-items-center\">
+        <div>";
         // line 12
         $context['__cms_content_params'] = [];
-        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("p-ssl/c-intro"        , $context['__cms_content_params']        );
+        echo $this->env->getExtension('Cms\Twig\Extension')->contentFunction("ssl/c-intro"        , $context['__cms_content_params']        );
         unset($context['__cms_content_params']);
         // line 13
-        echo "    </div>
+        echo "        </div>
+    </div>
 </div>";
     }
 
@@ -95,7 +99,7 @@ class __TwigTemplate_adf3f4caba67814aa08804dc3bac7532533a50cee5ac292c83c64bdb77b
 
     public function getDebugInfo()
     {
-        return array (  82 => 13,  78 => 12,  68 => 5,  62 => 1,);
+        return array (  85 => 13,  81 => 12,  73 => 7,  68 => 5,  62 => 1,);
     }
 
     public function getSourceContext()
