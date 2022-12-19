@@ -37,3 +37,10 @@ function myFunction() {
         navbar.classList.remove("fixed-top");
     }
 }
+$(window).on('load', function() {
+$('#annonce').modal('show');
+});
+$('#annonce').modal({
+  backdrop: 'static',
+  keyboard: false
+})

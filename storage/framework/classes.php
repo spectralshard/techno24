@@ -116,4 +116,5 @@
   'Zainab\\SimpleContact\\Models\\Settings' => 'plugins/zainab/simplecontact/models/Settings.php',
   'mey\\breadcrumbs\\Plugin' => 'plugins/mey/breadcrumbs/Plugin.php',
   'Mey\\Breadcrumbs\\Components\\Breadcrumbs' => 'plugins/mey/breadcrumbs/components/Breadcrumbs.php',
+  'backend\\Controllers\\media' => 'modules/backend/controllers/media.php',
 );

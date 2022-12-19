@@ -1,7 +1,8 @@
 <?php 
-use RainLab\Translate\Classes\Translator;
-class Cms60464ef9e7a2b519942462_d677fa5052a338b3f3bb0a8628e9a7e6Class extends Cms\Classes\LayoutCode
+use RainLab\Translate\Classes\Translator;class Cms63a0e10dcbc6b715184771_7cd1eebd69bc1655aa0355c6f5e4e724Class extends Cms\Classes\LayoutCode
 {
+
+
 public function onInit()
 {
     $translator = Translator::instance();

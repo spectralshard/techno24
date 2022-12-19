@@ -69,7 +69,16 @@ a:hover {
   color: #ff6d00;
   text-decoration: none!important;
 }
-
+.modal a {
+  outline: 0;
+  color: $black;
+  text-decoration: none!important;
+}
+.modal a:hover {
+  outline: 0;
+  color: #ff6d00;
+  text-decoration: none!important;
+}
 @include media-breakpoint-up(md) {
   .marketing-partial {
     height: 600px;

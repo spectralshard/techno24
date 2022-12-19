@@ -29,7 +29,7 @@ class __TwigTemplate_b832a91622fea23d170e5f803b0a417e81b94a0181fc09ab1f10ef474fc
         $this->blocks = [
         ];
         $this->sandbox = $this->env->getExtension('\Twig\Extension\SandboxExtension');
-        $tags = array("if" => 21, "styles" => 49, "partial" => 52, "page" => 58, "component" => 65, "flash" => 72, "framework" => 83, "scripts" => 84);
+        $tags = array("if" => 21, "styles" => 49, "partial" => 52, "page" => 59, "component" => 66, "flash" => 73, "framework" => 84, "scripts" => 85);
         $filters = array("escape" => 13, "page" => 18, "theme" => 26);
         $functions = array();
 
@@ -197,8 +197,13 @@ class __TwigTemplate_b832a91622fea23d170e5f803b0a417e81b94a0181fc09ab1f10ef474fc
 <main id=\"page\">
     ";
         // line 58
-        echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
+        $context['__cms_partial_params'] = [];
+        echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("modal"        , $context['__cms_partial_params']        , true        );
+        unset($context['__cms_partial_params']);
         // line 59
+        echo "    ";
+        echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
+        // line 60
         echo "</main>
 <footer>
     <section style=\"background-color:#DFE6EA;\">
@@ -206,42 +211,42 @@ class __TwigTemplate_b832a91622fea23d170e5f803b0a417e81b94a0181fc09ab1f10ef474fc
             <div class=\"row\">
                 <div class=\"col\">
                     ";
-        // line 65
+        // line 66
         $context['__cms_component_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->componentFunction("mypartner"        , $context['__cms_component_params']        );
         unset($context['__cms_component_params']);
-        // line 66
+        // line 67
         echo "                </div>
             </div>
         </div>
     </section>
     ";
-        // line 70
+        // line 71
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("footer"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 71
+        // line 72
         echo "</footer>
 ";
-        $_type = isset($context["type"]) ? $context["type"] : null;        $_message = isset($context["message"]) ? $context["message"] : null;        // line 72
+        $_type = isset($context["type"]) ? $context["type"] : null;        $_message = isset($context["message"]) ? $context["message"] : null;        // line 73
         foreach (Flash::getMessages() as $type => $messages) {
             foreach ($messages as $message) {
-                $context["type"] = $type;                $context["message"] = $message;                // line 73
+                $context["type"] = $type;                $context["message"] = $message;                // line 74
                 echo "<span id=\"flash\" data-type=\"";
-                echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(($context["type"] ?? null), 73, $this->source), "html", null, true);
+                echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(($context["type"] ?? null), 74, $this->source), "html", null, true);
                 echo "\" data-message=\"";
-                echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(($context["message"] ?? null), 73, $this->source), "html", null, true);
+                echo twig_escape_filter($this->env, $this->sandbox->ensureToStringAllowed(($context["message"] ?? null), 74, $this->source), "html", null, true);
                 echo "\"></span>
 ";
             }
         }
-        $context["type"] = $_type;        $context["message"] = $_message;        // line 75
+        $context["type"] = $_type;        $context["message"] = $_message;        // line 76
         echo "<script src=\"";
         echo $this->extensions['Cms\Twig\Extension']->themeFilter([0 => "assets/vendor/jquery/jquery-3.4.1.min.js", 1 => "assets/vendor/bootstrap/js/bootstrap.min.js", 2 => "assets/vendor/wow/dist/wow.min.js", 3 => "assets/js/techno24.js", 4 => "assets/vendor/popper/popper.min.js", 5 => "assets/vendor/tether/dist/js/tether.min.js"]);
-        // line 82
+        // line 83
         echo "\"></script>
 ";
-        // line 83
+        // line 84
         $_minify = System\Classes\CombineAssets::instance()->useMinify;
         if ($_minify) {
             echo '<script src="' . Request::getBasePath() . '/modules/system/assets/js/framework.combined-min.js"></script>'.PHP_EOL;
@@ -252,10 +257,10 @@ class __TwigTemplate_b832a91622fea23d170e5f803b0a417e81b94a0181fc09ab1f10ef474fc
         }
         echo '<link rel="stylesheet" property="stylesheet" href="' . Request::getBasePath() .'/modules/system/assets/css/framework.extras'.($_minify ? '-min' : '').'.css">'.PHP_EOL;
         unset($_minify);
-        // line 84
+        // line 85
         echo $this->env->getExtension('Cms\Twig\Extension')->assetsFunction('js');
         echo $this->env->getExtension('Cms\Twig\Extension')->displayBlock('scripts');
-        // line 85
+        // line 86
         echo "</body>
 </html>";
     }
@@ -272,7 +277,7 @@ class __TwigTemplate_b832a91622fea23d170e5f803b0a417e81b94a0181fc09ab1f10ef474fc
 
     public function getDebugInfo()
     {
-        return array (  259 => 85,  256 => 84,  245 => 83,  242 => 82,  239 => 75,  230 => 73,  227 => 72,  224 => 71,  220 => 70,  214 => 66,  210 => 65,  202 => 59,  200 => 58,  196 => 56,  191 => 55,  187 => 54,  184 => 53,  180 => 52,  176 => 50,  173 => 49,  170 => 48,  168 => 46,  162 => 43,  158 => 42,  154 => 41,  148 => 38,  144 => 37,  137 => 33,  132 => 30,  127 => 28,  123 => 27,  118 => 26,  113 => 24,  109 => 23,  104 => 22,  102 => 21,  98 => 20,  94 => 19,  90 => 18,  84 => 15,  80 => 14,  76 => 13,  62 => 1,);
+        return array (  264 => 86,  261 => 85,  250 => 84,  247 => 83,  244 => 76,  235 => 74,  232 => 73,  229 => 72,  225 => 71,  219 => 67,  215 => 66,  207 => 60,  204 => 59,  200 => 58,  196 => 56,  191 => 55,  187 => 54,  184 => 53,  180 => 52,  176 => 50,  173 => 49,  170 => 48,  168 => 46,  162 => 43,  158 => 42,  154 => 41,  148 => 38,  144 => 37,  137 => 33,  132 => 30,  127 => 28,  123 => 27,  118 => 26,  113 => 24,  109 => 23,  104 => 22,  102 => 21,  98 => 20,  94 => 19,  90 => 18,  84 => 15,  80 => 14,  76 => 13,  62 => 1,);
     }
 
     public function getSourceContext()

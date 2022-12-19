@@ -1,4 +1,4 @@
-1645546764a:1:{s:11:"default.htm";a:8:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:4003:"description = "Default Layout"
+1671490893a:1:{s:11:"default.htm";a:8:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:4136:"description = "Default Layout"
 
 [localePicker]
 forceUrl = 1
@@ -76,6 +76,7 @@ $this['site_url'] = asset('');
     {% partial 'navbar' %}
 </header>
 <main id="page">
+    {% partial 'modal' %}
     {% page %}
 </main>
 <footer>
@@ -104,7 +105,7 @@ $this['site_url'] = asset('');
 {% framework extras %}
 {% scripts %}
 </body>
-</html>";s:5:"mtime";i:1608611870;s:6:"markup";s:3633:"<!DOCTYPE html>
+</html>";s:5:"mtime";i:1671487755;s:6:"markup";s:3745:"<!DOCTYPE html>
 <html>
 <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4576616-1"></script>
@@ -161,6 +162,7 @@ $this['site_url'] = asset('');
     {% partial 'navbar' %}
 </header>
 <main id="page">
+    {% partial 'modal' %}
     {% page %}
 </main>
 <footer>
@@ -189,11 +191,12 @@ $this['site_url'] = asset('');
 {% framework extras %}
 {% scripts %}
 </body>
-</html>";s:4:"code";s:216:"use RainLab\Translate\Classes\Translator;
+</html>";s:4:"code";s:226:"
+use RainLab\Translate\Classes\Translator;
 function onInit()
 {
     $translator = Translator::instance();
     $lang = $translator->getLocale();
 $this['lang'] = $translator->getLocale();
 $this['site_url'] = asset('');
-}";s:11:"description";s:14:"Default Layout";s:12:"localePicker";a:1:{s:8:"forceUrl";s:1:"1";}s:17:"partner mypartner";a:3:{s:15:"backgroundColor";s:7:"#DFE6EA";s:10:"includeCSS";s:1:"1";s:9:"includeJS";s:1:"1";}}}
+}";s:11:"description";s:14:"Default Layout";s:12:"localePicker";a:1:{s:8:"forceUrl";s:1:"1";}s:17:"partner mypartner";a:3:{s:15:"backgroundColor";s:7:"#DFE6EA";s:10:"includeCSS";s:1:"1";s:9:"includeJS";s:1:"1";}}}

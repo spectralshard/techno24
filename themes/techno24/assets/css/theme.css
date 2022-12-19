@@ -12813,6 +12813,18 @@ a:hover {
   text-decoration: none !important;
 }
 
+.modal a {
+  outline: 0;
+  color: #000;
+  text-decoration: none !important;
+}
+
+.modal a:hover {
+  outline: 0;
+  color: #ff6d00;
+  text-decoration: none !important;
+}
+
 @media (min-width: 768px) {
   .marketing-partial {
     height: 600px;
