@@ -12816,13 +12816,22 @@ a:hover {
 .modal a {
   outline: 0;
   color: #000;
-  text-decoration: none !important;
+  text-decoration: underline #000 1px !important;
 }
 
 .modal a:hover {
   outline: 0;
   color: #ff6d00;
-  text-decoration: none !important;
+  text-decoration: underline #ff6d00 1px !important;
+}
+
+.modal .fa-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 1.5em;
 }
 
 @media (min-width: 768px) {

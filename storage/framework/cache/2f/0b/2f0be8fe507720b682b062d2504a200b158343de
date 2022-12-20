@@ -1,4 +1,4 @@
-1671490893a:1:{s:11:"default.htm";a:8:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:4136:"description = "Default Layout"
+1671572811a:1:{s:11:"default.htm";a:8:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:4103:"description = "Default Layout"
 
 [localePicker]
 forceUrl = 1
@@ -70,7 +70,6 @@ $this['site_url'] = asset('');
     {% styles %}
 </head>
 <body>
-{% partial 'facebook-module' %}
 <header>
     {% partial 'header' %}
     {% partial 'navbar' %}
@@ -105,7 +104,7 @@ $this['site_url'] = asset('');
 {% framework extras %}
 {% scripts %}
 </body>
-</html>";s:5:"mtime";i:1671487755;s:6:"markup";s:3745:"<!DOCTYPE html>
+</html>";s:5:"mtime";i:1671491003;s:6:"markup";s:3712:"<!DOCTYPE html>
 <html>
 <head>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4576616-1"></script>
@@ -156,7 +155,6 @@ $this['site_url'] = asset('');
     {% styles %}
 </head>
 <body>
-{% partial 'facebook-module' %}
 <header>
     {% partial 'header' %}
     {% partial 'navbar' %}
